@@ -1,0 +1,761 @@
+team,points,date
+Blackburn,1,2002-08-17
+Sunderland,1,2002-08-17
+Charlton,0,2002-08-17
+Chelsea,3,2002-08-17
+Everton,1,2002-08-17
+Tottenham,1,2002-08-17
+Fulham,3,2002-08-17
+Bolton,0,2002-08-17
+Leeds,3,2002-08-17
+Man City,0,2002-08-17
+Man Utd,3,2002-08-17
+West Brom,0,2002-08-17
+Southampton,1,2002-08-17
+Middlesbrough,1,2002-08-17
+Arsenal,3,2002-08-18
+Birmingham,0,2002-08-18
+Aston Villa,0,2002-08-18
+Liverpool,3,2002-08-18
+Newcastle,3,2002-08-19
+West Ham,0,2002-08-19
+Chelsea,1,2002-08-23
+Man Utd,1,2002-08-23
+West Brom,0,2002-08-24
+Leeds,3,2002-08-24
+Birmingham,0,2002-08-24
+Blackburn,3,2002-08-24
+Bolton,0,2002-08-24
+Charlton,3,2002-08-24
+Liverpool,3,2002-08-24
+Southampton,0,2002-08-24
+Man City,3,2002-08-24
+Newcastle,0,2002-08-24
+Middlesbrough,1,2002-08-24
+Fulham,1,2002-08-24
+Sunderland,0,2002-08-24
+Everton,3,2002-08-24
+Tottenham,3,2002-08-24
+Aston Villa,0,2002-08-24
+West Ham,1,2002-08-24
+Arsenal,1,2002-08-24
+Arsenal,3,2002-08-27
+West Brom,0,2002-08-27
+Charlton,0,2002-08-27
+Tottenham,3,2002-08-27
+Aston Villa,3,2002-08-28
+Man City,0,2002-08-28
+Blackburn,1,2002-08-28
+Liverpool,1,2002-08-28
+Everton,1,2002-08-28
+Birmingham,1,2002-08-28
+Leeds,0,2002-08-28
+Sunderland,3,2002-08-28
+Southampton,1,2002-08-28
+Chelsea,1,2002-08-28
+Man City,3,2002-08-31
+Everton,0,2002-08-31
+Middlesbrough,3,2002-08-31
+Blackburn,0,2002-08-31
+Sunderland,1,2002-08-31
+Man Utd,1,2002-08-31
+Tottenham,3,2002-08-31
+Southampton,0,2002-08-31
+West Brom,3,2002-08-31
+Fulham,0,2002-08-31
+West Ham,0,2002-08-31
+Charlton,3,2002-08-31
+Birmingham,3,2002-08-31
+Leeds,0,2002-08-31
+Chelsea,1,2002-09-01
+Arsenal,1,2002-09-01
+Bolton,3,2002-09-01
+Aston Villa,0,2002-09-01
+Liverpool,1,2002-09-02
+Newcastle,1,2002-09-02
+Man Utd,3,2002-09-03
+Middlesbrough,0,2002-09-03
+Arsenal,3,2002-09-10
+Man City,0,2002-09-10
+Middlesbrough,3,2002-09-10
+Sunderland,0,2002-09-10
+Blackburn,0,2002-09-11
+Chelsea,3,2002-09-11
+Liverpool,1,2002-09-11
+Birmingham,1,2002-09-11
+Man Utd,0,2002-09-11
+Bolton,3,2002-09-11
+Newcastle,0,2002-09-11
+Leeds,3,2002-09-11
+Aston Villa,3,2002-09-11
+Charlton,0,2002-09-11
+Fulham,3,2002-09-11
+Tottenham,0,2002-09-11
+Southampton,3,2002-09-11
+Everton,0,2002-09-11
+West Ham,0,2002-09-11
+West Brom,3,2002-09-11
+Bolton,0,2002-09-14
+Liverpool,3,2002-09-14
+Charlton,0,2002-09-14
+Arsenal,3,2002-09-14
+Chelsea,3,2002-09-14
+Newcastle,0,2002-09-14
+Everton,3,2002-09-14
+Middlesbrough,0,2002-09-14
+Sunderland,0,2002-09-14
+Fulham,3,2002-09-14
+West Brom,3,2002-09-14
+Southampton,0,2002-09-14
+Leeds,3,2002-09-14
+Man Utd,0,2002-09-14
+Tottenham,3,2002-09-15
+West Ham,0,2002-09-15
+Man City,1,2002-09-15
+Blackburn,1,2002-09-15
+Birmingham,3,2002-09-16
+Aston Villa,0,2002-09-16
+Arsenal,3,2002-09-21
+Bolton,0,2002-09-21
+Liverpool,3,2002-09-21
+West Brom,0,2002-09-21
+Man Utd,3,2002-09-21
+Tottenham,0,2002-09-21
+Middlesbrough,3,2002-09-21
+Birmingham,0,2002-09-21
+Southampton,1,2002-09-21
+Charlton,1,2002-09-21
+West Ham,1,2002-09-21
+Man City,1,2002-09-21
+Newcastle,3,2002-09-21
+Sunderland,0,2002-09-21
+Blackburn,3,2002-09-22
+Leeds,0,2002-09-22
+Aston Villa,3,2002-09-22
+Everton,0,2002-09-22
+Fulham,1,2002-09-23
+Chelsea,1,2002-09-23
+Birmingham,0,2002-09-28
+Newcastle,3,2002-09-28
+Bolton,1,2002-09-28
+Southampton,1,2002-09-28
+Charlton,0,2002-09-28
+Man Utd,3,2002-09-28
+Chelsea,0,2002-09-28
+West Ham,3,2002-09-28
+Everton,3,2002-09-28
+Fulham,0,2002-09-28
+Man City,0,2002-09-28
+Liverpool,3,2002-09-28
+Sunderland,3,2002-09-28
+Aston Villa,0,2002-09-28
+Tottenham,0,2002-09-28
+Middlesbrough,3,2002-09-28
+Leeds,0,2002-09-28
+Arsenal,3,2002-09-28
+West Brom,0,2002-09-30
+Blackburn,3,2002-09-30
+Middlesbrough,3,2002-10-05
+Bolton,0,2002-10-05
+Newcastle,3,2002-10-05
+West Brom,0,2002-10-05
+Southampton,3,2002-10-05
+Man City,0,2002-10-05
+West Ham,0,2002-10-05
+Birmingham,3,2002-10-05
+Liverpool,3,2002-10-06
+Chelsea,0,2002-10-06
+Aston Villa,1,2002-10-06
+Leeds,1,2002-10-06
+Blackburn,0,2002-10-06
+Tottenham,3,2002-10-06
+Arsenal,3,2002-10-06
+Sunderland,0,2002-10-06
+Fulham,3,2002-10-06
+Charlton,0,2002-10-06
+Man Utd,3,2002-10-07
+Everton,0,2002-10-07
+Blackburn,3,2002-10-19
+Newcastle,0,2002-10-19
+Everton,3,2002-10-19
+Arsenal,0,2002-10-19
+Fulham,1,2002-10-19
+Man Utd,1,2002-10-19
+Man City,0,2002-10-19
+Chelsea,3,2002-10-19
+Sunderland,0,2002-10-19
+West Ham,3,2002-10-19
+West Brom,1,2002-10-19
+Birmingham,1,2002-10-19
+Leeds,0,2002-10-19
+Liverpool,3,2002-10-19
+Charlton,3,2002-10-20
+Middlesbrough,0,2002-10-20
+Tottenham,3,2002-10-20
+Bolton,0,2002-10-20
+Aston Villa,0,2002-10-21
+Southampton,3,2002-10-21
+Fulham,0,2002-10-23
+West Ham,3,2002-10-23
+Arsenal,0,2002-10-26
+Blackburn,3,2002-10-26
+Birmingham,0,2002-10-26
+Man City,3,2002-10-26
+Chelsea,3,2002-10-26
+West Brom,0,2002-10-26
+Liverpool,3,2002-10-26
+Tottenham,0,2002-10-26
+Man Utd,1,2002-10-26
+Aston Villa,1,2002-10-26
+Middlesbrough,1,2002-10-26
+Leeds,1,2002-10-26
+Newcastle,3,2002-10-26
+Charlton,0,2002-10-26
+West Ham,0,2002-10-27
+Everton,3,2002-10-27
+Southampton,3,2002-10-27
+Fulham,0,2002-10-27
+Bolton,1,2002-10-28
+Sunderland,1,2002-10-28
+Birmingham,3,2002-11-02
+Bolton,0,2002-11-02
+Liverpool,3,2002-11-02
+West Ham,0,2002-11-02
+Man Utd,3,2002-11-02
+Southampton,0,2002-11-02
+West Brom,0,2002-11-02
+Man City,3,2002-11-02
+Charlton,1,2002-11-03
+Sunderland,1,2002-11-03
+Blackburn,1,2002-11-03
+Aston Villa,1,2002-11-03
+Leeds,0,2002-11-03
+Everton,3,2002-11-03
+Fulham,0,2002-11-03
+Arsenal,3,2002-11-03
+Tottenham,1,2002-11-03
+Chelsea,1,2002-11-03
+Newcastle,3,2002-11-04
+Middlesbrough,0,2002-11-04
+Arsenal,3,2002-11-09
+Newcastle,0,2002-11-09
+Aston Villa,3,2002-11-09
+Fulham,0,2002-11-09
+Bolton,1,2002-11-09
+West Brom,1,2002-11-09
+Chelsea,3,2002-11-09
+Birmingham,0,2002-11-09
+Everton,3,2002-11-09
+Charlton,0,2002-11-09
+Middlesbrough,3,2002-11-09
+Liverpool,0,2002-11-09
+Southampton,1,2002-11-09
+Blackburn,1,2002-11-09
+Man City,3,2002-11-09
+Man Utd,0,2002-11-09
+Sunderland,3,2002-11-10
+Tottenham,0,2002-11-10
+West Ham,0,2002-11-10
+Leeds,3,2002-11-10
+Arsenal,3,2002-11-16
+Tottenham,0,2002-11-16
+Chelsea,3,2002-11-16
+Middlesbrough,0,2002-11-16
+Man City,0,2002-11-16
+Charlton,3,2002-11-16
+Newcastle,3,2002-11-16
+Southampton,0,2002-11-16
+West Brom,1,2002-11-16
+Aston Villa,1,2002-11-16
+West Ham,1,2002-11-17
+Man Utd,1,2002-11-17
+Birmingham,1,2002-11-17
+Fulham,1,2002-11-17
+Blackburn,0,2002-11-17
+Everton,3,2002-11-17
+Leeds,0,2002-11-17
+Bolton,3,2002-11-17
+Liverpool,1,2002-11-17
+Sunderland,1,2002-11-17
+Aston Villa,3,2002-11-23
+West Ham,0,2002-11-23
+Bolton,1,2002-11-23
+Chelsea,1,2002-11-23
+Everton,3,2002-11-23
+West Brom,0,2002-11-23
+Fulham,3,2002-11-23
+Liverpool,0,2002-11-23
+Middlesbrough,3,2002-11-23
+Man City,0,2002-11-23
+Southampton,3,2002-11-23
+Arsenal,0,2002-11-23
+Sunderland,0,2002-11-23
+Birmingham,3,2002-11-23
+Man Utd,3,2002-11-23
+Newcastle,0,2002-11-23
+Charlton,3,2002-11-24
+Blackburn,0,2002-11-24
+Tottenham,3,2002-11-24
+Leeds,0,2002-11-24
+Arsenal,3,2002-11-30
+Aston Villa,0,2002-11-30
+Birmingham,1,2002-11-30
+Tottenham,1,2002-11-30
+Blackburn,3,2002-11-30
+Fulham,0,2002-11-30
+Chelsea,3,2002-11-30
+Sunderland,0,2002-11-30
+Man City,3,2002-11-30
+Bolton,0,2002-11-30
+West Brom,3,2002-11-30
+Middlesbrough,0,2002-11-30
+Leeds,0,2002-12-01
+Charlton,3,2002-12-01
+Newcastle,3,2002-12-01
+Everton,0,2002-12-01
+Liverpool,0,2002-12-01
+Man Utd,3,2002-12-01
+West Ham,0,2002-12-02
+Southampton,3,2002-12-02
+Aston Villa,0,2002-12-07
+Newcastle,3,2002-12-07
+Bolton,1,2002-12-07
+Blackburn,1,2002-12-07
+Charlton,3,2002-12-07
+Liverpool,0,2002-12-07
+Everton,0,2002-12-07
+Chelsea,3,2002-12-07
+Fulham,3,2002-12-07
+Leeds,0,2002-12-07
+Middlesbrough,1,2002-12-07
+West Ham,1,2002-12-07
+Southampton,3,2002-12-07
+Birmingham,0,2002-12-07
+Man Utd,3,2002-12-07
+Arsenal,0,2002-12-07
+Tottenham,3,2002-12-08
+West Brom,0,2002-12-08
+Sunderland,0,2002-12-09
+Man City,3,2002-12-09
+Aston Villa,3,2002-12-14
+West Brom,0,2002-12-14
+Charlton,1,2002-12-14
+Man City,1,2002-12-14
+Everton,3,2002-12-14
+Blackburn,0,2002-12-14
+Middlesbrough,1,2002-12-14
+Chelsea,1,2002-12-14
+Southampton,1,2002-12-14
+Newcastle,1,2002-12-14
+Man Utd,3,2002-12-14
+West Ham,0,2002-12-14
+Sunderland,3,2002-12-15
+Liverpool,0,2002-12-15
+Fulham,0,2002-12-15
+Birmingham,3,2002-12-15
+Tottenham,1,2002-12-15
+Arsenal,1,2002-12-15
+Bolton,0,2002-12-16
+Leeds,3,2002-12-16
+Arsenal,3,2002-12-21
+Middlesbrough,0,2002-12-21
+Birmingham,1,2002-12-21
+Charlton,1,2002-12-21
+Chelsea,3,2002-12-21
+Aston Villa,0,2002-12-21
+Leeds,1,2002-12-21
+Southampton,1,2002-12-21
+Newcastle,3,2002-12-21
+Fulham,0,2002-12-21
+West Brom,1,2002-12-21
+Sunderland,1,2002-12-21
+West Ham,1,2002-12-21
+Bolton,1,2002-12-21
+Liverpool,1,2002-12-22
+Everton,1,2002-12-22
+Blackburn,3,2002-12-22
+Man Utd,0,2002-12-22
+Man City,0,2002-12-23
+Tottenham,3,2002-12-23
+Middlesbrough,3,2002-12-26
+Man Utd,0,2002-12-26
+Birmingham,1,2002-12-26
+Everton,1,2002-12-26
+Liverpool,1,2002-12-26
+Blackburn,1,2002-12-26
+Man City,3,2002-12-26
+Aston Villa,0,2002-12-26
+Sunderland,0,2002-12-26
+Leeds,3,2002-12-26
+West Brom,0,2002-12-26
+Arsenal,3,2002-12-26
+Bolton,3,2002-12-26
+Newcastle,0,2002-12-26
+Chelsea,1,2002-12-26
+Southampton,1,2002-12-26
+Tottenham,1,2002-12-26
+Charlton,1,2002-12-26
+West Ham,1,2002-12-26
+Fulham,1,2002-12-26
+Aston Villa,3,2002-12-28
+Middlesbrough,0,2002-12-28
+Blackburn,1,2002-12-28
+West Ham,1,2002-12-28
+Charlton,3,2002-12-28
+West Brom,0,2002-12-28
+Everton,1,2002-12-28
+Bolton,1,2002-12-28
+Fulham,0,2002-12-28
+Man City,3,2002-12-28
+Leeds,3,2002-12-28
+Chelsea,0,2002-12-28
+Man Utd,3,2002-12-28
+Birmingham,0,2002-12-28
+Southampton,3,2002-12-28
+Sunderland,0,2002-12-28
+Arsenal,1,2002-12-29
+Liverpool,1,2002-12-29
+Newcastle,3,2002-12-29
+Tottenham,0,2002-12-29
+Newcastle,3,2003-01-01
+Liverpool,0,2003-01-01
+Arsenal,3,2003-01-01
+Chelsea,0,2003-01-01
+Aston Villa,3,2003-01-01
+Bolton,0,2003-01-01
+Blackburn,3,2003-01-01
+Middlesbrough,0,2003-01-01
+Everton,1,2003-01-01
+Man City,1,2003-01-01
+Leeds,3,2003-01-01
+Birmingham,0,2003-01-01
+Southampton,3,2003-01-01
+Tottenham,0,2003-01-01
+Man Utd,3,2003-01-01
+Sunderland,0,2003-01-01
+Bolton,1,2003-01-11
+Fulham,1,2003-01-11
+Chelsea,3,2003-01-11
+Charlton,0,2003-01-11
+Liverpool,1,2003-01-11
+Aston Villa,1,2003-01-11
+Man City,3,2003-01-11
+Leeds,0,2003-01-11
+Middlesbrough,1,2003-01-11
+Southampton,1,2003-01-11
+Sunderland,1,2003-01-11
+Blackburn,1,2003-01-11
+West Brom,0,2003-01-11
+Man Utd,3,2003-01-11
+West Ham,1,2003-01-11
+Newcastle,1,2003-01-11
+Birmingham,0,2003-01-12
+Arsenal,3,2003-01-12
+Tottenham,3,2003-01-12
+Everton,0,2003-01-12
+Southampton,0,2003-01-18
+Liverpool,3,2003-01-18
+Aston Villa,0,2003-01-18
+Tottenham,3,2003-01-18
+Blackburn,1,2003-01-18
+Birmingham,1,2003-01-18
+Charlton,1,2003-01-18
+Bolton,1,2003-01-18
+Everton,3,2003-01-18
+Sunderland,0,2003-01-18
+Leeds,1,2003-01-18
+West Brom,1,2003-01-18
+Newcastle,3,2003-01-18
+Man City,0,2003-01-18
+Man Utd,3,2003-01-18
+Chelsea,0,2003-01-18
+Fulham,3,2003-01-19
+Middlesbrough,0,2003-01-19
+Arsenal,3,2003-01-19
+West Ham,0,2003-01-19
+Charlton,3,2003-01-22
+West Ham,0,2003-01-22
+Newcastle,3,2003-01-22
+Bolton,0,2003-01-22
+Bolton,0,2003-01-28
+Everton,3,2003-01-28
+Chelsea,3,2003-01-28
+Leeds,0,2003-01-28
+Sunderland,0,2003-01-28
+Southampton,3,2003-01-28
+Middlesbrough,0,2003-01-28
+Aston Villa,3,2003-01-28
+Liverpool,1,2003-01-29
+Arsenal,1,2003-01-29
+Man City,3,2003-01-29
+Fulham,0,2003-01-29
+Tottenham,0,2003-01-29
+Newcastle,3,2003-01-29
+West Brom,0,2003-01-29
+Charlton,3,2003-01-29
+West Ham,3,2003-01-29
+Blackburn,0,2003-01-29
+Arsenal,3,2003-02-01
+Fulham,0,2003-02-01
+Bolton,3,2003-02-01
+Birmingham,0,2003-02-01
+Chelsea,1,2003-02-01
+Tottenham,1,2003-02-01
+Everton,3,2003-02-01
+Leeds,0,2003-02-01
+Man City,0,2003-02-01
+West Brom,3,2003-02-01
+Southampton,0,2003-02-01
+Man Utd,3,2003-02-01
+Sunderland,0,2003-02-01
+Charlton,3,2003-02-01
+Aston Villa,3,2003-02-02
+Blackburn,0,2003-02-02
+West Ham,0,2003-02-02
+Liverpool,3,2003-02-02
+Birmingham,0,2003-02-04
+Man Utd,3,2003-02-04
+Birmingham,0,2003-02-08
+Chelsea,3,2003-02-08
+Blackburn,3,2003-02-08
+Southampton,0,2003-02-08
+Charlton,3,2003-02-08
+Everton,0,2003-02-08
+Fulham,3,2003-02-08
+Aston Villa,0,2003-02-08
+Leeds,3,2003-02-08
+West Ham,0,2003-02-08
+Tottenham,3,2003-02-08
+Sunderland,0,2003-02-08
+West Brom,1,2003-02-08
+Bolton,1,2003-02-08
+Liverpool,1,2003-02-08
+Middlesbrough,1,2003-02-08
+Newcastle,1,2003-02-09
+Arsenal,1,2003-02-09
+Man Utd,1,2003-02-09
+Man City,1,2003-02-09
+Fulham,3,2003-02-19
+West Brom,0,2003-02-19
+Charlton,3,2003-02-22
+Aston Villa,0,2003-02-22
+Chelsea,0,2003-02-22
+Blackburn,3,2003-02-22
+Leeds,0,2003-02-22
+Newcastle,3,2003-02-22
+Man City,0,2003-02-22
+Arsenal,3,2003-02-22
+Sunderland,0,2003-02-22
+Middlesbrough,3,2003-02-22
+Everton,3,2003-02-22
+Southampton,0,2003-02-22
+Bolton,1,2003-02-22
+Man Utd,1,2003-02-22
+Birmingham,3,2003-02-23
+Liverpool,0,2003-02-23
+West Brom,0,2003-02-23
+West Ham,3,2003-02-23
+Tottenham,1,2003-02-24
+Fulham,1,2003-02-24
+Blackburn,3,2003-03-01
+Man City,0,2003-03-01
+Fulham,3,2003-03-01
+Sunderland,0,2003-03-01
+Middlesbrough,1,2003-03-01
+Everton,1,2003-03-01
+Southampton,3,2003-03-01
+West Brom,0,2003-03-01
+West Ham,3,2003-03-01
+Tottenham,0,2003-03-01
+Newcastle,3,2003-03-01
+Chelsea,0,2003-03-01
+Arsenal,3,2003-03-02
+Charlton,0,2003-03-02
+Aston Villa,0,2003-03-03
+Birmingham,3,2003-03-03
+Man Utd,3,2003-03-05
+Leeds,0,2003-03-05
+Middlesbrough,3,2003-03-05
+Newcastle,0,2003-03-05
+Liverpool,3,2003-03-08
+Bolton,0,2003-03-08
+Blackburn,3,2003-03-15
+Arsenal,0,2003-03-15
+Charlton,0,2003-03-15
+Newcastle,3,2003-03-15
+Everton,1,2003-03-15
+West Ham,1,2003-03-15
+Fulham,1,2003-03-15
+Southampton,1,2003-03-15
+Leeds,0,2003-03-15
+Middlesbrough,3,2003-03-15
+Sunderland,0,2003-03-15
+Bolton,3,2003-03-15
+Aston Villa,0,2003-03-15
+Man Utd,3,2003-03-15
+West Brom,0,2003-03-16
+Chelsea,3,2003-03-16
+Tottenham,0,2003-03-16
+Liverpool,3,2003-03-16
+Man City,3,2003-03-16
+Birmingham,0,2003-03-16
+Chelsea,3,2003-03-22
+Man City,0,2003-03-22
+Middlesbrough,1,2003-03-22
+Charlton,1,2003-03-22
+Newcastle,3,2003-03-22
+Blackburn,0,2003-03-22
+Southampton,1,2003-03-22
+Aston Villa,1,2003-03-22
+West Ham,3,2003-03-22
+Sunderland,0,2003-03-22
+Man Utd,3,2003-03-22
+Fulham,0,2003-03-22
+Birmingham,3,2003-03-22
+West Brom,0,2003-03-22
+Arsenal,3,2003-03-23
+Everton,0,2003-03-23
+Liverpool,3,2003-03-23
+Leeds,0,2003-03-23
+Bolton,3,2003-03-24
+Tottenham,0,2003-03-24
+Aston Villa,1,2003-04-05
+Arsenal,1,2003-04-05
+Charlton,0,2003-04-05
+Leeds,3,2003-04-05
+Middlesbrough,3,2003-04-05
+West Brom,0,2003-04-05
+Southampton,1,2003-04-05
+West Ham,1,2003-04-05
+Sunderland,0,2003-04-05
+Chelsea,3,2003-04-05
+Tottenham,3,2003-04-05
+Birmingham,0,2003-04-05
+Man Utd,3,2003-04-05
+Liverpool,0,2003-04-05
+Bolton,3,2003-04-05
+Man City,0,2003-04-05
+Everton,3,2003-04-06
+Newcastle,0,2003-04-06
+Fulham,0,2003-04-07
+Blackburn,3,2003-04-07
+Birmingham,3,2003-04-12
+Sunderland,0,2003-04-12
+Blackburn,3,2003-04-12
+Charlton,0,2003-04-12
+Chelsea,3,2003-04-12
+Bolton,0,2003-04-12
+Leeds,1,2003-04-12
+Tottenham,1,2003-04-12
+Liverpool,3,2003-04-12
+Fulham,0,2003-04-12
+Man City,1,2003-04-12
+Middlesbrough,1,2003-04-12
+West Brom,0,2003-04-12
+Everton,3,2003-04-12
+West Ham,1,2003-04-12
+Aston Villa,1,2003-04-12
+Newcastle,0,2003-04-12
+Man Utd,3,2003-04-12
+Arsenal,1,2003-04-16
+Man Utd,1,2003-04-16
+Tottenham,0,2003-04-18
+Man City,3,2003-04-18
+Aston Villa,3,2003-04-19
+Chelsea,0,2003-04-19
+Bolton,3,2003-04-19
+West Ham,0,2003-04-19
+Charlton,0,2003-04-19
+Birmingham,3,2003-04-19
+Everton,0,2003-04-19
+Liverpool,3,2003-04-19
+Fulham,3,2003-04-19
+Newcastle,0,2003-04-19
+Man Utd,3,2003-04-19
+Blackburn,0,2003-04-19
+Middlesbrough,0,2003-04-19
+Arsenal,3,2003-04-19
+Southampton,3,2003-04-19
+Leeds,0,2003-04-19
+Sunderland,0,2003-04-19
+West Brom,3,2003-04-19
+Birmingham,3,2003-04-21
+Southampton,0,2003-04-21
+Blackburn,1,2003-04-21
+Bolton,1,2003-04-21
+Chelsea,3,2003-04-21
+Everton,0,2003-04-21
+Liverpool,3,2003-04-21
+Charlton,0,2003-04-21
+Man City,3,2003-04-21
+Sunderland,0,2003-04-21
+Newcastle,1,2003-04-21
+Aston Villa,1,2003-04-21
+West Brom,0,2003-04-21
+Tottenham,3,2003-04-21
+West Ham,3,2003-04-21
+Middlesbrough,0,2003-04-21
+Leeds,3,2003-04-22
+Fulham,0,2003-04-22
+Birmingham,3,2003-04-26
+Middlesbrough,0,2003-04-26
+Charlton,3,2003-04-26
+Southampton,0,2003-04-26
+Chelsea,1,2003-04-26
+Fulham,1,2003-04-26
+Everton,3,2003-04-26
+Aston Villa,0,2003-04-26
+Leeds,0,2003-04-26
+Blackburn,3,2003-04-26
+Sunderland,0,2003-04-26
+Newcastle,3,2003-04-26
+West Brom,0,2003-04-26
+Liverpool,3,2003-04-26
+Bolton,1,2003-04-26
+Arsenal,1,2003-04-26
+Tottenham,0,2003-04-27
+Man Utd,3,2003-04-27
+Man City,0,2003-04-27
+West Ham,3,2003-04-27
+Southampton,1,2003-05-03
+Bolton,1,2003-05-03
+Aston Villa,3,2003-05-03
+Sunderland,0,2003-05-03
+Blackburn,1,2003-05-03
+West Brom,1,2003-05-03
+Fulham,3,2003-05-03
+Everton,0,2003-05-03
+Liverpool,0,2003-05-03
+Man City,3,2003-05-03
+Middlesbrough,3,2003-05-03
+Tottenham,0,2003-05-03
+Newcastle,3,2003-05-03
+Birmingham,0,2003-05-03
+West Ham,3,2003-05-03
+Chelsea,0,2003-05-03
+Man Utd,3,2003-05-03
+Charlton,0,2003-05-03
+Arsenal,0,2003-05-04
+Leeds,3,2003-05-04
+Arsenal,3,2003-05-07
+Southampton,0,2003-05-07
+Birmingham,1,2003-05-11
+West Ham,1,2003-05-11
+Bolton,3,2003-05-11
+Middlesbrough,0,2003-05-11
+Charlton,0,2003-05-11
+Fulham,3,2003-05-11
+Chelsea,3,2003-05-11
+Liverpool,0,2003-05-11
+Everton,0,2003-05-11
+Man Utd,3,2003-05-11
+Leeds,3,2003-05-11
+Aston Villa,0,2003-05-11
+Man City,0,2003-05-11
+Southampton,3,2003-05-11
+Sunderland,0,2003-05-11
+Arsenal,3,2003-05-11
+Tottenham,0,2003-05-11
+Blackburn,3,2003-05-11
+West Brom,1,2003-05-11
+Newcastle,1,2003-05-11
