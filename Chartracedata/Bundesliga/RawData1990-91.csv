@@ -1,0 +1,613 @@
+team,points,date
+Dortmund,0,1990-08-08
+Stuttgart,3,1990-08-08
+Hertha,0,1990-08-09
+St. Pauli,3,1990-08-09
+Nurnberg,1,1990-08-10
+Uerdingen,1,1990-08-10
+Bayern,1,1990-08-11
+Leverkusen,1,1990-08-11
+FC Koln,1,1990-08-11
+Dusseldorf,1,1990-08-11
+Frankfurt,3,1990-08-11
+Karlsruher,0,1990-08-11
+Hamburger SV,0,1990-08-11
+Kaiserslautern,3,1990-08-11
+Monchengladbach,0,1990-08-11
+Bochum,3,1990-08-11
+Wattenscheid,3,1990-08-11
+Bremen,0,1990-08-11
+St. Pauli,1,1990-08-14
+Bayern,1,1990-08-14
+Bremen,3,1990-08-17
+Monchengladbach,0,1990-08-17
+Stuttgart,3,1990-08-17
+Hertha,0,1990-08-17
+Bochum,3,1990-08-18
+FC Koln,0,1990-08-18
+Dusseldorf,3,1990-08-18
+Hamburger SV,0,1990-08-18
+Kaiserslautern,1,1990-08-18
+Frankfurt,1,1990-08-18
+Karlsruher,0,1990-08-18
+Dortmund,3,1990-08-18
+Leverkusen,1,1990-08-18
+Nurnberg,1,1990-08-18
+Uerdingen,0,1990-08-18
+Wattenscheid,3,1990-08-18
+Dortmund,0,1990-08-24
+Kaiserslautern,3,1990-08-24
+Frankfurt,3,1990-08-24
+Dusseldorf,0,1990-08-24
+Hamburger SV,3,1990-08-24
+Bochum,0,1990-08-24
+Bayern,3,1990-08-25
+Stuttgart,0,1990-08-25
+FC Koln,3,1990-08-25
+Bremen,0,1990-08-25
+Hertha,1,1990-08-25
+Karlsruher,1,1990-08-25
+Nurnberg,3,1990-08-25
+St. Pauli,0,1990-08-25
+Uerdingen,1,1990-08-25
+Leverkusen,1,1990-08-25
+Wattenscheid,1,1990-08-25
+Monchengladbach,1,1990-08-25
+Kaiserslautern,3,1990-08-31
+Hertha,0,1990-08-31
+Bochum,1,1990-09-01
+Frankfurt,1,1990-09-01
+Bremen,3,1990-09-01
+Hamburger SV,0,1990-09-01
+Karlsruher,0,1990-09-01
+Bayern,3,1990-09-01
+Monchengladbach,1,1990-09-01
+FC Koln,1,1990-09-01
+St. Pauli,1,1990-09-01
+Uerdingen,1,1990-09-01
+Stuttgart,3,1990-09-01
+Nurnberg,0,1990-09-01
+Dusseldorf,1,1990-09-02
+Dortmund,1,1990-09-02
+Leverkusen,3,1990-09-04
+Wattenscheid,0,1990-09-04
+Bayern,3,1990-09-07
+Kaiserslautern,0,1990-09-07
+Dortmund,3,1990-09-07
+Bochum,0,1990-09-07
+Uerdingen,3,1990-09-07
+Stuttgart,0,1990-09-07
+Frankfurt,1,1990-09-08
+Bremen,1,1990-09-08
+Hamburger SV,3,1990-09-08
+Monchengladbach,0,1990-09-08
+Hertha,0,1990-09-08
+Dusseldorf,3,1990-09-08
+Leverkusen,3,1990-09-08
+St. Pauli,0,1990-09-08
+Nurnberg,1,1990-09-08
+Karlsruher,1,1990-09-08
+Wattenscheid,0,1990-09-08
+FC Koln,3,1990-09-08
+Kaiserslautern,3,1990-09-14
+Nurnberg,0,1990-09-14
+Karlsruher,3,1990-09-14
+Uerdingen,0,1990-09-14
+St. Pauli,1,1990-09-14
+Wattenscheid,1,1990-09-14
+Bochum,3,1990-09-15
+Hertha,0,1990-09-15
+Bremen,1,1990-09-15
+Dortmund,1,1990-09-15
+Dusseldorf,0,1990-09-15
+Bayern,3,1990-09-15
+FC Koln,3,1990-09-15
+Hamburger SV,0,1990-09-15
+Monchengladbach,1,1990-09-15
+Frankfurt,1,1990-09-15
+Stuttgart,0,1990-09-15
+Leverkusen,3,1990-09-15
+Wattenscheid,0,1990-09-21
+Hamburger SV,3,1990-09-21
+Bayern,1,1990-09-22
+Bochum,1,1990-09-22
+Dortmund,1,1990-09-22
+Monchengladbach,1,1990-09-22
+Frankfurt,3,1990-09-22
+FC Koln,0,1990-09-22
+Hertha,1,1990-09-22
+Bremen,1,1990-09-22
+Leverkusen,3,1990-09-22
+Karlsruher,0,1990-09-22
+St. Pauli,1,1990-09-22
+Stuttgart,1,1990-09-22
+Uerdingen,0,1990-09-22
+Kaiserslautern,3,1990-09-22
+Nurnberg,3,1990-09-23
+Dusseldorf,0,1990-09-23
+Bremen,3,1990-09-28
+Bayern,0,1990-09-28
+Kaiserslautern,3,1990-09-28
+Leverkusen,0,1990-09-28
+Monchengladbach,3,1990-09-28
+Hertha,0,1990-09-28
+Bochum,1,1990-09-29
+Nurnberg,1,1990-09-29
+Dusseldorf,0,1990-09-29
+Uerdingen,3,1990-09-29
+FC Koln,0,1990-09-29
+Dortmund,3,1990-09-29
+Hamburger SV,0,1990-09-29
+Frankfurt,3,1990-09-29
+Karlsruher,1,1990-09-29
+St. Pauli,1,1990-09-29
+Stuttgart,0,1990-09-29
+Wattenscheid,3,1990-09-29
+Uerdingen,3,1990-10-05
+Bochum,0,1990-10-05
+Bayern,3,1990-10-06
+Monchengladbach,0,1990-10-06
+Dortmund,1,1990-10-06
+Hamburger SV,1,1990-10-06
+Hertha,1,1990-10-06
+FC Koln,1,1990-10-06
+Leverkusen,1,1990-10-06
+Dusseldorf,1,1990-10-06
+Nurnberg,0,1990-10-06
+Bremen,3,1990-10-06
+St. Pauli,3,1990-10-06
+Kaiserslautern,0,1990-10-06
+Stuttgart,1,1990-10-06
+Karlsruher,1,1990-10-06
+Wattenscheid,3,1990-10-06
+Frankfurt,0,1990-10-06
+Karlsruher,0,1990-10-12
+Wattenscheid,3,1990-10-12
+Bochum,3,1990-10-13
+Leverkusen,0,1990-10-13
+Bremen,3,1990-10-13
+Uerdingen,0,1990-10-13
+Dusseldorf,1,1990-10-13
+St. Pauli,1,1990-10-13
+FC Koln,3,1990-10-13
+Bayern,0,1990-10-13
+Frankfurt,3,1990-10-13
+Dortmund,0,1990-10-13
+Kaiserslautern,3,1990-10-13
+Stuttgart,0,1990-10-13
+Monchengladbach,3,1990-10-13
+Nurnberg,0,1990-10-13
+Hamburger SV,3,1990-10-14
+Hertha,0,1990-10-14
+Leverkusen,1,1990-10-19
+Bremen,1,1990-10-19
+St. Pauli,1,1990-10-19
+Bochum,1,1990-10-19
+Wattenscheid,1,1990-10-19
+Dortmund,1,1990-10-19
+Bayern,3,1990-10-20
+Hamburger SV,0,1990-10-20
+Hertha,3,1990-10-20
+Frankfurt,0,1990-10-20
+Karlsruher,3,1990-10-20
+Kaiserslautern,0,1990-10-20
+Nurnberg,0,1990-10-20
+FC Koln,3,1990-10-20
+Stuttgart,1,1990-10-20
+Dusseldorf,1,1990-10-20
+Uerdingen,1,1990-10-20
+Monchengladbach,1,1990-10-20
+Bochum,1,1990-10-26
+Stuttgart,1,1990-10-26
+Bremen,3,1990-10-26
+St. Pauli,0,1990-10-26
+Dortmund,3,1990-10-27
+Hertha,0,1990-10-27
+Dusseldorf,3,1990-10-27
+Karlsruher,0,1990-10-27
+FC Koln,3,1990-10-27
+Uerdingen,0,1990-10-27
+Frankfurt,0,1990-10-27
+Bayern,3,1990-10-27
+Hamburger SV,3,1990-10-27
+Nurnberg,0,1990-10-27
+Kaiserslautern,1,1990-10-27
+Wattenscheid,1,1990-10-27
+Monchengladbach,1,1990-10-27
+Leverkusen,1,1990-10-27
+Wattenscheid,3,1990-11-09
+Hertha,0,1990-11-09
+Bayern,0,1990-11-10
+Dortmund,3,1990-11-10
+Kaiserslautern,1,1990-11-10
+Dusseldorf,1,1990-11-10
+Karlsruher,3,1990-11-10
+Bochum,0,1990-11-10
+Leverkusen,3,1990-11-10
+FC Koln,0,1990-11-10
+Nurnberg,0,1990-11-10
+Frankfurt,3,1990-11-10
+St. Pauli,1,1990-11-10
+Monchengladbach,1,1990-11-10
+Stuttgart,0,1990-11-10
+Bremen,3,1990-11-10
+Uerdingen,1,1990-11-10
+Hamburger SV,1,1990-11-10
+Dortmund,0,1990-11-16
+Nurnberg,3,1990-11-16
+Dusseldorf,3,1990-11-16
+Wattenscheid,0,1990-11-16
+FC Koln,3,1990-11-16
+St. Pauli,0,1990-11-16
+Bochum,0,1990-11-17
+Kaiserslautern,3,1990-11-17
+Bremen,3,1990-11-17
+Karlsruher,0,1990-11-17
+Frankfurt,3,1990-11-17
+Uerdingen,0,1990-11-17
+Hamburger SV,3,1990-11-17
+Leverkusen,0,1990-11-17
+Hertha,1,1990-11-17
+Bayern,1,1990-11-17
+Monchengladbach,3,1990-11-17
+Stuttgart,0,1990-11-17
+Bayern,3,1990-11-24
+Wattenscheid,0,1990-11-24
+Kaiserslautern,3,1990-11-24
+Bremen,0,1990-11-24
+Karlsruher,3,1990-11-24
+Monchengladbach,0,1990-11-24
+Leverkusen,1,1990-11-24
+Frankfurt,1,1990-11-24
+Nurnberg,0,1990-11-24
+Hertha,3,1990-11-24
+Stuttgart,3,1990-11-24
+FC Koln,0,1990-11-24
+Uerdingen,0,1990-11-24
+Dortmund,3,1990-11-24
+St. Pauli,0,1990-11-25
+Hamburger SV,3,1990-11-25
+Bochum,1,1990-12-01
+Dusseldorf,1,1990-12-01
+Dortmund,1,1990-12-07
+Leverkusen,1,1990-12-07
+FC Koln,1,1990-12-07
+Karlsruher,1,1990-12-07
+Monchengladbach,1,1990-12-07
+Kaiserslautern,1,1990-12-07
+Bayern,3,1990-12-08
+Nurnberg,0,1990-12-08
+Bremen,3,1990-12-08
+Dusseldorf,0,1990-12-08
+Frankfurt,1,1990-12-08
+St. Pauli,1,1990-12-08
+Hamburger SV,3,1990-12-08
+Stuttgart,0,1990-12-08
+Hertha,1,1990-12-08
+Uerdingen,1,1990-12-08
+Wattenscheid,0,1990-12-08
+Bochum,3,1990-12-08
+Bochum,0,1990-12-14
+Bremen,3,1990-12-14
+Dusseldorf,3,1990-12-15
+Monchengladbach,0,1990-12-15
+St. Pauli,0,1990-12-15
+Dortmund,3,1990-12-15
+Uerdingen,1,1990-12-15
+Bayern,1,1990-12-15
+Stuttgart,3,1990-12-16
+Frankfurt,0,1990-12-16
+Nurnberg,3,1991-02-16
+Wattenscheid,0,1991-02-16
+Bochum,3,1991-02-23
+Monchengladbach,0,1991-02-23
+Kaiserslautern,3,1991-02-23
+Hamburger SV,0,1991-02-23
+Leverkusen,0,1991-02-23
+Bayern,3,1991-02-23
+Stuttgart,3,1991-02-23
+Dortmund,0,1991-02-23
+Uerdingen,1,1991-02-23
+Nurnberg,1,1991-02-23
+Bremen,1,1991-02-26
+Wattenscheid,1,1991-02-26
+Karlsruher,1,1991-02-26
+Frankfurt,1,1991-02-26
+Dusseldorf,0,1991-02-27
+FC Koln,3,1991-02-27
+Wattenscheid,1,1991-03-01
+Uerdingen,1,1991-03-01
+Bayern,0,1991-03-02
+St. Pauli,3,1991-03-02
+Dortmund,1,1991-03-02
+Karlsruher,1,1991-03-02
+FC Koln,1,1991-03-02
+Bochum,1,1991-03-02
+Frankfurt,3,1991-03-02
+Kaiserslautern,0,1991-03-02
+Hamburger SV,3,1991-03-02
+Dusseldorf,0,1991-03-02
+Hertha,0,1991-03-02
+Stuttgart,3,1991-03-02
+Nurnberg,3,1991-03-02
+Leverkusen,0,1991-03-02
+Monchengladbach,1,1991-03-03
+Bremen,1,1991-03-03
+St. Pauli,1,1991-03-05
+Hertha,1,1991-03-05
+Bremen,3,1991-03-08
+FC Koln,0,1991-03-08
+St. Pauli,1,1991-03-08
+Nurnberg,1,1991-03-08
+Bochum,0,1991-03-09
+Hamburger SV,3,1991-03-09
+Dusseldorf,3,1991-03-09
+Frankfurt,0,1991-03-09
+Kaiserslautern,1,1991-03-09
+Dortmund,1,1991-03-09
+Karlsruher,3,1991-03-09
+Hertha,0,1991-03-09
+Leverkusen,3,1991-03-09
+Uerdingen,0,1991-03-09
+Monchengladbach,1,1991-03-09
+Wattenscheid,1,1991-03-09
+Stuttgart,0,1991-03-09
+Bayern,3,1991-03-09
+Bayern,3,1991-03-15
+Karlsruher,0,1991-03-15
+Hamburger SV,3,1991-03-15
+Bremen,0,1991-03-15
+Wattenscheid,0,1991-03-15
+Leverkusen,3,1991-03-15
+Dortmund,1,1991-03-16
+Dusseldorf,1,1991-03-16
+FC Koln,0,1991-03-16
+Monchengladbach,3,1991-03-16
+Frankfurt,1,1991-03-16
+Bochum,1,1991-03-16
+Hertha,0,1991-03-16
+Kaiserslautern,3,1991-03-16
+Nurnberg,0,1991-03-16
+Stuttgart,3,1991-03-16
+Uerdingen,3,1991-03-16
+St. Pauli,0,1991-03-16
+Kaiserslautern,1,1991-03-19
+FC Koln,1,1991-03-19
+Karlsruher,1,1991-03-19
+Hamburger SV,1,1991-03-19
+Leverkusen,3,1991-03-19
+Hertha,0,1991-03-19
+Bremen,1,1991-03-22
+Frankfurt,1,1991-03-22
+Monchengladbach,1,1991-03-22
+Hamburger SV,1,1991-03-22
+Stuttgart,3,1991-03-22
+Uerdingen,0,1991-03-22
+Bochum,1,1991-03-23
+Dortmund,1,1991-03-23
+Dusseldorf,3,1991-03-23
+Hertha,0,1991-03-23
+FC Koln,1,1991-03-23
+Wattenscheid,1,1991-03-23
+Kaiserslautern,3,1991-03-23
+Bayern,0,1991-03-23
+Karlsruher,3,1991-03-23
+Nurnberg,0,1991-03-23
+St. Pauli,3,1991-03-23
+Leverkusen,0,1991-03-23
+Bayern,0,1991-04-02
+Dusseldorf,3,1991-04-02
+Dortmund,1,1991-04-02
+Bremen,1,1991-04-02
+Hertha,0,1991-04-02
+Bochum,3,1991-04-02
+Leverkusen,1,1991-04-02
+Stuttgart,1,1991-04-02
+Nurnberg,0,1991-04-02
+Kaiserslautern,3,1991-04-02
+Uerdingen,1,1991-04-02
+Karlsruher,1,1991-04-02
+Frankfurt,3,1991-04-03
+Monchengladbach,0,1991-04-03
+Hamburger SV,1,1991-04-03
+FC Koln,1,1991-04-03
+Wattenscheid,1,1991-04-03
+St. Pauli,1,1991-04-03
+Bremen,3,1991-04-05
+Hertha,0,1991-04-05
+Dusseldorf,3,1991-04-05
+Nurnberg,0,1991-04-05
+Karlsruher,3,1991-04-05
+Leverkusen,0,1991-04-05
+Bochum,0,1991-04-06
+Bayern,3,1991-04-06
+FC Koln,3,1991-04-06
+Frankfurt,0,1991-04-06
+Hamburger SV,1,1991-04-06
+Wattenscheid,1,1991-04-06
+Kaiserslautern,3,1991-04-06
+Uerdingen,0,1991-04-06
+Monchengladbach,3,1991-04-06
+Dortmund,0,1991-04-06
+Stuttgart,3,1991-04-06
+St. Pauli,0,1991-04-06
+Hertha,1,1991-04-12
+Monchengladbach,1,1991-04-12
+St. Pauli,3,1991-04-12
+Karlsruher,0,1991-04-12
+Wattenscheid,1,1991-04-12
+Stuttgart,1,1991-04-12
+Bayern,1,1991-04-13
+Bremen,1,1991-04-13
+Dortmund,0,1991-04-13
+FC Koln,3,1991-04-13
+Frankfurt,0,1991-04-13
+Hamburger SV,3,1991-04-13
+Leverkusen,1,1991-04-13
+Kaiserslautern,1,1991-04-13
+Nurnberg,3,1991-04-13
+Bochum,0,1991-04-13
+Uerdingen,0,1991-04-13
+Dusseldorf,3,1991-04-13
+Bochum,0,1991-04-16
+Uerdingen,3,1991-04-16
+Frankfurt,3,1991-04-16
+Wattenscheid,0,1991-04-16
+Karlsruher,1,1991-04-16
+Stuttgart,1,1991-04-16
+Monchengladbach,1,1991-04-16
+Bayern,1,1991-04-16
+Bremen,1,1991-04-17
+Nurnberg,1,1991-04-17
+Dusseldorf,0,1991-04-17
+Leverkusen,3,1991-04-17
+FC Koln,3,1991-04-17
+Hertha,0,1991-04-17
+Hamburger SV,3,1991-04-17
+Dortmund,0,1991-04-17
+Kaiserslautern,3,1991-04-17
+St. Pauli,0,1991-04-17
+Wattenscheid,1,1991-04-19
+Karlsruher,1,1991-04-19
+Bayern,1,1991-04-20
+FC Koln,1,1991-04-20
+Dortmund,0,1991-04-20
+Frankfurt,3,1991-04-20
+Leverkusen,3,1991-04-20
+Bochum,0,1991-04-20
+Nurnberg,1,1991-04-20
+Monchengladbach,1,1991-04-20
+St. Pauli,0,1991-04-20
+Dusseldorf,3,1991-04-20
+Stuttgart,1,1991-04-20
+Kaiserslautern,1,1991-04-20
+Uerdingen,1,1991-04-20
+Bremen,1,1991-04-20
+Hertha,0,1991-04-26
+Hamburger SV,3,1991-04-26
+Bochum,3,1991-05-03
+St. Pauli,0,1991-05-03
+Kaiserslautern,3,1991-05-03
+Karlsruher,0,1991-05-03
+Bremen,1,1991-05-04
+Leverkusen,1,1991-05-04
+Dortmund,1,1991-05-04
+Wattenscheid,1,1991-05-04
+Dusseldorf,0,1991-05-04
+Stuttgart,3,1991-05-04
+FC Koln,3,1991-05-04
+Nurnberg,0,1991-05-04
+Frankfurt,3,1991-05-04
+Hertha,0,1991-05-04
+Monchengladbach,1,1991-05-04
+Uerdingen,1,1991-05-04
+Hamburger SV,0,1991-05-05
+Bayern,3,1991-05-05
+Karlsruher,1,1991-05-10
+Dusseldorf,1,1991-05-10
+Leverkusen,0,1991-05-10
+Monchengladbach,3,1991-05-10
+Stuttgart,1,1991-05-10
+Bochum,1,1991-05-10
+Bayern,3,1991-05-11
+Frankfurt,0,1991-05-11
+Hertha,1,1991-05-11
+Dortmund,1,1991-05-11
+Nurnberg,3,1991-05-11
+Hamburger SV,0,1991-05-11
+St. Pauli,1,1991-05-11
+Bremen,1,1991-05-11
+Uerdingen,0,1991-05-11
+FC Koln,3,1991-05-11
+Wattenscheid,1,1991-05-11
+Kaiserslautern,1,1991-05-11
+Bremen,0,1991-05-17
+Stuttgart,3,1991-05-17
+Dortmund,0,1991-05-17
+Bayern,3,1991-05-17
+Frankfurt,0,1991-05-17
+Nurnberg,3,1991-05-17
+Bochum,0,1991-05-18
+Karlsruher,3,1991-05-18
+Dusseldorf,1,1991-05-18
+Kaiserslautern,1,1991-05-18
+FC Koln,1,1991-05-18
+Leverkusen,1,1991-05-18
+Hamburger SV,3,1991-05-18
+Uerdingen,0,1991-05-18
+Hertha,0,1991-05-18
+Wattenscheid,3,1991-05-18
+Monchengladbach,1,1991-05-18
+St. Pauli,1,1991-05-18
+Kaiserslautern,3,1991-05-24
+Bochum,0,1991-05-24
+Nurnberg,1,1991-05-24
+Dortmund,1,1991-05-24
+Uerdingen,0,1991-05-24
+Frankfurt,3,1991-05-24
+Bayern,3,1991-05-25
+Hertha,0,1991-05-25
+Karlsruher,1,1991-05-25
+Bremen,1,1991-05-25
+Leverkusen,1,1991-05-25
+Hamburger SV,1,1991-05-25
+St. Pauli,3,1991-05-25
+FC Koln,0,1991-05-25
+Stuttgart,1,1991-05-25
+Monchengladbach,1,1991-05-25
+Wattenscheid,3,1991-05-25
+Dusseldorf,0,1991-05-25
+Frankfurt,3,1991-05-30
+Leverkusen,0,1991-05-30
+Dortmund,3,1991-05-31
+Uerdingen,0,1991-05-31
+Dusseldorf,0,1991-05-31
+Bochum,3,1991-05-31
+Bremen,0,1991-06-01
+Kaiserslautern,3,1991-06-01
+FC Koln,0,1991-06-01
+Stuttgart,3,1991-06-01
+Hamburger SV,3,1991-06-01
+St. Pauli,0,1991-06-01
+Hertha,0,1991-06-01
+Nurnberg,3,1991-06-01
+Monchengladbach,3,1991-06-01
+Karlsruher,0,1991-06-01
+Wattenscheid,3,1991-06-01
+Bayern,0,1991-06-01
+Bochum,1,1991-06-08
+Wattenscheid,1,1991-06-08
+Dusseldorf,0,1991-06-08
+Bremen,3,1991-06-08
+Kaiserslautern,0,1991-06-08
+Monchengladbach,3,1991-06-08
+Karlsruher,1,1991-06-08
+FC Koln,1,1991-06-08
+Leverkusen,0,1991-06-08
+Dortmund,3,1991-06-08
+Nurnberg,0,1991-06-08
+Bayern,3,1991-06-08
+St. Pauli,1,1991-06-08
+Frankfurt,1,1991-06-08
+Stuttgart,3,1991-06-08
+Hamburger SV,0,1991-06-08
+Uerdingen,0,1991-06-08
+Hertha,3,1991-06-08
+Bayern,1,1991-06-15
+Uerdingen,1,1991-06-15
+Bremen,3,1991-06-15
+Bochum,0,1991-06-15
+Dortmund,3,1991-06-15
+St. Pauli,0,1991-06-15
+FC Koln,0,1991-06-15
+Kaiserslautern,3,1991-06-15
+Frankfurt,3,1991-06-15
+Stuttgart,0,1991-06-15
+Hamburger SV,1,1991-06-15
+Karlsruher,1,1991-06-15
+Hertha,0,1991-06-15
+Leverkusen,3,1991-06-15
+Monchengladbach,3,1991-06-15
+Dusseldorf,0,1991-06-15
+Wattenscheid,0,1991-06-15
+Nurnberg,3,1991-06-15
