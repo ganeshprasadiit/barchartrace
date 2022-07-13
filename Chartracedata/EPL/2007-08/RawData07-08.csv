@@ -1,0 +1,761 @@
+team,points,date
+Aston Villa,0,2007-08-11
+Liverpool,3,2007-08-11
+Bolton,0,2007-08-11
+Newcastle,3,2007-08-11
+Derby,1,2007-08-11
+Portsmouth,1,2007-08-11
+Everton,3,2007-08-11
+Wigan,0,2007-08-11
+Middlesbrough,0,2007-08-11
+Blackburn,3,2007-08-11
+West Ham,0,2007-08-11
+Man City,3,2007-08-11
+Sunderland,3,2007-08-11
+Tottenham,0,2007-08-11
+Man Utd,1,2007-08-12
+Reading,1,2007-08-12
+Chelsea,3,2007-08-12
+Birmingham,0,2007-08-12
+Arsenal,3,2007-08-12
+Fulham,0,2007-08-12
+Tottenham,0,2007-08-14
+Everton,3,2007-08-14
+Reading,0,2007-08-15
+Chelsea,3,2007-08-15
+Wigan,3,2007-08-15
+Middlesbrough,0,2007-08-15
+Birmingham,1,2007-08-15
+Sunderland,1,2007-08-15
+Fulham,3,2007-08-15
+Bolton,0,2007-08-15
+Man City,3,2007-08-15
+Derby,0,2007-08-15
+Portsmouth,1,2007-08-15
+Man Utd,1,2007-08-15
+Newcastle,1,2007-08-18
+Aston Villa,1,2007-08-18
+Birmingham,0,2007-08-18
+West Ham,3,2007-08-18
+Fulham,0,2007-08-18
+Middlesbrough,3,2007-08-18
+Reading,3,2007-08-18
+Everton,0,2007-08-18
+Tottenham,3,2007-08-18
+Derby,0,2007-08-18
+Wigan,3,2007-08-18
+Sunderland,0,2007-08-18
+Portsmouth,3,2007-08-18
+Bolton,0,2007-08-18
+Liverpool,1,2007-08-19
+Chelsea,1,2007-08-19
+Blackburn,1,2007-08-19
+Arsenal,1,2007-08-19
+Man City,3,2007-08-19
+Man Utd,0,2007-08-19
+Everton,1,2007-08-25
+Blackburn,1,2007-08-25
+Arsenal,3,2007-08-25
+Man City,0,2007-08-25
+Aston Villa,3,2007-08-25
+Fulham,0,2007-08-25
+Bolton,3,2007-08-25
+Reading,0,2007-08-25
+Chelsea,3,2007-08-25
+Portsmouth,0,2007-08-25
+Derby,0,2007-08-25
+Birmingham,3,2007-08-25
+West Ham,1,2007-08-25
+Wigan,1,2007-08-25
+Sunderland,0,2007-08-25
+Liverpool,3,2007-08-25
+Man Utd,3,2007-08-26
+Tottenham,0,2007-08-26
+Middlesbrough,1,2007-08-26
+Newcastle,1,2007-08-26
+Man Utd,3,2007-09-01
+Sunderland,0,2007-09-01
+Bolton,0,2007-09-01
+Everton,3,2007-09-01
+Fulham,1,2007-09-01
+Tottenham,1,2007-09-01
+Liverpool,3,2007-09-01
+Derby,0,2007-09-01
+Middlesbrough,3,2007-09-01
+Birmingham,0,2007-09-01
+Newcastle,3,2007-09-01
+Wigan,0,2007-09-01
+Reading,0,2007-09-01
+West Ham,3,2007-09-01
+Aston Villa,3,2007-09-02
+Chelsea,0,2007-09-02
+Blackburn,3,2007-09-02
+Man City,0,2007-09-02
+Arsenal,3,2007-09-02
+Portsmouth,0,2007-09-02
+Chelsea,1,2007-09-15
+Blackburn,1,2007-09-15
+Birmingham,3,2007-09-15
+Bolton,0,2007-09-15
+Sunderland,3,2007-09-15
+Reading,0,2007-09-15
+West Ham,3,2007-09-15
+Middlesbrough,0,2007-09-15
+Wigan,1,2007-09-15
+Fulham,1,2007-09-15
+Tottenham,0,2007-09-15
+Arsenal,3,2007-09-15
+Portsmouth,1,2007-09-15
+Liverpool,1,2007-09-15
+Everton,0,2007-09-15
+Man Utd,3,2007-09-15
+Man City,3,2007-09-16
+Aston Villa,0,2007-09-16
+Derby,3,2007-09-17
+Newcastle,0,2007-09-17
+Fulham,1,2007-09-22
+Man City,1,2007-09-22
+Arsenal,3,2007-09-22
+Derby,0,2007-09-22
+Liverpool,1,2007-09-22
+Birmingham,1,2007-09-22
+Middlesbrough,1,2007-09-22
+Sunderland,1,2007-09-22
+Reading,3,2007-09-22
+Wigan,0,2007-09-22
+Man Utd,3,2007-09-23
+Chelsea,0,2007-09-23
+Blackburn,0,2007-09-23
+Portsmouth,3,2007-09-23
+Bolton,1,2007-09-23
+Tottenham,1,2007-09-23
+Aston Villa,3,2007-09-23
+Everton,0,2007-09-23
+Newcastle,3,2007-09-23
+West Ham,0,2007-09-23
+Birmingham,0,2007-09-29
+Man Utd,3,2007-09-29
+Chelsea,1,2007-09-29
+Fulham,1,2007-09-29
+Derby,1,2007-09-29
+Bolton,1,2007-09-29
+Portsmouth,3,2007-09-29
+Reading,0,2007-09-29
+Sunderland,0,2007-09-29
+Blackburn,3,2007-09-29
+West Ham,0,2007-09-29
+Arsenal,3,2007-09-29
+Wigan,0,2007-09-29
+Liverpool,3,2007-09-29
+Man City,3,2007-09-29
+Newcastle,0,2007-09-29
+Everton,3,2007-09-30
+Middlesbrough,0,2007-09-30
+Tottenham,1,2007-10-01
+Aston Villa,1,2007-10-01
+Aston Villa,3,2007-10-06
+West Ham,0,2007-10-06
+Man Utd,3,2007-10-06
+Wigan,0,2007-10-06
+Fulham,0,2007-10-07
+Portsmouth,3,2007-10-07
+Blackburn,3,2007-10-07
+Birmingham,0,2007-10-07
+Bolton,0,2007-10-07
+Chelsea,3,2007-10-07
+Liverpool,1,2007-10-07
+Tottenham,1,2007-10-07
+Man City,3,2007-10-07
+Middlesbrough,0,2007-10-07
+Newcastle,3,2007-10-07
+Everton,0,2007-10-07
+Reading,3,2007-10-07
+Derby,0,2007-10-07
+Arsenal,3,2007-10-07
+Sunderland,0,2007-10-07
+Aston Villa,0,2007-10-20
+Man Utd,3,2007-10-20
+Arsenal,3,2007-10-20
+Bolton,0,2007-10-20
+Blackburn,3,2007-10-20
+Reading,0,2007-10-20
+Fulham,1,2007-10-20
+Derby,1,2007-10-20
+Man City,3,2007-10-20
+Birmingham,0,2007-10-20
+Middlesbrough,0,2007-10-20
+Chelsea,3,2007-10-20
+Wigan,0,2007-10-20
+Portsmouth,3,2007-10-20
+Everton,0,2007-10-20
+Liverpool,3,2007-10-20
+West Ham,3,2007-10-21
+Sunderland,0,2007-10-21
+Newcastle,3,2007-10-22
+Tottenham,0,2007-10-22
+Portsmouth,1,2007-10-27
+West Ham,1,2007-10-27
+Birmingham,3,2007-10-27
+Wigan,0,2007-10-27
+Chelsea,3,2007-10-27
+Man City,0,2007-10-27
+Man Utd,3,2007-10-27
+Middlesbrough,0,2007-10-27
+Reading,3,2007-10-27
+Newcastle,0,2007-10-27
+Sunderland,1,2007-10-27
+Fulham,1,2007-10-27
+Liverpool,1,2007-10-28
+Arsenal,1,2007-10-28
+Tottenham,0,2007-10-28
+Blackburn,3,2007-10-28
+Derby,0,2007-10-28
+Everton,3,2007-10-28
+Bolton,1,2007-10-28
+Aston Villa,1,2007-10-28
+Blackburn,1,2007-11-03
+Liverpool,1,2007-11-03
+Aston Villa,3,2007-11-03
+Derby,0,2007-11-03
+Everton,3,2007-11-03
+Birmingham,0,2007-11-03
+Fulham,3,2007-11-03
+Reading,0,2007-11-03
+Middlesbrough,1,2007-11-03
+Tottenham,1,2007-11-03
+Newcastle,0,2007-11-03
+Portsmouth,3,2007-11-03
+Wigan,0,2007-11-03
+Chelsea,3,2007-11-03
+Arsenal,1,2007-11-03
+Man Utd,1,2007-11-03
+West Ham,1,2007-11-04
+Bolton,1,2007-11-04
+Man City,3,2007-11-05
+Sunderland,0,2007-11-05
+Liverpool,3,2007-11-10
+Fulham,0,2007-11-10
+Derby,0,2007-11-10
+West Ham,3,2007-11-10
+Sunderland,1,2007-11-10
+Newcastle,1,2007-11-10
+Portsmouth,1,2007-11-11
+Man City,1,2007-11-11
+Bolton,1,2007-11-11
+Middlesbrough,1,2007-11-11
+Man Utd,3,2007-11-11
+Blackburn,0,2007-11-11
+Tottenham,3,2007-11-11
+Wigan,0,2007-11-11
+Chelsea,1,2007-11-11
+Everton,1,2007-11-11
+Birmingham,0,2007-11-11
+Aston Villa,3,2007-11-11
+Reading,0,2007-11-12
+Arsenal,3,2007-11-12
+Derby,0,2007-11-24
+Chelsea,3,2007-11-24
+Arsenal,3,2007-11-24
+Wigan,0,2007-11-24
+Birmingham,0,2007-11-24
+Portsmouth,3,2007-11-24
+Bolton,3,2007-11-24
+Man Utd,0,2007-11-24
+Everton,3,2007-11-24
+Sunderland,0,2007-11-24
+Man City,3,2007-11-24
+Reading,0,2007-11-24
+Middlesbrough,0,2007-11-24
+Aston Villa,3,2007-11-24
+Newcastle,0,2007-11-24
+Liverpool,3,2007-11-24
+Fulham,1,2007-11-25
+Blackburn,1,2007-11-25
+West Ham,1,2007-11-25
+Tottenham,1,2007-11-25
+Blackburn,0,2007-11-28
+Aston Villa,3,2007-11-28
+Aston Villa,0,2007-12-01
+Arsenal,3,2007-12-01
+Blackburn,3,2007-12-01
+Newcastle,0,2007-12-01
+Portsmouth,1,2007-12-01
+Everton,1,2007-12-01
+Reading,1,2007-12-01
+Middlesbrough,1,2007-12-01
+Sunderland,3,2007-12-01
+Derby,0,2007-12-01
+Wigan,1,2007-12-01
+Man City,1,2007-12-01
+Chelsea,3,2007-12-01
+West Ham,0,2007-12-01
+Tottenham,0,2007-12-02
+Birmingham,3,2007-12-02
+Liverpool,3,2007-12-02
+Bolton,0,2007-12-02
+Man Utd,3,2007-12-03
+Fulham,0,2007-12-03
+Newcastle,1,2007-12-05
+Arsenal,1,2007-12-05
+Reading,3,2007-12-08
+Liverpool,0,2007-12-08
+Chelsea,3,2007-12-08
+Sunderland,0,2007-12-08
+Everton,3,2007-12-08
+Fulham,0,2007-12-08
+Man Utd,3,2007-12-08
+Derby,0,2007-12-08
+Newcastle,3,2007-12-08
+Birmingham,0,2007-12-08
+Aston Villa,0,2007-12-08
+Portsmouth,3,2007-12-08
+Blackburn,0,2007-12-09
+West Ham,3,2007-12-09
+Bolton,3,2007-12-09
+Wigan,0,2007-12-09
+Tottenham,3,2007-12-09
+Man City,0,2007-12-09
+Middlesbrough,3,2007-12-09
+Arsenal,0,2007-12-09
+Fulham,0,2007-12-15
+Newcastle,3,2007-12-15
+Birmingham,1,2007-12-15
+Reading,1,2007-12-15
+Derby,0,2007-12-15
+Middlesbrough,3,2007-12-15
+Man City,3,2007-12-15
+Bolton,0,2007-12-15
+Portsmouth,0,2007-12-15
+Tottenham,3,2007-12-15
+Sunderland,1,2007-12-15
+Aston Villa,1,2007-12-15
+West Ham,0,2007-12-15
+Everton,3,2007-12-15
+Wigan,3,2007-12-15
+Blackburn,0,2007-12-15
+Arsenal,3,2007-12-16
+Chelsea,0,2007-12-16
+Liverpool,0,2007-12-16
+Man Utd,3,2007-12-16
+Aston Villa,1,2007-12-22
+Man City,1,2007-12-22
+Bolton,3,2007-12-22
+Birmingham,0,2007-12-22
+Fulham,1,2007-12-22
+Wigan,1,2007-12-22
+Liverpool,3,2007-12-22
+Portsmouth,0,2007-12-22
+Middlesbrough,0,2007-12-22
+West Ham,3,2007-12-22
+Reading,3,2007-12-22
+Sunderland,0,2007-12-22
+Arsenal,3,2007-12-22
+Tottenham,0,2007-12-22
+Blackburn,0,2007-12-23
+Chelsea,3,2007-12-23
+Newcastle,1,2007-12-23
+Derby,1,2007-12-23
+Man Utd,3,2007-12-23
+Everton,0,2007-12-23
+Portsmouth,1,2007-12-26
+Arsenal,1,2007-12-26
+Birmingham,3,2007-12-26
+Middlesbrough,0,2007-12-26
+Derby,0,2007-12-26
+Liverpool,3,2007-12-26
+Everton,3,2007-12-26
+Bolton,0,2007-12-26
+Sunderland,0,2007-12-26
+Man Utd,3,2007-12-26
+Wigan,3,2007-12-26
+Newcastle,0,2007-12-26
+Chelsea,1,2007-12-26
+Aston Villa,1,2007-12-26
+Tottenham,3,2007-12-26
+Fulham,0,2007-12-26
+West Ham,1,2007-12-26
+Reading,1,2007-12-26
+Man City,1,2007-12-27
+Blackburn,1,2007-12-27
+Everton,0,2007-12-29
+Arsenal,3,2007-12-29
+Birmingham,1,2007-12-29
+Fulham,1,2007-12-29
+Chelsea,3,2007-12-29
+Newcastle,0,2007-12-29
+Portsmouth,0,2007-12-29
+Middlesbrough,3,2007-12-29
+Sunderland,3,2007-12-29
+Bolton,0,2007-12-29
+Tottenham,3,2007-12-29
+Reading,0,2007-12-29
+West Ham,3,2007-12-29
+Man Utd,0,2007-12-29
+Wigan,0,2007-12-29
+Aston Villa,3,2007-12-29
+Man City,1,2007-12-30
+Liverpool,1,2007-12-30
+Derby,0,2007-12-30
+Blackburn,3,2007-12-30
+Aston Villa,3,2008-01-01
+Tottenham,0,2008-01-01
+Arsenal,3,2008-01-01
+West Ham,0,2008-01-01
+Man Utd,3,2008-01-01
+Birmingham,0,2008-01-01
+Middlesbrough,0,2008-01-01
+Everton,3,2008-01-01
+Reading,0,2008-01-01
+Portsmouth,3,2008-01-01
+Fulham,0,2008-01-01
+Chelsea,3,2008-01-01
+Blackburn,3,2008-01-02
+Sunderland,0,2008-01-02
+Bolton,3,2008-01-02
+Derby,0,2008-01-02
+Liverpool,1,2008-01-02
+Wigan,1,2008-01-02
+Newcastle,0,2008-01-02
+Man City,3,2008-01-02
+Man Utd,3,2008-01-12
+Newcastle,0,2008-01-12
+Arsenal,1,2008-01-12
+Birmingham,1,2008-01-12
+Aston Villa,3,2008-01-12
+Reading,0,2008-01-12
+Chelsea,3,2008-01-12
+Tottenham,0,2008-01-12
+Derby,0,2008-01-12
+Wigan,3,2008-01-12
+Everton,3,2008-01-12
+Man City,0,2008-01-12
+Middlesbrough,1,2008-01-12
+Liverpool,1,2008-01-12
+West Ham,3,2008-01-12
+Fulham,0,2008-01-12
+Bolton,0,2008-01-13
+Blackburn,3,2008-01-13
+Sunderland,3,2008-01-13
+Portsmouth,0,2008-01-13
+Newcastle,1,2008-01-19
+Bolton,1,2008-01-19
+Birmingham,0,2008-01-19
+Chelsea,3,2008-01-19
+Blackburn,1,2008-01-19
+Middlesbrough,1,2008-01-19
+Fulham,0,2008-01-19
+Arsenal,3,2008-01-19
+Portsmouth,3,2008-01-19
+Derby,0,2008-01-19
+Reading,0,2008-01-19
+Man Utd,3,2008-01-19
+Tottenham,3,2008-01-19
+Sunderland,0,2008-01-19
+Man City,1,2008-01-20
+West Ham,1,2008-01-20
+Wigan,0,2008-01-20
+Everton,3,2008-01-20
+Liverpool,1,2008-01-21
+Aston Villa,1,2008-01-21
+Aston Villa,1,2008-01-26
+Blackburn,1,2008-01-26
+Sunderland,3,2008-01-29
+Birmingham,0,2008-01-29
+Arsenal,3,2008-01-29
+Newcastle,0,2008-01-29
+Bolton,1,2008-01-29
+Fulham,1,2008-01-29
+Middlesbrough,3,2008-01-29
+Wigan,0,2008-01-29
+Everton,1,2008-01-30
+Tottenham,1,2008-01-30
+Man Utd,3,2008-01-30
+Portsmouth,0,2008-01-30
+Chelsea,3,2008-01-30
+Reading,0,2008-01-30
+Derby,1,2008-01-30
+Man City,1,2008-01-30
+West Ham,3,2008-01-30
+Liverpool,0,2008-01-30
+Liverpool,3,2008-02-02
+Sunderland,0,2008-02-02
+Birmingham,1,2008-02-02
+Derby,1,2008-02-02
+Blackburn,1,2008-02-02
+Everton,1,2008-02-02
+Portsmouth,1,2008-02-02
+Chelsea,1,2008-02-02
+Reading,0,2008-02-02
+Bolton,3,2008-02-02
+Tottenham,1,2008-02-02
+Man Utd,1,2008-02-02
+Wigan,3,2008-02-02
+West Ham,0,2008-02-02
+Man City,0,2008-02-02
+Arsenal,3,2008-02-02
+Fulham,3,2008-02-03
+Aston Villa,0,2008-02-03
+Newcastle,1,2008-02-03
+Middlesbrough,1,2008-02-03
+Bolton,0,2008-02-09
+Portsmouth,3,2008-02-09
+Derby,0,2008-02-09
+Tottenham,3,2008-02-09
+Everton,3,2008-02-09
+Reading,0,2008-02-09
+Middlesbrough,3,2008-02-09
+Fulham,0,2008-02-09
+Sunderland,3,2008-02-09
+Wigan,0,2008-02-09
+West Ham,1,2008-02-09
+Birmingham,1,2008-02-09
+Aston Villa,3,2008-02-09
+Newcastle,0,2008-02-09
+Chelsea,1,2008-02-10
+Liverpool,1,2008-02-10
+Man Utd,0,2008-02-10
+Man City,3,2008-02-10
+Arsenal,3,2008-02-11
+Blackburn,0,2008-02-11
+Newcastle,0,2008-02-23
+Man Utd,3,2008-02-23
+Fulham,0,2008-02-23
+West Ham,3,2008-02-23
+Liverpool,3,2008-02-23
+Middlesbrough,0,2008-02-23
+Portsmouth,3,2008-02-23
+Sunderland,0,2008-02-23
+Wigan,3,2008-02-23
+Derby,0,2008-02-23
+Birmingham,1,2008-02-23
+Arsenal,1,2008-02-23
+Blackburn,3,2008-02-24
+Bolton,0,2008-02-24
+Reading,0,2008-02-24
+Aston Villa,3,2008-02-24
+Man City,0,2008-02-25
+Everton,3,2008-02-25
+Man City,1,2008-03-01
+Wigan,1,2008-03-01
+Arsenal,1,2008-03-01
+Aston Villa,1,2008-03-01
+Birmingham,3,2008-03-01
+Tottenham,0,2008-03-01
+Derby,1,2008-03-01
+Sunderland,1,2008-03-01
+Fulham,0,2008-03-01
+Man Utd,3,2008-03-01
+Middlesbrough,0,2008-03-01
+Reading,3,2008-03-01
+Newcastle,0,2008-03-01
+Blackburn,3,2008-03-01
+West Ham,0,2008-03-01
+Chelsea,3,2008-03-01
+Everton,3,2008-03-02
+Portsmouth,0,2008-03-02
+Bolton,0,2008-03-02
+Liverpool,3,2008-03-02
+Liverpool,3,2008-03-05
+West Ham,0,2008-03-05
+Blackburn,1,2008-03-08
+Fulham,1,2008-03-08
+Liverpool,3,2008-03-08
+Newcastle,0,2008-03-08
+Reading,3,2008-03-08
+Man City,0,2008-03-08
+Wigan,1,2008-03-09
+Arsenal,1,2008-03-09
+Sunderland,0,2008-03-09
+Everton,3,2008-03-09
+Tottenham,3,2008-03-09
+West Ham,0,2008-03-09
+Chelsea,3,2008-03-12
+Derby,0,2008-03-12
+Aston Villa,1,2008-03-12
+Middlesbrough,1,2008-03-12
+Portsmouth,3,2008-03-12
+Birmingham,0,2008-03-12
+Arsenal,1,2008-03-15
+Middlesbrough,1,2008-03-15
+Derby,0,2008-03-15
+Man Utd,3,2008-03-15
+Liverpool,3,2008-03-15
+Reading,0,2008-03-15
+Portsmouth,3,2008-03-15
+Aston Villa,0,2008-03-15
+Sunderland,0,2008-03-15
+Chelsea,3,2008-03-15
+West Ham,3,2008-03-15
+Blackburn,0,2008-03-15
+Man City,3,2008-03-16
+Tottenham,0,2008-03-16
+Wigan,3,2008-03-16
+Bolton,0,2008-03-16
+Fulham,3,2008-03-16
+Everton,0,2008-03-16
+Birmingham,1,2008-03-17
+Newcastle,1,2008-03-17
+Man Utd,3,2008-03-19
+Bolton,0,2008-03-19
+Tottenham,1,2008-03-19
+Chelsea,1,2008-03-19
+Everton,1,2008-03-22
+West Ham,1,2008-03-22
+Aston Villa,0,2008-03-22
+Sunderland,3,2008-03-22
+Blackburn,3,2008-03-22
+Wigan,0,2008-03-22
+Bolton,1,2008-03-22
+Man City,1,2008-03-22
+Middlesbrough,3,2008-03-22
+Derby,0,2008-03-22
+Newcastle,3,2008-03-22
+Fulham,0,2008-03-22
+Reading,3,2008-03-22
+Birmingham,0,2008-03-22
+Tottenham,3,2008-03-22
+Portsmouth,0,2008-03-22
+Chelsea,3,2008-03-23
+Arsenal,0,2008-03-23
+Man Utd,3,2008-03-23
+Liverpool,0,2008-03-23
+Man Utd,3,2008-03-29
+Aston Villa,0,2008-03-29
+Birmingham,3,2008-03-29
+Man City,0,2008-03-29
+Bolton,0,2008-03-29
+Arsenal,3,2008-03-29
+Derby,1,2008-03-29
+Fulham,1,2008-03-29
+Portsmouth,3,2008-03-29
+Wigan,0,2008-03-29
+Reading,1,2008-03-29
+Blackburn,1,2008-03-29
+Sunderland,3,2008-03-29
+West Ham,0,2008-03-29
+Liverpool,3,2008-03-30
+Everton,0,2008-03-30
+Tottenham,0,2008-03-30
+Newcastle,3,2008-03-30
+Chelsea,3,2008-03-30
+Middlesbrough,0,2008-03-30
+Aston Villa,3,2008-04-05
+Bolton,0,2008-04-05
+Blackburn,1,2008-04-05
+Tottenham,1,2008-04-05
+Fulham,0,2008-04-05
+Sunderland,3,2008-04-05
+Man City,0,2008-04-05
+Chelsea,3,2008-04-05
+Newcastle,3,2008-04-05
+Reading,0,2008-04-05
+Wigan,3,2008-04-05
+Birmingham,0,2008-04-05
+Arsenal,1,2008-04-05
+Liverpool,1,2008-04-05
+Everton,3,2008-04-06
+Derby,0,2008-04-06
+Middlesbrough,1,2008-04-06
+Man Utd,1,2008-04-06
+West Ham,0,2008-04-08
+Portsmouth,3,2008-04-08
+Portsmouth,1,2008-04-12
+Newcastle,1,2008-04-12
+Birmingham,1,2008-04-12
+Everton,1,2008-04-12
+Bolton,3,2008-04-12
+West Ham,0,2008-04-12
+Derby,0,2008-04-12
+Aston Villa,3,2008-04-12
+Reading,0,2008-04-12
+Fulham,3,2008-04-12
+Sunderland,0,2008-04-12
+Man City,3,2008-04-12
+Tottenham,1,2008-04-12
+Middlesbrough,1,2008-04-12
+Man Utd,3,2008-04-13
+Arsenal,0,2008-04-13
+Liverpool,3,2008-04-13
+Blackburn,0,2008-04-13
+Chelsea,1,2008-04-14
+Wigan,1,2008-04-14
+Everton,0,2008-04-17
+Chelsea,3,2008-04-17
+Blackburn,1,2008-04-19
+Man Utd,1,2008-04-19
+Fulham,0,2008-04-19
+Liverpool,3,2008-04-19
+Middlesbrough,0,2008-04-19
+Bolton,3,2008-04-19
+West Ham,3,2008-04-19
+Derby,0,2008-04-19
+Wigan,1,2008-04-19
+Tottenham,1,2008-04-19
+Arsenal,3,2008-04-19
+Reading,0,2008-04-19
+Man City,3,2008-04-20
+Portsmouth,0,2008-04-20
+Newcastle,3,2008-04-20
+Sunderland,0,2008-04-20
+Aston Villa,3,2008-04-20
+Birmingham,0,2008-04-20
+Birmingham,1,2008-04-26
+Liverpool,1,2008-04-26
+Man City,0,2008-04-26
+Fulham,3,2008-04-26
+Sunderland,3,2008-04-26
+Middlesbrough,0,2008-04-26
+Tottenham,1,2008-04-26
+Bolton,1,2008-04-26
+West Ham,1,2008-04-26
+Newcastle,1,2008-04-26
+Wigan,1,2008-04-26
+Reading,1,2008-04-26
+Chelsea,3,2008-04-26
+Man Utd,0,2008-04-26
+Everton,1,2008-04-27
+Aston Villa,1,2008-04-27
+Portsmouth,0,2008-04-27
+Blackburn,3,2008-04-27
+Derby,0,2008-04-28
+Arsenal,3,2008-04-28
+Bolton,3,2008-05-03
+Sunderland,0,2008-05-03
+Aston Villa,0,2008-05-03
+Wigan,3,2008-05-03
+Blackburn,3,2008-05-03
+Derby,0,2008-05-03
+Fulham,3,2008-05-03
+Birmingham,0,2008-05-03
+Middlesbrough,3,2008-05-03
+Portsmouth,0,2008-05-03
+Reading,0,2008-05-03
+Tottenham,3,2008-05-03
+Man Utd,3,2008-05-03
+West Ham,0,2008-05-03
+Liverpool,3,2008-05-04
+Man City,0,2008-05-04
+Arsenal,3,2008-05-04
+Everton,0,2008-05-04
+Newcastle,0,2008-05-05
+Chelsea,3,2008-05-05
+Birmingham,3,2008-05-11
+Blackburn,0,2008-05-11
+Chelsea,1,2008-05-11
+Bolton,1,2008-05-11
+Derby,0,2008-05-11
+Reading,3,2008-05-11
+Everton,3,2008-05-11
+Newcastle,0,2008-05-11
+Middlesbrough,3,2008-05-11
+Man City,0,2008-05-11
+Portsmouth,0,2008-05-11
+Fulham,3,2008-05-11
+Sunderland,0,2008-05-11
+Arsenal,3,2008-05-11
+Tottenham,0,2008-05-11
+Liverpool,3,2008-05-11
+West Ham,1,2008-05-11
+Aston Villa,1,2008-05-11
+Wigan,0,2008-05-11
+Man Utd,3,2008-05-11

@@ -1,0 +1,761 @@
+team,points,date
+Newcastle,1,2011-08-13
+Arsenal,1,2011-08-13
+Blackburn,0,2011-08-13
+Wolves,3,2011-08-13
+Fulham,1,2011-08-13
+Aston Villa,1,2011-08-13
+Liverpool,1,2011-08-13
+Sunderland,1,2011-08-13
+QPR,0,2011-08-13
+Bolton,3,2011-08-13
+Wigan,1,2011-08-13
+Norwich,1,2011-08-13
+West Brom,0,2011-08-14
+Man Utd,3,2011-08-14
+Stoke,1,2011-08-14
+Chelsea,1,2011-08-14
+Man City,3,2011-08-15
+Swansea,0,2011-08-15
+Chelsea,3,2011-08-20
+West Brom,0,2011-08-20
+Aston Villa,3,2011-08-20
+Blackburn,0,2011-08-20
+Everton,0,2011-08-20
+QPR,3,2011-08-20
+Swansea,1,2011-08-20
+Wigan,1,2011-08-20
+Arsenal,0,2011-08-20
+Liverpool,3,2011-08-20
+Sunderland,0,2011-08-20
+Newcastle,3,2011-08-20
+Bolton,0,2011-08-21
+Man City,3,2011-08-21
+Wolves,3,2011-08-21
+Fulham,0,2011-08-21
+Norwich,1,2011-08-21
+Stoke,1,2011-08-21
+Man Utd,3,2011-08-22
+Tottenham,0,2011-08-22
+Liverpool,3,2011-08-27
+Bolton,0,2011-08-27
+Blackburn,0,2011-08-27
+Everton,3,2011-08-27
+Chelsea,3,2011-08-27
+Norwich,0,2011-08-27
+Swansea,1,2011-08-27
+Sunderland,1,2011-08-27
+Wigan,3,2011-08-27
+QPR,0,2011-08-27
+Aston Villa,1,2011-08-27
+Wolves,1,2011-08-27
+Man Utd,3,2011-08-28
+Arsenal,0,2011-08-28
+West Brom,0,2011-08-28
+Stoke,3,2011-08-28
+Tottenham,0,2011-08-28
+Man City,3,2011-08-28
+Newcastle,3,2011-08-28
+Fulham,0,2011-08-28
+Bolton,0,2011-09-10
+Man Utd,3,2011-09-10
+Arsenal,3,2011-09-10
+Swansea,0,2011-09-10
+Everton,1,2011-09-10
+Aston Villa,1,2011-09-10
+Man City,3,2011-09-10
+Wigan,0,2011-09-10
+Stoke,3,2011-09-10
+Liverpool,0,2011-09-10
+Sunderland,0,2011-09-10
+Chelsea,3,2011-09-10
+Wolves,0,2011-09-10
+Tottenham,3,2011-09-10
+Fulham,1,2011-09-11
+Blackburn,1,2011-09-11
+Norwich,0,2011-09-11
+West Brom,3,2011-09-11
+QPR,1,2011-09-12
+Newcastle,1,2011-09-12
+Aston Villa,1,2011-09-17
+Newcastle,1,2011-09-17
+Bolton,0,2011-09-17
+Norwich,3,2011-09-17
+Everton,3,2011-09-17
+Wigan,0,2011-09-17
+Swansea,3,2011-09-17
+West Brom,0,2011-09-17
+Wolves,0,2011-09-17
+QPR,3,2011-09-17
+Blackburn,3,2011-09-17
+Arsenal,0,2011-09-17
+Man Utd,3,2011-09-18
+Chelsea,0,2011-09-18
+Fulham,1,2011-09-18
+Man City,1,2011-09-18
+Sunderland,3,2011-09-18
+Stoke,0,2011-09-18
+Tottenham,3,2011-09-18
+Liverpool,0,2011-09-18
+Stoke,1,2011-09-24
+Man Utd,1,2011-09-24
+Arsenal,3,2011-09-24
+Bolton,0,2011-09-24
+Chelsea,3,2011-09-24
+Swansea,0,2011-09-24
+Liverpool,3,2011-09-24
+Wolves,0,2011-09-24
+Newcastle,3,2011-09-24
+Blackburn,0,2011-09-24
+West Brom,1,2011-09-24
+Fulham,1,2011-09-24
+Wigan,0,2011-09-24
+Tottenham,3,2011-09-24
+Man City,3,2011-09-24
+Everton,0,2011-09-24
+QPR,1,2011-09-25
+Aston Villa,1,2011-09-25
+Norwich,3,2011-09-26
+Sunderland,0,2011-09-26
+Aston Villa,3,2011-10-01
+Wigan,0,2011-10-01
+Blackburn,0,2011-10-01
+Man City,3,2011-10-01
+Man Utd,3,2011-10-01
+Norwich,0,2011-10-01
+Sunderland,1,2011-10-01
+West Brom,1,2011-10-01
+Wolves,0,2011-10-01
+Newcastle,3,2011-10-01
+Everton,0,2011-10-01
+Liverpool,3,2011-10-01
+Tottenham,3,2011-10-02
+Arsenal,0,2011-10-02
+Fulham,3,2011-10-02
+QPR,0,2011-10-02
+Swansea,3,2011-10-02
+Stoke,0,2011-10-02
+Bolton,0,2011-10-02
+Chelsea,3,2011-10-02
+Chelsea,3,2011-10-15
+Everton,0,2011-10-15
+Man City,3,2011-10-15
+Aston Villa,0,2011-10-15
+Norwich,3,2011-10-15
+Swansea,0,2011-10-15
+QPR,1,2011-10-15
+Blackburn,1,2011-10-15
+Stoke,3,2011-10-15
+Fulham,0,2011-10-15
+Wigan,0,2011-10-15
+Bolton,3,2011-10-15
+Liverpool,1,2011-10-15
+Man Utd,1,2011-10-15
+Newcastle,1,2011-10-16
+Tottenham,1,2011-10-16
+Arsenal,3,2011-10-16
+Sunderland,0,2011-10-16
+West Brom,3,2011-10-16
+Wolves,0,2011-10-16
+Liverpool,1,2011-10-22
+Norwich,1,2011-10-22
+Aston Villa,0,2011-10-22
+West Brom,3,2011-10-22
+Bolton,0,2011-10-22
+Sunderland,3,2011-10-22
+Newcastle,3,2011-10-22
+Wigan,0,2011-10-22
+Wolves,1,2011-10-22
+Swansea,1,2011-10-22
+QPR,3,2011-10-23
+Chelsea,0,2011-10-23
+Blackburn,0,2011-10-23
+Tottenham,3,2011-10-23
+Arsenal,3,2011-10-23
+Stoke,0,2011-10-23
+Fulham,0,2011-10-23
+Everton,3,2011-10-23
+Man Utd,0,2011-10-23
+Man City,3,2011-10-23
+West Brom,0,2011-10-29
+Liverpool,3,2011-10-29
+Man City,3,2011-10-29
+Wolves,0,2011-10-29
+Norwich,1,2011-10-29
+Blackburn,1,2011-10-29
+Sunderland,1,2011-10-29
+Aston Villa,1,2011-10-29
+Swansea,3,2011-10-29
+Bolton,0,2011-10-29
+Wigan,0,2011-10-29
+Fulham,3,2011-10-29
+Chelsea,0,2011-10-29
+Arsenal,3,2011-10-29
+Everton,0,2011-10-29
+Man Utd,3,2011-10-29
+Tottenham,3,2011-10-30
+QPR,0,2011-10-30
+Stoke,0,2011-10-31
+Newcastle,3,2011-10-31
+QPR,0,2011-11-05
+Man City,3,2011-11-05
+Arsenal,3,2011-11-05
+West Brom,0,2011-11-05
+Aston Villa,3,2011-11-05
+Norwich,0,2011-11-05
+Blackburn,0,2011-11-05
+Chelsea,3,2011-11-05
+Liverpool,1,2011-11-05
+Swansea,1,2011-11-05
+Man Utd,3,2011-11-05
+Sunderland,0,2011-11-05
+Newcastle,3,2011-11-05
+Everton,0,2011-11-05
+Fulham,0,2011-11-06
+Tottenham,3,2011-11-06
+Bolton,3,2011-11-06
+Stoke,0,2011-11-06
+Wolves,3,2011-11-06
+Wigan,0,2011-11-06
+Swansea,0,2011-11-19
+Man Utd,3,2011-11-19
+Everton,3,2011-11-19
+Wolves,0,2011-11-19
+Man City,3,2011-11-19
+Newcastle,0,2011-11-19
+Stoke,0,2011-11-19
+QPR,3,2011-11-19
+Sunderland,1,2011-11-19
+Fulham,1,2011-11-19
+West Brom,3,2011-11-19
+Bolton,0,2011-11-19
+Wigan,1,2011-11-19
+Blackburn,1,2011-11-19
+Norwich,0,2011-11-19
+Arsenal,3,2011-11-19
+Chelsea,0,2011-11-20
+Liverpool,3,2011-11-20
+Tottenham,3,2011-11-21
+Aston Villa,0,2011-11-21
+Arsenal,1,2011-11-26
+Fulham,1,2011-11-26
+Bolton,0,2011-11-26
+Everton,3,2011-11-26
+Chelsea,3,2011-11-26
+Wolves,0,2011-11-26
+Man Utd,1,2011-11-26
+Newcastle,1,2011-11-26
+Norwich,3,2011-11-26
+QPR,0,2011-11-26
+Sunderland,0,2011-11-26
+Wigan,3,2011-11-26
+West Brom,0,2011-11-26
+Tottenham,3,2011-11-26
+Stoke,3,2011-11-26
+Blackburn,0,2011-11-26
+Liverpool,1,2011-11-27
+Man City,1,2011-11-27
+Swansea,1,2011-11-27
+Aston Villa,1,2011-11-27
+Aston Villa,0,2011-12-03
+Man Utd,3,2011-12-03
+Blackburn,3,2011-12-03
+Swansea,0,2011-12-03
+Man City,3,2011-12-03
+Norwich,0,2011-12-03
+QPR,1,2011-12-03
+West Brom,1,2011-12-03
+Tottenham,3,2011-12-03
+Bolton,0,2011-12-03
+Wigan,0,2011-12-03
+Arsenal,3,2011-12-03
+Newcastle,0,2011-12-03
+Chelsea,3,2011-12-03
+Wolves,3,2011-12-04
+Sunderland,0,2011-12-04
+Everton,0,2011-12-04
+Stoke,3,2011-12-04
+Fulham,3,2011-12-05
+Liverpool,0,2011-12-05
+Arsenal,3,2011-12-10
+Everton,0,2011-12-10
+Bolton,0,2011-12-10
+Aston Villa,3,2011-12-10
+Liverpool,3,2011-12-10
+QPR,0,2011-12-10
+Man Utd,3,2011-12-10
+Wolves,0,2011-12-10
+Norwich,3,2011-12-10
+Newcastle,0,2011-12-10
+Swansea,3,2011-12-10
+Fulham,0,2011-12-10
+West Brom,0,2011-12-10
+Wigan,3,2011-12-10
+Stoke,3,2011-12-11
+Tottenham,0,2011-12-11
+Sunderland,3,2011-12-11
+Blackburn,0,2011-12-11
+Chelsea,3,2011-12-12
+Man City,0,2011-12-12
+Wigan,1,2011-12-17
+Chelsea,1,2011-12-17
+Blackburn,0,2011-12-17
+West Brom,3,2011-12-17
+Everton,1,2011-12-17
+Norwich,1,2011-12-17
+Fulham,3,2011-12-17
+Bolton,0,2011-12-17
+Newcastle,1,2011-12-17
+Swansea,1,2011-12-17
+Wolves,0,2011-12-17
+Stoke,3,2011-12-17
+Man City,3,2011-12-18
+Arsenal,0,2011-12-18
+Tottenham,3,2011-12-18
+Sunderland,0,2011-12-18
+Aston Villa,0,2011-12-18
+Liverpool,3,2011-12-18
+QPR,0,2011-12-18
+Man Utd,3,2011-12-18
+Blackburn,0,2011-12-20
+Bolton,3,2011-12-20
+Wolves,1,2011-12-20
+Norwich,1,2011-12-20
+Everton,3,2011-12-21
+Swansea,0,2011-12-21
+Fulham,0,2011-12-21
+Man Utd,3,2011-12-21
+QPR,0,2011-12-21
+Sunderland,3,2011-12-21
+Wigan,1,2011-12-21
+Liverpool,1,2011-12-21
+Aston Villa,0,2011-12-21
+Arsenal,3,2011-12-21
+Man City,3,2011-12-21
+Stoke,0,2011-12-21
+Newcastle,0,2011-12-21
+West Brom,3,2011-12-21
+Tottenham,1,2011-12-22
+Chelsea,1,2011-12-22
+Stoke,1,2011-12-26
+Aston Villa,1,2011-12-26
+Bolton,0,2011-12-26
+Newcastle,3,2011-12-26
+Liverpool,1,2011-12-26
+Blackburn,1,2011-12-26
+Man Utd,3,2011-12-26
+Wigan,0,2011-12-26
+Sunderland,1,2011-12-26
+Everton,1,2011-12-26
+West Brom,1,2011-12-26
+Man City,1,2011-12-26
+Chelsea,1,2011-12-26
+Fulham,1,2011-12-26
+Norwich,0,2011-12-27
+Tottenham,3,2011-12-27
+Swansea,1,2011-12-27
+QPR,1,2011-12-27
+Arsenal,1,2011-12-27
+Wolves,1,2011-12-27
+Liverpool,3,2011-12-30
+Newcastle,0,2011-12-30
+Arsenal,3,2011-12-31
+QPR,0,2011-12-31
+Bolton,1,2011-12-31
+Wolves,1,2011-12-31
+Chelsea,0,2011-12-31
+Aston Villa,3,2011-12-31
+Norwich,1,2011-12-31
+Fulham,1,2011-12-31
+Stoke,1,2011-12-31
+Wigan,1,2011-12-31
+Swansea,1,2011-12-31
+Tottenham,1,2011-12-31
+Man Utd,0,2011-12-31
+Blackburn,3,2011-12-31
+Sunderland,3,2012-01-01
+Man City,0,2012-01-01
+West Brom,0,2012-01-01
+Everton,3,2012-01-01
+Fulham,3,2012-01-02
+Arsenal,0,2012-01-02
+Aston Villa,0,2012-01-02
+Swansea,3,2012-01-02
+Blackburn,0,2012-01-02
+Stoke,3,2012-01-02
+QPR,0,2012-01-02
+Norwich,3,2012-01-02
+Wolves,0,2012-01-02
+Chelsea,3,2012-01-02
+Man City,3,2012-01-03
+Liverpool,0,2012-01-03
+Tottenham,3,2012-01-03
+West Brom,0,2012-01-03
+Wigan,0,2012-01-03
+Sunderland,3,2012-01-03
+Everton,0,2012-01-04
+Bolton,3,2012-01-04
+Newcastle,3,2012-01-04
+Man Utd,0,2012-01-04
+Tottenham,3,2012-01-11
+Everton,0,2012-01-11
+Aston Villa,1,2012-01-14
+Everton,1,2012-01-14
+Blackburn,3,2012-01-14
+Fulham,0,2012-01-14
+Chelsea,3,2012-01-14
+Sunderland,0,2012-01-14
+Liverpool,1,2012-01-14
+Stoke,1,2012-01-14
+Man Utd,3,2012-01-14
+Bolton,0,2012-01-14
+Tottenham,1,2012-01-14
+Wolves,1,2012-01-14
+West Brom,0,2012-01-14
+Norwich,3,2012-01-14
+Swansea,3,2012-01-15
+Arsenal,0,2012-01-15
+Newcastle,3,2012-01-15
+QPR,0,2012-01-15
+Wigan,0,2012-01-16
+Man City,3,2012-01-16
+Bolton,3,2012-01-21
+Liverpool,0,2012-01-21
+Everton,1,2012-01-21
+Blackburn,1,2012-01-21
+Fulham,3,2012-01-21
+Newcastle,0,2012-01-21
+QPR,3,2012-01-21
+Wigan,0,2012-01-21
+Stoke,0,2012-01-21
+West Brom,3,2012-01-21
+Sunderland,3,2012-01-21
+Swansea,0,2012-01-21
+Wolves,0,2012-01-21
+Aston Villa,3,2012-01-21
+Norwich,1,2012-01-21
+Chelsea,1,2012-01-21
+Arsenal,0,2012-01-22
+Man Utd,3,2012-01-22
+Man City,3,2012-01-22
+Tottenham,0,2012-01-22
+Everton,3,2012-01-31
+Man City,0,2012-01-31
+Man Utd,3,2012-01-31
+Stoke,0,2012-01-31
+Swansea,1,2012-01-31
+Chelsea,1,2012-01-31
+Tottenham,3,2012-01-31
+Wigan,0,2012-01-31
+Wolves,0,2012-01-31
+Liverpool,3,2012-01-31
+Blackburn,0,2012-02-01
+Newcastle,3,2012-02-01
+Bolton,1,2012-02-01
+Arsenal,1,2012-02-01
+Fulham,1,2012-02-01
+West Brom,1,2012-02-01
+Sunderland,3,2012-02-01
+Norwich,0,2012-02-01
+Aston Villa,1,2012-02-01
+QPR,1,2012-02-01
+Man City,3,2012-02-04
+Fulham,0,2012-02-04
+Norwich,3,2012-02-04
+Bolton,0,2012-02-04
+QPR,0,2012-02-04
+Wolves,3,2012-02-04
+Stoke,0,2012-02-04
+Sunderland,3,2012-02-04
+West Brom,0,2012-02-04
+Swansea,3,2012-02-04
+Wigan,1,2012-02-04
+Everton,1,2012-02-04
+Arsenal,3,2012-02-04
+Blackburn,0,2012-02-04
+Chelsea,1,2012-02-05
+Man Utd,1,2012-02-05
+Newcastle,3,2012-02-05
+Aston Villa,0,2012-02-05
+Liverpool,1,2012-02-06
+Tottenham,1,2012-02-06
+Tottenham,3,2012-02-11
+Newcastle,0,2012-02-11
+Blackburn,3,2012-02-11
+QPR,0,2012-02-11
+Bolton,0,2012-02-11
+Wigan,3,2012-02-11
+Everton,3,2012-02-11
+Chelsea,0,2012-02-11
+Fulham,3,2012-02-11
+Stoke,0,2012-02-11
+Sunderland,0,2012-02-11
+Arsenal,3,2012-02-11
+Swansea,0,2012-02-11
+Norwich,3,2012-02-11
+Man Utd,3,2012-02-11
+Liverpool,0,2012-02-11
+Aston Villa,0,2012-02-12
+Man City,3,2012-02-12
+Wolves,0,2012-02-12
+West Brom,3,2012-02-12
+Man City,3,2012-02-25
+Blackburn,0,2012-02-25
+Chelsea,3,2012-02-25
+Bolton,0,2012-02-25
+Newcastle,1,2012-02-25
+Wolves,1,2012-02-25
+QPR,0,2012-02-25
+Fulham,3,2012-02-25
+West Brom,3,2012-02-25
+Sunderland,0,2012-02-25
+Wigan,1,2012-02-25
+Aston Villa,1,2012-02-25
+Stoke,3,2012-02-26
+Swansea,0,2012-02-26
+Arsenal,3,2012-02-26
+Tottenham,0,2012-02-26
+Norwich,0,2012-02-26
+Man Utd,3,2012-02-26
+Blackburn,1,2012-03-03
+Aston Villa,1,2012-03-03
+Man City,3,2012-03-03
+Bolton,0,2012-03-03
+QPR,1,2012-03-03
+Everton,1,2012-03-03
+Stoke,3,2012-03-03
+Norwich,0,2012-03-03
+West Brom,3,2012-03-03
+Chelsea,0,2012-03-03
+Wigan,0,2012-03-03
+Swansea,3,2012-03-03
+Liverpool,0,2012-03-03
+Arsenal,3,2012-03-03
+Tottenham,0,2012-03-04
+Man Utd,3,2012-03-04
+Fulham,3,2012-03-04
+Wolves,0,2012-03-04
+Newcastle,1,2012-03-04
+Sunderland,1,2012-03-04
+Everton,3,2012-03-10
+Tottenham,0,2012-03-10
+Aston Villa,3,2012-03-10
+Fulham,0,2012-03-10
+Chelsea,3,2012-03-10
+Stoke,0,2012-03-10
+Sunderland,3,2012-03-10
+Liverpool,0,2012-03-10
+Wolves,0,2012-03-10
+Blackburn,3,2012-03-10
+Bolton,3,2012-03-10
+QPR,0,2012-03-10
+Norwich,1,2012-03-11
+Wigan,1,2012-03-11
+Man Utd,3,2012-03-11
+West Brom,0,2012-03-11
+Swansea,3,2012-03-11
+Man City,0,2012-03-11
+Arsenal,3,2012-03-12
+Newcastle,0,2012-03-12
+Liverpool,3,2012-03-13
+Everton,0,2012-03-13
+Fulham,0,2012-03-17
+Swansea,3,2012-03-17
+Wigan,1,2012-03-17
+West Brom,1,2012-03-17
+Newcastle,3,2012-03-18
+Norwich,0,2012-03-18
+Wolves,0,2012-03-18
+Man Utd,3,2012-03-18
+Blackburn,3,2012-03-20
+Sunderland,0,2012-03-20
+Everton,0,2012-03-21
+Arsenal,3,2012-03-21
+QPR,3,2012-03-21
+Liverpool,0,2012-03-21
+Man City,3,2012-03-21
+Chelsea,0,2012-03-21
+Tottenham,1,2012-03-21
+Stoke,1,2012-03-21
+Stoke,1,2012-03-24
+Man City,1,2012-03-24
+Arsenal,3,2012-03-24
+Aston Villa,0,2012-03-24
+Bolton,3,2012-03-24
+Blackburn,0,2012-03-24
+Liverpool,0,2012-03-24
+Wigan,3,2012-03-24
+Norwich,3,2012-03-24
+Wolves,0,2012-03-24
+Sunderland,3,2012-03-24
+QPR,0,2012-03-24
+Swansea,0,2012-03-24
+Everton,3,2012-03-24
+Chelsea,1,2012-03-24
+Tottenham,1,2012-03-24
+West Brom,0,2012-03-25
+Newcastle,3,2012-03-25
+Man Utd,3,2012-03-26
+Fulham,0,2012-03-26
+Aston Villa,0,2012-03-31
+Chelsea,3,2012-03-31
+Everton,3,2012-03-31
+West Brom,0,2012-03-31
+Fulham,3,2012-03-31
+Norwich,0,2012-03-31
+Man City,1,2012-03-31
+Sunderland,1,2012-03-31
+QPR,3,2012-03-31
+Arsenal,0,2012-03-31
+Wigan,3,2012-03-31
+Stoke,0,2012-03-31
+Wolves,0,2012-03-31
+Bolton,3,2012-03-31
+Tottenham,3,2012-04-01
+Swansea,0,2012-04-01
+Newcastle,3,2012-04-01
+Liverpool,0,2012-04-01
+Blackburn,0,2012-04-02
+Man Utd,3,2012-04-02
+Swansea,0,2012-04-06
+Newcastle,3,2012-04-06
+Stoke,3,2012-04-07
+Wolves,0,2012-04-07
+Bolton,0,2012-04-07
+Fulham,3,2012-04-07
+Chelsea,3,2012-04-07
+Wigan,0,2012-04-07
+Liverpool,1,2012-04-07
+Aston Villa,1,2012-04-07
+Norwich,1,2012-04-07
+Everton,1,2012-04-07
+West Brom,3,2012-04-07
+Blackburn,0,2012-04-07
+Sunderland,1,2012-04-07
+Tottenham,1,2012-04-07
+Arsenal,3,2012-04-08
+Man City,0,2012-04-08
+Man Utd,3,2012-04-08
+QPR,0,2012-04-08
+Fulham,1,2012-04-09
+Chelsea,1,2012-04-09
+Aston Villa,1,2012-04-09
+Stoke,1,2012-04-09
+Everton,3,2012-04-09
+Sunderland,0,2012-04-09
+Newcastle,3,2012-04-09
+Bolton,0,2012-04-09
+Tottenham,0,2012-04-09
+Norwich,3,2012-04-09
+Blackburn,0,2012-04-10
+Liverpool,3,2012-04-10
+QPR,3,2012-04-11
+Swansea,0,2012-04-11
+Man City,3,2012-04-11
+West Brom,0,2012-04-11
+Wigan,3,2012-04-11
+Man Utd,0,2012-04-11
+Wolves,0,2012-04-11
+Arsenal,3,2012-04-11
+Sunderland,1,2012-04-14
+Wolves,1,2012-04-14
+Swansea,3,2012-04-14
+Blackburn,0,2012-04-14
+West Brom,3,2012-04-14
+QPR,0,2012-04-14
+Norwich,0,2012-04-14
+Man City,3,2012-04-14
+Man Utd,3,2012-04-15
+Aston Villa,0,2012-04-15
+Arsenal,0,2012-04-16
+Wigan,3,2012-04-16
+QPR,3,2012-04-21
+Tottenham,0,2012-04-21
+Aston Villa,1,2012-04-21
+Sunderland,1,2012-04-21
+Blackburn,3,2012-04-21
+Norwich,0,2012-04-21
+Bolton,1,2012-04-21
+Swansea,1,2012-04-21
+Fulham,3,2012-04-21
+Wigan,0,2012-04-21
+Newcastle,3,2012-04-21
+Stoke,0,2012-04-21
+Arsenal,1,2012-04-21
+Chelsea,1,2012-04-21
+Liverpool,0,2012-04-22
+West Brom,3,2012-04-22
+Wolves,0,2012-04-22
+Man City,3,2012-04-22
+Man Utd,1,2012-04-22
+Everton,1,2012-04-22
+Aston Villa,0,2012-04-24
+Bolton,3,2012-04-24
+Norwich,0,2012-04-28
+Liverpool,3,2012-04-28
+Everton,3,2012-04-28
+Fulham,0,2012-04-28
+Stoke,1,2012-04-28
+Arsenal,1,2012-04-28
+Sunderland,1,2012-04-28
+Bolton,1,2012-04-28
+Swansea,1,2012-04-28
+Wolves,1,2012-04-28
+West Brom,1,2012-04-28
+Aston Villa,1,2012-04-28
+Wigan,3,2012-04-28
+Newcastle,0,2012-04-28
+Tottenham,3,2012-04-29
+Blackburn,0,2012-04-29
+Chelsea,3,2012-04-29
+QPR,0,2012-04-29
+Man City,3,2012-04-30
+Man Utd,0,2012-04-30
+Liverpool,0,2012-05-01
+Fulham,3,2012-05-01
+Stoke,1,2012-05-01
+Everton,1,2012-05-01
+Bolton,0,2012-05-02
+Tottenham,3,2012-05-02
+Chelsea,0,2012-05-02
+Newcastle,3,2012-05-02
+Arsenal,1,2012-05-05
+Norwich,1,2012-05-05
+Man Utd,3,2012-05-06
+Swansea,0,2012-05-06
+Aston Villa,1,2012-05-06
+Tottenham,1,2012-05-06
+Bolton,1,2012-05-06
+West Brom,1,2012-05-06
+Fulham,3,2012-05-06
+Sunderland,0,2012-05-06
+QPR,3,2012-05-06
+Stoke,0,2012-05-06
+Wolves,1,2012-05-06
+Everton,1,2012-05-06
+Newcastle,0,2012-05-06
+Man City,3,2012-05-06
+Blackburn,0,2012-05-07
+Wigan,3,2012-05-07
+Liverpool,3,2012-05-08
+Chelsea,0,2012-05-08
+Chelsea,3,2012-05-13
+Blackburn,0,2012-05-13
+Everton,3,2012-05-13
+Newcastle,0,2012-05-13
+Man City,3,2012-05-13
+QPR,0,2012-05-13
+Norwich,3,2012-05-13
+Aston Villa,0,2012-05-13
+Stoke,1,2012-05-13
+Bolton,1,2012-05-13
+Sunderland,0,2012-05-13
+Man Utd,3,2012-05-13
+Swansea,3,2012-05-13
+Liverpool,0,2012-05-13
+Tottenham,3,2012-05-13
+Fulham,0,2012-05-13
+West Brom,0,2012-05-13
+Arsenal,3,2012-05-13
+Wigan,3,2012-05-13
+Wolves,0,2012-05-13
