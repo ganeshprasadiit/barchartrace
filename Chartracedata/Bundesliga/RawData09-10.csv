@@ -1,0 +1,613 @@
+team,points,date
+Bayern,3,2009-01-15
+Hoffenheim,0,2009-01-15
+Stuttgart,3,2009-01-16
+Wolfsburg,0,2009-01-16
+Frankfurt,3,2009-01-16
+Bremen,0,2009-01-16
+Hamburger SV,3,2009-01-16
+Freiburg,0,2009-01-16
+Hannover,0,2009-01-16
+Hertha,3,2009-01-16
+Leverkusen,3,2009-01-16
+Mainz,0,2009-01-16
+Monchengladbach,0,2009-01-16
+Bochum,3,2009-01-16
+FC Koln,0,2009-01-17
+Dortmund,3,2009-01-17
+Schalke,3,2009-01-17
+Nurnberg,0,2009-01-17
+Freiburg,0,2009-01-22
+Stuttgart,3,2009-01-22
+Dortmund,3,2009-01-23
+Hamburger SV,0,2009-01-23
+Bochum,1,2009-01-23
+Schalke,1,2009-01-23
+Bremen,0,2009-01-23
+Bayern,3,2009-01-23
+Hertha,1,2009-01-23
+Monchengladbach,1,2009-01-23
+Mainz,3,2009-01-23
+Hannover,0,2009-01-23
+Nurnberg,1,2009-01-23
+Frankfurt,1,2009-01-23
+Hoffenheim,0,2009-01-24
+Leverkusen,3,2009-01-24
+Wolfsburg,0,2009-01-24
+FC Koln,3,2009-01-24
+Hamburger SV,1,2009-01-29
+Wolfsburg,1,2009-01-29
+Schalke,3,2009-01-30
+Hoffenheim,0,2009-01-30
+Bayern,3,2009-01-30
+Mainz,0,2009-01-30
+Frankfurt,0,2009-01-30
+FC Koln,3,2009-01-30
+Hannover,0,2009-01-30
+Nurnberg,3,2009-01-30
+Hertha,1,2009-01-30
+Bochum,1,2009-01-30
+Monchengladbach,3,2009-01-30
+Bremen,0,2009-01-30
+Leverkusen,3,2009-01-31
+Freiburg,0,2009-01-31
+Stuttgart,3,2009-01-31
+Dortmund,0,2009-01-31
+Bremen,3,2009-02-05
+Hertha,0,2009-02-05
+Nurnberg,0,2009-02-06
+Stuttgart,3,2009-02-06
+Bochum,1,2009-02-06
+Leverkusen,1,2009-02-06
+FC Koln,1,2009-02-06
+Hamburger SV,1,2009-02-06
+Freiburg,1,2009-02-06
+Schalke,1,2009-02-06
+Hoffenheim,3,2009-02-06
+Hannover,0,2009-02-06
+Wolfsburg,0,2009-02-06
+Bayern,3,2009-02-06
+Dortmund,0,2009-02-07
+Frankfurt,3,2009-02-07
+Mainz,3,2009-02-07
+Monchengladbach,0,2009-02-07
+Monchengladbach,3,2009-02-12
+Nurnberg,0,2009-02-12
+Bayern,3,2009-02-13
+Dortmund,0,2009-02-13
+Bochum,3,2009-02-13
+Hoffenheim,0,2009-02-13
+Hannover,0,2009-02-13
+Bremen,3,2009-02-13
+Hertha,1,2009-02-13
+Mainz,1,2009-02-13
+Leverkusen,3,2009-02-13
+Wolfsburg,0,2009-02-13
+Stuttgart,0,2009-02-13
+Hamburger SV,3,2009-02-13
+Frankfurt,3,2009-02-14
+Freiburg,0,2009-02-14
+Schalke,3,2009-02-14
+FC Koln,0,2009-02-14
+Hoffenheim,1,2009-02-19
+Monchengladbach,1,2009-02-19
+Dortmund,3,2009-02-20
+Hannover,0,2009-02-20
+FC Koln,0,2009-02-20
+Stuttgart,3,2009-02-20
+Hamburger SV,1,2009-02-20
+Frankfurt,1,2009-02-20
+Mainz,1,2009-02-20
+Bochum,1,2009-02-20
+Nurnberg,1,2009-02-20
+Bayern,1,2009-02-20
+Bremen,1,2009-02-21
+Leverkusen,1,2009-02-21
+Wolfsburg,3,2009-02-21
+Schalke,0,2009-02-21
+Freiburg,0,2009-02-21
+Hertha,3,2009-02-21
+Schalke,3,2009-02-26
+Dortmund,0,2009-02-26
+Leverkusen,1,2009-02-27
+FC Koln,1,2009-02-27
+Bochum,1,2009-02-27
+Nurnberg,1,2009-02-27
+Hertha,0,2009-02-27
+Hoffenheim,3,2009-02-27
+Mainz,0,2009-02-27
+Bremen,3,2009-02-27
+Monchengladbach,1,2009-02-27
+Freiburg,1,2009-02-27
+Stuttgart,3,2009-02-27
+Frankfurt,0,2009-02-27
+Bayern,3,2009-02-28
+Hamburger SV,0,2009-02-28
+Hannover,0,2009-02-28
+Wolfsburg,3,2009-02-28
+Dortmund,3,2009-03-06
+Monchengladbach,0,2009-03-06
+Bremen,1,2009-03-06
+Stuttgart,1,2009-03-06
+FC Koln,1,2009-03-06
+Bayern,1,2009-03-06
+Frankfurt,0,2009-03-06
+Schalke,3,2009-03-06
+Freiburg,0,2009-03-06
+Hannover,3,2009-03-06
+Hamburger SV,3,2009-03-06
+Hertha,0,2009-03-06
+Wolfsburg,3,2009-03-06
+Bochum,0,2009-03-06
+Hoffenheim,0,2009-03-07
+Mainz,3,2009-03-07
+Nurnberg,3,2009-03-07
+Leverkusen,0,2009-03-07
+Schalke,3,2009-03-12
+Stuttgart,0,2009-03-12
+Bayern,3,2009-03-13
+Freiburg,0,2009-03-13
+Bochum,0,2009-03-13
+Dortmund,3,2009-03-13
+Hannover,3,2009-03-13
+Frankfurt,0,2009-03-13
+Hertha,0,2009-03-13
+Nurnberg,3,2009-03-13
+Mainz,3,2009-03-13
+FC Koln,0,2009-03-13
+Monchengladbach,0,2009-03-13
+Wolfsburg,3,2009-03-13
+Leverkusen,3,2009-03-14
+Hamburger SV,0,2009-03-14
+Hoffenheim,0,2009-03-14
+Bremen,3,2009-03-14
+FC Koln,1,2009-03-19
+Monchengladbach,1,2009-03-19
+Dortmund,3,2009-03-20
+Leverkusen,0,2009-03-20
+Bremen,3,2009-03-20
+Bochum,0,2009-03-20
+Frankfurt,3,2009-03-20
+Bayern,0,2009-03-20
+Freiburg,3,2009-03-20
+Mainz,0,2009-03-20
+Nurnberg,1,2009-03-20
+Hoffenheim,1,2009-03-20
+Stuttgart,3,2009-03-20
+Hannover,0,2009-03-20
+Wolfsburg,0,2009-03-21
+Hertha,3,2009-03-21
+Hamburger SV,1,2009-03-21
+Schalke,1,2009-03-21
+Bochum,0,2009-03-26
+Frankfurt,3,2009-03-26
+Leverkusen,0,2009-03-27
+Schalke,3,2009-03-27
+Bayern,0,2009-03-27
+Stuttgart,3,2009-03-27
+Bremen,3,2009-03-27
+Nurnberg,0,2009-03-27
+Hannover,0,2009-03-27
+FC Koln,3,2009-03-27
+Hertha,1,2009-03-27
+Dortmund,1,2009-03-27
+Mainz,0,2009-03-27
+Wolfsburg,3,2009-03-27
+Monchengladbach,3,2009-03-28
+Hamburger SV,0,2009-03-28
+Hoffenheim,1,2009-03-28
+Freiburg,1,2009-03-28
+FC Koln,0,2009-04-03
+Hertha,3,2009-04-03
+Dortmund,3,2009-04-03
+Bremen,0,2009-04-03
+Frankfurt,3,2009-04-03
+Leverkusen,0,2009-04-03
+Freiburg,1,2009-04-03
+Bochum,1,2009-04-03
+Nurnberg,3,2009-04-03
+Mainz,0,2009-04-03
+Schalke,0,2009-04-03
+Bayern,3,2009-04-03
+Stuttgart,3,2009-04-03
+Monchengladbach,0,2009-04-03
+Hamburger SV,1,2009-04-04
+Hannover,1,2009-04-04
+Wolfsburg,3,2009-04-04
+Hoffenheim,0,2009-04-04
+Monchengladbach,3,2009-04-09
+Frankfurt,0,2009-04-09
+Leverkusen,1,2009-04-10
+Bayern,1,2009-04-10
+Bremen,3,2009-04-10
+Freiburg,0,2009-04-10
+Hannover,3,2009-04-10
+Schalke,0,2009-04-10
+Hertha,0,2009-04-10
+Stuttgart,3,2009-04-10
+Hoffenheim,0,2009-04-10
+FC Koln,3,2009-04-10
+Mainz,3,2009-04-10
+Dortmund,0,2009-04-10
+Nurnberg,0,2009-04-11
+Wolfsburg,3,2009-04-11
+Bochum,0,2009-04-11
+Hamburger SV,3,2009-04-11
+FC Koln,3,2009-04-16
+Bochum,0,2009-04-16
+Bayern,3,2009-04-17
+Hannover,0,2009-04-17
+Freiburg,3,2009-04-17
+Nurnberg,0,2009-04-17
+Hamburger SV,0,2009-04-17
+Mainz,3,2009-04-17
+Schalke,3,2009-04-17
+Monchengladbach,0,2009-04-17
+Stuttgart,3,2009-04-17
+Leverkusen,0,2009-04-17
+Wolfsburg,0,2009-04-17
+Bremen,3,2009-04-17
+Frankfurt,1,2009-04-18
+Hertha,1,2009-04-18
+Dortmund,1,2009-04-18
+Hoffenheim,1,2009-04-18
+Bochum,0,2009-04-23
+Stuttgart,3,2009-04-23
+Bremen,3,2009-04-24
+FC Koln,0,2009-04-24
+Hertha,0,2009-04-24
+Schalke,3,2009-04-24
+Leverkusen,3,2009-04-24
+Hannover,0,2009-04-24
+Mainz,1,2009-04-24
+Frankfurt,1,2009-04-24
+Monchengladbach,1,2009-04-24
+Bayern,1,2009-04-24
+Nurnberg,0,2009-04-24
+Dortmund,3,2009-04-24
+Freiburg,3,2009-04-25
+Wolfsburg,0,2009-04-25
+Hoffenheim,3,2009-04-25
+Hamburger SV,0,2009-04-25
+Bayern,3,2009-05-01
+Bochum,0,2009-05-01
+Dortmund,1,2009-05-01
+Wolfsburg,1,2009-05-01
+FC Koln,1,2009-05-01
+Freiburg,1,2009-05-01
+Frankfurt,0,2009-05-01
+Hoffenheim,3,2009-05-01
+Hamburger SV,3,2009-05-01
+Nurnberg,0,2009-05-01
+Hannover,3,2009-05-01
+Monchengladbach,0,2009-05-01
+Leverkusen,1,2009-05-01
+Hertha,1,2009-05-01
+Schalke,0,2009-05-01
+Bremen,3,2009-05-01
+Stuttgart,1,2009-05-01
+Mainz,1,2009-05-01
+Bochum,0,2009-05-08
+Hannover,3,2009-05-08
+Bremen,1,2009-05-08
+Hamburger SV,1,2009-05-08
+Freiburg,3,2009-05-08
+Dortmund,0,2009-05-08
+Hertha,0,2009-05-08
+Bayern,3,2009-05-08
+Hoffenheim,1,2009-05-08
+Stuttgart,1,2009-05-08
+Mainz,1,2009-05-08
+Schalke,1,2009-05-08
+Monchengladbach,1,2009-05-08
+Leverkusen,1,2009-05-08
+Nurnberg,3,2009-05-08
+FC Koln,0,2009-05-08
+Wolfsburg,3,2009-05-08
+Frankfurt,0,2009-05-08
+Wolfsburg,3,2010-08-07
+Stuttgart,0,2010-08-07
+Hoffenheim,1,2010-08-08
+Bayern,1,2010-08-08
+Bremen,0,2010-08-08
+Frankfurt,3,2010-08-08
+Dortmund,3,2010-08-08
+FC Koln,0,2010-08-08
+Hertha,3,2010-08-08
+Hannover,0,2010-08-08
+Mainz,1,2010-08-08
+Leverkusen,1,2010-08-08
+Nurnberg,0,2010-08-08
+Schalke,3,2010-08-08
+Freiburg,1,2010-08-09
+Hamburger SV,1,2010-08-09
+Bochum,1,2010-08-09
+Monchengladbach,1,2010-08-09
+FC Koln,0,2010-08-15
+Wolfsburg,3,2010-08-15
+Bayern,1,2010-08-15
+Bremen,1,2010-08-15
+Frankfurt,1,2010-08-15
+Nurnberg,1,2010-08-15
+Hamburger SV,3,2010-08-15
+Dortmund,0,2010-08-15
+Hannover,1,2010-08-15
+Mainz,1,2010-08-15
+Leverkusen,3,2010-08-15
+Hoffenheim,0,2010-08-15
+Stuttgart,3,2010-08-15
+Freiburg,0,2010-08-15
+Schalke,3,2010-08-16
+Bochum,0,2010-08-16
+Monchengladbach,3,2010-08-16
+Hertha,0,2010-08-16
+Hoffenheim,1,2010-08-21
+Schalke,1,2010-08-21
+Dortmund,1,2010-08-22
+Stuttgart,1,2010-08-22
+FC Koln,1,2010-08-22
+Frankfurt,1,2010-08-22
+Freiburg,0,2010-08-22
+Leverkusen,3,2010-08-22
+Mainz,3,2010-08-22
+Bayern,0,2010-08-22
+Nurnberg,0,2010-08-22
+Hannover,3,2010-08-22
+Bremen,3,2010-08-23
+Monchengladbach,0,2010-08-23
+Wolfsburg,0,2010-08-23
+Hamburger SV,3,2010-08-23
+Bochum,3,2010-08-23
+Hertha,0,2010-08-23
+Monchengladbach,3,2010-08-28
+Mainz,0,2010-08-28
+Bayern,3,2010-08-29
+Wolfsburg,0,2010-08-29
+Frankfurt,1,2010-08-29
+Dortmund,1,2010-08-29
+Hannover,0,2010-08-29
+Hoffenheim,3,2010-08-29
+Leverkusen,3,2010-08-29
+Bochum,0,2010-08-29
+Schalke,0,2010-08-29
+Freiburg,3,2010-08-29
+Stuttgart,1,2010-08-29
+Nurnberg,1,2010-08-29
+Hamburger SV,3,2010-08-30
+FC Koln,0,2010-08-30
+Hertha,0,2010-08-30
+Bremen,3,2010-08-30
+Hamburger SV,3,2010-09-12
+Stuttgart,0,2010-09-12
+Dortmund,0,2010-09-12
+Bayern,3,2010-09-12
+Freiburg,0,2010-09-12
+Frankfurt,3,2010-09-12
+Hoffenheim,3,2010-09-12
+Bochum,0,2010-09-12
+Mainz,3,2010-09-12
+Hertha,0,2010-09-12
+Nurnberg,3,2010-09-12
+Monchengladbach,0,2010-09-12
+Wolfsburg,0,2010-09-12
+Leverkusen,3,2010-09-12
+FC Koln,0,2010-09-13
+Schalke,3,2010-09-13
+Bremen,1,2010-09-13
+Hannover,1,2010-09-13
+Schalke,0,2010-09-18
+Wolfsburg,3,2010-09-18
+Bayern,3,2010-09-19
+Nurnberg,0,2010-09-19
+Bochum,0,2010-09-19
+Mainz,3,2010-09-19
+Hannover,1,2010-09-19
+Dortmund,1,2010-09-19
+Monchengladbach,0,2010-09-19
+Hoffenheim,3,2010-09-19
+Stuttgart,0,2010-09-19
+FC Koln,3,2010-09-19
+Hertha,0,2010-09-20
+Freiburg,3,2010-09-20
+Leverkusen,1,2010-09-20
+Bremen,1,2010-09-20
+Frankfurt,1,2010-09-20
+Hamburger SV,1,2010-09-20
+Nurnberg,0,2010-09-25
+Bochum,3,2010-09-25
+Hamburger SV,3,2010-09-26
+Bayern,0,2010-09-26
+Bremen,3,2010-09-26
+Mainz,0,2010-09-26
+Dortmund,0,2010-09-26
+Schalke,3,2010-09-26
+FC Koln,0,2010-09-26
+Leverkusen,3,2010-09-26
+Frankfurt,0,2010-09-26
+Stuttgart,3,2010-09-26
+Wolfsburg,3,2010-09-26
+Hannover,0,2010-09-26
+Hoffenheim,3,2010-09-27
+Hertha,0,2010-09-27
+Freiburg,3,2010-09-27
+Monchengladbach,0,2010-09-27
+Schalke,3,2010-10-02
+Frankfurt,0,2010-10-02
+Monchengladbach,0,2010-10-03
+Dortmund,3,2010-10-03
+Bayern,1,2010-10-03
+FC Koln,1,2010-10-03
+Bochum,1,2010-10-03
+Wolfsburg,1,2010-10-03
+Hannover,3,2010-10-03
+Freiburg,0,2010-10-03
+Leverkusen,3,2010-10-03
+Nurnberg,0,2010-10-03
+Mainz,3,2010-10-03
+Hoffenheim,0,2010-10-03
+Hertha,0,2010-10-04
+Hamburger SV,3,2010-10-04
+Stuttgart,0,2010-10-04
+Bremen,3,2010-10-04
+Hamburger SV,1,2010-10-17
+Leverkusen,1,2010-10-17
+Bremen,3,2010-10-17
+Hoffenheim,0,2010-10-17
+FC Koln,3,2010-10-17
+Mainz,0,2010-10-17
+Frankfurt,3,2010-10-17
+Hannover,0,2010-10-17
+Freiburg,0,2010-10-17
+Bayern,3,2010-10-17
+Nurnberg,3,2010-10-17
+Hertha,0,2010-10-17
+Stuttgart,0,2010-10-17
+Schalke,3,2010-10-17
+Dortmund,3,2010-10-18
+Bochum,0,2010-10-18
+Wolfsburg,3,2010-10-18
+Monchengladbach,0,2010-10-18
+Leverkusen,1,2010-10-23
+Dortmund,1,2010-10-23
+Bayern,3,2010-10-24
+Frankfurt,0,2010-10-24
+Hannover,3,2010-10-24
+Stuttgart,0,2010-10-24
+Hoffenheim,3,2010-10-24
+Nurnberg,0,2010-10-24
+Mainz,3,2010-10-24
+Freiburg,0,2010-10-24
+Monchengladbach,1,2010-10-24
+FC Koln,1,2010-10-24
+Bochum,0,2010-10-25
+Bremen,3,2010-10-25
+Schalke,1,2010-10-25
+Hamburger SV,1,2010-10-25
+Hertha,1,2010-10-25
+Wolfsburg,1,2010-10-25
+Dortmund,3,2010-10-30
+Hertha,0,2010-10-30
+Schalke,1,2010-10-31
+Leverkusen,1,2010-10-31
+FC Koln,0,2010-10-31
+Hannover,3,2010-10-31
+Hamburger SV,0,2010-10-31
+Monchengladbach,3,2010-10-31
+Nurnberg,1,2010-10-31
+Bremen,1,2010-10-31
+Stuttgart,1,2010-10-31
+Bayern,1,2010-10-31
+Wolfsburg,1,2010-10-31
+Mainz,1,2010-10-31
+Frankfurt,3,2010-11-01
+Bochum,0,2010-11-01
+Freiburg,0,2010-11-01
+Hoffenheim,3,2010-11-01
+Leverkusen,3,2010-11-06
+Frankfurt,0,2010-11-06
+Bayern,1,2010-11-07
+Schalke,1,2010-11-07
+Bochum,0,2010-11-07
+Freiburg,3,2010-11-07
+Hoffenheim,0,2010-11-07
+Wolfsburg,3,2010-11-07
+Mainz,3,2010-11-07
+Nurnberg,0,2010-11-07
+Monchengladbach,1,2010-11-07
+Stuttgart,1,2010-11-07
+Bremen,1,2010-11-08
+Dortmund,1,2010-11-08
+Hertha,0,2010-11-08
+FC Koln,3,2010-11-08
+Hannover,1,2010-11-08
+Hamburger SV,1,2010-11-08
+Dortmund,1,2010-11-21
+Mainz,1,2010-11-21
+FC Koln,0,2010-11-21
+Hoffenheim,3,2010-11-21
+Frankfurt,0,2010-11-21
+Monchengladbach,3,2010-11-21
+Freiburg,0,2010-11-21
+Bremen,3,2010-11-21
+Schalke,3,2010-11-21
+Hannover,0,2010-11-21
+Stuttgart,1,2010-11-21
+Hertha,1,2010-11-21
+Wolfsburg,0,2010-11-21
+Nurnberg,3,2010-11-21
+Hamburger SV,0,2010-11-22
+Bochum,3,2010-11-22
+Bayern,1,2010-11-22
+Leverkusen,1,2010-11-22
+Bochum,1,2010-11-27
+FC Koln,1,2010-11-27
+Monchengladbach,3,2010-11-28
+Schalke,0,2010-11-28
+Bremen,1,2010-11-28
+Wolfsburg,1,2010-11-28
+Hertha,0,2010-11-28
+Frankfurt,3,2010-11-28
+Hoffenheim,0,2010-11-28
+Dortmund,3,2010-11-28
+Mainz,1,2010-11-28
+Hamburger SV,1,2010-11-28
+Nurnberg,0,2010-11-28
+Freiburg,3,2010-11-28
+Hannover,0,2010-11-29
+Bayern,3,2010-11-29
+Leverkusen,3,2010-11-29
+Stuttgart,0,2010-11-29
+Bayern,3,2010-12-04
+Monchengladbach,0,2010-12-04
+Frankfurt,3,2010-12-05
+Mainz,0,2010-12-05
+Dortmund,3,2010-12-05
+Nurnberg,0,2010-12-05
+Hamburger SV,1,2010-12-05
+Hoffenheim,1,2010-12-05
+Hannover,1,2010-12-05
+Leverkusen,1,2010-12-05
+Stuttgart,1,2010-12-05
+Bochum,1,2010-12-05
+Wolfsburg,1,2010-12-05
+Freiburg,1,2010-12-05
+Schalke,3,2010-12-06
+Hertha,0,2010-12-06
+FC Koln,1,2010-12-06
+Bremen,1,2010-12-06
+Hertha,1,2010-12-11
+Leverkusen,1,2010-12-11
+Bremen,0,2010-12-12
+Schalke,3,2010-12-12
+Bochum,0,2010-12-12
+Bayern,3,2010-12-12
+Freiburg,1,2010-12-12
+FC Koln,1,2010-12-12
+Hoffenheim,1,2010-12-12
+Frankfurt,1,2010-12-12
+Monchengladbach,3,2010-12-12
+Hannover,0,2010-12-12
+Nurnberg,0,2010-12-12
+Hamburger SV,3,2010-12-12
+Wolfsburg,0,2010-12-13
+Dortmund,3,2010-12-13
+Mainz,1,2010-12-13
+Stuttgart,1,2010-12-13
+Schalke,3,2010-12-18
+Mainz,0,2010-12-18
+Stuttgart,3,2010-12-19
+Hoffenheim,0,2010-12-19
+Bayern,3,2010-12-19
+Hertha,0,2010-12-19
+Dortmund,3,2010-12-19
+Freiburg,0,2010-12-19
+Frankfurt,1,2010-12-19
+Wolfsburg,1,2010-12-19
+Hannover,0,2010-12-19
+Bochum,3,2010-12-19
+Leverkusen,3,2010-12-19
+Monchengladbach,0,2010-12-19
+FC Koln,3,2010-12-20
+Nurnberg,0,2010-12-20
+Hamburger SV,3,2010-12-20
+Bremen,0,2010-12-20

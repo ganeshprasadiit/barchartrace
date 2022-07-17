@@ -1,0 +1,617 @@
+team,points,date
+Bayern,0,2021-01-07
+Monchengladbach,3,2021-01-07
+Frankfurt,0,2021-01-08
+Dortmund,3,2021-01-08
+Freiburg,1,2021-01-08
+Bielefeld,1,2021-01-08
+Furth,1,2021-01-08
+Stuttgart,1,2021-01-08
+Hoffenheim,3,2021-01-08
+Augsburg,0,2021-01-08
+Leverkusen,1,2021-01-08
+Union Berlin,1,2021-01-08
+RB Leipzig,3,2021-01-08
+Mainz,0,2021-01-08
+Bochum,3,2021-01-09
+Wolfsburg,0,2021-01-09
+Hertha,0,2021-01-09
+FC Koln,3,2021-01-09
+Dortmund,3,2021-01-14
+Freiburg,0,2021-01-14
+Monchengladbach,0,2021-01-15
+Leverkusen,3,2021-01-15
+FC Koln,0,2021-01-15
+Bayern,3,2021-01-15
+Mainz,3,2021-01-15
+Bochum,0,2021-01-15
+Stuttgart,0,2021-01-15
+RB Leipzig,3,2021-01-15
+Union Berlin,3,2021-01-15
+Hoffenheim,0,2021-01-15
+Wolfsburg,1,2021-01-15
+Hertha,1,2021-01-15
+Bielefeld,1,2021-01-16
+Furth,1,2021-01-16
+Augsburg,1,2021-01-16
+Frankfurt,1,2021-01-16
+Frankfurt,0,2021-01-21
+Bielefeld,3,2021-01-21
+Bochum,1,2021-01-22
+FC Koln,1,2021-01-22
+Freiburg,3,2021-01-22
+Stuttgart,0,2021-01-22
+Furth,3,2021-01-22
+Mainz,0,2021-01-22
+Hoffenheim,0,2021-01-22
+Dortmund,3,2021-01-22
+Leverkusen,3,2021-01-22
+Augsburg,0,2021-01-22
+Monchengladbach,0,2021-01-22
+Union Berlin,3,2021-01-22
+Hertha,0,2021-01-23
+Bayern,3,2021-01-23
+RB Leipzig,3,2021-01-23
+Wolfsburg,0,2021-01-23
+Hertha,1,2021-02-04
+Bochum,1,2021-02-04
+Bayern,3,2021-02-05
+RB Leipzig,0,2021-02-05
+Augsburg,3,2021-02-05
+Union Berlin,0,2021-02-05
+Bielefeld,1,2021-02-05
+Monchengladbach,1,2021-02-05
+FC Koln,3,2021-02-05
+Freiburg,0,2021-02-05
+Mainz,3,2021-02-05
+Hoffenheim,0,2021-02-05
+Stuttgart,0,2021-02-05
+Frankfurt,3,2021-02-05
+Wolfsburg,3,2021-02-06
+Furth,0,2021-02-06
+Dortmund,0,2021-02-06
+Leverkusen,3,2021-02-06
+RB Leipzig,3,2021-02-11
+FC Koln,0,2021-02-11
+Leverkusen,3,2021-02-12
+Stuttgart,0,2021-02-12
+Bochum,3,2021-02-12
+Bayern,0,2021-02-12
+Frankfurt,0,2021-02-12
+Wolfsburg,3,2021-02-12
+Freiburg,1,2021-02-12
+Mainz,1,2021-02-12
+Furth,3,2021-02-12
+Hertha,0,2021-02-12
+Monchengladbach,3,2021-02-12
+Augsburg,0,2021-02-12
+Hoffenheim,3,2021-02-13
+Bielefeld,0,2021-02-13
+Union Berlin,0,2021-02-13
+Dortmund,3,2021-02-13
+Mainz,3,2021-02-18
+Leverkusen,0,2021-02-18
+FC Koln,3,2021-02-19
+Frankfurt,0,2021-02-19
+Augsburg,0,2021-02-19
+Freiburg,3,2021-02-19
+Bielefeld,3,2021-02-19
+Union Berlin,0,2021-02-19
+Stuttgart,1,2021-02-19
+Bochum,1,2021-02-19
+Wolfsburg,0,2021-02-19
+Hoffenheim,3,2021-02-19
+Hertha,0,2021-02-20
+RB Leipzig,3,2021-02-20
+Dortmund,3,2021-02-20
+Monchengladbach,0,2021-02-20
+Bayern,3,2021-02-20
+Furth,0,2021-02-20
+Hoffenheim,3,2021-02-25
+Stuttgart,0,2021-02-25
+Frankfurt,0,2021-02-26
+Bayern,3,2021-02-26
+Freiburg,3,2021-02-26
+Hertha,0,2021-02-26
+Furth,1,2021-02-26
+FC Koln,1,2021-02-26
+Leverkusen,3,2021-02-26
+Bielefeld,0,2021-02-26
+Monchengladbach,1,2021-02-26
+Wolfsburg,1,2021-02-26
+Union Berlin,3,2021-02-26
+Mainz,0,2021-02-26
+Augsburg,1,2021-02-27
+Dortmund,1,2021-02-27
+Bochum,0,2021-02-27
+RB Leipzig,3,2021-02-27
+Bielefeld,0,2021-03-04
+Augsburg,3,2021-03-04
+Stuttgart,3,2021-03-05
+Monchengladbach,0,2021-03-05
+Bayern,1,2021-03-05
+Leverkusen,1,2021-03-05
+Bochum,3,2021-03-05
+Furth,0,2021-03-05
+Hertha,0,2021-03-05
+Frankfurt,3,2021-03-05
+RB Leipzig,1,2021-03-05
+Freiburg,1,2021-03-05
+Wolfsburg,3,2021-03-05
+Union Berlin,0,2021-03-05
+FC Koln,0,2021-03-06
+Hoffenheim,3,2021-03-06
+Monchengladbach,3,2021-03-12
+Hertha,0,2021-03-12
+Freiburg,3,2021-03-12
+Wolfsburg,0,2021-03-12
+Hoffenheim,1,2021-03-12
+Bayern,1,2021-03-12
+Union Berlin,1,2021-03-12
+Stuttgart,1,2021-03-12
+Furth,0,2021-03-13
+RB Leipzig,3,2021-03-13
+Dortmund,3,2021-03-13
+Bielefeld,0,2021-03-13
+Frankfurt,3,2021-03-13
+Bochum,0,2021-03-13
+Leverkusen,0,2021-03-13
+FC Koln,3,2021-03-13
+Mainz,0,2021-03-16
+Dortmund,3,2021-03-16
+Bochum,0,2021-03-18
+Monchengladbach,3,2021-03-18
+Bayern,3,2021-03-19
+Union Berlin,0,2021-03-19
+Furth,1,2021-03-19
+Freiburg,1,2021-03-19
+Hertha,3,2021-03-19
+Hoffenheim,0,2021-03-19
+Mainz,3,2021-03-19
+Bielefeld,0,2021-03-19
+Stuttgart,3,2021-03-19
+Augsburg,0,2021-03-19
+FC Koln,1,2021-03-20
+Dortmund,1,2021-03-20
+Wolfsburg,0,2021-03-20
+Leverkusen,3,2021-03-20
+RB Leipzig,1,2021-03-20
+Frankfurt,1,2021-03-20
+Union Berlin,3,2021-04-01
+FC Koln,0,2021-04-01
+Dortmund,0,2021-04-02
+RB Leipzig,3,2021-04-02
+Bielefeld,1,2021-04-02
+Stuttgart,1,2021-04-02
+Frankfurt,1,2021-04-02
+Furth,1,2021-04-02
+Freiburg,0,2021-04-02
+Bayern,3,2021-04-02
+Hoffenheim,0,2021-04-02
+Bochum,3,2021-04-02
+Leverkusen,3,2021-04-02
+Hertha,0,2021-04-02
+Monchengladbach,1,2021-04-03
+Mainz,1,2021-04-03
+Augsburg,3,2021-04-03
+Wolfsburg,0,2021-04-03
+Augsburg,3,2021-04-06
+Mainz,0,2021-04-06
+Stuttgart,0,2021-04-08
+Dortmund,3,2021-04-08
+Hertha,0,2021-04-09
+Union Berlin,3,2021-04-09
+Bayern,3,2021-04-09
+Augsburg,0,2021-04-09
+FC Koln,3,2021-04-09
+Mainz,0,2021-04-09
+Furth,0,2021-04-09
+Monchengladbach,3,2021-04-09
+Wolfsburg,3,2021-04-09
+Bielefeld,0,2021-04-09
+RB Leipzig,3,2021-04-10
+Hoffenheim,0,2021-04-10
+Frankfurt,0,2021-04-10
+Freiburg,3,2021-04-10
+Bochum,1,2021-04-10
+Leverkusen,1,2021-04-10
+Monchengladbach,0,2021-04-16
+FC Koln,3,2021-04-16
+Augsburg,0,2021-04-16
+Hertha,3,2021-04-16
+Dortmund,3,2021-04-16
+Wolfsburg,0,2021-04-16
+Freiburg,3,2021-04-16
+Bochum,0,2021-04-16
+Mainz,1,2021-04-16
+Stuttgart,1,2021-04-16
+Leverkusen,0,2021-04-17
+RB Leipzig,3,2021-04-17
+Hoffenheim,1,2021-04-17
+Furth,1,2021-04-17
+Union Berlin,3,2021-04-17
+Frankfurt,0,2021-04-17
+Bielefeld,0,2021-04-17
+Bayern,3,2021-04-17
+Wolfsburg,3,2021-04-22
+Mainz,0,2021-04-22
+Bayern,3,2021-04-23
+Dortmund,0,2021-04-23
+FC Koln,3,2021-04-23
+Bielefeld,0,2021-04-23
+Frankfurt,1,2021-04-23
+Hoffenheim,1,2021-04-23
+Freiburg,1,2021-04-23
+Monchengladbach,1,2021-04-23
+Furth,0,2021-04-23
+Leverkusen,3,2021-04-23
+RB Leipzig,0,2021-04-23
+Union Berlin,3,2021-04-23
+Hertha,3,2021-04-24
+Stuttgart,0,2021-04-24
+Bochum,0,2021-04-24
+Augsburg,3,2021-04-24
+Union Berlin,1,2021-04-29
+Furth,1,2021-04-29
+Hoffenheim,0,2021-04-30
+Freiburg,3,2021-04-30
+Augsburg,0,2021-04-30
+FC Koln,3,2021-04-30
+Bielefeld,1,2021-04-30
+Hertha,1,2021-04-30
+Dortmund,0,2021-04-30
+Bochum,3,2021-04-30
+Mainz,3,2021-04-30
+Bayern,0,2021-04-30
+Stuttgart,1,2021-04-30
+Wolfsburg,1,2021-04-30
+Leverkusen,3,2021-05-02
+Frankfurt,0,2021-05-02
+Monchengladbach,3,2021-05-02
+RB Leipzig,0,2021-05-02
+Bochum,3,2021-05-06
+Bielefeld,0,2021-05-06
+Hertha,0,2021-05-07
+Mainz,3,2021-05-07
+FC Koln,0,2021-05-07
+Wolfsburg,3,2021-05-07
+Freiburg,0,2021-05-07
+Union Berlin,3,2021-05-07
+Furth,0,2021-05-07
+Dortmund,3,2021-05-07
+Hoffenheim,0,2021-05-07
+Leverkusen,3,2021-05-07
+RB Leipzig,3,2021-05-08
+Augsburg,0,2021-05-08
+Bayern,1,2021-05-08
+Stuttgart,1,2021-05-08
+Frankfurt,1,2021-05-08
+Monchengladbach,1,2021-05-08
+Augsburg,3,2021-05-14
+Furth,0,2021-05-14
+Bielefeld,1,2021-05-14
+RB Leipzig,1,2021-05-14
+Dortmund,3,2021-05-14
+Hertha,0,2021-05-14
+Leverkusen,3,2021-05-14
+Freiburg,0,2021-05-14
+Mainz,1,2021-05-14
+Frankfurt,1,2021-05-14
+Monchengladbach,3,2021-05-14
+Hoffenheim,0,2021-05-14
+Stuttgart,3,2021-05-14
+FC Koln,0,2021-05-14
+Union Berlin,3,2021-05-14
+Bochum,0,2021-05-14
+Wolfsburg,1,2021-05-14
+Bayern,1,2021-05-14
+Hertha,0,2021-05-19
+Hamburger SV,3,2021-05-19
+Hamburger SV,0,2021-05-23
+Hertha,3,2021-05-23
+Monchengladbach,1,2022-08-13
+Bayern,1,2022-08-13
+Dortmund,3,2022-08-14
+Frankfurt,0,2022-08-14
+Augsburg,0,2022-08-14
+Hoffenheim,3,2022-08-14
+Bielefeld,1,2022-08-14
+Freiburg,1,2022-08-14
+Stuttgart,3,2022-08-14
+Furth,0,2022-08-14
+Union Berlin,1,2022-08-14
+Leverkusen,1,2022-08-14
+Wolfsburg,3,2022-08-14
+Bochum,0,2022-08-14
+FC Koln,3,2022-08-15
+Hertha,0,2022-08-15
+Mainz,3,2022-08-15
+RB Leipzig,0,2022-08-15
+RB Leipzig,3,2022-08-20
+Stuttgart,0,2022-08-20
+Leverkusen,3,2022-08-21
+Monchengladbach,0,2022-08-21
+Bochum,3,2022-08-21
+Mainz,0,2022-08-21
+Frankfurt,1,2022-08-21
+Augsburg,1,2022-08-21
+Freiburg,3,2022-08-21
+Dortmund,0,2022-08-21
+Furth,1,2022-08-21
+Bielefeld,1,2022-08-21
+Hertha,0,2022-08-21
+Wolfsburg,3,2022-08-21
+Bayern,3,2022-08-22
+FC Koln,0,2022-08-22
+Hoffenheim,1,2022-08-22
+Union Berlin,1,2022-08-22
+Dortmund,3,2022-08-27
+Hoffenheim,0,2022-08-27
+Bayern,3,2022-08-28
+Hertha,0,2022-08-28
+Augsburg,0,2022-08-28
+Leverkusen,3,2022-08-28
+Bielefeld,1,2022-08-28
+Frankfurt,1,2022-08-28
+FC Koln,3,2022-08-28
+Bochum,0,2022-08-28
+Mainz,3,2022-08-28
+Furth,0,2022-08-28
+Stuttgart,0,2022-08-28
+Freiburg,3,2022-08-28
+Wolfsburg,3,2022-08-29
+RB Leipzig,0,2022-08-29
+Union Berlin,3,2022-08-29
+Monchengladbach,0,2022-08-29
+RB Leipzig,0,2022-09-11
+Bayern,3,2022-09-11
+Freiburg,1,2022-09-11
+FC Koln,1,2022-09-11
+Furth,0,2022-09-11
+Wolfsburg,3,2022-09-11
+Hoffenheim,0,2022-09-11
+Mainz,3,2022-09-11
+Leverkusen,0,2022-09-11
+Dortmund,3,2022-09-11
+Union Berlin,1,2022-09-11
+Augsburg,1,2022-09-11
+Monchengladbach,3,2022-09-12
+Bielefeld,0,2022-09-12
+Bochum,0,2022-09-12
+Hertha,3,2022-09-12
+Frankfurt,1,2022-09-12
+Stuttgart,1,2022-09-12
+Hertha,3,2022-09-17
+Furth,0,2022-09-17
+FC Koln,1,2022-09-18
+RB Leipzig,1,2022-09-18
+Augsburg,3,2022-09-18
+Monchengladbach,0,2022-09-18
+Bayern,3,2022-09-18
+Bochum,0,2022-09-18
+Bielefeld,1,2022-09-18
+Hoffenheim,1,2022-09-18
+Mainz,1,2022-09-18
+Freiburg,1,2022-09-18
+Wolfsburg,1,2022-09-19
+Frankfurt,1,2022-09-19
+Dortmund,3,2022-09-19
+Union Berlin,0,2022-09-19
+Stuttgart,0,2022-09-19
+Leverkusen,3,2022-09-19
+Furth,0,2022-09-24
+Bayern,3,2022-09-24
+Monchengladbach,3,2022-09-25
+Dortmund,0,2022-09-25
+Frankfurt,1,2022-09-25
+FC Koln,1,2022-09-25
+Hoffenheim,3,2022-09-25
+Wolfsburg,0,2022-09-25
+Leverkusen,3,2022-09-25
+Mainz,0,2022-09-25
+RB Leipzig,3,2022-09-25
+Hertha,0,2022-09-25
+Union Berlin,3,2022-09-25
+Bielefeld,0,2022-09-25
+Freiburg,3,2022-09-26
+Augsburg,0,2022-09-26
+Bochum,1,2022-09-26
+Stuttgart,1,2022-09-26
+FC Koln,3,2022-10-01
+Furth,0,2022-10-01
+RB Leipzig,3,2022-10-02
+Bochum,0,2022-10-02
+Dortmund,3,2022-10-02
+Augsburg,0,2022-10-02
+Hertha,0,2022-10-02
+Freiburg,3,2022-10-02
+Stuttgart,3,2022-10-02
+Hoffenheim,0,2022-10-02
+Wolfsburg,0,2022-10-02
+Monchengladbach,3,2022-10-02
+Bielefeld,0,2022-10-03
+Leverkusen,3,2022-10-03
+Bayern,0,2022-10-03
+Frankfurt,3,2022-10-03
+Mainz,0,2022-10-03
+Union Berlin,3,2022-10-03
+Hoffenheim,3,2022-10-15
+FC Koln,0,2022-10-15
+Monchengladbach,1,2022-10-16
+Stuttgart,1,2022-10-16
+Dortmund,3,2022-10-16
+Mainz,0,2022-10-16
+Frankfurt,0,2022-10-16
+Hertha,3,2022-10-16
+Freiburg,1,2022-10-16
+RB Leipzig,1,2022-10-16
+Furth,0,2022-10-16
+Bochum,3,2022-10-16
+Union Berlin,3,2022-10-16
+Wolfsburg,0,2022-10-16
+Augsburg,1,2022-10-17
+Bielefeld,1,2022-10-17
+Leverkusen,0,2022-10-17
+Bayern,3,2022-10-17
+Mainz,3,2022-10-22
+Augsburg,0,2022-10-22
+Hertha,3,2022-10-23
+Monchengladbach,0,2022-10-23
+Bayern,3,2022-10-23
+Hoffenheim,0,2022-10-23
+Bielefeld,0,2022-10-23
+Dortmund,3,2022-10-23
+RB Leipzig,3,2022-10-23
+Furth,0,2022-10-23
+Wolfsburg,0,2022-10-23
+Freiburg,3,2022-10-23
+Bochum,3,2022-10-24
+Frankfurt,0,2022-10-24
+Stuttgart,1,2022-10-24
+Union Berlin,1,2022-10-24
+FC Koln,1,2022-10-24
+Leverkusen,1,2022-10-24
+Hoffenheim,3,2022-10-29
+Hertha,0,2022-10-29
+Frankfurt,1,2022-10-30
+RB Leipzig,1,2022-10-30
+Bielefeld,0,2022-10-30
+Mainz,3,2022-10-30
+Dortmund,3,2022-10-30
+FC Koln,0,2022-10-30
+Freiburg,3,2022-10-30
+Furth,0,2022-10-30
+Leverkusen,0,2022-10-30
+Wolfsburg,3,2022-10-30
+Union Berlin,0,2022-10-30
+Bayern,3,2022-10-30
+Monchengladbach,3,2022-10-31
+Bochum,0,2022-10-31
+Augsburg,3,2022-10-31
+Stuttgart,0,2022-10-31
+Mainz,1,2022-11-05
+Monchengladbach,1,2022-11-05
+RB Leipzig,3,2022-11-06
+Dortmund,0,2022-11-06
+Bayern,3,2022-11-06
+Freiburg,0,2022-11-06
+Bochum,3,2022-11-06
+Hoffenheim,0,2022-11-06
+Stuttgart,0,2022-11-06
+Bielefeld,3,2022-11-06
+Wolfsburg,3,2022-11-06
+Augsburg,0,2022-11-06
+Furth,0,2022-11-07
+Frankfurt,3,2022-11-07
+FC Koln,1,2022-11-07
+Union Berlin,1,2022-11-07
+Hertha,1,2022-11-07
+Leverkusen,1,2022-11-07
+Augsburg,3,2022-11-19
+Bayern,0,2022-11-19
+Union Berlin,3,2022-11-20
+Hertha,0,2022-11-20
+Bielefeld,1,2022-11-20
+Wolfsburg,1,2022-11-20
+Dortmund,3,2022-11-20
+Stuttgart,0,2022-11-20
+Hoffenheim,3,2022-11-20
+RB Leipzig,0,2022-11-20
+Leverkusen,3,2022-11-20
+Bochum,0,2022-11-20
+Monchengladbach,3,2022-11-20
+Furth,0,2022-11-20
+Mainz,1,2022-11-21
+FC Koln,1,2022-11-21
+Freiburg,0,2022-11-21
+Frankfurt,3,2022-11-21
+Stuttgart,3,2022-11-26
+Mainz,0,2022-11-26
+Bayern,3,2022-11-27
+Bielefeld,0,2022-11-27
+Bochum,3,2022-11-27
+Freiburg,0,2022-11-27
+FC Koln,3,2022-11-27
+Monchengladbach,0,2022-11-27
+Furth,0,2022-11-27
+Hoffenheim,3,2022-11-27
+Hertha,1,2022-11-27
+Augsburg,1,2022-11-27
+Wolfsburg,0,2022-11-27
+Dortmund,3,2022-11-27
+RB Leipzig,0,2022-11-28
+Leverkusen,3,2022-11-28
+Frankfurt,3,2022-11-28
+Union Berlin,0,2022-11-28
+Union Berlin,3,2022-12-03
+RB Leipzig,0,2022-12-03
+Dortmund,0,2022-12-04
+Bayern,3,2022-12-04
+Augsburg,0,2022-12-04
+Bochum,3,2022-12-04
+Bielefeld,1,2022-12-04
+FC Koln,1,2022-12-04
+Hoffenheim,3,2022-12-04
+Frankfurt,0,2022-12-04
+Leverkusen,3,2022-12-04
+Furth,0,2022-12-04
+Mainz,3,2022-12-04
+Wolfsburg,0,2022-12-04
+Monchengladbach,0,2022-12-05
+Freiburg,3,2022-12-05
+Stuttgart,1,2022-12-05
+Hertha,1,2022-12-05
+FC Koln,0,2022-12-10
+Augsburg,3,2022-12-10
+Wolfsburg,0,2022-12-11
+Stuttgart,3,2022-12-11
+Bayern,3,2022-12-11
+Mainz,0,2022-12-11
+Bochum,1,2022-12-11
+Dortmund,1,2022-12-11
+Freiburg,0,2022-12-11
+Hoffenheim,3,2022-12-11
+Hertha,3,2022-12-11
+Bielefeld,0,2022-12-11
+RB Leipzig,3,2022-12-11
+Monchengladbach,0,2022-12-11
+Frankfurt,3,2022-12-12
+Leverkusen,0,2022-12-12
+Furth,3,2022-12-12
+Union Berlin,0,2022-12-12
+Bielefeld,3,2022-12-14
+Bochum,0,2022-12-14
+Mainz,3,2022-12-14
+Hertha,0,2022-12-14
+Wolfsburg,0,2022-12-14
+FC Koln,3,2022-12-14
+Stuttgart,0,2022-12-14
+Bayern,3,2022-12-14
+Augsburg,1,2022-12-15
+RB Leipzig,1,2022-12-15
+Dortmund,3,2022-12-15
+Furth,0,2022-12-15
+Leverkusen,1,2022-12-15
+Hoffenheim,1,2022-12-15
+Union Berlin,1,2022-12-15
+Freiburg,1,2022-12-15
+Monchengladbach,0,2022-12-15
+Frankfurt,3,2022-12-15
+Bayern,3,2022-12-17
+Wolfsburg,0,2022-12-17
+Hertha,3,2022-12-18
+Dortmund,0,2022-12-18
+Bochum,0,2022-12-18
+Union Berlin,3,2022-12-18
+Frankfurt,3,2022-12-18
+Mainz,0,2022-12-18
+Furth,1,2022-12-18
+Augsburg,1,2022-12-18
+Hoffenheim,1,2022-12-18
+Monchengladbach,1,2022-12-18
+RB Leipzig,0,2022-12-18
+Bielefeld,3,2022-12-18
+FC Koln,3,2022-12-19
+Stuttgart,0,2022-12-19
+Freiburg,3,2022-12-19
+Leverkusen,0,2022-12-19

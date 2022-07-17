@@ -1,0 +1,613 @@
+team,points,date
+Dortmund,0,1999-02-04
+Kaiserslautern,3,1999-02-04
+Rostock,0,1999-02-04
+Hertha,3,1999-02-04
+Bielefeld,0,1999-02-05
+Schalke,3,1999-02-05
+Bremen,3,1999-02-05
+Stuttgart,0,1999-02-05
+Freiburg,3,1999-02-05
+Ulm,0,1999-02-05
+Leverkusen,3,1999-02-05
+Duisburg,0,1999-02-05
+Munich 1860,0,1999-02-05
+Wolfsburg,3,1999-02-05
+Hamburger SV,1,1999-02-06
+Bayern,1,1999-02-06
+Unterhaching,3,1999-02-06
+Frankfurt,0,1999-02-06
+Hertha,3,1999-02-08
+Bielefeld,0,1999-02-08
+Kaiserslautern,1,1999-02-08
+Rostock,1,1999-02-08
+Schalke,3,1999-02-08
+Bremen,0,1999-02-08
+Ulm,3,1999-02-08
+Munich 1860,0,1999-02-08
+Bayern,3,1999-02-09
+Leverkusen,0,1999-02-09
+Duisburg,3,1999-02-09
+Unterhaching,0,1999-02-09
+Frankfurt,3,1999-02-09
+Freiburg,0,1999-02-09
+Stuttgart,0,1999-02-09
+Hamburger SV,3,1999-02-09
+Wolfsburg,3,1999-02-09
+Dortmund,0,1999-02-09
+Bielefeld,0,1999-02-11
+Kaiserslautern,3,1999-02-11
+Bremen,3,1999-02-11
+Hertha,0,1999-02-11
+Dortmund,1,1999-02-12
+Ulm,1,1999-02-12
+Duisburg,0,1999-02-12
+Frankfurt,3,1999-02-12
+Leverkusen,3,1999-02-12
+Stuttgart,0,1999-02-12
+Rostock,1,1999-02-12
+Wolfsburg,1,1999-02-12
+Unterhaching,0,1999-02-12
+Bayern,3,1999-02-12
+Hamburger SV,3,1999-02-13
+Schalke,0,1999-02-13
+Munich 1860,3,1999-02-13
+Freiburg,0,1999-02-13
+Hertha,3,1999-02-18
+Hamburger SV,0,1999-02-18
+Schalke,1,1999-02-18
+Leverkusen,1,1999-02-18
+Bayern,3,1999-02-19
+Duisburg,0,1999-02-19
+Frankfurt,3,1999-02-19
+Munich 1860,0,1999-02-19
+Freiburg,1,1999-02-19
+Dortmund,1,1999-02-19
+Kaiserslautern,3,1999-02-19
+Bremen,0,1999-02-19
+Stuttgart,0,1999-02-19
+Unterhaching,3,1999-02-19
+Ulm,1,1999-02-20
+Rostock,1,1999-02-20
+Wolfsburg,3,1999-02-20
+Bielefeld,0,1999-02-20
+Rostock,1,1999-02-25
+Freiburg,1,1999-02-25
+Bayern,3,1999-02-26
+Frankfurt,0,1999-02-26
+Bremen,1,1999-02-26
+Wolfsburg,1,1999-02-26
+Duisburg,0,1999-02-26
+Stuttgart,3,1999-02-26
+Hamburger SV,3,1999-02-26
+Kaiserslautern,0,1999-02-26
+Leverkusen,3,1999-02-26
+Hertha,0,1999-02-26
+Dortmund,1,1999-02-27
+Munich 1860,1,1999-02-27
+Unterhaching,3,1999-02-27
+Schalke,0,1999-02-27
+Bielefeld,3,1999-02-28
+Ulm,0,1999-02-28
+Freiburg,1,1999-03-03
+Bielefeld,1,1999-03-03
+Wolfsburg,1,1999-03-03
+Hamburger SV,1,1999-03-03
+Hertha,3,1999-03-04
+Unterhaching,0,1999-03-04
+Kaiserslautern,0,1999-03-04
+Leverkusen,3,1999-03-04
+Munich 1860,3,1999-03-04
+Rostock,0,1999-03-04
+Schalke,3,1999-03-04
+Duisburg,0,1999-03-04
+Stuttgart,3,1999-03-04
+Bayern,0,1999-03-04
+Frankfurt,1,1999-03-05
+Dortmund,1,1999-03-05
+Ulm,3,1999-03-05
+Bremen,0,1999-03-05
+Stuttgart,0,1999-03-10
+Frankfurt,3,1999-03-10
+Unterhaching,0,1999-03-10
+Kaiserslautern,3,1999-03-10
+Bayern,3,1999-03-11
+Schalke,0,1999-03-11
+Bielefeld,1,1999-03-11
+Munich 1860,1,1999-03-11
+Duisburg,1,1999-03-11
+Hertha,1,1999-03-11
+Hamburger SV,0,1999-03-11
+Ulm,3,1999-03-11
+Leverkusen,3,1999-03-11
+Wolfsburg,0,1999-03-11
+Bremen,3,1999-03-12
+Freiburg,0,1999-03-12
+Rostock,3,1999-03-12
+Dortmund,0,1999-03-12
+Frankfurt,1,1999-03-17
+Rostock,1,1999-03-17
+Wolfsburg,1,1999-03-17
+Unterhaching,1,1999-03-17
+Freiburg,0,1999-03-18
+Hamburger SV,3,1999-03-18
+Hertha,1,1999-03-18
+Bayern,1,1999-03-18
+Kaiserslautern,3,1999-03-18
+Duisburg,0,1999-03-18
+Schalke,3,1999-03-18
+Stuttgart,0,1999-03-18
+Ulm,0,1999-03-18
+Leverkusen,3,1999-03-18
+Dortmund,0,1999-03-19
+Bielefeld,3,1999-03-19
+Munich 1860,3,1999-03-19
+Bremen,0,1999-03-19
+Bielefeld,1,1999-03-24
+Rostock,1,1999-03-24
+Unterhaching,3,1999-03-24
+Ulm,0,1999-03-24
+Bayern,1,1999-03-25
+Kaiserslautern,1,1999-03-25
+Duisburg,0,1999-03-25
+Wolfsburg,3,1999-03-25
+Hamburger SV,3,1999-03-25
+Munich 1860,0,1999-03-25
+Leverkusen,1,1999-03-25
+Freiburg,1,1999-03-25
+Stuttgart,3,1999-03-25
+Hertha,0,1999-03-25
+Bremen,3,1999-03-26
+Dortmund,0,1999-03-26
+Schalke,1,1999-03-26
+Frankfurt,1,1999-03-26
+Freiburg,3,1999-03-31
+Unterhaching,0,1999-03-31
+Ulm,0,1999-03-31
+Duisburg,3,1999-03-31
+Dortmund,0,1999-04-01
+Hamburger SV,3,1999-04-01
+Frankfurt,3,1999-04-01
+Bielefeld,0,1999-04-01
+Hertha,3,1999-04-01
+Schalke,0,1999-04-01
+Munich 1860,0,1999-04-01
+Leverkusen,3,1999-04-01
+Wolfsburg,1,1999-04-01
+Bayern,1,1999-04-01
+Kaiserslautern,0,1999-04-02
+Stuttgart,3,1999-04-02
+Rostock,1,1999-04-02
+Bremen,1,1999-04-02
+Hamburger SV,3,1999-04-07
+Rostock,0,1999-04-07
+Unterhaching,1,1999-04-07
+Munich 1860,1,1999-04-07
+Bayern,3,1999-04-08
+Ulm,0,1999-04-08
+Hertha,3,1999-04-08
+Frankfurt,0,1999-04-08
+Leverkusen,3,1999-04-08
+Dortmund,0,1999-04-08
+Schalke,0,1999-04-08
+Kaiserslautern,3,1999-04-08
+Stuttgart,0,1999-04-08
+Wolfsburg,3,1999-04-08
+Bremen,3,1999-04-09
+Bielefeld,0,1999-04-09
+Duisburg,0,1999-04-09
+Freiburg,3,1999-04-09
+Dortmund,0,1999-04-11
+Unterhaching,3,1999-04-11
+Kaiserslautern,0,1999-04-11
+Hertha,3,1999-04-11
+Ulm,1,1999-04-11
+Stuttgart,1,1999-04-11
+Wolfsburg,1,1999-04-11
+Schalke,1,1999-04-11
+Bielefeld,3,1999-04-12
+Hamburger SV,0,1999-04-12
+Frankfurt,3,1999-04-12
+Bremen,0,1999-04-12
+Freiburg,0,1999-04-12
+Bayern,3,1999-04-12
+Munich 1860,3,1999-04-12
+Duisburg,0,1999-04-12
+Rostock,1,1999-04-12
+Leverkusen,1,1999-04-12
+Hertha,1,1999-04-14
+Wolfsburg,1,1999-04-14
+Schalke,1,1999-04-14
+Ulm,1,1999-04-14
+Bayern,0,1999-04-15
+Munich 1860,3,1999-04-15
+Duisburg,1,1999-04-15
+Dortmund,1,1999-04-15
+Hamburger SV,1,1999-04-15
+Bremen,1,1999-04-15
+Kaiserslautern,3,1999-04-15
+Frankfurt,0,1999-04-15
+Stuttgart,3,1999-04-15
+Freiburg,0,1999-04-15
+Leverkusen,3,1999-04-16
+Bielefeld,0,1999-04-16
+Unterhaching,1,1999-04-16
+Rostock,1,1999-04-16
+Bremen,0,1999-04-20
+Leverkusen,3,1999-04-20
+Frankfurt,3,1999-04-20
+Hamburger SV,0,1999-04-20
+Freiburg,3,1999-04-22
+Schalke,0,1999-04-22
+Munich 1860,1,1999-04-22
+Stuttgart,1,1999-04-22
+Rostock,3,1999-04-22
+Duisburg,0,1999-04-22
+Ulm,0,1999-04-22
+Hertha,3,1999-04-22
+Wolfsburg,3,1999-04-22
+Kaiserslautern,0,1999-04-22
+Bielefeld,3,1999-04-23
+Unterhaching,0,1999-04-23
+Dortmund,0,1999-04-23
+Bayern,3,1999-04-23
+Duisburg,0,1999-04-27
+Bielefeld,3,1999-04-27
+Frankfurt,3,1999-04-28
+Wolfsburg,0,1999-04-28
+Hertha,1,1999-04-28
+Freiburg,1,1999-04-28
+Bayern,3,1999-04-29
+Rostock,0,1999-04-29
+Kaiserslautern,3,1999-04-29
+Ulm,0,1999-04-29
+Schalke,1,1999-04-29
+Munich 1860,1,1999-04-29
+Stuttgart,0,1999-04-29
+Dortmund,3,1999-04-29
+Hamburger SV,0,1999-04-30
+Leverkusen,3,1999-04-30
+Unterhaching,3,1999-04-30
+Bremen,0,1999-04-30
+Bielefeld,0,1999-05-13
+Bayern,3,1999-05-13
+Bremen,3,1999-05-13
+Duisburg,0,1999-05-13
+Dortmund,1,1999-05-13
+Schalke,1,1999-05-13
+Freiburg,3,1999-05-13
+Kaiserslautern,0,1999-05-13
+Hamburger SV,3,1999-05-13
+Unterhaching,0,1999-05-13
+Leverkusen,3,1999-05-13
+Frankfurt,0,1999-05-13
+Munich 1860,3,1999-05-13
+Hertha,0,1999-05-13
+Rostock,0,1999-05-13
+Stuttgart,3,1999-05-13
+Ulm,3,1999-05-13
+Wolfsburg,0,1999-05-13
+Bayern,3,1999-05-20
+Bremen,0,1999-05-20
+Duisburg,1,1999-05-20
+Hamburger SV,1,1999-05-20
+Frankfurt,3,1999-05-20
+Ulm,0,1999-05-20
+Hertha,0,1999-05-20
+Dortmund,3,1999-05-20
+Kaiserslautern,1,1999-05-20
+Munich 1860,1,1999-05-20
+Schalke,0,1999-05-20
+Rostock,3,1999-05-20
+Stuttgart,1,1999-05-20
+Bielefeld,1,1999-05-20
+Unterhaching,3,1999-05-20
+Leverkusen,0,1999-05-20
+Wolfsburg,3,1999-05-20
+Freiburg,0,1999-05-20
+Duisburg,1,2000-08-13
+Leverkusen,1,2000-08-13
+Wolfsburg,3,2000-08-13
+Munich 1860,0,2000-08-13
+Bayern,1,2000-08-14
+Hamburger SV,1,2000-08-14
+Frankfurt,3,2000-08-14
+Unterhaching,0,2000-08-14
+Kaiserslautern,3,2000-08-14
+Dortmund,0,2000-08-14
+Schalke,1,2000-08-14
+Bielefeld,1,2000-08-14
+Stuttgart,1,2000-08-14
+Bremen,1,2000-08-14
+Hertha,3,2000-08-15
+Rostock,0,2000-08-15
+Ulm,1,2000-08-15
+Freiburg,1,2000-08-15
+Bielefeld,1,2000-08-20
+Hertha,1,2000-08-20
+Unterhaching,3,2000-08-20
+Duisburg,0,2000-08-20
+Bremen,0,2000-08-21
+Schalke,3,2000-08-21
+Dortmund,3,2000-08-21
+Wolfsburg,0,2000-08-21
+Freiburg,0,2000-08-21
+Frankfurt,3,2000-08-21
+Hamburger SV,3,2000-08-21
+Stuttgart,0,2000-08-21
+Munich 1860,3,2000-08-21
+Ulm,0,2000-08-21
+Leverkusen,3,2000-08-22
+Bayern,0,2000-08-22
+Rostock,3,2000-08-22
+Kaiserslautern,0,2000-08-22
+Kaiserslautern,0,2000-08-27
+Bielefeld,3,2000-08-27
+Schalke,0,2000-08-27
+Hamburger SV,3,2000-08-27
+Bayern,3,2000-08-28
+Unterhaching,0,2000-08-28
+Freiburg,3,2000-08-28
+Munich 1860,0,2000-08-28
+Hertha,1,2000-08-28
+Bremen,1,2000-08-28
+Stuttgart,0,2000-08-28
+Leverkusen,3,2000-08-28
+Wolfsburg,3,2000-08-28
+Rostock,0,2000-08-28
+Frankfurt,1,2000-08-29
+Duisburg,1,2000-08-29
+Ulm,0,2000-08-29
+Dortmund,3,2000-08-29
+Bielefeld,1,2000-09-10
+Wolfsburg,1,2000-09-10
+Rostock,3,2000-09-10
+Ulm,0,2000-09-10
+Dortmund,1,2000-09-11
+Freiburg,1,2000-09-11
+Duisburg,0,2000-09-11
+Bayern,3,2000-09-11
+Hamburger SV,3,2000-09-11
+Hertha,0,2000-09-11
+Leverkusen,3,2000-09-11
+Schalke,0,2000-09-11
+Unterhaching,3,2000-09-11
+Stuttgart,0,2000-09-11
+Bremen,3,2000-09-12
+Kaiserslautern,0,2000-09-12
+Munich 1860,3,2000-09-12
+Frankfurt,0,2000-09-12
+Freiburg,3,2000-09-17
+Rostock,0,2000-09-17
+Munich 1860,0,2000-09-17
+Dortmund,3,2000-09-17
+Frankfurt,0,2000-09-18
+Bayern,3,2000-09-18
+Hertha,1,2000-09-18
+Leverkusen,1,2000-09-18
+Schalke,3,2000-09-18
+Unterhaching,0,2000-09-18
+Stuttgart,3,2000-09-18
+Duisburg,0,2000-09-18
+Ulm,3,2000-09-18
+Bielefeld,0,2000-09-18
+Kaiserslautern,3,2000-09-19
+Hamburger SV,0,2000-09-19
+Wolfsburg,0,2000-09-19
+Bremen,3,2000-09-19
+Bayern,0,2000-09-24
+Stuttgart,3,2000-09-24
+Hamburger SV,1,2000-09-24
+Wolfsburg,1,2000-09-24
+Bremen,1,2000-09-25
+Ulm,1,2000-09-25
+Dortmund,3,2000-09-25
+Frankfurt,0,2000-09-25
+Duisburg,1,2000-09-25
+Schalke,1,2000-09-25
+Rostock,1,2000-09-25
+Munich 1860,1,2000-09-25
+Unterhaching,1,2000-09-25
+Hertha,1,2000-09-25
+Bielefeld,3,2000-09-26
+Freiburg,0,2000-09-26
+Leverkusen,3,2000-09-26
+Kaiserslautern,0,2000-09-26
+Frankfurt,0,2000-10-01
+Stuttgart,3,2000-10-01
+Munich 1860,3,2000-10-01
+Bielefeld,0,2000-10-01
+Dortmund,3,2000-10-02
+Rostock,0,2000-10-02
+Hertha,3,2000-10-02
+Duisburg,0,2000-10-02
+Schalke,1,2000-10-02
+Bayern,1,2000-10-02
+Ulm,0,2000-10-02
+Hamburger SV,3,2000-10-02
+Wolfsburg,3,2000-10-02
+Leverkusen,0,2000-10-02
+Freiburg,3,2000-10-03
+Bremen,0,2000-10-03
+Kaiserslautern,3,2000-10-03
+Unterhaching,0,2000-10-03
+Bielefeld,0,2000-10-15
+Dortmund,3,2000-10-15
+Leverkusen,3,2000-10-15
+Ulm,0,2000-10-15
+Bayern,3,2000-10-16
+Hertha,0,2000-10-16
+Bremen,0,2000-10-16
+Munich 1860,3,2000-10-16
+Duisburg,1,2000-10-16
+Kaiserslautern,1,2000-10-16
+Hamburger SV,3,2000-10-16
+Freiburg,0,2000-10-16
+Rostock,3,2000-10-16
+Frankfurt,0,2000-10-16
+Stuttgart,0,2000-10-17
+Schalke,3,2000-10-17
+Unterhaching,1,2000-10-17
+Wolfsburg,1,2000-10-17
+Frankfurt,0,2000-10-22
+Schalke,3,2000-10-22
+Rostock,3,2000-10-22
+Bielefeld,0,2000-10-22
+Freiburg,1,2000-10-23
+Leverkusen,1,2000-10-23
+Hertha,1,2000-10-23
+Stuttgart,1,2000-10-23
+Kaiserslautern,0,2000-10-23
+Bayern,3,2000-10-23
+Munich 1860,1,2000-10-23
+Hamburger SV,1,2000-10-23
+Ulm,3,2000-10-23
+Unterhaching,0,2000-10-23
+Dortmund,0,2000-10-24
+Bremen,3,2000-10-24
+Wolfsburg,3,2000-10-24
+Duisburg,0,2000-10-24
+Bielefeld,1,2000-10-29
+Frankfurt,1,2000-10-29
+Bremen,3,2000-10-29
+Rostock,0,2000-10-29
+Bayern,3,2000-10-30
+Wolfsburg,0,2000-10-30
+Duisburg,1,2000-10-30
+Ulm,1,2000-10-30
+Hamburger SV,1,2000-10-30
+Dortmund,1,2000-10-30
+Leverkusen,1,2000-10-30
+Munich 1860,1,2000-10-30
+Schalke,1,2000-10-30
+Hertha,1,2000-10-30
+Stuttgart,0,2000-10-31
+Kaiserslautern,3,2000-10-31
+Unterhaching,3,2000-10-31
+Freiburg,0,2000-10-31
+Freiburg,3,2000-11-05
+Duisburg,0,2000-11-05
+Rostock,1,2000-11-05
+Hamburger SV,1,2000-11-05
+Dortmund,1,2000-11-06
+Leverkusen,1,2000-11-06
+Frankfurt,3,2000-11-06
+Hertha,0,2000-11-06
+Munich 1860,3,2000-11-06
+Unterhaching,0,2000-11-06
+Ulm,0,2000-11-06
+Bayern,3,2000-11-06
+Wolfsburg,0,2000-11-06
+Stuttgart,3,2000-11-06
+Bielefeld,1,2000-11-07
+Bremen,1,2000-11-07
+Kaiserslautern,3,2000-11-07
+Schalke,0,2000-11-07
+Bremen,3,2000-11-19
+Frankfurt,0,2000-11-19
+Bayern,3,2000-11-20
+Freiburg,0,2000-11-20
+Hertha,0,2000-11-20
+Kaiserslautern,3,2000-11-20
+Leverkusen,1,2000-11-20
+Rostock,1,2000-11-20
+Schalke,1,2000-11-20
+Wolfsburg,1,2000-11-20
+Stuttgart,3,2000-11-20
+Ulm,0,2000-11-20
+Duisburg,3,2000-11-21
+Munich 1860,0,2000-11-21
+Hamburger SV,3,2000-11-21
+Bielefeld,0,2000-11-21
+Freiburg,0,2000-11-26
+Stuttgart,3,2000-11-26
+Ulm,1,2000-11-26
+Schalke,1,2000-11-26
+Bielefeld,0,2000-11-27
+Leverkusen,3,2000-11-27
+Munich 1860,3,2000-11-27
+Bayern,0,2000-11-27
+Rostock,1,2000-11-27
+Unterhaching,1,2000-11-27
+Wolfsburg,0,2000-11-27
+Hertha,3,2000-11-27
+Bremen,3,2000-11-28
+Hamburger SV,0,2000-11-28
+Dortmund,1,2000-11-28
+Duisburg,1,2000-11-28
+Frankfurt,0,2000-11-28
+Kaiserslautern,3,2000-11-28
+Unterhaching,3,2000-12-01
+Dortmund,0,2000-12-01
+Duisburg,1,2000-12-03
+Rostock,1,2000-12-03
+Hamburger SV,3,2000-12-03
+Frankfurt,0,2000-12-03
+Bayern,1,2000-12-04
+Dortmund,1,2000-12-04
+Hertha,3,2000-12-04
+Ulm,0,2000-12-04
+Leverkusen,3,2000-12-04
+Bremen,0,2000-12-04
+Schalke,1,2000-12-04
+Freiburg,1,2000-12-04
+Stuttgart,0,2000-12-04
+Munich 1860,3,2000-12-04
+Kaiserslautern,1,2000-12-05
+Wolfsburg,1,2000-12-05
+Unterhaching,3,2000-12-05
+Bielefeld,0,2000-12-05
+Bielefeld,0,2000-12-10
+Duisburg,3,2000-12-10
+Bremen,1,2000-12-10
+Unterhaching,1,2000-12-10
+Dortmund,1,2000-12-11
+Stuttgart,1,2000-12-11
+Freiburg,0,2000-12-11
+Hertha,3,2000-12-11
+Munich 1860,1,2000-12-11
+Schalke,1,2000-12-11
+Rostock,0,2000-12-11
+Bayern,3,2000-12-11
+Leverkusen,1,2000-12-12
+Hamburger SV,1,2000-12-12
+Ulm,3,2000-12-12
+Kaiserslautern,0,2000-12-12
+Wolfsburg,3,2000-12-12
+Frankfurt,0,2000-12-12
+Bayern,3,2000-12-14
+Bielefeld,0,2000-12-14
+Duisburg,0,2000-12-14
+Bremen,3,2000-12-14
+Hertha,1,2000-12-14
+Munich 1860,1,2000-12-14
+Stuttgart,3,2000-12-14
+Rostock,0,2000-12-14
+Frankfurt,0,2000-12-15
+Leverkusen,3,2000-12-15
+Kaiserslautern,0,2000-12-15
+Freiburg,3,2000-12-15
+Schalke,1,2000-12-15
+Dortmund,1,2000-12-15
+Unterhaching,1,2000-12-15
+Hamburger SV,1,2000-12-15
+Wolfsburg,0,2000-12-15
+Ulm,3,2000-12-15
+Bielefeld,0,2000-12-17
+Stuttgart,3,2000-12-17
+Bremen,0,2000-12-17
+Bayern,3,2000-12-17
+Freiburg,1,2000-12-18
+Wolfsburg,1,2000-12-18
+Hamburger SV,3,2000-12-18
+Duisburg,0,2000-12-18
+Leverkusen,3,2000-12-18
+Unterhaching,0,2000-12-18
+Munich 1860,3,2000-12-18
+Kaiserslautern,0,2000-12-18
+Ulm,3,2000-12-18
+Frankfurt,0,2000-12-18
+Dortmund,3,2000-12-19
+Hertha,0,2000-12-19
+Rostock,3,2000-12-19
+Schalke,0,2000-12-19

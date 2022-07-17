@@ -1,0 +1,613 @@
+team,points,date
+Bochum,3,1997-01-30
+Dortmund,0,1997-01-30
+Stuttgart,1,1997-01-30
+Duisburg,1,1997-01-30
+Bayern,3,1997-01-31
+Hamburger SV,0,1997-01-31
+Bremen,3,1997-01-31
+Bielefeld,0,1997-01-31
+FC Koln,3,1997-01-31
+Monchengladbach,0,1997-01-31
+Hertha,3,1997-01-31
+Wolfsburg,0,1997-01-31
+Rostock,3,1997-01-31
+Munich 1860,0,1997-01-31
+Schalke,1,1997-01-31
+Kaiserslautern,1,1997-01-31
+Karlsruher,1,1997-02-01
+Leverkusen,1,1997-02-01
+Duisburg,3,1997-02-06
+Karlsruher,0,1997-02-06
+Kaiserslautern,3,1997-02-06
+Bochum,0,1997-02-06
+Bayern,3,1997-02-07
+Rostock,0,1997-02-07
+Bielefeld,1,1997-02-07
+Munich 1860,1,1997-02-07
+Dortmund,3,1997-02-07
+Stuttgart,0,1997-02-07
+Hamburger SV,1,1997-02-07
+Hertha,1,1997-02-07
+Leverkusen,3,1997-02-07
+Bremen,0,1997-02-07
+Monchengladbach,0,1997-02-07
+Schalke,3,1997-02-07
+Wolfsburg,1,1997-02-08
+FC Koln,1,1997-02-08
+Bremen,1,1997-02-13
+Duisburg,1,1997-02-13
+FC Koln,0,1997-02-13
+Hamburger SV,3,1997-02-13
+Karlsruher,0,1997-02-13
+Dortmund,3,1997-02-13
+Bochum,3,1997-02-14
+Monchengladbach,0,1997-02-14
+Hertha,3,1997-02-14
+Bayern,0,1997-02-14
+Munich 1860,0,1997-02-14
+Leverkusen,3,1997-02-14
+Rostock,3,1997-02-14
+Bielefeld,0,1997-02-14
+Schalke,1,1997-02-14
+Wolfsburg,1,1997-02-14
+Stuttgart,0,1997-02-14
+Kaiserslautern,3,1997-02-14
+Dortmund,1,1997-02-27
+Bremen,1,1997-02-27
+Kaiserslautern,1,1997-02-27
+Karlsruher,1,1997-02-27
+Bayern,0,1997-02-28
+FC Koln,3,1997-02-28
+Duisburg,0,1997-02-28
+Munich 1860,3,1997-02-28
+Hamburger SV,1,1997-02-28
+Schalke,1,1997-02-28
+Leverkusen,1,1997-02-28
+Bielefeld,1,1997-02-28
+Monchengladbach,1,1997-02-28
+Stuttgart,1,1997-02-28
+Wolfsburg,0,1997-02-28
+Bochum,3,1997-02-28
+Hertha,1,1997-03-01
+Rostock,1,1997-03-01
+Bochum,1,1997-03-06
+Hamburger SV,1,1997-03-06
+Bremen,1,1997-03-06
+Kaiserslautern,1,1997-03-06
+Bielefeld,1,1997-03-07
+Duisburg,1,1997-03-07
+FC Koln,3,1997-03-07
+Hertha,0,1997-03-07
+Karlsruher,0,1997-03-07
+Monchengladbach,3,1997-03-07
+Munich 1860,3,1997-03-07
+Dortmund,0,1997-03-07
+Rostock,0,1997-03-07
+Leverkusen,3,1997-03-07
+Schalke,3,1997-03-08
+Bayern,0,1997-03-08
+Stuttgart,3,1997-03-08
+Wolfsburg,0,1997-03-08
+Duisburg,1,1997-03-13
+Leverkusen,1,1997-03-13
+Hertha,0,1997-03-13
+Schalke,3,1997-03-13
+Bayern,1,1997-03-14
+Bochum,1,1997-03-14
+Dortmund,3,1997-03-14
+Bielefeld,0,1997-03-14
+Hamburger SV,1,1997-03-14
+Stuttgart,1,1997-03-14
+Kaiserslautern,3,1997-03-14
+Munich 1860,0,1997-03-14
+Monchengladbach,1,1997-03-14
+Bremen,1,1997-03-14
+Wolfsburg,0,1997-03-14
+Karlsruher,3,1997-03-14
+FC Koln,1,1997-03-15
+Rostock,1,1997-03-15
+Bremen,3,1997-03-21
+Wolfsburg,0,1997-03-21
+Karlsruher,0,1997-03-21
+Hamburger SV,3,1997-03-21
+Munich 1860,3,1997-03-21
+Monchengladbach,0,1997-03-21
+Rostock,3,1997-03-21
+Duisburg,0,1997-03-21
+Stuttgart,0,1997-03-22
+Bayern,3,1997-03-22
+Hamburger SV,3,1997-03-27
+Bremen,0,1997-03-27
+Wolfsburg,3,1997-03-27
+Munich 1860,0,1997-03-27
+Bayern,1,1997-03-28
+Karlsruher,1,1997-03-28
+Dortmund,3,1997-03-28
+Duisburg,0,1997-03-28
+Hertha,3,1997-03-28
+Stuttgart,0,1997-03-28
+Kaiserslautern,0,1997-03-28
+Leverkusen,3,1997-03-28
+Monchengladbach,1,1997-03-28
+Bielefeld,1,1997-03-28
+Schalke,1,1997-03-28
+Rostock,1,1997-03-28
+FC Koln,3,1997-03-29
+Bochum,0,1997-03-29
+Duisburg,1,1997-04-03
+Kaiserslautern,1,1997-04-03
+Karlsruher,0,1997-04-03
+Hertha,3,1997-04-03
+Bielefeld,0,1997-04-04
+Wolfsburg,3,1997-04-04
+Bochum,3,1997-04-04
+Schalke,0,1997-04-04
+Bremen,0,1997-04-04
+Bayern,3,1997-04-04
+Leverkusen,1,1997-04-04
+Monchengladbach,1,1997-04-04
+Munich 1860,1,1997-04-04
+Hamburger SV,1,1997-04-04
+Rostock,3,1997-04-04
+Dortmund,0,1997-04-04
+Stuttgart,1,1997-04-05
+FC Koln,1,1997-04-05
+Bochum,0,1997-04-09
+Rostock,3,1997-04-09
+Kaiserslautern,1,1997-04-09
+Dortmund,1,1997-04-09
+Bayern,3,1997-04-11
+Munich 1860,0,1997-04-11
+FC Koln,0,1997-04-11
+Karlsruher,3,1997-04-11
+Hamburger SV,3,1997-04-11
+Bielefeld,0,1997-04-11
+Hertha,0,1997-04-11
+Bremen,3,1997-04-11
+Schalke,0,1997-04-11
+Stuttgart,3,1997-04-11
+Wolfsburg,3,1997-04-11
+Leverkusen,0,1997-04-11
+Monchengladbach,0,1997-04-12
+Duisburg,3,1997-04-12
+Bremen,3,1997-04-17
+FC Koln,0,1997-04-17
+Duisburg,1,1997-04-17
+Wolfsburg,1,1997-04-17
+Bielefeld,1,1997-04-18
+Bayern,1,1997-04-18
+Dortmund,0,1997-04-18
+Monchengladbach,3,1997-04-18
+Karlsruher,1,1997-04-18
+Schalke,1,1997-04-18
+Leverkusen,3,1997-04-18
+Hamburger SV,0,1997-04-18
+Munich 1860,3,1997-04-18
+Hertha,0,1997-04-18
+Rostock,1,1997-04-18
+Kaiserslautern,1,1997-04-18
+Stuttgart,3,1997-04-19
+Bochum,0,1997-04-19
+Hertha,1,1997-04-24
+Bielefeld,1,1997-04-24
+Kaiserslautern,3,1997-04-24
+Monchengladbach,0,1997-04-24
+Bochum,1,1997-04-25
+Karlsruher,1,1997-04-25
+FC Koln,0,1997-04-25
+Munich 1860,3,1997-04-25
+Hamburger SV,3,1997-04-25
+Duisburg,0,1997-04-25
+Rostock,1,1997-04-25
+Stuttgart,1,1997-04-25
+Schalke,0,1997-04-25
+Bremen,3,1997-04-25
+Wolfsburg,0,1997-04-25
+Dortmund,3,1997-04-25
+Bayern,3,1997-04-26
+Leverkusen,0,1997-04-26
+Bielefeld,1,1997-04-29
+Kaiserslautern,1,1997-04-29
+Bochum,3,1997-04-29
+Hertha,0,1997-04-29
+Leverkusen,1,1997-04-29
+Dortmund,1,1997-04-29
+Schalke,3,1997-04-29
+FC Koln,0,1997-04-29
+Bielefeld,3,1997-05-02
+FC Koln,0,1997-05-02
+Bremen,3,1997-05-02
+Bochum,0,1997-05-02
+Dortmund,0,1997-05-02
+Hamburger SV,3,1997-05-02
+Duisburg,1,1997-05-02
+Bayern,1,1997-05-02
+Kaiserslautern,3,1997-05-02
+Wolfsburg,0,1997-05-02
+Karlsruher,3,1997-05-02
+Stuttgart,0,1997-05-02
+Leverkusen,0,1997-05-02
+Hertha,3,1997-05-02
+Monchengladbach,3,1997-05-02
+Rostock,0,1997-05-02
+Munich 1860,3,1997-05-02
+Schalke,0,1997-05-02
+Bayern,3,1997-05-09
+Dortmund,0,1997-05-09
+Bochum,3,1997-05-09
+Munich 1860,0,1997-05-09
+FC Koln,1,1997-05-09
+Leverkusen,1,1997-05-09
+Hamburger SV,1,1997-05-09
+Kaiserslautern,1,1997-05-09
+Hertha,0,1997-05-09
+Duisburg,3,1997-05-09
+Rostock,3,1997-05-09
+Karlsruher,0,1997-05-09
+Schalke,3,1997-05-09
+Bielefeld,0,1997-05-09
+Stuttgart,3,1997-05-09
+Bremen,0,1997-05-09
+Wolfsburg,0,1997-05-09
+Monchengladbach,3,1997-05-09
+Schalke,3,1998-08-01
+Leverkusen,0,1998-08-01
+Stuttgart,1,1998-08-01
+Munich 1860,1,1998-08-01
+Bayern,0,1998-08-02
+Kaiserslautern,3,1998-08-02
+Bochum,3,1998-08-02
+Bielefeld,0,1998-08-02
+FC Koln,3,1998-08-02
+Duisburg,0,1998-08-02
+Karlsruher,3,1998-08-02
+Bremen,0,1998-08-02
+Rostock,0,1998-08-02
+Wolfsburg,3,1998-08-02
+Hamburger SV,1,1998-08-03
+Monchengladbach,1,1998-08-03
+Hertha,1,1998-08-03
+Dortmund,1,1998-08-03
+Bielefeld,3,1998-08-05
+Stuttgart,0,1998-08-05
+Bremen,1,1998-08-05
+Rostock,1,1998-08-05
+Duisburg,3,1998-08-05
+Schalke,0,1998-08-05
+Leverkusen,3,1998-08-05
+Bochum,0,1998-08-05
+Munich 1860,1,1998-08-05
+Karlsruher,1,1998-08-05
+Dortmund,3,1998-08-06
+FC Koln,0,1998-08-06
+Kaiserslautern,3,1998-08-06
+Hertha,0,1998-08-06
+Monchengladbach,1,1998-08-06
+Bayern,1,1998-08-06
+Wolfsburg,1,1998-08-06
+Hamburger SV,1,1998-08-06
+Bochum,1,1998-08-08
+Duisburg,1,1998-08-08
+Stuttgart,3,1998-08-08
+Leverkusen,0,1998-08-08
+Bayern,3,1998-08-09
+Wolfsburg,0,1998-08-09
+Bremen,1,1998-08-09
+Munich 1860,1,1998-08-09
+FC Koln,1,1998-08-09
+Kaiserslautern,1,1998-08-09
+Karlsruher,3,1998-08-09
+Bielefeld,0,1998-08-09
+Rostock,3,1998-08-09
+Hamburger SV,0,1998-08-09
+Schalke,3,1998-08-09
+Dortmund,0,1998-08-09
+Hertha,1,1998-08-10
+Monchengladbach,1,1998-08-10
+Munich 1860,0,1998-08-22
+Rostock,3,1998-08-22
+Wolfsburg,3,1998-08-22
+Hertha,0,1998-08-22
+Bielefeld,3,1998-08-23
+Bremen,0,1998-08-23
+Dortmund,3,1998-08-23
+Bochum,0,1998-08-23
+Duisburg,0,1998-08-23
+Stuttgart,3,1998-08-23
+Kaiserslautern,3,1998-08-23
+Schalke,0,1998-08-23
+Leverkusen,3,1998-08-23
+Karlsruher,0,1998-08-23
+Monchengladbach,3,1998-08-23
+FC Koln,0,1998-08-23
+Hamburger SV,0,1998-08-24
+Bayern,3,1998-08-24
+Bochum,0,1998-08-29
+Kaiserslautern,3,1998-08-29
+Hertha,0,1998-08-29
+Hamburger SV,3,1998-08-29
+Bremen,3,1998-08-30
+Leverkusen,0,1998-08-30
+FC Koln,3,1998-08-30
+Wolfsburg,0,1998-08-30
+Rostock,0,1998-08-30
+Bayern,3,1998-08-30
+Schalke,3,1998-08-30
+Monchengladbach,0,1998-08-30
+Stuttgart,1,1998-08-30
+Dortmund,1,1998-08-30
+Karlsruher,0,1998-08-31
+Duisburg,3,1998-08-31
+Munich 1860,3,1998-09-01
+Bielefeld,0,1998-09-01
+Bielefeld,0,1998-09-12
+Rostock,3,1998-09-12
+Hamburger SV,3,1998-09-12
+FC Koln,0,1998-09-12
+Bayern,3,1998-09-13
+Hertha,0,1998-09-13
+Dortmund,1,1998-09-13
+Karlsruher,1,1998-09-13
+Duisburg,3,1998-09-13
+Bremen,0,1998-09-13
+Leverkusen,1,1998-09-13
+Munich 1860,1,1998-09-13
+Monchengladbach,3,1998-09-13
+Bochum,0,1998-09-13
+Wolfsburg,1,1998-09-13
+Schalke,1,1998-09-13
+Kaiserslautern,3,1998-09-14
+Stuttgart,0,1998-09-14
+Karlsruher,0,1998-09-19
+Kaiserslautern,3,1998-09-19
+Munich 1860,0,1998-09-19
+Duisburg,3,1998-09-19
+Bielefeld,3,1998-09-20
+Leverkusen,0,1998-09-20
+Bochum,3,1998-09-20
+Wolfsburg,0,1998-09-20
+Bremen,3,1998-09-20
+Dortmund,0,1998-09-20
+FC Koln,0,1998-09-20
+Bayern,3,1998-09-20
+Rostock,3,1998-09-20
+Hertha,0,1998-09-20
+Schalke,1,1998-09-20
+Hamburger SV,1,1998-09-20
+Stuttgart,3,1998-09-21
+Monchengladbach,0,1998-09-21
+Bayern,1,1998-09-26
+Schalke,1,1998-09-26
+Duisburg,3,1998-09-26
+Bielefeld,0,1998-09-26
+Dortmund,0,1998-09-27
+Munich 1860,3,1998-09-27
+Hamburger SV,3,1998-09-27
+Bochum,0,1998-09-27
+Kaiserslautern,0,1998-09-27
+Bremen,3,1998-09-27
+Leverkusen,1,1998-09-27
+Rostock,1,1998-09-27
+Monchengladbach,1,1998-09-27
+Karlsruher,1,1998-09-27
+Wolfsburg,3,1998-09-27
+Stuttgart,0,1998-09-27
+Hertha,3,1998-09-28
+FC Koln,0,1998-09-28
+Bremen,3,1998-10-03
+Monchengladbach,0,1998-10-03
+Munich 1860,0,1998-10-03
+Kaiserslautern,3,1998-10-03
+Bielefeld,3,1998-10-04
+Dortmund,0,1998-10-04
+Bochum,0,1998-10-04
+Bayern,3,1998-10-04
+Karlsruher,3,1998-10-04
+Wolfsburg,0,1998-10-04
+Leverkusen,3,1998-10-04
+Duisburg,0,1998-10-04
+Rostock,0,1998-10-04
+FC Koln,3,1998-10-04
+Schalke,3,1998-10-04
+Hertha,0,1998-10-04
+Stuttgart,3,1998-10-05
+Hamburger SV,0,1998-10-05
+Dortmund,0,1998-10-14
+Leverkusen,3,1998-10-14
+FC Koln,0,1998-10-14
+Schalke,3,1998-10-14
+Hamburger SV,3,1998-10-14
+Karlsruher,0,1998-10-14
+Hertha,1,1998-10-14
+Bochum,1,1998-10-14
+Wolfsburg,3,1998-10-14
+Bremen,0,1998-10-14
+Bayern,1,1998-10-15
+Stuttgart,1,1998-10-15
+Duisburg,0,1998-10-15
+Rostock,3,1998-10-15
+Kaiserslautern,3,1998-10-15
+Bielefeld,0,1998-10-15
+Monchengladbach,3,1998-10-15
+Munich 1860,0,1998-10-15
+Bochum,3,1998-10-17
+FC Koln,0,1998-10-17
+Bremen,1,1998-10-17
+Hamburger SV,1,1998-10-17
+Duisburg,1,1998-10-18
+Dortmund,1,1998-10-18
+Karlsruher,1,1998-10-18
+Bayern,1,1998-10-18
+Leverkusen,1,1998-10-18
+Kaiserslautern,1,1998-10-18
+Munich 1860,3,1998-10-18
+Wolfsburg,0,1998-10-18
+Rostock,3,1998-10-18
+Schalke,0,1998-10-18
+Stuttgart,3,1998-10-18
+Hertha,0,1998-10-18
+Bielefeld,3,1998-10-19
+Monchengladbach,0,1998-10-19
+Kaiserslautern,3,1998-10-24
+Duisburg,0,1998-10-24
+Schalke,3,1998-10-24
+Bochum,0,1998-10-24
+Bayern,3,1998-10-25
+Bremen,0,1998-10-25
+Dortmund,3,1998-10-25
+Rostock,0,1998-10-25
+Hamburger SV,0,1998-10-25
+Munich 1860,3,1998-10-25
+Hertha,3,1998-10-25
+Karlsruher,0,1998-10-25
+Monchengladbach,1,1998-10-25
+Leverkusen,1,1998-10-25
+Wolfsburg,3,1998-10-25
+Bielefeld,0,1998-10-25
+FC Koln,3,1998-10-26
+Stuttgart,0,1998-10-26
+Dortmund,1,1998-10-31
+Kaiserslautern,1,1998-10-31
+Duisburg,0,1998-10-31
+Monchengladbach,3,1998-10-31
+Leverkusen,3,1998-10-31
+Wolfsburg,0,1998-10-31
+Bremen,0,1998-11-01
+Hertha,3,1998-11-01
+Karlsruher,3,1998-11-01
+FC Koln,0,1998-11-01
+Munich 1860,1,1998-11-01
+Bayern,1,1998-11-01
+Rostock,1,1998-11-01
+Bochum,1,1998-11-01
+Stuttgart,1,1998-11-01
+Schalke,1,1998-11-01
+Bielefeld,0,1998-11-02
+Hamburger SV,3,1998-11-02
+Kaiserslautern,3,1998-11-07
+Rostock,0,1998-11-07
+Wolfsburg,0,1998-11-07
+Duisburg,3,1998-11-07
+Bayern,3,1998-11-08
+Bielefeld,0,1998-11-08
+FC Koln,3,1998-11-08
+Bremen,0,1998-11-08
+Hamburger SV,0,1998-11-08
+Leverkusen,3,1998-11-08
+Hertha,3,1998-11-08
+Munich 1860,0,1998-11-08
+Monchengladbach,1,1998-11-08
+Dortmund,1,1998-11-08
+Schalke,3,1998-11-08
+Karlsruher,0,1998-11-08
+Bochum,0,1998-11-09
+Stuttgart,3,1998-11-09
+Dortmund,0,1998-11-11
+Bayern,3,1998-11-11
+Leverkusen,3,1998-11-11
+FC Koln,0,1998-11-11
+Bremen,3,1998-11-18
+Schalke,0,1998-11-18
+Dortmund,3,1998-11-18
+Wolfsburg,0,1998-11-18
+Duisburg,3,1998-11-18
+Hamburger SV,0,1998-11-18
+Karlsruher,1,1998-11-18
+Bochum,1,1998-11-18
+Bielefeld,0,1998-11-19
+Hertha,3,1998-11-19
+Monchengladbach,0,1998-11-19
+Kaiserslautern,3,1998-11-19
+Munich 1860,3,1998-11-19
+FC Koln,0,1998-11-19
+Stuttgart,3,1998-11-19
+Rostock,0,1998-11-19
+Bochum,0,1998-11-21
+Bremen,3,1998-11-21
+Hamburger SV,0,1998-11-21
+Dortmund,3,1998-11-21
+Bayern,3,1998-11-22
+Duisburg,0,1998-11-22
+FC Koln,0,1998-11-22
+Bielefeld,3,1998-11-22
+Hertha,1,1998-11-22
+Leverkusen,1,1998-11-22
+Schalke,3,1998-11-22
+Munich 1860,0,1998-11-22
+Stuttgart,3,1998-11-22
+Karlsruher,0,1998-11-22
+Wolfsburg,3,1998-11-22
+Kaiserslautern,0,1998-11-22
+Rostock,3,1998-11-23
+Monchengladbach,0,1998-11-23
+Duisburg,0,1998-11-28
+Hertha,3,1998-11-28
+Karlsruher,3,1998-11-28
+Rostock,0,1998-11-28
+Bielefeld,1,1998-11-29
+Schalke,1,1998-11-29
+Bremen,1,1998-11-29
+Stuttgart,1,1998-11-29
+Kaiserslautern,3,1998-11-29
+Hamburger SV,0,1998-11-29
+Monchengladbach,0,1998-11-29
+Wolfsburg,3,1998-11-29
+Munich 1860,0,1998-11-29
+Bochum,3,1998-11-29
+Leverkusen,3,1998-11-30
+Bayern,0,1998-11-30
+Kaiserslautern,3,1998-12-05
+Bayern,0,1998-12-05
+Bielefeld,0,1998-12-06
+Bochum,3,1998-12-06
+Bremen,0,1998-12-06
+Karlsruher,3,1998-12-06
+Duisburg,1,1998-12-06
+FC Koln,1,1998-12-06
+Leverkusen,1,1998-12-06
+Schalke,1,1998-12-06
+Monchengladbach,1,1998-12-06
+Hamburger SV,1,1998-12-06
+Munich 1860,0,1998-12-06
+Stuttgart,3,1998-12-06
+Wolfsburg,1,1998-12-07
+Rostock,1,1998-12-07
+Hertha,3,1998-12-12
+Kaiserslautern,0,1998-12-12
+Rostock,0,1998-12-12
+Bremen,3,1998-12-12
+Bayern,3,1998-12-13
+Monchengladbach,0,1998-12-13
+FC Koln,3,1998-12-13
+Dortmund,0,1998-12-13
+Hamburger SV,0,1998-12-13
+Wolfsburg,3,1998-12-13
+Karlsruher,1,1998-12-13
+Munich 1860,1,1998-12-13
+Schalke,1,1998-12-13
+Duisburg,1,1998-12-13
+Stuttgart,3,1998-12-13
+Bielefeld,0,1998-12-13
+Bochum,1,1998-12-14
+Leverkusen,1,1998-12-14
+Dortmund,3,1998-12-16
+Hertha,0,1998-12-16
+Dortmund,1,1998-12-19
+Schalke,1,1998-12-19
+Monchengladbach,3,1998-12-19
+Hertha,0,1998-12-19
+Bielefeld,3,1998-12-20
+Karlsruher,0,1998-12-20
+Duisburg,3,1998-12-20
+Bochum,0,1998-12-20
+Kaiserslautern,3,1998-12-20
+FC Koln,0,1998-12-20
+Leverkusen,3,1998-12-20
+Stuttgart,0,1998-12-20
+Munich 1860,0,1998-12-20
+Bremen,3,1998-12-20
+Wolfsburg,0,1998-12-20
+Bayern,3,1998-12-20
+Hamburger SV,0,1998-12-21
+Rostock,3,1998-12-21

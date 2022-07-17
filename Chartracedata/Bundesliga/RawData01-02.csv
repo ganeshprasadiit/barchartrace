@@ -1,0 +1,613 @@
+team,points,date
+Freiburg,3,2001-01-26
+Nurnberg,0,2001-01-26
+Leverkusen,3,2001-01-26
+Rostock,0,2001-01-26
+Monchengladbach,0,2001-01-26
+Kaiserslautern,3,2001-01-26
+Munich 1860,3,2001-01-26
+FC Koln,0,2001-01-26
+Schalke,3,2001-01-26
+Bayern,0,2001-01-26
+St. Pauli,3,2001-01-26
+Wolfsburg,0,2001-01-26
+Stuttgart,3,2001-01-26
+Hamburger SV,0,2001-01-26
+Cottbus,3,2001-01-27
+Bremen,0,2001-01-27
+Dortmund,3,2001-01-27
+Hertha,0,2001-01-27
+Bremen,0,2001-02-02
+Stuttgart,3,2001-02-02
+FC Koln,0,2001-02-02
+Kaiserslautern,3,2001-02-02
+Hamburger SV,3,2001-02-02
+Munich 1860,0,2001-02-02
+Hertha,1,2001-02-02
+Freiburg,1,2001-02-02
+Nurnberg,3,2001-02-02
+Cottbus,0,2001-02-02
+Schalke,3,2001-02-02
+Monchengladbach,0,2001-02-02
+Wolfsburg,1,2001-02-02
+Dortmund,1,2001-02-02
+Bayern,3,2001-02-03
+Leverkusen,0,2001-02-03
+Rostock,3,2001-02-03
+St. Pauli,0,2001-02-03
+Cottbus,3,2001-02-05
+Hertha,0,2001-02-05
+Freiburg,1,2001-02-05
+Wolfsburg,1,2001-02-05
+Monchengladbach,3,2001-02-05
+FC Koln,0,2001-02-05
+Munich 1860,3,2001-02-05
+Bremen,0,2001-02-05
+Stuttgart,0,2001-02-05
+Nurnberg,3,2001-02-05
+Dortmund,3,2001-02-06
+Rostock,0,2001-02-06
+Kaiserslautern,1,2001-02-06
+Hamburger SV,1,2001-02-06
+Leverkusen,0,2001-02-06
+Schalke,3,2001-02-06
+St. Pauli,3,2001-02-06
+Bayern,0,2001-02-06
+Bayern,1,2001-02-09
+Dortmund,1,2001-02-09
+Bremen,3,2001-02-09
+Kaiserslautern,0,2001-02-09
+Hertha,3,2001-02-09
+Stuttgart,0,2001-02-09
+Leverkusen,3,2001-02-09
+Monchengladbach,0,2001-02-09
+Rostock,3,2001-02-09
+Freiburg,0,2001-02-09
+Schalke,3,2001-02-09
+St. Pauli,0,2001-02-09
+Wolfsburg,3,2001-02-09
+Cottbus,0,2001-02-09
+Hamburger SV,3,2001-02-10
+FC Koln,0,2001-02-10
+Nurnberg,3,2001-02-10
+Munich 1860,0,2001-02-10
+Dortmund,1,2001-02-16
+Schalke,1,2001-02-16
+Freiburg,0,2001-02-16
+Bayern,3,2001-02-16
+Kaiserslautern,3,2001-02-16
+Nurnberg,0,2001-02-16
+Monchengladbach,3,2001-02-16
+Hamburger SV,0,2001-02-16
+Munich 1860,0,2001-02-16
+Hertha,3,2001-02-16
+St. Pauli,1,2001-02-16
+Leverkusen,1,2001-02-16
+Stuttgart,3,2001-02-16
+Wolfsburg,0,2001-02-16
+Cottbus,3,2001-02-17
+Rostock,0,2001-02-17
+FC Koln,1,2001-02-17
+Bremen,1,2001-02-17
+Bayern,3,2001-02-23
+Cottbus,0,2001-02-23
+Hertha,3,2001-02-23
+Kaiserslautern,0,2001-02-23
+Nurnberg,3,2001-02-23
+FC Koln,0,2001-02-23
+Rostock,1,2001-02-23
+Stuttgart,1,2001-02-23
+Schalke,3,2001-02-23
+Freiburg,0,2001-02-23
+St. Pauli,1,2001-02-23
+Monchengladbach,1,2001-02-23
+Wolfsburg,0,2001-02-23
+Munich 1860,3,2001-02-23
+Bremen,0,2001-02-24
+Hamburger SV,3,2001-02-24
+Leverkusen,3,2001-02-24
+Dortmund,0,2001-02-24
+Cottbus,3,2001-03-02
+Schalke,0,2001-03-02
+FC Koln,1,2001-03-02
+Hertha,1,2001-03-02
+Freiburg,1,2001-03-02
+Leverkusen,1,2001-03-02
+Hamburger SV,3,2001-03-02
+Nurnberg,0,2001-03-02
+Monchengladbach,3,2001-03-02
+Bremen,0,2001-03-02
+Munich 1860,3,2001-03-02
+Rostock,0,2001-03-02
+Stuttgart,0,2001-03-02
+Bayern,3,2001-03-02
+Dortmund,1,2001-03-03
+St. Pauli,1,2001-03-03
+Kaiserslautern,3,2001-03-03
+Wolfsburg,0,2001-03-03
+Bayern,3,2001-03-09
+Munich 1860,0,2001-03-09
+Dortmund,3,2001-03-09
+Monchengladbach,0,2001-03-09
+Leverkusen,3,2001-03-09
+Cottbus,0,2001-03-09
+Nurnberg,0,2001-03-09
+Bremen,3,2001-03-09
+Rostock,3,2001-03-09
+Kaiserslautern,0,2001-03-09
+St. Pauli,3,2001-03-09
+Freiburg,0,2001-03-09
+Wolfsburg,3,2001-03-09
+FC Koln,0,2001-03-09
+Hertha,3,2001-03-10
+Hamburger SV,0,2001-03-10
+Schalke,3,2001-03-10
+Stuttgart,0,2001-03-10
+Bremen,0,2001-03-16
+Hertha,3,2001-03-16
+Cottbus,3,2001-03-16
+St. Pauli,0,2001-03-16
+FC Koln,3,2001-03-16
+Rostock,0,2001-03-16
+Hamburger SV,1,2001-03-16
+Wolfsburg,1,2001-03-16
+Kaiserslautern,1,2001-03-16
+Bayern,1,2001-03-16
+Monchengladbach,3,2001-03-16
+Nurnberg,0,2001-03-16
+Stuttgart,0,2001-03-16
+Leverkusen,3,2001-03-16
+Freiburg,0,2001-03-17
+Dortmund,3,2001-03-17
+Munich 1860,0,2001-03-17
+Schalke,3,2001-03-17
+Bayern,3,2001-03-23
+FC Koln,0,2001-03-23
+Freiburg,0,2001-03-23
+Monchengladbach,3,2001-03-23
+Hertha,3,2001-03-23
+Nurnberg,0,2001-03-23
+Leverkusen,3,2001-03-23
+Munich 1860,0,2001-03-23
+Rostock,1,2001-03-23
+Hamburger SV,1,2001-03-23
+Schalke,3,2001-03-23
+Kaiserslautern,0,2001-03-23
+St. Pauli,0,2001-03-23
+Stuttgart,3,2001-03-23
+Dortmund,3,2001-03-24
+Cottbus,0,2001-03-24
+Wolfsburg,3,2001-03-24
+Bremen,0,2001-03-24
+Cottbus,3,2001-03-30
+Freiburg,0,2001-03-30
+Hamburger SV,1,2001-03-30
+Bayern,1,2001-03-30
+Kaiserslautern,0,2001-03-30
+Leverkusen,3,2001-03-30
+Monchengladbach,3,2001-03-30
+Hertha,0,2001-03-30
+Munich 1860,3,2001-03-30
+St. Pauli,0,2001-03-30
+Nurnberg,3,2001-03-30
+Wolfsburg,0,2001-03-30
+Stuttgart,3,2001-03-30
+Dortmund,0,2001-03-30
+Bremen,3,2001-03-31
+Rostock,0,2001-03-31
+FC Koln,1,2001-03-31
+Schalke,1,2001-03-31
+Bayern,1,2001-04-06
+Bremen,1,2001-04-06
+Cottbus,1,2001-04-06
+Monchengladbach,1,2001-04-06
+Leverkusen,3,2001-04-06
+FC Koln,0,2001-04-06
+Rostock,3,2001-04-06
+Nurnberg,0,2001-04-06
+Schalke,3,2001-04-06
+Hamburger SV,0,2001-04-06
+St. Pauli,1,2001-04-06
+Kaiserslautern,1,2001-04-06
+Wolfsburg,0,2001-04-06
+Hertha,3,2001-04-06
+Dortmund,3,2001-04-07
+Munich 1860,0,2001-04-07
+Freiburg,0,2001-04-07
+Stuttgart,3,2001-04-07
+Bremen,3,2001-04-13
+Schalke,0,2001-04-13
+FC Koln,3,2001-04-13
+St. Pauli,0,2001-04-13
+Hamburger SV,1,2001-04-13
+Leverkusen,1,2001-04-13
+Hertha,3,2001-04-13
+Rostock,0,2001-04-13
+Monchengladbach,0,2001-04-13
+Wolfsburg,3,2001-04-13
+Munich 1860,3,2001-04-13
+Freiburg,0,2001-04-13
+Nurnberg,0,2001-04-13
+Bayern,3,2001-04-13
+Kaiserslautern,3,2001-04-14
+Dortmund,0,2001-04-14
+Stuttgart,1,2001-04-14
+Cottbus,1,2001-04-14
+St. Pauli,0,2001-04-19
+Hamburger SV,3,2001-04-19
+Bayern,3,2001-04-20
+Hertha,0,2001-04-20
+Cottbus,1,2001-04-20
+Munich 1860,1,2001-04-20
+Dortmund,3,2001-04-20
+FC Koln,0,2001-04-20
+Leverkusen,0,2001-04-20
+Bremen,3,2001-04-20
+Schalke,3,2001-04-20
+Nurnberg,0,2001-04-20
+Wolfsburg,3,2001-04-20
+Rostock,0,2001-04-20
+Freiburg,3,2001-04-21
+Kaiserslautern,0,2001-04-21
+Monchengladbach,1,2001-04-21
+Stuttgart,1,2001-04-21
+Bremen,3,2001-04-27
+St. Pauli,0,2001-04-27
+FC Koln,3,2001-04-27
+Freiburg,0,2001-04-27
+Hamburger SV,0,2001-04-27
+Dortmund,3,2001-04-27
+Hertha,3,2001-04-27
+Schalke,0,2001-04-27
+Kaiserslautern,3,2001-04-27
+Cottbus,0,2001-04-27
+Munich 1860,1,2001-04-27
+Stuttgart,1,2001-04-27
+Nurnberg,3,2001-04-27
+Leverkusen,0,2001-04-27
+Rostock,1,2001-04-27
+Monchengladbach,1,2001-04-27
+Wolfsburg,0,2001-04-27
+Bayern,3,2001-04-27
+Bayern,3,2001-05-04
+Rostock,0,2001-05-04
+Cottbus,0,2001-05-04
+FC Koln,3,2001-05-04
+Dortmund,3,2001-05-04
+Bremen,0,2001-05-04
+Freiburg,3,2001-05-04
+Hamburger SV,0,2001-05-04
+Leverkusen,3,2001-05-04
+Hertha,0,2001-05-04
+Monchengladbach,0,2001-05-04
+Munich 1860,3,2001-05-04
+Schalke,0,2001-05-04
+Wolfsburg,3,2001-05-04
+St. Pauli,0,2001-05-04
+Nurnberg,3,2001-05-04
+Stuttgart,3,2001-05-04
+Kaiserslautern,0,2001-05-04
+Cottbus,3,2002-07-28
+Hamburger SV,0,2002-07-28
+Dortmund,3,2002-07-28
+Nurnberg,0,2002-07-28
+Freiburg,3,2002-07-28
+Bremen,0,2002-07-28
+Leverkusen,3,2002-07-28
+Wolfsburg,0,2002-07-28
+Monchengladbach,3,2002-07-28
+Bayern,0,2002-07-28
+Munich 1860,0,2002-07-28
+Kaiserslautern,3,2002-07-28
+Stuttgart,1,2002-07-28
+FC Koln,1,2002-07-28
+St. Pauli,1,2002-07-29
+Hertha,1,2002-07-29
+Bayern,3,2002-08-04
+Schalke,0,2002-08-04
+Bremen,3,2002-08-04
+Cottbus,0,2002-08-04
+FC Koln,3,2002-08-04
+Munich 1860,0,2002-08-04
+Hamburger SV,3,2002-08-04
+Stuttgart,0,2002-08-04
+Hertha,0,2002-08-04
+Dortmund,3,2002-08-04
+Rostock,0,2002-08-04
+Leverkusen,3,2002-08-04
+Wolfsburg,1,2002-08-04
+St. Pauli,1,2002-08-04
+Kaiserslautern,3,2002-08-05
+Monchengladbach,0,2002-08-05
+Nurnberg,3,2002-08-05
+Freiburg,0,2002-08-05
+Cottbus,3,2002-08-11
+Nurnberg,0,2002-08-11
+Dortmund,3,2002-08-11
+Wolfsburg,0,2002-08-11
+Freiburg,0,2002-08-11
+Hertha,3,2002-08-11
+Kaiserslautern,3,2002-08-11
+FC Koln,0,2002-08-11
+Leverkusen,1,2002-08-11
+Bayern,1,2002-08-11
+Munich 1860,1,2002-08-11
+Hamburger SV,1,2002-08-11
+Stuttgart,1,2002-08-11
+Bremen,1,2002-08-11
+Monchengladbach,1,2002-08-12
+Schalke,1,2002-08-12
+St. Pauli,0,2002-08-12
+Rostock,3,2002-08-12
+Bayern,3,2002-08-18
+St. Pauli,0,2002-08-18
+Bremen,0,2002-08-18
+Munich 1860,3,2002-08-18
+Hamburger SV,0,2002-08-18
+Kaiserslautern,3,2002-08-18
+Nurnberg,0,2002-08-18
+Stuttgart,3,2002-08-18
+Rostock,0,2002-08-18
+Dortmund,3,2002-08-18
+Schalke,1,2002-08-18
+Leverkusen,1,2002-08-18
+Wolfsburg,1,2002-08-18
+Freiburg,1,2002-08-18
+FC Koln,0,2002-08-19
+Monchengladbach,3,2002-08-19
+Hertha,0,2002-08-19
+Cottbus,3,2002-08-19
+Schalke,3,2002-08-21
+Rostock,0,2002-08-21
+Cottbus,1,2002-09-08
+Wolfsburg,1,2002-09-08
+Dortmund,0,2002-09-08
+Bayern,3,2002-09-08
+Freiburg,1,2002-09-08
+Rostock,1,2002-09-08
+Monchengladbach,0,2002-09-08
+Leverkusen,3,2002-09-08
+Munich 1860,3,2002-09-08
+Nurnberg,0,2002-09-08
+St. Pauli,0,2002-09-08
+Schalke,3,2002-09-08
+Stuttgart,1,2002-09-08
+Hertha,1,2002-09-08
+FC Koln,3,2002-09-09
+Hamburger SV,0,2002-09-09
+Kaiserslautern,3,2002-09-09
+Bremen,0,2002-09-09
+Bayern,3,2002-09-16
+Freiburg,0,2002-09-16
+Bremen,1,2002-09-16
+FC Koln,1,2002-09-16
+Hamburger SV,1,2002-09-16
+Monchengladbach,1,2002-09-16
+Leverkusen,3,2002-09-16
+St. Pauli,0,2002-09-16
+Nurnberg,0,2002-09-16
+Kaiserslautern,3,2002-09-16
+Schalke,3,2002-09-16
+Dortmund,0,2002-09-16
+Wolfsburg,0,2002-09-16
+Stuttgart,3,2002-09-16
+Hertha,3,2002-09-17
+Munich 1860,0,2002-09-17
+Rostock,1,2002-09-17
+Cottbus,1,2002-09-17
+Cottbus,0,2002-09-22
+Bayern,3,2002-09-22
+Dortmund,1,2002-09-22
+Leverkusen,1,2002-09-22
+FC Koln,0,2002-09-22
+Nurnberg,3,2002-09-22
+Freiburg,3,2002-09-22
+Schalke,0,2002-09-22
+Hamburger SV,0,2002-09-22
+Bremen,3,2002-09-22
+Kaiserslautern,3,2002-09-22
+Hertha,0,2002-09-22
+Stuttgart,3,2002-09-22
+Rostock,0,2002-09-22
+Monchengladbach,1,2002-09-23
+St. Pauli,1,2002-09-23
+Munich 1860,3,2002-09-23
+Wolfsburg,0,2002-09-23
+Bremen,3,2002-09-29
+Monchengladbach,0,2002-09-29
+Hertha,3,2002-09-29
+FC Koln,0,2002-09-29
+Nurnberg,1,2002-09-29
+Hamburger SV,1,2002-09-29
+Rostock,1,2002-09-29
+Munich 1860,1,2002-09-29
+Schalke,3,2002-09-29
+Cottbus,0,2002-09-29
+St. Pauli,0,2002-09-29
+Dortmund,3,2002-09-29
+Wolfsburg,3,2002-09-29
+Kaiserslautern,0,2002-09-29
+Bayern,3,2002-09-30
+Stuttgart,0,2002-09-30
+Leverkusen,3,2002-09-30
+Freiburg,0,2002-09-30
+Cottbus,0,2002-10-13
+Leverkusen,3,2002-10-13
+Freiburg,1,2002-10-13
+St. Pauli,1,2002-10-13
+Hamburger SV,3,2002-10-13
+Hertha,0,2002-10-13
+Kaiserslautern,3,2002-10-13
+Rostock,0,2002-10-13
+Monchengladbach,0,2002-10-13
+Dortmund,3,2002-10-13
+Munich 1860,0,2002-10-13
+Bayern,3,2002-10-13
+Stuttgart,3,2002-10-13
+Schalke,0,2002-10-13
+Bremen,3,2002-10-14
+Nurnberg,0,2002-10-14
+FC Koln,0,2002-10-14
+Wolfsburg,3,2002-10-14
+Bayern,3,2002-10-20
+Kaiserslautern,0,2002-10-20
+Leverkusen,3,2002-10-20
+Stuttgart,0,2002-10-20
+Nurnberg,0,2002-10-20
+Monchengladbach,3,2002-10-20
+Rostock,3,2002-10-20
+FC Koln,0,2002-10-20
+Schalke,3,2002-10-20
+Munich 1860,0,2002-10-20
+St. Pauli,3,2002-10-20
+Cottbus,0,2002-10-20
+Dortmund,0,2002-10-21
+Freiburg,3,2002-10-21
+Wolfsburg,0,2002-10-21
+Hamburger SV,3,2002-10-21
+Hertha,3,2002-10-21
+Bremen,0,2002-10-21
+Bremen,3,2002-10-27
+Wolfsburg,0,2002-10-27
+Cottbus,0,2002-10-27
+Dortmund,3,2002-10-27
+FC Koln,0,2002-10-27
+Bayern,3,2002-10-27
+Kaiserslautern,1,2002-10-27
+Schalke,1,2002-10-27
+Monchengladbach,1,2002-10-27
+Freiburg,1,2002-10-27
+Munich 1860,0,2002-10-27
+Leverkusen,3,2002-10-27
+Stuttgart,3,2002-10-27
+St. Pauli,0,2002-10-27
+Hamburger SV,0,2002-10-28
+Rostock,3,2002-10-28
+Nurnberg,0,2002-10-28
+Hertha,3,2002-10-28
+Bayern,3,2002-11-03
+Hamburger SV,0,2002-11-03
+Dortmund,3,2002-11-03
+Stuttgart,0,2002-11-03
+Leverkusen,3,2002-11-03
+Kaiserslautern,0,2002-11-03
+Rostock,0,2002-11-03
+Bremen,3,2002-11-03
+Schalke,3,2002-11-03
+FC Koln,0,2002-11-03
+St. Pauli,0,2002-11-03
+Munich 1860,3,2002-11-03
+Wolfsburg,3,2002-11-03
+Nurnberg,0,2002-11-03
+Freiburg,3,2002-11-04
+Cottbus,0,2002-11-04
+Hertha,3,2002-11-04
+Monchengladbach,0,2002-11-04
+Bremen,3,2002-11-17
+Bayern,0,2002-11-17
+FC Koln,0,2002-11-17
+Leverkusen,3,2002-11-17
+Hamburger SV,1,2002-11-17
+Schalke,1,2002-11-17
+Hertha,3,2002-11-17
+Wolfsburg,0,2002-11-17
+Kaiserslautern,3,2002-11-17
+St. Pauli,0,2002-11-17
+Munich 1860,0,2002-11-17
+Dortmund,3,2002-11-17
+Stuttgart,3,2002-11-17
+Freiburg,0,2002-11-17
+Monchengladbach,1,2002-11-18
+Cottbus,1,2002-11-18
+Nurnberg,3,2002-11-18
+Rostock,0,2002-11-18
+Bayern,1,2002-11-24
+Nurnberg,1,2002-11-24
+Cottbus,1,2002-11-24
+Stuttgart,1,2002-11-24
+Leverkusen,3,2002-11-24
+Hamburger SV,0,2002-11-24
+Rostock,1,2002-11-24
+Hertha,1,2002-11-24
+Schalke,0,2002-11-24
+Bremen,3,2002-11-24
+St. Pauli,0,2002-11-24
+FC Koln,3,2002-11-24
+Wolfsburg,3,2002-11-24
+Monchengladbach,0,2002-11-24
+Dortmund,3,2002-11-25
+Kaiserslautern,0,2002-11-25
+Freiburg,0,2002-11-25
+Munich 1860,3,2002-11-25
+Bremen,3,2002-12-01
+Leverkusen,0,2002-12-01
+FC Koln,0,2002-12-01
+Dortmund,3,2002-12-01
+Kaiserslautern,3,2002-12-01
+Freiburg,0,2002-12-01
+Munich 1860,3,2002-12-01
+Cottbus,0,2002-12-01
+Nurnberg,0,2002-12-01
+Schalke,3,2002-12-01
+Rostock,0,2002-12-01
+Wolfsburg,3,2002-12-01
+Stuttgart,1,2002-12-01
+Monchengladbach,1,2002-12-01
+Hamburger SV,3,2002-12-02
+St. Pauli,0,2002-12-02
+Hertha,3,2002-12-02
+Bayern,0,2002-12-02
+Bayern,1,2002-12-08
+Wolfsburg,1,2002-12-08
+Cottbus,0,2002-12-08
+Kaiserslautern,3,2002-12-08
+Dortmund,3,2002-12-08
+Hamburger SV,0,2002-12-08
+Leverkusen,3,2002-12-08
+Nurnberg,0,2002-12-08
+Monchengladbach,0,2002-12-08
+Rostock,3,2002-12-08
+St. Pauli,0,2002-12-08
+Bremen,3,2002-12-08
+Stuttgart,0,2002-12-08
+Munich 1860,3,2002-12-08
+Freiburg,1,2002-12-09
+FC Koln,1,2002-12-09
+Schalke,1,2002-12-09
+Hertha,1,2002-12-09
+Bremen,1,2002-12-15
+Dortmund,1,2002-12-15
+FC Koln,1,2002-12-15
+Cottbus,1,2002-12-15
+Hamburger SV,1,2002-12-15
+Freiburg,1,2002-12-15
+Hertha,3,2002-12-15
+Leverkusen,0,2002-12-15
+Munich 1860,1,2002-12-15
+Monchengladbach,1,2002-12-15
+Nurnberg,1,2002-12-15
+St. Pauli,1,2002-12-15
+Rostock,3,2002-12-15
+Bayern,0,2002-12-15
+Kaiserslautern,1,2002-12-16
+Stuttgart,1,2002-12-16
+Wolfsburg,3,2002-12-16
+Schalke,0,2002-12-16
+Bayern,1,2002-12-18
+Monchengladbach,1,2002-12-18
+Bremen,3,2002-12-18
+Freiburg,0,2002-12-18
+Hamburger SV,3,2002-12-18
+Cottbus,0,2002-12-18
+Hertha,1,2002-12-18
+St. Pauli,1,2002-12-18
+Nurnberg,1,2002-12-18
+Dortmund,1,2002-12-18
+FC Koln,1,2002-12-19
+Stuttgart,1,2002-12-19
+Kaiserslautern,0,2002-12-19
+Munich 1860,3,2002-12-19
+Rostock,0,2002-12-19
+Schalke,3,2002-12-19
+Wolfsburg,3,2002-12-19
+Leverkusen,0,2002-12-19

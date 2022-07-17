@@ -1,0 +1,613 @@
+team,points,date
+Schalke,3,2019-01-17
+Monchengladbach,0,2019-01-17
+RB Leipzig,3,2019-01-18
+Union Berlin,0,2019-01-18
+Augsburg,0,2019-01-18
+Dortmund,3,2019-01-18
+Dusseldorf,0,2019-01-18
+Bremen,3,2019-01-18
+FC Koln,3,2019-01-18
+Wolfsburg,0,2019-01-18
+Hoffenheim,0,2019-01-18
+Frankfurt,3,2019-01-18
+Mainz,0,2019-01-18
+Freiburg,3,2019-01-18
+Paderborn,0,2019-01-19
+Leverkusen,3,2019-01-19
+Hertha,0,2019-01-19
+Bayern,3,2019-01-19
+Dortmund,3,2019-01-24
+FC Koln,0,2019-01-24
+Bayern,3,2019-01-25
+Schalke,0,2019-01-25
+Frankfurt,3,2019-01-25
+RB Leipzig,0,2019-01-25
+Freiburg,0,2019-01-25
+Paderborn,3,2019-01-25
+Monchengladbach,3,2019-01-25
+Mainz,0,2019-01-25
+Union Berlin,3,2019-01-25
+Augsburg,0,2019-01-25
+Wolfsburg,0,2019-01-25
+Hertha,3,2019-01-25
+Leverkusen,3,2019-01-26
+Dusseldorf,0,2019-01-26
+Bremen,0,2019-01-26
+Hoffenheim,3,2019-01-26
+Hertha,1,2019-01-31
+Schalke,1,2019-01-31
+RB Leipzig,1,2019-02-01
+Monchengladbach,1,2019-02-01
+Augsburg,3,2019-02-01
+Bremen,0,2019-02-01
+Dortmund,3,2019-02-01
+Union Berlin,0,2019-02-01
+Dusseldorf,1,2019-02-01
+Frankfurt,1,2019-02-01
+Hoffenheim,3,2019-02-01
+Leverkusen,0,2019-02-01
+Mainz,0,2019-02-01
+Bayern,3,2019-02-01
+Paderborn,0,2019-02-02
+Wolfsburg,3,2019-02-02
+FC Koln,3,2019-02-02
+Freiburg,0,2019-02-02
+Frankfurt,3,2019-02-07
+Augsburg,0,2019-02-07
+Leverkusen,3,2019-02-08
+Dortmund,0,2019-02-08
+Bremen,0,2019-02-08
+Union Berlin,3,2019-02-08
+Freiburg,3,2019-02-08
+Hoffenheim,0,2019-02-08
+Hertha,0,2019-02-08
+Mainz,3,2019-02-08
+Schalke,1,2019-02-08
+Paderborn,1,2019-02-08
+Wolfsburg,1,2019-02-08
+Dusseldorf,1,2019-02-08
+Bayern,1,2019-02-09
+RB Leipzig,1,2019-02-09
+Dortmund,3,2019-02-14
+Frankfurt,0,2019-02-14
+Dusseldorf,0,2019-02-15
+Monchengladbach,3,2019-02-15
+Augsburg,1,2019-02-15
+Freiburg,1,2019-02-15
+Hoffenheim,0,2019-02-15
+Wolfsburg,3,2019-02-15
+Paderborn,0,2019-02-15
+Hertha,3,2019-02-15
+RB Leipzig,3,2019-02-15
+Bremen,0,2019-02-15
+Union Berlin,0,2019-02-15
+Leverkusen,3,2019-02-15
+Mainz,1,2019-02-16
+Schalke,1,2019-02-16
+FC Koln,0,2019-02-16
+Bayern,3,2019-02-16
+Bayern,3,2019-02-21
+Paderborn,0,2019-02-21
+Schalke,0,2019-02-22
+RB Leipzig,3,2019-02-22
+Bremen,0,2019-02-22
+Dortmund,3,2019-02-22
+Freiburg,0,2019-02-22
+Dusseldorf,3,2019-02-22
+Hertha,0,2019-02-22
+FC Koln,3,2019-02-22
+Monchengladbach,1,2019-02-22
+Hoffenheim,1,2019-02-22
+Wolfsburg,3,2019-02-23
+Mainz,0,2019-02-23
+Leverkusen,3,2019-02-23
+Augsburg,0,2019-02-23
+Frankfurt,0,2019-02-24
+Union Berlin,3,2019-02-24
+Dusseldorf,1,2019-02-28
+Hertha,1,2019-02-28
+FC Koln,3,2019-02-29
+Schalke,0,2019-02-29
+Augsburg,0,2019-02-29
+Monchengladbach,3,2019-02-29
+Dortmund,3,2019-02-29
+Freiburg,0,2019-02-29
+Hoffenheim,0,2019-02-29
+Bayern,3,2019-02-29
+Mainz,3,2019-02-29
+Paderborn,0,2019-02-29
+RB Leipzig,1,2019-03-01
+Leverkusen,1,2019-03-01
+Union Berlin,1,2019-03-01
+Wolfsburg,1,2019-03-01
+Paderborn,0,2019-03-06
+FC Koln,3,2019-03-06
+Monchengladbach,0,2019-03-07
+Dortmund,3,2019-03-07
+Freiburg,3,2019-03-07
+Union Berlin,0,2019-03-07
+Hertha,1,2019-03-07
+Bremen,1,2019-03-07
+Leverkusen,3,2019-03-07
+Frankfurt,0,2019-03-07
+Schalke,1,2019-03-07
+Hoffenheim,1,2019-03-07
+Wolfsburg,1,2019-03-07
+RB Leipzig,1,2019-03-07
+Mainz,1,2019-03-08
+Dusseldorf,1,2019-03-08
+Bayern,3,2019-03-08
+Augsburg,0,2019-03-08
+Monchengladbach,3,2019-03-11
+FC Koln,0,2019-03-11
+Frankfurt,0,2019-05-16
+Monchengladbach,3,2019-05-16
+Augsburg,0,2019-05-16
+Wolfsburg,3,2019-05-16
+Dortmund,3,2019-05-16
+Schalke,0,2019-05-16
+Dusseldorf,1,2019-05-16
+Paderborn,1,2019-05-16
+Hoffenheim,0,2019-05-16
+Hertha,3,2019-05-16
+RB Leipzig,1,2019-05-16
+Freiburg,1,2019-05-16
+Union Berlin,0,2019-05-17
+Bayern,3,2019-05-17
+FC Koln,1,2019-05-17
+Mainz,1,2019-05-17
+Bremen,0,2019-05-18
+Leverkusen,3,2019-05-18
+Hertha,3,2019-05-22
+Union Berlin,0,2019-05-22
+Bayern,3,2019-05-23
+Frankfurt,0,2019-05-23
+Freiburg,0,2019-05-23
+Bremen,3,2019-05-23
+Monchengladbach,0,2019-05-23
+Leverkusen,3,2019-05-23
+Paderborn,1,2019-05-23
+Hoffenheim,1,2019-05-23
+Wolfsburg,0,2019-05-23
+Dortmund,3,2019-05-23
+FC Koln,1,2019-05-24
+Dusseldorf,1,2019-05-24
+Mainz,0,2019-05-24
+RB Leipzig,3,2019-05-24
+Schalke,0,2019-05-24
+Augsburg,3,2019-05-24
+Bremen,1,2019-05-26
+Monchengladbach,1,2019-05-26
+Frankfurt,1,2019-05-26
+Freiburg,1,2019-05-26
+Leverkusen,0,2019-05-26
+Wolfsburg,3,2019-05-26
+Dortmund,0,2019-05-26
+Bayern,3,2019-05-26
+Augsburg,1,2019-05-27
+Paderborn,1,2019-05-27
+Dusseldorf,3,2019-05-27
+Schalke,0,2019-05-27
+Hoffenheim,3,2019-05-27
+FC Koln,0,2019-05-27
+Union Berlin,1,2019-05-27
+Mainz,1,2019-05-27
+RB Leipzig,1,2019-05-27
+Hertha,1,2019-05-27
+Freiburg,0,2019-05-29
+Leverkusen,3,2019-05-29
+Bayern,3,2019-05-30
+Dusseldorf,0,2019-05-30
+Hertha,3,2019-05-30
+Augsburg,0,2019-05-30
+Mainz,0,2019-05-30
+Hoffenheim,3,2019-05-30
+Schalke,0,2019-05-30
+Bremen,3,2019-05-30
+Wolfsburg,0,2019-05-30
+Frankfurt,3,2019-05-30
+Paderborn,0,2019-05-31
+Dortmund,3,2019-05-31
+Monchengladbach,3,2019-05-31
+Union Berlin,0,2019-05-31
+FC Koln,0,2019-06-01
+RB Leipzig,3,2019-06-01
+Bremen,0,2019-06-03
+Frankfurt,3,2019-06-03
+Freiburg,3,2019-06-05
+Monchengladbach,0,2019-06-05
+Dortmund,3,2019-06-06
+Hertha,0,2019-06-06
+Dusseldorf,1,2019-06-06
+Hoffenheim,1,2019-06-06
+Frankfurt,0,2019-06-06
+Mainz,3,2019-06-06
+Leverkusen,0,2019-06-06
+Bayern,3,2019-06-06
+RB Leipzig,1,2019-06-06
+Paderborn,1,2019-06-06
+Augsburg,1,2019-06-07
+FC Koln,1,2019-06-07
+Union Berlin,1,2019-06-07
+Schalke,1,2019-06-07
+Bremen,0,2019-06-07
+Wolfsburg,3,2019-06-07
+Hoffenheim,0,2019-06-12
+RB Leipzig,3,2019-06-12
+Bayern,3,2019-06-13
+Monchengladbach,0,2019-06-13
+Dusseldorf,0,2019-06-13
+Dortmund,3,2019-06-13
+FC Koln,0,2019-06-13
+Union Berlin,3,2019-06-13
+Hertha,0,2019-06-13
+Frankfurt,3,2019-06-13
+Paderborn,0,2019-06-13
+Bremen,3,2019-06-13
+Wolfsburg,1,2019-06-13
+Freiburg,1,2019-06-13
+Schalke,1,2019-06-14
+Leverkusen,1,2019-06-14
+Mainz,0,2019-06-14
+Augsburg,3,2019-06-14
+Bremen,0,2019-06-16
+Bayern,3,2019-06-16
+Freiburg,3,2019-06-16
+Hertha,0,2019-06-16
+Union Berlin,3,2019-06-16
+Paderborn,0,2019-06-16
+Monchengladbach,3,2019-06-16
+Wolfsburg,0,2019-06-16
+Augsburg,0,2019-06-17
+Hoffenheim,3,2019-06-17
+Dortmund,0,2019-06-17
+Mainz,3,2019-06-17
+Leverkusen,3,2019-06-17
+FC Koln,0,2019-06-17
+RB Leipzig,1,2019-06-17
+Dusseldorf,1,2019-06-17
+Frankfurt,3,2019-06-17
+Schalke,0,2019-06-17
+Bayern,3,2019-06-20
+Freiburg,0,2019-06-20
+Dusseldorf,1,2019-06-20
+Augsburg,1,2019-06-20
+FC Koln,1,2019-06-20
+Frankfurt,1,2019-06-20
+Hertha,3,2019-06-20
+Leverkusen,0,2019-06-20
+Hoffenheim,3,2019-06-20
+Union Berlin,0,2019-06-20
+Mainz,3,2019-06-20
+Bremen,0,2019-06-20
+Paderborn,0,2019-06-20
+Monchengladbach,3,2019-06-20
+RB Leipzig,0,2019-06-20
+Dortmund,3,2019-06-20
+Schalke,0,2019-06-20
+Wolfsburg,3,2019-06-20
+Augsburg,0,2019-06-27
+RB Leipzig,3,2019-06-27
+Bremen,3,2019-06-27
+FC Koln,0,2019-06-27
+Dortmund,0,2019-06-27
+Hoffenheim,3,2019-06-27
+Frankfurt,3,2019-06-27
+Paderborn,0,2019-06-27
+Freiburg,3,2019-06-27
+Schalke,0,2019-06-27
+Leverkusen,3,2019-06-27
+Mainz,0,2019-06-27
+Monchengladbach,3,2019-06-27
+Hertha,0,2019-06-27
+Union Berlin,3,2019-06-27
+Dusseldorf,0,2019-06-27
+Wolfsburg,0,2019-06-27
+Bayern,3,2019-06-27
+Bayern,1,2020-08-16
+Hertha,1,2020-08-16
+Monchengladbach,1,2020-08-17
+Schalke,1,2020-08-17
+Bremen,0,2020-08-17
+Dusseldorf,3,2020-08-17
+Dortmund,3,2020-08-17
+Augsburg,0,2020-08-17
+Freiburg,3,2020-08-17
+Mainz,0,2020-08-17
+Leverkusen,3,2020-08-17
+Paderborn,0,2020-08-17
+Wolfsburg,3,2020-08-17
+FC Koln,0,2020-08-17
+Union Berlin,0,2020-08-18
+RB Leipzig,3,2020-08-18
+Frankfurt,3,2020-08-18
+Hoffenheim,0,2020-08-18
+FC Koln,0,2020-08-23
+Dortmund,3,2020-08-23
+Schalke,0,2020-08-24
+Bayern,3,2020-08-24
+Augsburg,1,2020-08-24
+Union Berlin,1,2020-08-24
+Dusseldorf,0,2020-08-24
+Leverkusen,3,2020-08-24
+Hoffenheim,3,2020-08-24
+Bremen,0,2020-08-24
+Mainz,0,2020-08-24
+Monchengladbach,3,2020-08-24
+Paderborn,0,2020-08-24
+Freiburg,3,2020-08-24
+Hertha,0,2020-08-25
+Wolfsburg,3,2020-08-25
+RB Leipzig,3,2020-08-25
+Frankfurt,0,2020-08-25
+Monchengladbach,0,2020-08-30
+RB Leipzig,3,2020-08-30
+Union Berlin,3,2020-08-31
+Dortmund,0,2020-08-31
+Bayern,3,2020-08-31
+Mainz,0,2020-08-31
+Freiburg,0,2020-08-31
+FC Koln,3,2020-08-31
+Leverkusen,1,2020-08-31
+Hoffenheim,1,2020-08-31
+Schalke,3,2020-08-31
+Hertha,0,2020-08-31
+Wolfsburg,1,2020-08-31
+Paderborn,1,2020-08-31
+Frankfurt,3,2020-09-01
+Dusseldorf,0,2020-09-01
+Bremen,3,2020-09-01
+Augsburg,0,2020-09-01
+Dusseldorf,1,2020-09-13
+Wolfsburg,1,2020-09-13
+RB Leipzig,1,2020-09-14
+Bayern,1,2020-09-14
+Augsburg,3,2020-09-14
+Frankfurt,0,2020-09-14
+Dortmund,3,2020-09-14
+Leverkusen,0,2020-09-14
+FC Koln,0,2020-09-14
+Monchengladbach,3,2020-09-14
+Mainz,3,2020-09-14
+Hertha,0,2020-09-14
+Union Berlin,0,2020-09-14
+Bremen,3,2020-09-14
+Paderborn,0,2020-09-15
+Schalke,3,2020-09-15
+Hoffenheim,0,2020-09-15
+Freiburg,3,2020-09-15
+Schalke,3,2020-09-20
+Mainz,0,2020-09-20
+Bremen,0,2020-09-21
+RB Leipzig,3,2020-09-21
+Bayern,3,2020-09-21
+FC Koln,0,2020-09-21
+Freiburg,1,2020-09-21
+Augsburg,1,2020-09-21
+Hertha,3,2020-09-21
+Paderborn,0,2020-09-21
+Leverkusen,3,2020-09-21
+Union Berlin,0,2020-09-21
+Frankfurt,1,2020-09-22
+Dortmund,1,2020-09-22
+Monchengladbach,3,2020-09-22
+Dusseldorf,0,2020-09-22
+Wolfsburg,1,2020-09-23
+Hoffenheim,1,2020-09-23
+Union Berlin,0,2020-09-27
+Frankfurt,3,2020-09-27
+Dortmund,1,2020-09-28
+Bremen,1,2020-09-28
+Augsburg,0,2020-09-28
+Leverkusen,3,2020-09-28
+Hoffenheim,0,2020-09-28
+Monchengladbach,3,2020-09-28
+Mainz,0,2020-09-28
+Wolfsburg,3,2020-09-28
+Paderborn,0,2020-09-28
+Bayern,3,2020-09-28
+RB Leipzig,0,2020-09-28
+Schalke,3,2020-09-28
+FC Koln,0,2020-09-29
+Hertha,3,2020-09-29
+Dusseldorf,0,2020-09-29
+Freiburg,3,2020-09-29
+Hertha,3,2020-10-04
+Dusseldorf,0,2020-10-04
+Schalke,1,2020-10-05
+FC Koln,1,2020-10-05
+Bayern,0,2020-10-05
+Hoffenheim,3,2020-10-05
+Freiburg,1,2020-10-05
+Dortmund,1,2020-10-05
+Leverkusen,1,2020-10-05
+RB Leipzig,1,2020-10-05
+Paderborn,0,2020-10-05
+Mainz,3,2020-10-05
+Frankfurt,1,2020-10-06
+Bremen,1,2020-10-06
+Wolfsburg,3,2020-10-06
+Union Berlin,0,2020-10-06
+Monchengladbach,3,2020-10-06
+Augsburg,0,2020-10-06
+Frankfurt,3,2020-10-18
+Leverkusen,0,2020-10-18
+Dortmund,3,2020-10-19
+Monchengladbach,0,2020-10-19
+Augsburg,1,2020-10-19
+Bayern,1,2020-10-19
+Bremen,1,2020-10-19
+Hertha,1,2020-10-19
+Dusseldorf,3,2020-10-19
+Mainz,0,2020-10-19
+RB Leipzig,1,2020-10-19
+Wolfsburg,1,2020-10-19
+Union Berlin,3,2020-10-19
+Freiburg,0,2020-10-19
+Hoffenheim,3,2020-10-20
+Schalke,0,2020-10-20
+FC Koln,3,2020-10-20
+Paderborn,0,2020-10-20
+Mainz,3,2020-10-25
+FC Koln,0,2020-10-25
+Leverkusen,1,2020-10-26
+Bremen,1,2020-10-26
+Bayern,3,2020-10-26
+Union Berlin,0,2020-10-26
+Freiburg,3,2020-10-26
+RB Leipzig,0,2020-10-26
+Hertha,0,2020-10-26
+Hoffenheim,3,2020-10-26
+Paderborn,3,2020-10-26
+Dusseldorf,0,2020-10-26
+Schalke,1,2020-10-26
+Dortmund,1,2020-10-26
+Monchengladbach,3,2020-10-27
+Frankfurt,0,2020-10-27
+Wolfsburg,1,2020-10-27
+Augsburg,1,2020-10-27
+Hoffenheim,3,2020-11-01
+Paderborn,0,2020-11-01
+Union Berlin,3,2020-11-02
+Hertha,0,2020-11-02
+Bremen,1,2020-11-02
+Freiburg,1,2020-11-02
+Dortmund,3,2020-11-02
+Wolfsburg,0,2020-11-02
+Frankfurt,3,2020-11-02
+Bayern,0,2020-11-02
+Leverkusen,0,2020-11-02
+Monchengladbach,3,2020-11-02
+RB Leipzig,3,2020-11-02
+Mainz,0,2020-11-02
+Augsburg,0,2020-11-03
+Schalke,3,2020-11-03
+Dusseldorf,3,2020-11-03
+FC Koln,0,2020-11-03
+FC Koln,0,2020-11-08
+Hoffenheim,3,2020-11-08
+Bayern,3,2020-11-09
+Dortmund,0,2020-11-09
+Hertha,0,2020-11-09
+RB Leipzig,3,2020-11-09
+Mainz,0,2020-11-09
+Union Berlin,3,2020-11-09
+Paderborn,0,2020-11-09
+Augsburg,3,2020-11-09
+Schalke,1,2020-11-09
+Dusseldorf,1,2020-11-09
+Freiburg,3,2020-11-10
+Frankfurt,0,2020-11-10
+Wolfsburg,0,2020-11-10
+Leverkusen,3,2020-11-10
+Monchengladbach,3,2020-11-10
+Bremen,0,2020-11-10
+Dortmund,1,2020-11-22
+Paderborn,1,2020-11-22
+RB Leipzig,3,2020-11-23
+FC Koln,0,2020-11-23
+Bremen,0,2020-11-23
+Schalke,3,2020-11-23
+Dusseldorf,0,2020-11-23
+Bayern,3,2020-11-23
+Frankfurt,0,2020-11-23
+Wolfsburg,3,2020-11-23
+Leverkusen,1,2020-11-23
+Freiburg,1,2020-11-23
+Union Berlin,3,2020-11-23
+Monchengladbach,0,2020-11-23
+Hoffenheim,0,2020-11-24
+Mainz,3,2020-11-24
+Augsburg,3,2020-11-24
+Hertha,0,2020-11-24
+Schalke,3,2020-11-29
+Union Berlin,0,2020-11-29
+Bayern,0,2020-11-30
+Leverkusen,3,2020-11-30
+FC Koln,1,2020-11-30
+Augsburg,1,2020-11-30
+Hertha,0,2020-11-30
+Dortmund,3,2020-11-30
+Hoffenheim,1,2020-11-30
+Dusseldorf,1,2020-11-30
+Paderborn,0,2020-11-30
+RB Leipzig,3,2020-11-30
+Wolfsburg,0,2020-12-01
+Bremen,3,2020-12-01
+Monchengladbach,3,2020-12-01
+Freiburg,0,2020-12-01
+Mainz,3,2020-12-02
+Frankfurt,0,2020-12-02
+Frankfurt,1,2020-12-06
+Hertha,1,2020-12-06
+Leverkusen,3,2020-12-07
+Schalke,0,2020-12-07
+Augsburg,3,2020-12-07
+Mainz,0,2020-12-07
+Dortmund,3,2020-12-07
+Dusseldorf,0,2020-12-07
+Freiburg,3,2020-12-07
+Wolfsburg,0,2020-12-07
+Monchengladbach,3,2020-12-07
+Bayern,0,2020-12-07
+RB Leipzig,3,2020-12-07
+Hoffenheim,0,2020-12-07
+Bremen,0,2020-12-08
+Paderborn,3,2020-12-08
+Union Berlin,3,2020-12-08
+FC Koln,0,2020-12-08
+Hoffenheim,0,2020-12-13
+Augsburg,3,2020-12-13
+Dusseldorf,0,2020-12-14
+RB Leipzig,3,2020-12-14
+Bayern,3,2020-12-14
+Bremen,0,2020-12-14
+FC Koln,3,2020-12-14
+Leverkusen,0,2020-12-14
+Hertha,3,2020-12-14
+Freiburg,0,2020-12-14
+Mainz,0,2020-12-14
+Dortmund,3,2020-12-14
+Paderborn,1,2020-12-14
+Union Berlin,1,2020-12-14
+Schalke,3,2020-12-15
+Frankfurt,0,2020-12-15
+Wolfsburg,3,2020-12-15
+Monchengladbach,0,2020-12-15
+Augsburg,3,2020-12-17
+Dusseldorf,0,2020-12-17
+Dortmund,1,2020-12-17
+RB Leipzig,1,2020-12-17
+Union Berlin,0,2020-12-17
+Hoffenheim,3,2020-12-17
+Bremen,0,2020-12-17
+Mainz,3,2020-12-17
+Frankfurt,0,2020-12-18
+FC Koln,3,2020-12-18
+Freiburg,0,2020-12-18
+Bayern,3,2020-12-18
+Monchengladbach,3,2020-12-18
+Paderborn,0,2020-12-18
+Wolfsburg,1,2020-12-18
+Schalke,1,2020-12-18
+Leverkusen,0,2020-12-18
+Hertha,3,2020-12-18
+Hoffenheim,3,2020-12-20
+Dortmund,0,2020-12-20
+Hertha,1,2020-12-21
+Monchengladbach,1,2020-12-21
+Bayern,3,2020-12-21
+Wolfsburg,0,2020-12-21
+FC Koln,3,2020-12-21
+Bremen,0,2020-12-21
+Mainz,0,2020-12-21
+Leverkusen,3,2020-12-21
+RB Leipzig,3,2020-12-21
+Augsburg,0,2020-12-21
+Schalke,1,2020-12-21
+Freiburg,1,2020-12-21
+Paderborn,3,2020-12-22
+Frankfurt,0,2020-12-22
+Dusseldorf,3,2020-12-22
+Union Berlin,0,2020-12-22

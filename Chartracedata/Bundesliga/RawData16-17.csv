@@ -1,0 +1,613 @@
+team,points,date
+Freiburg,0,2016-01-20
+Bayern,3,2016-01-20
+RB Leipzig,3,2016-01-21
+Frankfurt,0,2016-01-21
+Augsburg,0,2016-01-21
+Hoffenheim,3,2016-01-21
+Bremen,0,2016-01-21
+Dortmund,3,2016-01-21
+Darmstadt,1,2016-01-21
+Monchengladbach,1,2016-01-21
+Schalke,3,2016-01-21
+Ingolstadt,0,2016-01-21
+Wolfsburg,3,2016-01-21
+Hamburger SV,0,2016-01-21
+Mainz,1,2016-01-22
+FC Koln,1,2016-01-22
+Leverkusen,3,2016-01-22
+Hertha,0,2016-01-22
+Schalke,0,2016-01-27
+Frankfurt,3,2016-01-27
+Leverkusen,0,2016-01-28
+Monchengladbach,3,2016-01-28
+Bremen,0,2016-01-28
+Bayern,3,2016-01-28
+Darmstadt,0,2016-01-28
+FC Koln,3,2016-01-28
+Ingolstadt,3,2016-01-28
+Hamburger SV,0,2016-01-28
+RB Leipzig,3,2016-01-28
+Hoffenheim,0,2016-01-28
+Wolfsburg,0,2016-01-28
+Augsburg,3,2016-01-28
+Mainz,1,2016-01-29
+Dortmund,1,2016-01-29
+Freiburg,3,2016-01-29
+Hertha,0,2016-01-29
+Hamburger SV,3,2016-02-03
+Leverkusen,0,2016-02-03
+Dortmund,3,2016-02-04
+RB Leipzig,0,2016-02-04
+Bayern,1,2016-02-04
+Schalke,1,2016-02-04
+FC Koln,3,2016-02-04
+Wolfsburg,0,2016-02-04
+Hertha,3,2016-02-04
+Ingolstadt,0,2016-02-04
+Hoffenheim,3,2016-02-04
+Mainz,0,2016-02-04
+Monchengladbach,3,2016-02-04
+Freiburg,0,2016-02-04
+Frankfurt,3,2016-02-05
+Darmstadt,0,2016-02-05
+Augsburg,3,2016-02-05
+Bremen,0,2016-02-05
+Mainz,3,2016-02-10
+Augsburg,0,2016-02-10
+Schalke,3,2016-02-11
+Hertha,0,2016-02-11
+Bremen,0,2016-02-11
+Monchengladbach,3,2016-02-11
+Darmstadt,3,2016-02-11
+Dortmund,0,2016-02-11
+Ingolstadt,0,2016-02-11
+Bayern,3,2016-02-11
+Leverkusen,3,2016-02-11
+Frankfurt,0,2016-02-11
+RB Leipzig,0,2016-02-11
+Hamburger SV,3,2016-02-11
+Freiburg,3,2016-02-12
+FC Koln,0,2016-02-12
+Wolfsburg,3,2016-02-12
+Hoffenheim,0,2016-02-12
+Augsburg,0,2016-02-17
+Leverkusen,3,2016-02-17
+Hamburger SV,1,2016-02-18
+Freiburg,1,2016-02-18
+Dortmund,3,2016-02-18
+Wolfsburg,0,2016-02-18
+Frankfurt,0,2016-02-18
+Ingolstadt,3,2016-02-18
+Hertha,1,2016-02-18
+Bayern,1,2016-02-18
+Hoffenheim,3,2016-02-18
+Darmstadt,0,2016-02-18
+Mainz,0,2016-02-18
+Bremen,3,2016-02-18
+FC Koln,1,2016-02-19
+Schalke,1,2016-02-19
+Monchengladbach,0,2016-02-19
+RB Leipzig,3,2016-02-19
+Wolfsburg,0,2016-02-24
+Bremen,3,2016-02-24
+Hertha,3,2016-02-25
+Frankfurt,0,2016-02-25
+Bayern,3,2016-02-25
+Hamburger SV,0,2016-02-25
+Darmstadt,0,2016-02-25
+Augsburg,3,2016-02-25
+Freiburg,0,2016-02-25
+Dortmund,3,2016-02-25
+Leverkusen,0,2016-02-25
+Mainz,3,2016-02-25
+RB Leipzig,3,2016-02-25
+FC Koln,0,2016-02-25
+Schalke,1,2016-02-26
+Hoffenheim,1,2016-02-26
+Ingolstadt,0,2016-02-26
+Monchengladbach,3,2016-02-26
+Augsburg,1,2016-03-03
+RB Leipzig,1,2016-03-03
+Monchengladbach,3,2016-03-04
+Schalke,0,2016-03-04
+Bremen,3,2016-03-04
+Darmstadt,0,2016-03-04
+Dortmund,3,2016-03-04
+Leverkusen,0,2016-03-04
+FC Koln,0,2016-03-04
+Bayern,3,2016-03-04
+Hoffenheim,3,2016-03-04
+Ingolstadt,0,2016-03-04
+Mainz,1,2016-03-04
+Wolfsburg,1,2016-03-04
+Hamburger SV,3,2016-03-05
+Hertha,0,2016-03-05
+Frankfurt,0,2016-03-05
+Freiburg,3,2016-03-05
+Leverkusen,1,2016-03-10
+Bremen,1,2016-03-10
+Ingolstadt,1,2016-03-11
+FC Koln,1,2016-03-11
+Bayern,3,2016-03-11
+Frankfurt,0,2016-03-11
+Darmstadt,3,2016-03-11
+Mainz,0,2016-03-11
+Freiburg,1,2016-03-11
+Hoffenheim,1,2016-03-11
+Hertha,3,2016-03-11
+Dortmund,0,2016-03-11
+RB Leipzig,0,2016-03-11
+Wolfsburg,3,2016-03-11
+Hamburger SV,3,2016-03-12
+Monchengladbach,0,2016-03-12
+Schalke,3,2016-03-12
+Augsburg,0,2016-03-12
+Dortmund,3,2016-03-17
+Ingolstadt,0,2016-03-17
+Frankfurt,1,2016-03-18
+Hamburger SV,1,2016-03-18
+Augsburg,1,2016-03-18
+Freiburg,1,2016-03-18
+Bremen,3,2016-03-18
+RB Leipzig,0,2016-03-18
+FC Koln,3,2016-03-18
+Hertha,0,2016-03-18
+Hoffenheim,3,2016-03-18
+Leverkusen,0,2016-03-18
+Wolfsburg,3,2016-03-18
+Darmstadt,0,2016-03-18
+Monchengladbach,0,2016-03-19
+Bayern,3,2016-03-19
+Mainz,0,2016-03-19
+Schalke,3,2016-03-19
+Hertha,0,2016-03-31
+Hoffenheim,3,2016-03-31
+Frankfurt,1,2016-04-01
+Monchengladbach,1,2016-04-01
+Bayern,3,2016-04-01
+Augsburg,0,2016-04-01
+Freiburg,0,2016-04-01
+Bremen,3,2016-04-01
+Hamburger SV,3,2016-04-01
+FC Koln,0,2016-04-01
+RB Leipzig,3,2016-04-01
+Darmstadt,0,2016-04-01
+Schalke,1,2016-04-01
+Dortmund,1,2016-04-01
+Leverkusen,1,2016-04-02
+Wolfsburg,1,2016-04-02
+Ingolstadt,3,2016-04-02
+Mainz,0,2016-04-02
+Bremen,3,2016-04-04
+Schalke,0,2016-04-04
+Dortmund,3,2016-04-04
+Hamburger SV,0,2016-04-04
+FC Koln,3,2016-04-04
+Frankfurt,0,2016-04-04
+Hoffenheim,3,2016-04-04
+Bayern,0,2016-04-04
+Augsburg,0,2016-04-05
+Ingolstadt,3,2016-04-05
+Darmstadt,0,2016-04-05
+Leverkusen,3,2016-04-05
+Mainz,0,2016-04-05
+RB Leipzig,3,2016-04-05
+Monchengladbach,3,2016-04-05
+Hertha,0,2016-04-05
+Wolfsburg,0,2016-04-05
+Freiburg,3,2016-04-05
+Frankfurt,1,2016-04-07
+Bremen,1,2016-04-07
+Bayern,3,2016-04-08
+Dortmund,0,2016-04-08
+FC Koln,0,2016-04-08
+Monchengladbach,3,2016-04-08
+Freiburg,3,2016-04-08
+Mainz,0,2016-04-08
+Hamburger SV,3,2016-04-08
+Hoffenheim,0,2016-04-08
+RB Leipzig,3,2016-04-08
+Leverkusen,0,2016-04-08
+Schalke,3,2016-04-08
+Wolfsburg,0,2016-04-08
+Ingolstadt,3,2016-04-09
+Darmstadt,0,2016-04-09
+Hertha,3,2016-04-09
+Augsburg,0,2016-04-09
+Leverkusen,1,2016-04-15
+Bayern,1,2016-04-15
+Augsburg,3,2016-04-15
+FC Koln,0,2016-04-15
+Dortmund,3,2016-04-15
+Frankfurt,0,2016-04-15
+Hoffenheim,3,2016-04-15
+Monchengladbach,0,2016-04-15
+Mainz,3,2016-04-15
+Hertha,0,2016-04-15
+RB Leipzig,3,2016-04-15
+Freiburg,0,2016-04-15
+Wolfsburg,3,2016-04-15
+Ingolstadt,0,2016-04-15
+Darmstadt,3,2016-04-16
+Schalke,0,2016-04-16
+Bremen,3,2016-04-16
+Hamburger SV,0,2016-04-16
+FC Koln,1,2016-04-21
+Hoffenheim,1,2016-04-21
+Monchengladbach,0,2016-04-22
+Dortmund,3,2016-04-22
+Bayern,1,2016-04-22
+Mainz,1,2016-04-22
+Frankfurt,3,2016-04-22
+Augsburg,0,2016-04-22
+Hamburger SV,0,2016-04-22
+Darmstadt,3,2016-04-22
+Hertha,3,2016-04-22
+Wolfsburg,0,2016-04-22
+Ingolstadt,0,2016-04-22
+Bremen,3,2016-04-22
+Schalke,1,2016-04-23
+RB Leipzig,1,2016-04-23
+Freiburg,3,2016-04-23
+Leverkusen,0,2016-04-23
+Leverkusen,0,2016-04-28
+Schalke,3,2016-04-28
+Wolfsburg,0,2016-04-29
+Bayern,3,2016-04-29
+Bremen,3,2016-04-29
+Hertha,0,2016-04-29
+Darmstadt,3,2016-04-29
+Freiburg,0,2016-04-29
+Dortmund,1,2016-04-29
+FC Koln,1,2016-04-29
+Mainz,0,2016-04-29
+Monchengladbach,3,2016-04-29
+RB Leipzig,1,2016-04-29
+Ingolstadt,1,2016-04-29
+Hoffenheim,3,2016-04-30
+Frankfurt,0,2016-04-30
+Augsburg,3,2016-04-30
+Hamburger SV,0,2016-04-30
+FC Koln,3,2016-05-05
+Bremen,0,2016-05-05
+Hertha,0,2016-05-06
+RB Leipzig,3,2016-05-06
+Bayern,3,2016-05-06
+Darmstadt,0,2016-05-06
+Dortmund,3,2016-05-06
+Hoffenheim,0,2016-05-06
+Frankfurt,0,2016-05-06
+Wolfsburg,3,2016-05-06
+Ingolstadt,1,2016-05-06
+Leverkusen,1,2016-05-06
+Monchengladbach,1,2016-05-06
+Augsburg,1,2016-05-06
+Freiburg,3,2016-05-07
+Schalke,0,2016-05-07
+Hamburger SV,1,2016-05-07
+Mainz,1,2016-05-07
+Augsburg,1,2016-05-13
+Dortmund,1,2016-05-13
+Bremen,0,2016-05-13
+Hoffenheim,3,2016-05-13
+Darmstadt,0,2016-05-13
+Hertha,3,2016-05-13
+Freiburg,1,2016-05-13
+Ingolstadt,1,2016-05-13
+Leverkusen,1,2016-05-13
+FC Koln,1,2016-05-13
+Mainz,3,2016-05-13
+Frankfurt,0,2016-05-13
+RB Leipzig,0,2016-05-13
+Bayern,3,2016-05-13
+Schalke,1,2016-05-13
+Hamburger SV,1,2016-05-13
+Wolfsburg,1,2016-05-13
+Monchengladbach,1,2016-05-13
+Bayern,3,2016-05-20
+Freiburg,0,2016-05-20
+Dortmund,3,2016-05-20
+Bremen,0,2016-05-20
+FC Koln,3,2016-05-20
+Mainz,0,2016-05-20
+Frankfurt,1,2016-05-20
+RB Leipzig,1,2016-05-20
+Hamburger SV,3,2016-05-20
+Wolfsburg,0,2016-05-20
+Hertha,0,2016-05-20
+Leverkusen,3,2016-05-20
+Hoffenheim,1,2016-05-20
+Augsburg,1,2016-05-20
+Ingolstadt,1,2016-05-20
+Schalke,1,2016-05-20
+Monchengladbach,1,2016-05-20
+Darmstadt,1,2016-05-20
+Bayern,3,2017-08-26
+Bremen,0,2017-08-26
+Monchengladbach,3,2017-08-27
+Leverkusen,0,2017-08-27
+Augsburg,0,2017-08-27
+Wolfsburg,3,2017-08-27
+Dortmund,3,2017-08-27
+Mainz,0,2017-08-27
+FC Koln,3,2017-08-27
+Darmstadt,0,2017-08-27
+Frankfurt,3,2017-08-27
+Schalke,0,2017-08-27
+Hamburger SV,1,2017-08-27
+Ingolstadt,1,2017-08-27
+Hoffenheim,1,2017-08-28
+RB Leipzig,1,2017-08-28
+Hertha,3,2017-08-28
+Freiburg,0,2017-08-28
+Schalke,0,2017-09-09
+Bayern,3,2017-09-09
+RB Leipzig,3,2017-09-10
+Dortmund,0,2017-09-10
+Darmstadt,3,2017-09-10
+Frankfurt,0,2017-09-10
+Freiburg,3,2017-09-10
+Monchengladbach,0,2017-09-10
+Ingolstadt,0,2017-09-10
+Hertha,3,2017-09-10
+Leverkusen,3,2017-09-10
+Hamburger SV,0,2017-09-10
+Wolfsburg,1,2017-09-10
+FC Koln,1,2017-09-10
+Mainz,1,2017-09-11
+Hoffenheim,1,2017-09-11
+Bremen,0,2017-09-11
+Augsburg,3,2017-09-11
+FC Koln,3,2017-09-16
+Freiburg,0,2017-09-16
+Monchengladbach,3,2017-09-17
+Bremen,0,2017-09-17
+Bayern,3,2017-09-17
+Ingolstadt,0,2017-09-17
+Dortmund,3,2017-09-17
+Darmstadt,0,2017-09-17
+Frankfurt,3,2017-09-17
+Leverkusen,0,2017-09-17
+Hamburger SV,0,2017-09-17
+RB Leipzig,3,2017-09-17
+Hoffenheim,1,2017-09-17
+Wolfsburg,1,2017-09-17
+Hertha,3,2017-09-18
+Schalke,0,2017-09-18
+Augsburg,0,2017-09-18
+Mainz,3,2017-09-18
+Darmstadt,1,2017-09-20
+Hoffenheim,1,2017-09-20
+Freiburg,3,2017-09-20
+Hamburger SV,0,2017-09-20
+Ingolstadt,0,2017-09-20
+Frankfurt,3,2017-09-20
+Wolfsburg,0,2017-09-20
+Dortmund,3,2017-09-20
+Bayern,3,2017-09-21
+Hertha,0,2017-09-21
+Bremen,0,2017-09-21
+Mainz,3,2017-09-21
+Leverkusen,1,2017-09-21
+Augsburg,1,2017-09-21
+RB Leipzig,1,2017-09-21
+Monchengladbach,1,2017-09-21
+Schalke,0,2017-09-21
+FC Koln,3,2017-09-21
+Dortmund,3,2017-09-23
+Freiburg,0,2017-09-23
+Bremen,3,2017-09-24
+Wolfsburg,0,2017-09-24
+Augsburg,3,2017-09-24
+Darmstadt,0,2017-09-24
+Frankfurt,1,2017-09-24
+Hertha,1,2017-09-24
+Hamburger SV,0,2017-09-24
+Bayern,3,2017-09-24
+Mainz,0,2017-09-24
+Leverkusen,3,2017-09-24
+Monchengladbach,3,2017-09-24
+Ingolstadt,0,2017-09-24
+FC Koln,1,2017-09-25
+RB Leipzig,1,2017-09-25
+Hoffenheim,3,2017-09-25
+Schalke,0,2017-09-25
+RB Leipzig,3,2017-09-30
+Augsburg,0,2017-09-30
+Leverkusen,3,2017-10-01
+Dortmund,0,2017-10-01
+Bayern,1,2017-10-01
+FC Koln,1,2017-10-01
+Darmstadt,1,2017-10-01
+Bremen,1,2017-10-01
+Freiburg,3,2017-10-01
+Frankfurt,0,2017-10-01
+Hertha,3,2017-10-01
+Hamburger SV,0,2017-10-01
+Ingolstadt,0,2017-10-01
+Hoffenheim,3,2017-10-01
+Schalke,3,2017-10-02
+Monchengladbach,0,2017-10-02
+Wolfsburg,1,2017-10-02
+Mainz,1,2017-10-02
+Dortmund,1,2017-10-14
+Hertha,1,2017-10-14
+Bremen,3,2017-10-15
+Leverkusen,0,2017-10-15
+Augsburg,1,2017-10-15
+Schalke,1,2017-10-15
+FC Koln,3,2017-10-15
+Ingolstadt,0,2017-10-15
+Frankfurt,1,2017-10-15
+Bayern,1,2017-10-15
+Hoffenheim,3,2017-10-15
+Freiburg,0,2017-10-15
+Monchengladbach,1,2017-10-15
+Hamburger SV,1,2017-10-15
+Wolfsburg,0,2017-10-16
+RB Leipzig,3,2017-10-16
+Mainz,3,2017-10-16
+Darmstadt,0,2017-10-16
+Hamburger SV,0,2017-10-21
+Frankfurt,3,2017-10-21
+Bayern,3,2017-10-22
+Monchengladbach,0,2017-10-22
+Darmstadt,3,2017-10-22
+Wolfsburg,0,2017-10-22
+Freiburg,3,2017-10-22
+Augsburg,0,2017-10-22
+Hertha,3,2017-10-22
+FC Koln,0,2017-10-22
+Ingolstadt,1,2017-10-22
+Dortmund,1,2017-10-22
+Leverkusen,0,2017-10-22
+Hoffenheim,3,2017-10-22
+Schalke,3,2017-10-23
+Mainz,0,2017-10-23
+RB Leipzig,3,2017-10-23
+Bremen,0,2017-10-23
+Monchengladbach,1,2017-10-28
+Frankfurt,1,2017-10-28
+Dortmund,1,2017-10-29
+Schalke,1,2017-10-29
+Augsburg,0,2017-10-29
+Bayern,3,2017-10-29
+Bremen,0,2017-10-29
+Freiburg,3,2017-10-29
+Darmstadt,0,2017-10-29
+RB Leipzig,3,2017-10-29
+Mainz,3,2017-10-29
+Ingolstadt,0,2017-10-29
+Wolfsburg,0,2017-10-29
+Leverkusen,3,2017-10-29
+FC Koln,3,2017-10-30
+Hamburger SV,0,2017-10-30
+Hoffenheim,3,2017-10-30
+Hertha,0,2017-10-30
+Hertha,3,2017-11-04
+Monchengladbach,0,2017-11-04
+Frankfurt,3,2017-11-05
+FC Koln,0,2017-11-05
+Bayern,1,2017-11-05
+Hoffenheim,1,2017-11-05
+Freiburg,0,2017-11-05
+Wolfsburg,3,2017-11-05
+Hamburger SV,0,2017-11-05
+Dortmund,3,2017-11-05
+Ingolstadt,0,2017-11-05
+Augsburg,3,2017-11-05
+Leverkusen,3,2017-11-05
+Darmstadt,0,2017-11-05
+Schalke,3,2017-11-06
+Bremen,0,2017-11-06
+RB Leipzig,3,2017-11-06
+Mainz,0,2017-11-06
+Leverkusen,0,2017-11-18
+RB Leipzig,3,2017-11-18
+Dortmund,3,2017-11-19
+Bayern,0,2017-11-19
+Augsburg,1,2017-11-19
+Hertha,1,2017-11-19
+Darmstadt,0,2017-11-19
+Ingolstadt,3,2017-11-19
+Mainz,3,2017-11-19
+Freiburg,0,2017-11-19
+Monchengladbach,0,2017-11-19
+FC Koln,3,2017-11-19
+Wolfsburg,0,2017-11-19
+Schalke,3,2017-11-19
+Bremen,0,2017-11-20
+Frankfurt,3,2017-11-20
+Hoffenheim,1,2017-11-20
+Hamburger SV,1,2017-11-20
+Freiburg,0,2017-11-25
+RB Leipzig,3,2017-11-25
+Bayern,3,2017-11-26
+Leverkusen,0,2017-11-26
+FC Koln,1,2017-11-26
+Augsburg,1,2017-11-26
+Frankfurt,3,2017-11-26
+Dortmund,0,2017-11-26
+Hamburger SV,1,2017-11-26
+Bremen,1,2017-11-26
+Ingolstadt,1,2017-11-26
+Wolfsburg,1,2017-11-26
+Monchengladbach,1,2017-11-26
+Hoffenheim,1,2017-11-26
+Hertha,3,2017-11-27
+Mainz,0,2017-11-27
+Schalke,3,2017-11-27
+Darmstadt,0,2017-11-27
+Mainz,0,2017-12-02
+Bayern,3,2017-12-02
+RB Leipzig,3,2017-12-03
+Schalke,0,2017-12-03
+Bremen,3,2017-12-03
+Ingolstadt,0,2017-12-03
+Dortmund,3,2017-12-03
+Monchengladbach,0,2017-12-03
+Hoffenheim,3,2017-12-03
+FC Koln,0,2017-12-03
+Leverkusen,1,2017-12-03
+Freiburg,1,2017-12-03
+Wolfsburg,0,2017-12-03
+Hertha,3,2017-12-03
+Augsburg,1,2017-12-04
+Frankfurt,1,2017-12-04
+Darmstadt,0,2017-12-04
+Hamburger SV,3,2017-12-04
+Frankfurt,1,2017-12-09
+Hoffenheim,1,2017-12-09
+Hertha,0,2017-12-10
+Bremen,3,2017-12-10
+Bayern,3,2017-12-10
+Wolfsburg,0,2017-12-10
+FC Koln,1,2017-12-10
+Dortmund,1,2017-12-10
+Freiburg,3,2017-12-10
+Darmstadt,0,2017-12-10
+Hamburger SV,3,2017-12-10
+Augsburg,0,2017-12-10
+Ingolstadt,3,2017-12-10
+RB Leipzig,0,2017-12-10
+Schalke,0,2017-12-11
+Leverkusen,3,2017-12-11
+Monchengladbach,3,2017-12-11
+Mainz,0,2017-12-11
+Hoffenheim,1,2017-12-16
+Dortmund,1,2017-12-16
+Wolfsburg,3,2017-12-17
+Frankfurt,0,2017-12-17
+Augsburg,3,2017-12-17
+Monchengladbach,0,2017-12-17
+Bremen,1,2017-12-17
+FC Koln,1,2017-12-17
+Mainz,3,2017-12-17
+Hamburger SV,0,2017-12-17
+RB Leipzig,3,2017-12-17
+Hertha,0,2017-12-17
+Schalke,1,2017-12-17
+Freiburg,1,2017-12-17
+Leverkusen,0,2017-12-18
+Ingolstadt,3,2017-12-18
+Darmstadt,0,2017-12-18
+Bayern,3,2017-12-18
+Dortmund,1,2017-12-20
+Augsburg,1,2017-12-20
+Frankfurt,3,2017-12-20
+Mainz,0,2017-12-20
+Hamburger SV,3,2017-12-20
+Schalke,0,2017-12-20
+Monchengladbach,0,2017-12-20
+Wolfsburg,3,2017-12-20
+Bayern,3,2017-12-21
+RB Leipzig,0,2017-12-21
+FC Koln,1,2017-12-21
+Leverkusen,1,2017-12-21
+Hertha,3,2017-12-21
+Darmstadt,0,2017-12-21
+Hoffenheim,1,2017-12-21
+Bremen,1,2017-12-21
+Ingolstadt,0,2017-12-21
+Freiburg,3,2017-12-21

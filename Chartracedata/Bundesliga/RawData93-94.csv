@@ -1,0 +1,613 @@
+team,points,date
+Bayern,0,1993-02-12
+Stuttgart,3,1993-02-12
+Bremen,3,1993-02-12
+Kaiserslautern,0,1993-02-12
+Dortmund,3,1993-02-12
+Leverkusen,0,1993-02-12
+Duisburg,3,1993-02-12
+Lokomotive Leipzig,0,1993-02-12
+FC Koln,1,1993-02-12
+Schalke,1,1993-02-12
+Frankfurt,1,1993-02-12
+Nurnberg,1,1993-02-12
+Hamburger SV,1,1993-02-12
+Freiburg,1,1993-02-12
+Monchengladbach,0,1993-02-12
+Karlsruher,3,1993-02-12
+Wattenscheid,1,1993-02-12
+Dresden,1,1993-02-12
+Dresden,3,1993-02-19
+Dortmund,0,1993-02-19
+Duisburg,3,1993-02-19
+Bremen,0,1993-02-19
+Freiburg,0,1993-02-19
+FC Koln,3,1993-02-19
+Karlsruher,3,1993-02-19
+Frankfurt,0,1993-02-19
+Leverkusen,0,1993-02-19
+Hamburger SV,3,1993-02-19
+Lokomotive Leipzig,0,1993-02-19
+Bayern,3,1993-02-19
+Nurnberg,0,1993-02-19
+Kaiserslautern,3,1993-02-19
+Schalke,3,1993-02-19
+Monchengladbach,0,1993-02-19
+Stuttgart,3,1993-02-19
+Wattenscheid,0,1993-02-19
+Bayern,3,1993-02-26
+Duisburg,0,1993-02-26
+Bremen,1,1993-02-26
+Nurnberg,1,1993-02-26
+Dortmund,0,1993-02-26
+Stuttgart,3,1993-02-26
+FC Koln,1,1993-02-26
+Leverkusen,1,1993-02-26
+Frankfurt,0,1993-02-26
+Schalke,3,1993-02-26
+Hamburger SV,1,1993-02-26
+Dresden,1,1993-02-26
+Kaiserslautern,1,1993-02-26
+Karlsruher,1,1993-02-26
+Monchengladbach,1,1993-02-26
+Freiburg,1,1993-02-26
+Wattenscheid,1,1993-02-26
+Lokomotive Leipzig,1,1993-02-26
+Bayern,3,1993-03-05
+Bremen,0,1993-03-05
+Dresden,1,1993-03-05
+FC Koln,1,1993-03-05
+Duisburg,3,1993-03-05
+Wattenscheid,0,1993-03-05
+Freiburg,0,1993-03-05
+Frankfurt,3,1993-03-05
+Karlsruher,3,1993-03-05
+Nurnberg,0,1993-03-05
+Leverkusen,0,1993-03-05
+Monchengladbach,3,1993-03-05
+Lokomotive Leipzig,0,1993-03-05
+Dortmund,3,1993-03-05
+Schalke,3,1993-03-05
+Kaiserslautern,0,1993-03-05
+Stuttgart,3,1993-03-05
+Hamburger SV,0,1993-03-05
+Bremen,0,1993-03-12
+Karlsruher,3,1993-03-12
+Dortmund,3,1993-03-12
+Duisburg,0,1993-03-12
+FC Koln,3,1993-03-12
+Stuttgart,0,1993-03-12
+Frankfurt,3,1993-03-12
+Leverkusen,0,1993-03-12
+Hamburger SV,3,1993-03-12
+Lokomotive Leipzig,0,1993-03-12
+Kaiserslautern,3,1993-03-12
+Freiburg,0,1993-03-12
+Monchengladbach,3,1993-03-12
+Dresden,0,1993-03-12
+Nurnberg,3,1993-03-12
+Schalke,0,1993-03-12
+Wattenscheid,0,1993-03-12
+Bayern,3,1993-03-12
+Bayern,1,1993-03-19
+Dortmund,1,1993-03-19
+Dresden,0,1993-03-19
+Frankfurt,3,1993-03-19
+Duisburg,0,1993-03-19
+Hamburger SV,3,1993-03-19
+Freiburg,1,1993-03-19
+Nurnberg,1,1993-03-19
+Leverkusen,3,1993-03-19
+Kaiserslautern,0,1993-03-19
+Lokomotive Leipzig,0,1993-03-19
+FC Koln,3,1993-03-19
+Schalke,3,1993-03-19
+Karlsruher,0,1993-03-19
+Stuttgart,3,1993-03-19
+Monchengladbach,0,1993-03-19
+Wattenscheid,1,1993-03-19
+Bremen,1,1993-03-19
+Bremen,0,1993-03-26
+Schalke,3,1993-03-26
+Dortmund,3,1993-03-26
+Wattenscheid,0,1993-03-26
+FC Koln,3,1993-03-26
+Duisburg,0,1993-03-26
+Frankfurt,1,1993-03-26
+Stuttgart,1,1993-03-26
+Hamburger SV,0,1993-03-26
+Bayern,3,1993-03-26
+Kaiserslautern,1,1993-03-26
+Dresden,1,1993-03-26
+Karlsruher,3,1993-03-26
+Freiburg,0,1993-03-26
+Monchengladbach,3,1993-03-26
+Lokomotive Leipzig,0,1993-03-26
+Nurnberg,0,1993-03-26
+Leverkusen,3,1993-03-26
+Bayern,3,1993-04-02
+FC Koln,0,1993-04-02
+Dortmund,3,1993-04-02
+Bremen,0,1993-04-02
+Dresden,1,1993-04-02
+Nurnberg,1,1993-04-02
+Duisburg,3,1993-04-02
+Monchengladbach,0,1993-04-02
+Freiburg,0,1993-04-02
+Schalke,3,1993-04-02
+Leverkusen,3,1993-04-02
+Karlsruher,0,1993-04-02
+Lokomotive Leipzig,3,1993-04-02
+Frankfurt,0,1993-04-02
+Stuttgart,1,1993-04-02
+Kaiserslautern,1,1993-04-02
+Wattenscheid,3,1993-04-02
+Hamburger SV,0,1993-04-02
+Bayern,3,1993-04-03
+Nurnberg,0,1993-04-03
+Bremen,3,1993-04-06
+Freiburg,0,1993-04-06
+FC Koln,3,1993-04-06
+Wattenscheid,0,1993-04-06
+Frankfurt,0,1993-04-06
+Duisburg,3,1993-04-06
+Hamburger SV,1,1993-04-06
+Dortmund,1,1993-04-06
+Kaiserslautern,3,1993-04-06
+Lokomotive Leipzig,0,1993-04-06
+Karlsruher,3,1993-04-06
+Dresden,0,1993-04-06
+Monchengladbach,3,1993-04-06
+Bayern,0,1993-04-06
+Nurnberg,3,1993-04-06
+Stuttgart,0,1993-04-06
+Schalke,1,1993-04-06
+Leverkusen,1,1993-04-06
+Bayern,3,1993-04-09
+Frankfurt,0,1993-04-09
+Dortmund,3,1993-04-09
+FC Koln,0,1993-04-09
+Dresden,3,1993-04-09
+Schalke,0,1993-04-09
+Duisburg,0,1993-04-09
+Kaiserslautern,3,1993-04-09
+Hamburger SV,1,1993-04-09
+Bremen,1,1993-04-09
+Leverkusen,3,1993-04-09
+Freiburg,0,1993-04-09
+Lokomotive Leipzig,0,1993-04-09
+Nurnberg,3,1993-04-09
+Stuttgart,3,1993-04-09
+Karlsruher,0,1993-04-09
+Wattenscheid,3,1993-04-09
+Monchengladbach,0,1993-04-09
+Bremen,3,1993-04-16
+Leverkusen,0,1993-04-16
+FC Koln,3,1993-04-16
+Hamburger SV,0,1993-04-16
+Frankfurt,3,1993-04-16
+Wattenscheid,0,1993-04-16
+Freiburg,0,1993-04-16
+Dresden,3,1993-04-16
+Kaiserslautern,3,1993-04-16
+Bayern,0,1993-04-16
+Karlsruher,3,1993-04-16
+Lokomotive Leipzig,0,1993-04-16
+Monchengladbach,1,1993-04-16
+Dortmund,1,1993-04-16
+Nurnberg,1,1993-04-16
+Duisburg,1,1993-04-16
+Schalke,0,1993-04-16
+Stuttgart,3,1993-04-16
+Bremen,3,1993-04-23
+FC Koln,0,1993-04-23
+Dortmund,3,1993-04-23
+Frankfurt,0,1993-04-23
+Duisburg,0,1993-04-23
+Karlsruher,3,1993-04-23
+Hamburger SV,0,1993-04-23
+Monchengladbach,3,1993-04-23
+Leverkusen,1,1993-04-23
+Dresden,1,1993-04-23
+Lokomotive Leipzig,1,1993-04-23
+Schalke,1,1993-04-23
+Stuttgart,0,1993-04-23
+Freiburg,3,1993-04-23
+Wattenscheid,0,1993-04-23
+Kaiserslautern,3,1993-04-23
+Dresden,3,1993-04-30
+Bremen,0,1993-04-30
+Frankfurt,1,1993-04-30
+Hamburger SV,1,1993-04-30
+Freiburg,3,1993-04-30
+Lokomotive Leipzig,0,1993-04-30
+Kaiserslautern,3,1993-04-30
+Dortmund,0,1993-04-30
+Karlsruher,1,1993-04-30
+Bayern,1,1993-04-30
+Leverkusen,1,1993-04-30
+Stuttgart,1,1993-04-30
+Monchengladbach,3,1993-04-30
+FC Koln,0,1993-04-30
+Nurnberg,3,1993-04-30
+Wattenscheid,0,1993-04-30
+Schalke,0,1993-04-30
+Duisburg,3,1993-04-30
+Bayern,3,1993-05-07
+Schalke,0,1993-05-07
+Bremen,3,1993-05-07
+Monchengladbach,0,1993-05-07
+Dortmund,3,1993-05-07
+Nurnberg,0,1993-05-07
+Duisburg,0,1993-05-07
+Freiburg,3,1993-05-07
+FC Koln,0,1993-05-07
+Frankfurt,3,1993-05-07
+Hamburger SV,0,1993-05-07
+Kaiserslautern,3,1993-05-07
+Lokomotive Leipzig,0,1993-05-07
+Leverkusen,3,1993-05-07
+Stuttgart,3,1993-05-07
+Dresden,0,1993-05-07
+Wattenscheid,3,1993-05-07
+Karlsruher,0,1993-05-07
+Bayern,3,1994-08-07
+Freiburg,0,1994-08-07
+Bremen,3,1994-08-07
+Stuttgart,0,1994-08-07
+Dortmund,3,1994-08-07
+Karlsruher,0,1994-08-07
+Duisburg,1,1994-08-07
+Leverkusen,1,1994-08-07
+FC Koln,0,1994-08-07
+Kaiserslautern,3,1994-08-07
+Hamburger SV,3,1994-08-07
+Nurnberg,0,1994-08-07
+Lokomotive Leipzig,1,1994-08-07
+Dresden,1,1994-08-07
+Monchengladbach,0,1994-08-07
+Frankfurt,3,1994-08-07
+Wattenscheid,3,1994-08-07
+Schalke,0,1994-08-07
+Dresden,0,1994-08-14
+Duisburg,3,1994-08-14
+Frankfurt,1,1994-08-14
+Bremen,1,1994-08-14
+Freiburg,3,1994-08-14
+Wattenscheid,0,1994-08-14
+Kaiserslautern,3,1994-08-14
+Monchengladbach,0,1994-08-14
+Karlsruher,3,1994-08-14
+Hamburger SV,0,1994-08-14
+Leverkusen,3,1994-08-14
+Bayern,0,1994-08-14
+Nurnberg,3,1994-08-14
+FC Koln,0,1994-08-14
+Schalke,3,1994-08-14
+Dortmund,0,1994-08-14
+Stuttgart,1,1994-08-14
+Lokomotive Leipzig,1,1994-08-14
+Bayern,3,1994-08-21
+Dresden,0,1994-08-21
+Bremen,3,1994-08-21
+Lokomotive Leipzig,0,1994-08-21
+Dortmund,3,1994-08-21
+Freiburg,0,1994-08-21
+Duisburg,1,1994-08-21
+Stuttgart,1,1994-08-21
+FC Koln,3,1994-08-21
+Karlsruher,0,1994-08-21
+Frankfurt,3,1994-08-21
+Kaiserslautern,0,1994-08-21
+Hamburger SV,3,1994-08-21
+Schalke,0,1994-08-21
+Monchengladbach,3,1994-08-21
+Nurnberg,0,1994-08-21
+Wattenscheid,0,1994-08-21
+Leverkusen,3,1994-08-21
+Dresden,1,1994-08-28
+Wattenscheid,1,1994-08-28
+Freiburg,0,1994-08-28
+Hamburger SV,3,1994-08-28
+Kaiserslautern,0,1994-08-28
+Bremen,3,1994-08-28
+Karlsruher,3,1994-08-28
+Monchengladbach,0,1994-08-28
+Leverkusen,3,1994-08-28
+Dortmund,0,1994-08-28
+Lokomotive Leipzig,1,1994-08-28
+Duisburg,1,1994-08-28
+Nurnberg,0,1994-08-28
+Frankfurt,3,1994-08-28
+Schalke,0,1994-08-28
+FC Koln,3,1994-08-28
+Stuttgart,1,1994-08-28
+Bayern,1,1994-08-28
+Bayern,3,1994-09-01
+Lokomotive Leipzig,0,1994-09-01
+Bremen,0,1994-09-01
+Duisburg,3,1994-09-01
+Dortmund,3,1994-09-01
+Dresden,0,1994-09-01
+FC Koln,3,1994-09-01
+Freiburg,0,1994-09-01
+Frankfurt,3,1994-09-01
+Karlsruher,0,1994-09-01
+Hamburger SV,3,1994-09-01
+Leverkusen,0,1994-09-01
+Kaiserslautern,3,1994-09-01
+Nurnberg,0,1994-09-01
+Monchengladbach,3,1994-09-01
+Schalke,0,1994-09-01
+Wattenscheid,0,1994-09-01
+Stuttgart,3,1994-09-01
+Dresden,1,1994-09-04
+Hamburger SV,1,1994-09-04
+Duisburg,1,1994-09-04
+Bayern,1,1994-09-04
+Freiburg,1,1994-09-04
+Monchengladbach,1,1994-09-04
+Karlsruher,1,1994-09-04
+Kaiserslautern,1,1994-09-04
+Leverkusen,3,1994-09-04
+FC Koln,0,1994-09-04
+Lokomotive Leipzig,1,1994-09-04
+Wattenscheid,1,1994-09-04
+Nurnberg,0,1994-09-04
+Bremen,3,1994-09-04
+Schalke,0,1994-09-04
+Frankfurt,3,1994-09-04
+Stuttgart,1,1994-09-04
+Dortmund,1,1994-09-04
+Bremen,3,1994-09-08
+Bayern,0,1994-09-08
+Dortmund,0,1994-09-08
+Lokomotive Leipzig,3,1994-09-08
+FC Koln,0,1994-09-08
+Dresden,3,1994-09-08
+Frankfurt,3,1994-09-08
+Freiburg,0,1994-09-08
+Hamburger SV,3,1994-09-08
+Stuttgart,0,1994-09-08
+Kaiserslautern,1,1994-09-08
+Schalke,1,1994-09-08
+Monchengladbach,1,1994-09-08
+Leverkusen,1,1994-09-08
+Nurnberg,1,1994-09-08
+Karlsruher,1,1994-09-08
+Wattenscheid,0,1994-09-08
+Duisburg,3,1994-09-08
+Bayern,1,1994-09-18
+Wattenscheid,1,1994-09-18
+Dresden,3,1994-09-18
+Monchengladbach,0,1994-09-18
+Duisburg,1,1994-09-18
+Dortmund,1,1994-09-18
+Freiburg,0,1994-09-18
+Kaiserslautern,3,1994-09-18
+Karlsruher,0,1994-09-18
+Bremen,3,1994-09-18
+Leverkusen,1,1994-09-18
+Frankfurt,1,1994-09-18
+Lokomotive Leipzig,0,1994-09-18
+Hamburger SV,3,1994-09-18
+Schalke,0,1994-09-18
+Nurnberg,3,1994-09-18
+Stuttgart,1,1994-09-18
+FC Koln,1,1994-09-18
+Bremen,1,1994-09-25
+Wattenscheid,1,1994-09-25
+Dortmund,1,1994-09-25
+Bayern,1,1994-09-25
+FC Koln,3,1994-09-25
+Lokomotive Leipzig,0,1994-09-25
+Frankfurt,3,1994-09-25
+Dresden,0,1994-09-25
+Hamburger SV,0,1994-09-25
+Duisburg,3,1994-09-25
+Kaiserslautern,3,1994-09-25
+Leverkusen,0,1994-09-25
+Karlsruher,1,1994-09-25
+Schalke,1,1994-09-25
+Monchengladbach,0,1994-09-25
+Stuttgart,3,1994-09-25
+Nurnberg,1,1994-09-25
+Freiburg,1,1994-09-25
+Bayern,3,1994-10-02
+Hamburger SV,0,1994-10-02
+Dresden,3,1994-10-02
+Kaiserslautern,0,1994-10-02
+Duisburg,1,1994-10-02
+FC Koln,1,1994-10-02
+Freiburg,1,1994-10-02
+Karlsruher,1,1994-10-02
+Leverkusen,3,1994-10-02
+Nurnberg,0,1994-10-02
+Lokomotive Leipzig,1,1994-10-02
+Monchengladbach,1,1994-10-02
+Schalke,1,1994-10-02
+Bremen,1,1994-10-02
+Stuttgart,0,1994-10-02
+Frankfurt,3,1994-10-02
+Wattenscheid,0,1994-10-02
+Dortmund,3,1994-10-02
+Bremen,3,1994-10-09
+Dortmund,0,1994-10-09
+FC Koln,0,1994-10-09
+Bayern,3,1994-10-09
+Frankfurt,3,1994-10-09
+Lokomotive Leipzig,0,1994-10-09
+Hamburger SV,3,1994-10-09
+Wattenscheid,0,1994-10-09
+Kaiserslautern,3,1994-10-09
+Stuttgart,0,1994-10-09
+Karlsruher,3,1994-10-09
+Leverkusen,0,1994-10-09
+Monchengladbach,3,1994-10-09
+Duisburg,0,1994-10-09
+Nurnberg,3,1994-10-09
+Dresden,0,1994-10-09
+Schalke,0,1994-10-09
+Freiburg,3,1994-10-09
+Bayern,3,1994-10-16
+Monchengladbach,0,1994-10-16
+Dortmund,3,1994-10-16
+Hamburger SV,0,1994-10-16
+Dresden,1,1994-10-16
+Karlsruher,1,1994-10-16
+Duisburg,3,1994-10-16
+Frankfurt,0,1994-10-16
+Freiburg,1,1994-10-16
+Bremen,1,1994-10-16
+Leverkusen,3,1994-10-16
+Schalke,0,1994-10-16
+Lokomotive Leipzig,1,1994-10-16
+Kaiserslautern,1,1994-10-16
+Stuttgart,3,1994-10-16
+Nurnberg,0,1994-10-16
+Wattenscheid,1,1994-10-16
+FC Koln,1,1994-10-16
+Bremen,0,1994-10-23
+Hamburger SV,3,1994-10-23
+FC Koln,3,1994-10-23
+Dortmund,0,1994-10-23
+Frankfurt,1,1994-10-23
+Bayern,1,1994-10-23
+Freiburg,3,1994-10-23
+Leverkusen,0,1994-10-23
+Kaiserslautern,3,1994-10-23
+Duisburg,0,1994-10-23
+Karlsruher,1,1994-10-23
+Stuttgart,1,1994-10-23
+Monchengladbach,1,1994-10-23
+Wattenscheid,1,1994-10-23
+Nurnberg,3,1994-10-23
+Lokomotive Leipzig,0,1994-10-23
+Schalke,1,1994-10-23
+Dresden,1,1994-10-23
+Bayern,3,1994-10-30
+Kaiserslautern,0,1994-10-30
+Dortmund,3,1994-10-30
+Monchengladbach,0,1994-10-30
+Dresden,0,1994-10-30
+Freiburg,3,1994-10-30
+Duisburg,3,1994-10-30
+Nurnberg,0,1994-10-30
+Hamburger SV,0,1994-10-30
+FC Koln,3,1994-10-30
+Leverkusen,1,1994-10-30
+Bremen,1,1994-10-30
+Lokomotive Leipzig,3,1994-10-30
+Karlsruher,0,1994-10-30
+Stuttgart,3,1994-10-30
+Schalke,0,1994-10-30
+Wattenscheid,1,1994-10-30
+Frankfurt,1,1994-10-30
+Dresden,1,1994-11-06
+Leverkusen,1,1994-11-06
+FC Koln,3,1994-11-06
+Bremen,0,1994-11-06
+Frankfurt,3,1994-11-06
+Dortmund,0,1994-11-06
+Freiburg,3,1994-11-06
+Stuttgart,0,1994-11-06
+Kaiserslautern,3,1994-11-06
+Wattenscheid,0,1994-11-06
+Karlsruher,3,1994-11-06
+Duisburg,0,1994-11-06
+Monchengladbach,1,1994-11-06
+Hamburger SV,1,1994-11-06
+Nurnberg,3,1994-11-06
+Bayern,0,1994-11-06
+Schalke,3,1994-11-06
+Lokomotive Leipzig,0,1994-11-06
+Bayern,3,1994-11-13
+Karlsruher,0,1994-11-13
+Bremen,0,1994-11-13
+Dresden,3,1994-11-13
+Dortmund,3,1994-11-13
+Kaiserslautern,0,1994-11-13
+Duisburg,3,1994-11-13
+Schalke,0,1994-11-13
+FC Koln,0,1994-11-13
+Monchengladbach,3,1994-11-13
+Hamburger SV,3,1994-11-13
+Frankfurt,0,1994-11-13
+Lokomotive Leipzig,1,1994-11-13
+Freiburg,1,1994-11-13
+Stuttgart,0,1994-11-13
+Leverkusen,3,1994-11-13
+Wattenscheid,3,1994-11-13
+Nurnberg,0,1994-11-13
+Dresden,3,1994-11-20
+Stuttgart,0,1994-11-20
+Frankfurt,0,1994-11-20
+FC Koln,3,1994-11-20
+Freiburg,0,1994-11-20
+Duisburg,3,1994-11-20
+Kaiserslautern,3,1994-11-20
+Hamburger SV,0,1994-11-20
+Karlsruher,3,1994-11-20
+Wattenscheid,0,1994-11-20
+Leverkusen,3,1994-11-20
+Lokomotive Leipzig,0,1994-11-20
+Monchengladbach,3,1994-11-20
+Bremen,0,1994-11-20
+Nurnberg,1,1994-11-20
+Dortmund,1,1994-11-20
+Schalke,1,1994-11-20
+Bayern,1,1994-11-20
+Dresden,3,1994-11-27
+Lokomotive Leipzig,0,1994-11-27
+Frankfurt,0,1994-11-27
+Monchengladbach,3,1994-11-27
+Freiburg,3,1994-11-27
+Bayern,0,1994-11-27
+Kaiserslautern,3,1994-11-27
+FC Koln,0,1994-11-27
+Karlsruher,1,1994-11-27
+Dortmund,1,1994-11-27
+Leverkusen,3,1994-11-27
+Duisburg,0,1994-11-27
+Nurnberg,0,1994-11-27
+Hamburger SV,3,1994-11-27
+Schalke,3,1994-11-27
+Wattenscheid,0,1994-11-27
+Stuttgart,1,1994-11-27
+Bremen,1,1994-11-27
+Bayern,1,1994-12-04
+Leverkusen,1,1994-12-04
+Bremen,3,1994-12-04
+Frankfurt,0,1994-12-04
+Dortmund,1,1994-12-04
+Schalke,1,1994-12-04
+Duisburg,1,1994-12-04
+Dresden,1,1994-12-04
+FC Koln,0,1994-12-04
+Nurnberg,3,1994-12-04
+Hamburger SV,1,1994-12-04
+Karlsruher,1,1994-12-04
+Lokomotive Leipzig,1,1994-12-04
+Stuttgart,1,1994-12-04
+Monchengladbach,3,1994-12-04
+Kaiserslautern,0,1994-12-04
+Wattenscheid,3,1994-12-04
+Freiburg,0,1994-12-04
+Dresden,1,1994-12-11
+Bayern,1,1994-12-11
+Freiburg,3,1994-12-11
+Dortmund,0,1994-12-11
+Kaiserslautern,1,1994-12-11
+Frankfurt,1,1994-12-11
+Karlsruher,3,1994-12-11
+FC Koln,0,1994-12-11
+Leverkusen,1,1994-12-11
+Wattenscheid,1,1994-12-11
+Lokomotive Leipzig,1,1994-12-11
+Bremen,1,1994-12-11
+Nurnberg,0,1994-12-11
+Monchengladbach,3,1994-12-11
+Schalke,3,1994-12-11
+Hamburger SV,0,1994-12-11
+Stuttgart,3,1994-12-11
+Duisburg,0,1994-12-11
