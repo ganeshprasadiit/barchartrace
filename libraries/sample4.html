@@ -25,6 +25,82 @@
         <textarea id="input" style="height: 190px;"></textarea>
         <input id="run" type="button" value="Run" />
         <hr />
+		<h2>GetLogos</h2>
+		<textarea id="sanitizedTeamList" style="height:100px">t1,t2
+Blackburn,Blackburn Rovers
+Bolton,Bolton Wanderers
+Coventry,Coventry City
+Leeds,Leeds United
+Man City,Manchester City
+Man Utd,Manchester United
+Newcastle,Newcastle United
+Nottm Forest,Nottingham Forest
+QPR,Queens Park Rangers
+Sheff Utd,Sheffield United
+Sheff Wed,Sheffield Wednesday
+Tottenham,Tottenham Hotspur
+West Ham,West Ham United
+Wimbledon FC,Wimbledon
+		</textarea>
+		<textarea id="logoURL" style="height:11px;">team,url
+Arsenal F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/255px-Arsenal_FC.svg.png
+Aston Villa F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/203px-Aston_Villa_FC_crest_%282016%29.svg.png
+Barnsley F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Barnsley_FC.svg/255px-Barnsley_FC.svg.png
+Birmingham City F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/180px-Birmingham_City_FC_logo.svg.png
+Blackburn Rovers F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/255px-Blackburn_Rovers.svg.png
+Blackpool F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Blackpool_FC_logo.svg/270px-Blackpool_FC_logo.svg.png
+Bolton Wanderers F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/255px-Bolton_Wanderers_FC_logo.svg.png
+AFC Bournemouth,https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/225px-AFC_Bournemouth_%282013%29.svg.png
+Bradford City A.F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Bradford_City_AFC.png/195px-Bradford_City_AFC.png
+Brentford F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/270px-Brentford_FC_crest.svg.png
+Brighton & Hove Albion F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/300px-Brighton_%26_Hove_Albion_logo.svg.png
+Burnley F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/225px-Burnley_F.C._Logo.svg.png
+Cardiff City F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/270px-Cardiff_City_crest.svg.png
+Charlton Athletic F.C.,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CharltonBadge_30Jan2020.png/270px-CharltonBadge_30Jan2020.png
+Chelsea F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/270px-Chelsea_FC.svg.png
+Coventry City F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Coventry_City_F.C._logo.png/270px-Coventry_City_F.C._logo.png
+Crystal Palace F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/240px-Crystal_Palace_FC_logo_%282022%29.svg.png
+Derby County F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/285px-Derby_County_crest.svg.png
+Everton F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/270px-Everton_FC_logo.svg.png
+Fulham F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/210px-Fulham_FC_%28shield%29.svg.png
+Huddersfield Town A.F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Huddersfield_Town_A.F.C._logo.png/203px-Huddersfield_Town_A.F.C._logo.png
+Hull City A.F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/225px-Hull_City_A.F.C._logo.svg.png
+Ipswich Town F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/225px-Ipswich_Town.svg.png
+Leeds United F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/240px-Leeds_United_F.C._logo.svg.png
+Leicester City F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/270px-Leicester_City_crest.svg.png
+Liverpool F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/270px-Liverpool_FC.svg.png
+Luton Town F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/LutonTownFC2009.png/270px-LutonTownFC2009.png
+Manchester City F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/270px-Manchester_City_FC_badge.svg.png
+Manchester United F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/285px-Manchester_United_FC_crest.svg.png
+Middlesbrough F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/270px-Middlesbrough_FC_crest.svg.png
+Millwall F.C.,https://upload.wikimedia.org/wikipedia/en/e/e7/This_is_the_logo_for_Millwall_Football_Club.png
+Newcastle United F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/300px-Newcastle_United_Logo.svg.png
+Norwich City F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Norwich_City_Crest_%282022%29.png/225px-Norwich_City_Crest_%282022%29.png
+Notts County F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Notts_County_Logo.svg/233px-Notts_County_Logo.svg.png
+Nottingham Forest F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/150px-Nottingham_Forest_F.C._logo.svg.png
+Oldham Athletic A.F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Oldham_Athletic_AFC_%28emblem%29.svg/330px-Oldham_Athletic_AFC_%28emblem%29.svg.png
+Portsmouth F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/270px-Portsmouth_FC_logo.svg.png
+Queens Park Rangers F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Queens_Park_Rangers_crest.svg/270px-Queens_Park_Rangers_crest.svg.png
+Reading F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/270px-Reading_FC.svg.png
+Sheffield United F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/270px-Sheffield_United_FC_logo.svg.png
+Sheffield Wednesday F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/195px-Sheffield_Wednesday_badge.svg.png
+Southampton F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/255px-FC_Southampton.svg.png
+Stoke City F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Stoke_City_FC.svg/240px-Stoke_City_FC.svg.png
+Sunderland A.F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/330px-Logo_Sunderland.svg.png
+Swansea City A.F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Swansea_City_AFC_logo.png/270px-Swansea_City_AFC_logo.png
+Swindon Town F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Swindon_Town_FC.svg/270px-Swindon_Town_FC.svg.png
+Tottenham Hotspur F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/180px-Tottenham_Hotspur.svg.png
+Watford F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/255px-Watford.svg.png
+West Bromwich Albion F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/225px-West_Bromwich_Albion.svg.png
+West Ham United F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/240px-West_Ham_United_FC_logo.svg.png
+Wigan Athletic F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Wigan_Athletic.svg/270px-Wigan_Athletic.svg.png
+Wimbledon F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Wimbledon_fc.png/225px-Wimbledon_fc.png
+Wolverhampton Wanderers F.C.,https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/270px-Wolverhampton_Wanderers.svg.png
+		</textarea>
+		<textarea id="teamList" style="height:200px;"></textarea>
+        <textarea id="logoOutput" style="height: 190px;"></textarea>
+        <input id="getLogos" type="button" value="getLogos" />
+        <hr />
         <h2>Result</h2>
 		<textarea id="tempResult" style="height: 10px;"></textarea>
         <textarea id="result" style="height: 400px;"></textarea>
@@ -47,6 +123,57 @@
         parse2();
 		parse();
       });
+	  
+	  $('#getLogos').bind('click',function() {
+		populateLogos();
+	  });
+	  
+	  function cleanTeamList() {
+		const data = $('#teamList').val();
+		
+	  }
+	  
+	  function populateLogos() {
+		const data = $('#teamList').val();
+		const teamList = $.csv.toObjects(data);
+		
+		const logoUrl = $('#logoURL').val();
+		const logoUrlInput = $.csv.toObjects(logoUrl);
+		var logoUrlMap = new Map();
+		var finalData = "";
+		
+		for (i=0;i<logoUrlInput.length;i++) {
+			var teamName = logoUrlInput[i].team;
+			var url = logoUrlInput[i].url;
+			logoUrlMap.set(teamName,url);
+		}
+		
+		const data2 = $('#sanitizedTeamList').val();
+		const sanitizedTeams = $.csv.toObjects(data2);
+		
+		var sanitizationMap = new Map();
+		for (i=0;i<sanitizedTeams.length;i++) {
+			sanitizationMap.set(sanitizedTeams.t1,sanitizedTeams.t2);
+		}
+		
+		for(i=0;i<teamList.length;i++) {
+			var teamName = teamList[i];
+			var sanitizedTeamName = sanitizationMap.get(teamName);
+			if (sanitizedTeamName != null) { 
+				teamName = sanitizedTeamName;
+			}
+			var teamLogoUrl = logoUrlMap.get(teamName);
+			if (teamLogoUrl == null || teamLogoUrl.size <= 1) {
+				teamLogoUrl = "Not Found";
+			}
+			finalData = teamName + "," + teamLogoUrl;
+		}
+		
+		
+		
+		
+		$('#logoOutput').html(finalData);
+	  }
 	  
 	  function parse2() {
 		const input = $('#input').val();
