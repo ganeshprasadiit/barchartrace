@@ -1,0 +1,761 @@
+team,points,date
+Arsenal,3,1996-08-17
+West Ham,0,1996-08-17
+Blackburn,0,1996-08-17
+Tottenham,3,1996-08-17
+Coventry,0,1996-08-17
+Nottm Forest,3,1996-08-17
+Derby,1,1996-08-17
+Leeds,1,1996-08-17
+Everton,3,1996-08-17
+Newcastle,0,1996-08-17
+Middlesbrough,1,1996-08-17
+Liverpool,1,1996-08-17
+Sheff Wed,3,1996-08-17
+Aston Villa,0,1996-08-17
+Sunderland,1,1996-08-17
+Leicester,1,1996-08-17
+Wimbledon FC,0,1996-08-17
+Man Utd,3,1996-08-17
+Southampton,1,1996-08-18
+Chelsea,1,1996-08-18
+Liverpool,1,1996-08-19
+Arsenal,1,1996-08-19
+Leeds,0,1996-08-20
+Sheff Wed,3,1996-08-20
+Aston Villa,3,1996-08-21
+Blackburn,0,1996-08-21
+Chelsea,3,1996-08-21
+Middlesbrough,0,1996-08-21
+Leicester,3,1996-08-21
+Southampton,0,1996-08-21
+Man Utd,1,1996-08-21
+Everton,1,1996-08-21
+Newcastle,3,1996-08-21
+Wimbledon FC,0,1996-08-21
+Nottm Forest,0,1996-08-21
+Sunderland,3,1996-08-21
+Tottenham,1,1996-08-21
+Derby,1,1996-08-21
+West Ham,1,1996-08-21
+Coventry,1,1996-08-21
+Aston Villa,3,1996-08-24
+Derby,0,1996-08-24
+Chelsea,3,1996-08-24
+Coventry,0,1996-08-24
+Leicester,0,1996-08-24
+Arsenal,3,1996-08-24
+Liverpool,1,1996-08-24
+Sunderland,1,1996-08-24
+Newcastle,0,1996-08-24
+Sheff Wed,3,1996-08-24
+Nottm Forest,1,1996-08-24
+Middlesbrough,1,1996-08-24
+Tottenham,1,1996-08-24
+Everton,1,1996-08-24
+West Ham,3,1996-08-24
+Southampton,0,1996-08-24
+Man Utd,1,1996-08-25
+Blackburn,1,1996-08-25
+Leeds,3,1996-08-26
+Wimbledon FC,0,1996-08-26
+Sheff Wed,3,1996-09-02
+Leicester,0,1996-09-02
+Arsenal,1,1996-09-04
+Chelsea,1,1996-09-04
+Blackburn,0,1996-09-04
+Leeds,3,1996-09-04
+Coventry,0,1996-09-04
+Liverpool,3,1996-09-04
+Derby,1,1996-09-04
+Man Utd,1,1996-09-04
+Everton,0,1996-09-04
+Aston Villa,3,1996-09-04
+Middlesbrough,3,1996-09-04
+West Ham,0,1996-09-04
+Southampton,1,1996-09-04
+Nottm Forest,1,1996-09-04
+Sunderland,0,1996-09-04
+Newcastle,3,1996-09-04
+Wimbledon FC,3,1996-09-04
+Tottenham,0,1996-09-04
+Aston Villa,1,1996-09-07
+Arsenal,1,1996-09-07
+Leeds,0,1996-09-07
+Man Utd,3,1996-09-07
+Liverpool,3,1996-09-07
+Southampton,0,1996-09-07
+Middlesbrough,3,1996-09-07
+Coventry,0,1996-09-07
+Nottm Forest,1,1996-09-07
+Leicester,1,1996-09-07
+Sheff Wed,0,1996-09-07
+Chelsea,3,1996-09-07
+Tottenham,0,1996-09-07
+Newcastle,3,1996-09-07
+Wimbledon FC,3,1996-09-07
+Everton,0,1996-09-07
+Sunderland,1,1996-09-08
+West Ham,1,1996-09-08
+Blackburn,0,1996-09-09
+Derby,3,1996-09-09
+Coventry,3,1996-09-14
+Leeds,0,1996-09-14
+Derby,3,1996-09-14
+Sunderland,0,1996-09-14
+Everton,0,1996-09-14
+Middlesbrough,3,1996-09-14
+Man Utd,3,1996-09-14
+Nottm Forest,0,1996-09-14
+Newcastle,3,1996-09-14
+Blackburn,0,1996-09-14
+Southampton,0,1996-09-14
+Tottenham,3,1996-09-14
+West Ham,0,1996-09-14
+Wimbledon FC,3,1996-09-14
+Chelsea,1,1996-09-15
+Aston Villa,1,1996-09-15
+Leicester,0,1996-09-15
+Liverpool,3,1996-09-15
+Arsenal,3,1996-09-16
+Sheff Wed,0,1996-09-16
+Aston Villa,1,1996-09-21
+Man Utd,1,1996-09-21
+Blackburn,1,1996-09-21
+Everton,1,1996-09-21
+Leeds,0,1996-09-21
+Newcastle,3,1996-09-21
+Liverpool,3,1996-09-21
+Chelsea,0,1996-09-21
+Middlesbrough,0,1996-09-21
+Arsenal,3,1996-09-21
+Nottm Forest,0,1996-09-21
+West Ham,3,1996-09-21
+Sheff Wed,1,1996-09-21
+Derby,1,1996-09-21
+Sunderland,3,1996-09-21
+Coventry,0,1996-09-21
+Tottenham,0,1996-09-22
+Leicester,3,1996-09-22
+Wimbledon FC,3,1996-09-23
+Southampton,0,1996-09-23
+Arsenal,3,1996-09-28
+Sunderland,0,1996-09-28
+Chelsea,1,1996-09-28
+Nottm Forest,1,1996-09-28
+Coventry,1,1996-09-28
+Blackburn,1,1996-09-28
+Derby,0,1996-09-28
+Wimbledon FC,3,1996-09-28
+Everton,3,1996-09-28
+Sheff Wed,0,1996-09-28
+Leicester,3,1996-09-28
+Leeds,0,1996-09-28
+Southampton,3,1996-09-28
+Middlesbrough,0,1996-09-28
+Man Utd,3,1996-09-29
+Tottenham,0,1996-09-29
+West Ham,0,1996-09-29
+Liverpool,3,1996-09-29
+Newcastle,3,1996-09-30
+Aston Villa,0,1996-09-30
+Blackburn,0,1996-10-12
+Arsenal,3,1996-10-12
+Derby,0,1996-10-12
+Newcastle,3,1996-10-12
+Everton,3,1996-10-12
+West Ham,0,1996-10-12
+Leeds,3,1996-10-12
+Nottm Forest,0,1996-10-12
+Leicester,0,1996-10-12
+Chelsea,3,1996-10-12
+Man Utd,3,1996-10-12
+Liverpool,0,1996-10-12
+Tottenham,3,1996-10-12
+Aston Villa,0,1996-10-12
+Wimbledon FC,3,1996-10-12
+Sheff Wed,0,1996-10-12
+Coventry,1,1996-10-13
+Southampton,1,1996-10-13
+Sunderland,1,1996-10-14
+Middlesbrough,1,1996-10-14
+Arsenal,1,1996-10-19
+Coventry,1,1996-10-19
+Aston Villa,3,1996-10-19
+Leeds,0,1996-10-19
+Chelsea,0,1996-10-19
+Wimbledon FC,3,1996-10-19
+Middlesbrough,0,1996-10-19
+Tottenham,3,1996-10-19
+Nottm Forest,1,1996-10-19
+Derby,1,1996-10-19
+Sheff Wed,1,1996-10-19
+Blackburn,1,1996-10-19
+Southampton,3,1996-10-19
+Sunderland,0,1996-10-19
+West Ham,3,1996-10-19
+Leicester,0,1996-10-19
+Newcastle,3,1996-10-20
+Man Utd,0,1996-10-20
+Arsenal,3,1996-10-26
+Leeds,0,1996-10-26
+Chelsea,3,1996-10-26
+Tottenham,0,1996-10-26
+Coventry,1,1996-10-26
+Sheff Wed,1,1996-10-26
+Leicester,3,1996-10-26
+Newcastle,0,1996-10-26
+Middlesbrough,1,1996-10-26
+Wimbledon FC,1,1996-10-26
+Southampton,3,1996-10-26
+Man Utd,0,1996-10-26
+Sunderland,3,1996-10-26
+Aston Villa,0,1996-10-26
+West Ham,3,1996-10-26
+Blackburn,0,1996-10-26
+Liverpool,3,1996-10-27
+Derby,0,1996-10-27
+Nottm Forest,0,1996-10-28
+Everton,3,1996-10-28
+Aston Villa,3,1996-11-02
+Nottm Forest,0,1996-11-02
+Derby,3,1996-11-02
+Leicester,0,1996-11-02
+Leeds,3,1996-11-02
+Sunderland,0,1996-11-02
+Man Utd,0,1996-11-02
+Chelsea,3,1996-11-02
+Sheff Wed,1,1996-11-02
+Southampton,1,1996-11-02
+Tottenham,3,1996-11-02
+West Ham,0,1996-11-02
+Wimbledon FC,1,1996-11-02
+Arsenal,1,1996-11-02
+Blackburn,3,1996-11-03
+Liverpool,0,1996-11-03
+Newcastle,3,1996-11-03
+Middlesbrough,0,1996-11-03
+Everton,1,1996-11-04
+Coventry,1,1996-11-04
+Aston Villa,0,1996-11-16
+Leicester,3,1996-11-16
+Blackburn,1,1996-11-16
+Chelsea,1,1996-11-16
+Everton,3,1996-11-16
+Southampton,0,1996-11-16
+Leeds,0,1996-11-16
+Liverpool,3,1996-11-16
+Man Utd,3,1996-11-16
+Arsenal,0,1996-11-16
+Newcastle,1,1996-11-16
+West Ham,1,1996-11-16
+Tottenham,3,1996-11-16
+Sunderland,0,1996-11-16
+Wimbledon FC,1,1996-11-16
+Coventry,1,1996-11-16
+Derby,3,1996-11-17
+Middlesbrough,0,1996-11-17
+Sheff Wed,3,1996-11-18
+Nottm Forest,0,1996-11-18
+Liverpool,1,1996-11-20
+Everton,1,1996-11-20
+Chelsea,1,1996-11-23
+Newcastle,1,1996-11-23
+Coventry,0,1996-11-23
+Aston Villa,3,1996-11-23
+Leicester,0,1996-11-23
+Everton,3,1996-11-23
+Liverpool,1,1996-11-23
+Wimbledon FC,1,1996-11-23
+Middlesbrough,1,1996-11-23
+Man Utd,1,1996-11-23
+Southampton,0,1996-11-23
+Leeds,3,1996-11-23
+Sunderland,1,1996-11-23
+Sheff Wed,1,1996-11-23
+West Ham,1,1996-11-23
+Derby,1,1996-11-23
+Arsenal,3,1996-11-24
+Tottenham,0,1996-11-24
+Nottm Forest,1,1996-11-25
+Blackburn,1,1996-11-25
+Aston Villa,3,1996-11-30
+Middlesbrough,0,1996-11-30
+Blackburn,3,1996-11-30
+Southampton,0,1996-11-30
+Derby,3,1996-11-30
+Coventry,0,1996-11-30
+Everton,0,1996-11-30
+Sunderland,3,1996-11-30
+Man Utd,3,1996-11-30
+Leicester,0,1996-11-30
+Newcastle,0,1996-11-30
+Arsenal,3,1996-11-30
+Sheff Wed,1,1996-11-30
+West Ham,1,1996-11-30
+Wimbledon FC,3,1996-11-30
+Nottm Forest,0,1996-11-30
+Leeds,3,1996-12-01
+Chelsea,0,1996-12-01
+Tottenham,0,1996-12-02
+Liverpool,3,1996-12-02
+Middlesbrough,0,1996-12-03
+Leicester,3,1996-12-03
+Arsenal,3,1996-12-04
+Southampton,0,1996-12-04
+West Ham,0,1996-12-04
+Aston Villa,3,1996-12-04
+Arsenal,1,1996-12-07
+Derby,1,1996-12-07
+Chelsea,1,1996-12-07
+Everton,1,1996-12-07
+Coventry,0,1996-12-07
+Tottenham,3,1996-12-07
+Leicester,1,1996-12-07
+Blackburn,1,1996-12-07
+Liverpool,0,1996-12-07
+Sheff Wed,3,1996-12-07
+Middlesbrough,1,1996-12-07
+Leeds,1,1996-12-07
+Southampton,0,1996-12-07
+Aston Villa,3,1996-12-07
+Sunderland,0,1996-12-07
+Wimbledon FC,3,1996-12-07
+West Ham,1,1996-12-08
+Man Utd,1,1996-12-08
+Nottm Forest,1,1996-12-09
+Newcastle,1,1996-12-09
+Leeds,1,1996-12-14
+Tottenham,1,1996-12-14
+Liverpool,3,1996-12-14
+Middlesbrough,0,1996-12-14
+Wimbledon FC,3,1996-12-14
+Blackburn,0,1996-12-14
+Sunderland,3,1996-12-15
+Chelsea,0,1996-12-15
+Derby,0,1996-12-16
+Everton,3,1996-12-16
+Coventry,3,1996-12-17
+Newcastle,0,1996-12-17
+Liverpool,3,1996-12-17
+Nottm Forest,0,1996-12-17
+Sheff Wed,1,1996-12-18
+Man Utd,1,1996-12-18
+Chelsea,3,1996-12-21
+West Ham,0,1996-12-21
+Everton,1,1996-12-21
+Leeds,1,1996-12-21
+Leicester,0,1996-12-21
+Coventry,3,1996-12-21
+Man Utd,3,1996-12-21
+Sunderland,0,1996-12-21
+Nottm Forest,3,1996-12-21
+Arsenal,0,1996-12-21
+Southampton,3,1996-12-21
+Derby,0,1996-12-21
+Tottenham,1,1996-12-21
+Sheff Wed,1,1996-12-21
+Aston Villa,3,1996-12-22
+Wimbledon FC,0,1996-12-22
+Newcastle,1,1996-12-23
+Liverpool,1,1996-12-23
+Aston Villa,0,1996-12-26
+Chelsea,3,1996-12-26
+Blackburn,3,1996-12-26
+Newcastle,0,1996-12-26
+Leeds,0,1996-12-26
+Coventry,3,1996-12-26
+Liverpool,1,1996-12-26
+Leicester,1,1996-12-26
+Middlesbrough,3,1996-12-26
+Everton,0,1996-12-26
+Nottm Forest,0,1996-12-26
+Man Utd,3,1996-12-26
+Sheff Wed,1,1996-12-26
+Arsenal,1,1996-12-26
+Sunderland,3,1996-12-26
+Derby,0,1996-12-26
+Tottenham,3,1996-12-26
+Southampton,0,1996-12-26
+Arsenal,1,1996-12-28
+Aston Villa,1,1996-12-28
+Chelsea,1,1996-12-28
+Sheff Wed,1,1996-12-28
+Coventry,3,1996-12-28
+Middlesbrough,0,1996-12-28
+Derby,1,1996-12-28
+Blackburn,1,1996-12-28
+Everton,0,1996-12-28
+Wimbledon FC,3,1996-12-28
+Leicester,1,1996-12-28
+Nottm Forest,1,1996-12-28
+Man Utd,3,1996-12-28
+Leeds,0,1996-12-28
+Newcastle,3,1996-12-28
+Tottenham,0,1996-12-28
+West Ham,3,1996-12-28
+Sunderland,0,1996-12-28
+Southampton,0,1996-12-29
+Liverpool,3,1996-12-29
+Arsenal,3,1997-01-01
+Middlesbrough,0,1997-01-01
+Chelsea,3,1997-01-01
+Liverpool,0,1997-01-01
+Coventry,1,1997-01-01
+Sunderland,1,1997-01-01
+Everton,0,1997-01-01
+Blackburn,3,1997-01-01
+Man Utd,1,1997-01-01
+Aston Villa,1,1997-01-01
+Newcastle,3,1997-01-01
+Leeds,0,1997-01-01
+West Ham,0,1997-01-01
+Nottm Forest,3,1997-01-01
+Aston Villa,1,1997-01-11
+Newcastle,1,1997-01-11
+Blackburn,3,1997-01-11
+Coventry,0,1997-01-11
+Leeds,3,1997-01-11
+Leicester,0,1997-01-11
+Liverpool,1,1997-01-11
+West Ham,1,1997-01-11
+Middlesbrough,0,1997-01-11
+Southampton,3,1997-01-11
+Nottm Forest,3,1997-01-11
+Chelsea,0,1997-01-11
+Sheff Wed,3,1997-01-11
+Everton,0,1997-01-11
+Sunderland,3,1997-01-11
+Arsenal,0,1997-01-11
+Wimbledon FC,1,1997-01-11
+Derby,1,1997-01-11
+Tottenham,0,1997-01-12
+Man Utd,3,1997-01-12
+Chelsea,3,1997-01-18
+Derby,0,1997-01-18
+Coventry,0,1997-01-18
+Man Utd,3,1997-01-18
+Leicester,3,1997-01-18
+Wimbledon FC,0,1997-01-18
+Liverpool,3,1997-01-18
+Aston Villa,0,1997-01-18
+Middlesbrough,3,1997-01-18
+Sheff Wed,0,1997-01-18
+Southampton,1,1997-01-18
+Newcastle,1,1997-01-18
+Sunderland,1,1997-01-18
+Blackburn,1,1997-01-18
+Arsenal,3,1997-01-19
+Everton,0,1997-01-19
+Nottm Forest,3,1997-01-19
+Tottenham,0,1997-01-19
+West Ham,0,1997-01-20
+Leeds,3,1997-01-20
+Aston Villa,0,1997-01-29
+Sheff Wed,3,1997-01-29
+Leeds,1,1997-01-29
+Derby,1,1997-01-29
+Leicester,1,1997-01-29
+Sunderland,1,1997-01-29
+Man Utd,3,1997-01-29
+Wimbledon FC,0,1997-01-29
+Newcastle,3,1997-01-29
+Everton,0,1997-01-29
+Nottm Forest,0,1997-01-29
+Coventry,3,1997-01-29
+Tottenham,3,1997-01-29
+Blackburn,0,1997-01-29
+West Ham,0,1997-01-29
+Arsenal,3,1997-01-29
+Aston Villa,3,1997-02-01
+Sunderland,0,1997-02-01
+Blackburn,3,1997-02-01
+West Ham,0,1997-02-01
+Derby,0,1997-02-01
+Liverpool,3,1997-02-01
+Everton,3,1997-02-01
+Nottm Forest,0,1997-02-01
+Leeds,1,1997-02-01
+Arsenal,1,1997-02-01
+Man Utd,3,1997-02-01
+Southampton,0,1997-02-01
+Sheff Wed,1,1997-02-01
+Coventry,1,1997-02-01
+Tottenham,0,1997-02-01
+Chelsea,3,1997-02-01
+Wimbledon FC,1,1997-02-01
+Middlesbrough,1,1997-02-01
+Newcastle,3,1997-02-02
+Leicester,0,1997-02-02
+Derby,3,1997-02-15
+West Ham,0,1997-02-15
+Tottenham,1,1997-02-15
+Arsenal,1,1997-02-15
+Arsenal,0,1997-02-19
+Man Utd,3,1997-02-19
+Aston Villa,3,1997-02-19
+Coventry,0,1997-02-19
+Derby,1,1997-02-19
+Sheff Wed,1,1997-02-19
+Liverpool,3,1997-02-19
+Leeds,0,1997-02-19
+Chelsea,1,1997-02-22
+Man Utd,1,1997-02-22
+Coventry,1,1997-02-22
+Everton,1,1997-02-22
+Leicester,3,1997-02-22
+Derby,0,1997-02-22
+Liverpool,1,1997-02-22
+Blackburn,1,1997-02-22
+Middlesbrough,0,1997-02-22
+Newcastle,3,1997-02-22
+Nottm Forest,1,1997-02-22
+Aston Villa,1,1997-02-22
+Southampton,0,1997-02-22
+Sheff Wed,3,1997-02-22
+Sunderland,0,1997-02-22
+Leeds,3,1997-02-22
+Arsenal,0,1997-02-23
+Wimbledon FC,3,1997-02-23
+West Ham,3,1997-02-24
+Tottenham,0,1997-02-24
+Southampton,1,1997-02-26
+Wimbledon FC,1,1997-02-26
+Blackburn,3,1997-03-01
+Sunderland,0,1997-03-01
+Derby,3,1997-03-01
+Chelsea,0,1997-03-01
+Everton,0,1997-03-01
+Arsenal,3,1997-03-01
+Leeds,3,1997-03-01
+West Ham,0,1997-03-01
+Man Utd,3,1997-03-01
+Coventry,0,1997-03-01
+Newcastle,0,1997-03-01
+Southampton,3,1997-03-01
+Sheff Wed,3,1997-03-01
+Middlesbrough,0,1997-03-01
+Tottenham,0,1997-03-01
+Nottm Forest,3,1997-03-01
+Wimbledon FC,0,1997-03-01
+Leicester,3,1997-03-01
+Aston Villa,3,1997-03-02
+Liverpool,0,1997-03-02
+Coventry,1,1997-03-03
+Wimbledon FC,1,1997-03-03
+Sunderland,0,1997-03-04
+Tottenham,3,1997-03-04
+Chelsea,1,1997-03-05
+Blackburn,1,1997-03-05
+Leicester,3,1997-03-05
+Aston Villa,0,1997-03-05
+Middlesbrough,3,1997-03-05
+Derby,0,1997-03-05
+Nottm Forest,0,1997-03-05
+Sheff Wed,3,1997-03-05
+Southampton,1,1997-03-05
+Everton,1,1997-03-05
+Arsenal,3,1997-03-08
+Nottm Forest,0,1997-03-08
+Coventry,1,1997-03-08
+Leicester,1,1997-03-08
+Leeds,3,1997-03-08
+Everton,0,1997-03-08
+Sunderland,3,1997-03-08
+Man Utd,0,1997-03-08
+Liverpool,3,1997-03-10
+Newcastle,0,1997-03-10
+Blackburn,1,1997-03-11
+Nottm Forest,1,1997-03-11
+Leeds,1,1997-03-12
+Southampton,1,1997-03-12
+Sheff Wed,3,1997-03-12
+Sunderland,0,1997-03-12
+West Ham,3,1997-03-12
+Chelsea,0,1997-03-12
+Aston Villa,1,1997-03-15
+West Ham,1,1997-03-15
+Blackburn,3,1997-03-15
+Wimbledon FC,0,1997-03-15
+Everton,3,1997-03-15
+Derby,0,1997-03-15
+Leicester,0,1997-03-15
+Middlesbrough,3,1997-03-15
+Man Utd,3,1997-03-15
+Sheff Wed,0,1997-03-15
+Newcastle,3,1997-03-15
+Coventry,0,1997-03-15
+Nottm Forest,1,1997-03-15
+Liverpool,1,1997-03-15
+Southampton,0,1997-03-15
+Arsenal,3,1997-03-15
+Tottenham,3,1997-03-15
+Leeds,0,1997-03-15
+Chelsea,3,1997-03-16
+Sunderland,0,1997-03-16
+Chelsea,3,1997-03-19
+Southampton,0,1997-03-19
+Leicester,1,1997-03-19
+Tottenham,1,1997-03-19
+Middlesbrough,3,1997-03-19
+Blackburn,0,1997-03-19
+Blackburn,0,1997-03-22
+Aston Villa,3,1997-03-22
+Coventry,0,1997-03-22
+West Ham,3,1997-03-22
+Derby,3,1997-03-22
+Tottenham,0,1997-03-22
+Everton,0,1997-03-22
+Man Utd,3,1997-03-22
+Middlesbrough,3,1997-03-22
+Chelsea,0,1997-03-22
+Sheff Wed,1,1997-03-22
+Leeds,1,1997-03-22
+Southampton,1,1997-03-22
+Leicester,1,1997-03-22
+Sunderland,1,1997-03-22
+Nottm Forest,1,1997-03-22
+Wimbledon FC,1,1997-03-23
+Newcastle,1,1997-03-23
+Arsenal,0,1997-03-24
+Liverpool,3,1997-03-24
+Middlesbrough,1,1997-03-24
+Nottm Forest,1,1997-03-24
+Wimbledon FC,1,1997-03-28
+West Ham,1,1997-03-28
+Aston Villa,3,1997-04-05
+Everton,0,1997-04-05
+Chelsea,0,1997-04-05
+Arsenal,3,1997-04-05
+Man Utd,0,1997-04-05
+Derby,3,1997-04-05
+Newcastle,1,1997-04-05
+Sunderland,1,1997-04-05
+Nottm Forest,0,1997-04-05
+Southampton,3,1997-04-05
+Tottenham,3,1997-04-05
+Wimbledon FC,0,1997-04-05
+Liverpool,0,1997-04-06
+Coventry,3,1997-04-06
+Leeds,1,1997-04-07
+Blackburn,1,1997-04-07
+Coventry,3,1997-04-09
+Chelsea,0,1997-04-09
+Derby,1,1997-04-09
+Southampton,1,1997-04-09
+Everton,1,1997-04-09
+Leicester,1,1997-04-09
+Sheff Wed,3,1997-04-09
+Tottenham,0,1997-04-09
+West Ham,1,1997-04-09
+Middlesbrough,1,1997-04-09
+Wimbledon FC,0,1997-04-09
+Aston Villa,3,1997-04-09
+Arsenal,3,1997-04-12
+Leicester,0,1997-04-12
+Blackburn,0,1997-04-12
+Man Utd,3,1997-04-12
+Derby,3,1997-04-12
+Aston Villa,0,1997-04-12
+Everton,3,1997-04-12
+Tottenham,0,1997-04-12
+Southampton,3,1997-04-12
+West Ham,0,1997-04-12
+Sheff Wed,1,1997-04-13
+Newcastle,1,1997-04-13
+Sunderland,0,1997-04-13
+Liverpool,3,1997-04-13
+Everton,1,1997-04-16
+Liverpool,1,1997-04-16
+Newcastle,3,1997-04-16
+Chelsea,0,1997-04-16
+Wimbledon FC,3,1997-04-16
+Leeds,0,1997-04-16
+Arsenal,1,1997-04-19
+Blackburn,1,1997-04-19
+Aston Villa,1,1997-04-19
+Tottenham,1,1997-04-19
+Chelsea,3,1997-04-19
+Leicester,0,1997-04-19
+Liverpool,0,1997-04-19
+Man Utd,3,1997-04-19
+Middlesbrough,0,1997-04-19
+Sunderland,3,1997-04-19
+Newcastle,3,1997-04-19
+Derby,0,1997-04-19
+Nottm Forest,1,1997-04-19
+Leeds,1,1997-04-19
+Sheff Wed,3,1997-04-19
+Wimbledon FC,0,1997-04-19
+Southampton,1,1997-04-19
+Coventry,1,1997-04-19
+West Ham,1,1997-04-19
+Everton,1,1997-04-19
+Coventry,1,1997-04-21
+Arsenal,1,1997-04-21
+Blackburn,3,1997-04-22
+Sheff Wed,0,1997-04-22
+Leeds,1,1997-04-22
+Aston Villa,1,1997-04-22
+Sunderland,0,1997-04-22
+Southampton,3,1997-04-22
+Wimbledon FC,0,1997-04-22
+Chelsea,3,1997-04-22
+Derby,1,1997-04-23
+Nottm Forest,1,1997-04-23
+Leicester,0,1997-04-23
+West Ham,3,1997-04-23
+Tottenham,3,1997-04-24
+Middlesbrough,0,1997-04-24
+Arsenal,0,1997-05-03
+Newcastle,3,1997-05-03
+Chelsea,1,1997-05-03
+Leeds,1,1997-05-03
+Coventry,0,1997-05-03
+Derby,3,1997-05-03
+Leicester,1,1997-05-03
+Man Utd,1,1997-05-03
+Liverpool,3,1997-05-03
+Tottenham,0,1997-05-03
+Middlesbrough,3,1997-05-03
+Aston Villa,0,1997-05-03
+Nottm Forest,1,1997-05-03
+Wimbledon FC,1,1997-05-03
+Southampton,3,1997-05-03
+Blackburn,0,1997-05-03
+Sunderland,3,1997-05-03
+Everton,0,1997-05-03
+West Ham,3,1997-05-03
+Sheff Wed,0,1997-05-03
+Man Utd,1,1997-05-05
+Middlesbrough,1,1997-05-05
+West Ham,1,1997-05-06
+Newcastle,1,1997-05-06
+Wimbledon FC,3,1997-05-06
+Liverpool,0,1997-05-06
+Leicester,3,1997-05-07
+Sheff Wed,0,1997-05-07
+Blackburn,1,1997-05-08
+Middlesbrough,1,1997-05-08
+Man Utd,1,1997-05-08
+Newcastle,1,1997-05-08
+Aston Villa,3,1997-05-11
+Southampton,0,1997-05-11
+Blackburn,0,1997-05-11
+Leicester,3,1997-05-11
+Derby,0,1997-05-11
+Arsenal,3,1997-05-11
+Everton,0,1997-05-11
+Chelsea,3,1997-05-11
+Leeds,1,1997-05-11
+Middlesbrough,1,1997-05-11
+Man Utd,3,1997-05-11
+West Ham,0,1997-05-11
+Newcastle,3,1997-05-11
+Nottm Forest,0,1997-05-11
+Sheff Wed,1,1997-05-11
+Liverpool,1,1997-05-11
+Tottenham,0,1997-05-11
+Coventry,3,1997-05-11
+Wimbledon FC,3,1997-05-11
+Sunderland,0,1997-05-11
