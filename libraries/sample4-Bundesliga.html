@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>To Objects</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto|Source+Code+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/monokai.min.css">
+    <link rel="stylesheet" href="demo.css">
+  </head>
+
+  <body>
+
+    <div id="header">
+      <h1 id="title">$.csv.toObjects()</h1>
+      <div id="link"><a href="https://github.com/evanplaice/jquery-csv">GitHub</a></div>
+    </div>
+    <div id="container">
+      <section id="content">
+        <h2>Description</h2>
+        <p>Used to convert multi-line CSV data into an array objects containing the data as key-value (ie header:value) pairs.</p>
+        <hr>
+        <h2>Usage</h2>
+        <pre><code class="javascript">var result = $.csv.toObjects(input);</code></pre>
+        <hr />
+        <h2>Input</h2>
+        <textarea id="input" style="height: 190px;"></textarea>
+        <input id="run" type="button" value="Run" />
+        <hr />
+		<h2>GetLogos</h2>
+		<textarea id="sanitizedTeamList" style="height:100px">t1,t2
+Rostock,Hansa Rostock
+Bayern,Bayern Munich
+Bremen,Werder Bremen
+Munich 1860,1860 Munich
+Dortmund,Borussia Dortmund
+Cottbus,Energie Cottbus
+Frankfurt,Eintracht Frankfurt
+Hertha,Hertha BSC
+Leverkusen,Bayer 04 Leverkusen
+Stuttgart,VfB Stuttgart
+Nurnberg,Nürnberg
+Monchengladbach,Borussia Mönchengladbach
+Bielefeld,Arminia Bielefeld
+Hannover,Hannover 96
+Mainz,FSV Mainz 05
+Duisburg,MSV Duisburg
+Aachen,Alemannia Aachen
+Furth,SpVgg Greuther Fürth
+Dusseldorf,Fortuna Düsseldorf
+Braunschweig,Eintracht Braunschweig
+Paderborn,Paderborn 07
+Darmstadt,Darmstadt 98
+Ingolstadt,Ingolstadt 04
+RB Leipzig,Leipzig
+Homburg,08 Homburg
+Mannheim,Waldhof Mannheim
+Uerdingen,Uerdingen 05
+Wattenscheid,Wattenscheid 09
+Dresden,Dynamo Dresden
+Ulm,Ulm 1846
+		</textarea>
+		<textarea id="logoURL" style="height:11px;">team,url
+1860 Munich,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/180px-TSV_1860_M%C3%BCnchen.svg.png
+Alemannia Aachen,https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Alemannia_Aachen_logo.svg/180px-Alemannia_Aachen_logo.svg.png
+Arminia Bielefeld,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arminia-wappen-2021.svg/180px-Arminia-wappen-2021.svg.png
+Bayer 04 Leverkusen,https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/220px-Bayer_04_Leverkusen_logo.svg.png
+Bayern Munich,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/180px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png
+Bochum,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/170px-VfL_Bochum_logo.svg.png
+Borussia Dortmund,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/185px-Borussia_Dortmund_logo.svg.png
+Borussia Mönchengladbach,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/130px-Borussia_M%C3%B6nchengladbach_logo.svg.png
+Eintracht Braunschweig,https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Eintracht_Braunschweig_logo.svg/200px-Eintracht_Braunschweig_logo.svg.png
+Eintracht Frankfurt,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/180px-Eintracht_Frankfurt_Logo.svg.png
+Energie Cottbus,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Logo_Energie_Cottbus.svg/180px-Logo_Energie_Cottbus.svg.png
+Freiburg,https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/150px-SC_Freiburg_logo.svg.png
+Hamburger SV,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/200px-Hamburger_SV_logo.svg.png
+Hansa Rostock,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/180px-F.C._Hansa_Rostock_Logo.svg.png
+Hertha BSC,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/190px-Hertha_BSC_Logo_2012.svg.png
+Kaiserslautern,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/200px-Logo_1_FC_Kaiserslautern.svg.png
+FC Koln,https://upload.wikimedia.org/wikipedia/en/thumb/5/53/FC_Cologne_logo.svg/180px-FC_Cologne_logo.svg.png
+Leipzig,https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/280px-RB_Leipzig_2014_logo.svg.png
+MSV Duisburg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MSV_Duisburg_Anniversary_22-23_Logo.svg/180px-MSV_Duisburg_Anniversary_22-23_Logo.svg.png
+Nürnberg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/180px-1._FC_N%C3%BCrnberg_logo.svg.png
+Schalke,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/180px-FC_Schalke_04_Logo.svg.png
+Unterhaching,https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/SpVgg_Unterhaching_logo.svg/180px-SpVgg_Unterhaching_logo.svg.png
+VfB Stuttgart,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/180px-VfB_Stuttgart_1893_Logo.svg.png
+Werder Bremen,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/150px-SV-Werder-Bremen-Logo.svg.png
+Wolfsburg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/200px-Logo-VfL-Wolfsburg.svg.png
+St. Pauli,https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/180px-FC_St._Pauli_logo_%282018%29.svg.png
+Hannover 96,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/180px-Hannover_96_Logo.svg.png
+FSV Mainz 05,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/180px-Logo_Mainz_05.svg.png
+Karlsruher,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/180px-Karlsruher_SC_Logo_2.svg.png
+Hoffenheim,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/160px-Logo_TSG_Hoffenheim.svg.png
+Augsburg,https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/140px-FC_Augsburg_logo.svg.png
+Fortuna Düsseldorf,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/180px-Fortuna_D%C3%BCsseldorf.svg.png
+SpVgg Greuther Fürth,https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/SpVgg_Greuther_F%C3%BCrth_logo_%282017%29.svg/180px-SpVgg_Greuther_F%C3%BCrth_logo_%282017%29.svg.png
+Paderborn 07,https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/SC_Paderborn_07_logo.svg/220px-SC_Paderborn_07_logo.svg.png
+Darmstadt 98,https://upload.wikimedia.org/wikipedia/en/thumb/9/92/SV_Darmstadt_98_logo.svg/180px-SV_Darmstadt_98_logo.svg.png
+Ingolstadt 04,https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/FC_Ingolstadt_04_logo.svg/180px-FC_Ingolstadt_04_logo.svg.png
+Union Berlin,https://www.symbols.com/images/symbol/1/5664_1-fc-union-berlin-symbol.png
+08 Homburg,https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/FC_Homburg.png/150px-FC_Homburg.png
+Waldhof Mannheim,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Svwaldhof.svg/180px-Svwaldhof.svg.png
+Uerdingen 05,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Logo_KFC_Uerdingen_05.svg/180px-Logo_KFC_Uerdingen_05.svg.png
+Wattenscheid 09,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/O9logo1png.svg/180px-O9logo1png.svg.png
+Dynamo Dresden,https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Dynamo_Dresden_logo_2011.svg/180px-Dynamo_Dresden_logo_2011.svg.png
+Lokomotive Leipzig,https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/1_FC_Lokomotive_Leipzig_logo.svg/150px-1_FC_Lokomotive_Leipzig_logo.svg.png
+Ulm 1846,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/SSV_Ulm_1846_Fussball.svg/130px-SSV_Ulm_1846_Fussball.svg.png
+		</textarea>
+		<textarea id="teamList" style="height:200px;"></textarea>
+        <textarea id="logoOutput" style="height: 190px;"></textarea>
+        <input id="getLogos" type="button" value="getLogos" />
+        <hr />
+        <h2>Result</h2>
+		<textarea id="tempResult" style="height: 10px;"></textarea>
+        <textarea id="result" style="height: 400px;"></textarea>
+      </section>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA=" crossorigin="anonymous"></script>
+    <script src="jquery-csv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+      // enable syntax highlighting
+      hljs.initHighlightingOnLoad();
+
+      $(document).ready(() => {
+        //parse2();
+		//parse();
+      });
+
+      $('#run').bind('click', function () {
+        parse2();
+		parse();
+      });
+	  
+	  $('#getLogos').bind('click',function() {
+		populateLogos();
+	  });
+	  
+	  function cleanTeamList() {
+		const data = $('#teamList').val();
+		
+	  }
+	  
+	  function populateLogos() {
+		//const data = $('#teamList').val();
+		var teamList = $('#teamList').val().split(',');
+		
+		const logoUrl = $('#logoURL').val();
+		const logoUrlInput = $.csv.toObjects(logoUrl);
+		var logoUrlMap = new Map();
+		var finalUrlData = "";
+		var finalTeamList = "";
+		
+		for (i=0;i<logoUrlInput.length;i++) {
+			var teamName = logoUrlInput[i].team;
+			var url = logoUrlInput[i].url;
+			logoUrlMap.set(teamName,url);
+		}
+		
+		const data2 = $('#sanitizedTeamList').val();
+		const sanitizedTeams = $.csv.toObjects(data2);
+		
+		var sanitizationMap = new Map();
+		for (i=0;i<sanitizedTeams.length;i++) {
+			sanitizationMap.set(sanitizedTeams[i].t1,sanitizedTeams[i].t2);
+		}
+		var totalTeamsProcessed = 0;
+		var notFoundList = "";
+		for(i=0;i<teamList.length;i++) {
+			var teamName = teamList[i];
+			var sanitizedTeamName = sanitizationMap.get(teamName);
+			if (sanitizedTeamName != null) { 
+				teamName = sanitizedTeamName;
+			}
+			var teamLogoUrl = logoUrlMap.get(teamName);
+			if (teamLogoUrl == null || teamLogoUrl.size <= 1) {
+				teamLogoUrl = "Not Found";
+				notFoundList = notFoundList + "," + teamName;
+			} else {
+				totalTeamsProcessed = totalTeamsProcessed + 1;
+			}
+			finalTeamList = finalTeamList + "," + teamName;
+			finalUrlData = finalUrlData + "," + teamLogoUrl;
+		}
+		
+		var performanceLog = "";
+		performanceLog = performanceLog + "Number of team in input : " + teamList.length + "\n";
+		performanceLog = performanceLog + "Number of teams processed : " + totalTeamsProcessed + "\n";
+		performanceLog = performanceLog + notFoundList;
+		
+		
+		
+		
+		$('#logoOutput').html(finalTeamList + "\n" + finalUrlData + "\n" + performanceLog);
+	  }
+	  
+	  function parse2() {
+		const input = $('#input').val();
+        const data = $.csv.toObjects(input);
+        $('#tempResult').empty();
+		var resultMap = new Map();
+		var finalData = "team,points,date";
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].team;
+			if (resultMap.get(teamName) != null) {
+				var currentPoints = resultMap.get(teamName);
+				resultMap.set(teamName, parseInt(currentPoints) + parseInt(data[i].points));
+				finalData = finalData + "\n" + data[i].team + "," + (parseInt(currentPoints) + parseInt(data[i].points)) + "," + data[i].date;
+			} else {
+				resultMap.set(teamName,data[i].points);
+				finalData = finalData + "\n" + data[i].team + "," + data[i].points + "," + data[i].date;
+			}
+		}
+		
+		$('#tempResult').html(finalData);
+		$('#tempResult').val(finalData);
+		
+	  }
+
+      function parse() {
+        const input = $('#tempResult').val();
+        const data = $.csv.toObjects(input);
+        $('#result').empty();
+		var finalResult = "";
+		var resultMap = new Map();
+		var log = "";
+		for (i=0;i<data.length;i++) {
+			var matchDate = data[i].date;
+			log = log + "\n" + " Checking for match date : " + matchDate;
+			var dateMap = resultMap.get(matchDate);
+			if (dateMap == null) {
+				log = log + "\n" + " dateMap is null for this entry.";
+				dateMap = new Map();
+			} else {
+				log = log + "\n" + " Found a dateMap entry for this entry.";
+			}
+			
+			dateMap.set(data[i].team, data[i].points);
+			log = log + "\n" + " setting date map value for " + data[i].team + " and " + data[i].points;
+			
+			resultMap.set(matchDate,dateMap);
+			finalResult = finalResult + data[i].team;
+			
+		}
+		
+		var tempTeamMap = new Map();
+		
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].team;
+			tempTeamMap.set(teamName,1);
+		}
+		
+		var teamList = Array.from(tempTeamMap.keys());
+		
+		var tempDateMap = new Map();
+		for (i=0;i<data.length;i++) {
+			var dateValue = data[i].date;
+			tempDateMap.set(dateValue,1);
+		}
+		var dateList = Array.from(tempDateMap.keys());
+		
+		log = "";
+		var finalOutput = "";
+		for (x=0;x<teamList.length;x++) {
+			finalOutput = finalOutput + "," + teamList[x];
+		}
+		
+		finalOutput = finalOutput + "\n";
+		for (j=0;j<dateList.length;j++) {
+			var currentDate = dateList[j];
+			var currentDateMap = resultMap.get(currentDate);
+			
+			if (currentDateMap == null) {
+				log = log + "\n" + "Current Date map is null";
+			} else {
+					finalOutput = finalOutput + currentDate;
+					for (k=0;k<teamList.length;k++) {
+						var teamName = teamList[k];
+						var currentPoints = currentDateMap.get(teamName);
+						var lastPoints = 0;
+						if (currentDateMap.get(teamName) != null) {
+							lastPoints = currentDateMap.get(teamName);
+						} else {
+							if (j != 0) {
+								lastPoints = 0;
+								for (p=j-1;p>=0;p--) {
+									var previousDate = dateList[p];
+									var previousDateMap = resultMap.get(previousDate);
+									if (previousDateMap.get(teamName) != null) {
+										lastPoints = previousDateMap.get(teamName);
+										break;
+									}
+								}
+							}
+						}
+						finalOutput = finalOutput + "," + lastPoints;
+					}
+					
+					finalOutput = finalOutput + "\n";
+					
+			}
+			
+			
+		}
+		
+        //$('#result').html(JSON.stringify(data, null, 2));
+		$('#result').empty();
+		$('#result').html(finalOutput);
+      }
+    </script>
+  </body>
+</html>
