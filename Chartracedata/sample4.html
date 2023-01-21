@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>To Objects</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto|Source+Code+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/monokai.min.css">
+    <link rel="stylesheet" href="demo.css">
+  </head>
+
+  <body>
+
+    <div id="header">
+      <h1 id="title">$.csv.toObjects()</h1>
+      <div id="link"><a href="https://github.com/evanplaice/jquery-csv">GitHub</a></div>
+    </div>
+    <div id="container">
+      <section id="content">
+        <h2>Description</h2>
+        <p>Used to convert multi-line CSV data into an array objects containing the data as key-value (ie header:value) pairs.</p>
+        <hr>
+        <h2>Usage</h2>
+        <pre><code class="javascript">var result = $.csv.toObjects(input);</code></pre>
+        <hr />
+        <h2>Input</h2>
+        <textarea id="input" style="height: 190px;"></textarea>
+        <input id="run" type="button" value="Run" />
+        <hr />
+        <h2>Result</h2>
+		<textarea id="tempResult" style="height: 1400px;"></textarea>
+        <textarea id="result" style="height: 1400px;"></textarea>
+      </section>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA=" crossorigin="anonymous"></script>
+    <script src="jquery-csv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+      // enable syntax highlighting
+      hljs.initHighlightingOnLoad();
+
+      $(document).ready(() => {
+        //parse2();
+		//parse();
+      });
+
+      $('#run').bind('click', function () {
+        parse2();
+		parse();
+      });
+	  
+	  function parse2() {
+		const input = $('#input').val();
+        const data = $.csv.toObjects(input);
+        $('#tempResult').empty();
+		var resultMap = new Map();
+		var finalData = "team,points,date";
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].team;
+			if (resultMap.get(teamName) != null) {
+				var currentPoints = resultMap.get(teamName);
+				resultMap.set(teamName, parseInt(currentPoints) + parseInt(data[i].points));
+				finalData = finalData + "\n" + data[i].team + "," + (parseInt(currentPoints) + parseInt(data[i].points)) + "," + data[i].date;
+			} else {
+				resultMap.set(teamName,data[i].points);
+				finalData = finalData + "\n" + data[i].team + "," + data[i].points + "," + data[i].date;
+			}
+		}
+		
+		$('#tempResult').html(finalData);
+		$('#tempResult').val(finalData);
+		
+	  }
+
+      function parse() {
+        const input = $('#tempResult').val();
+        const data = $.csv.toObjects(input);
+        $('#result').empty();
+		var finalResult = "";
+		var resultMap = new Map();
+		var log = "";
+		for (i=0;i<data.length;i++) {
+			var matchDate = data[i].date;
+			log = log + "\n" + " Checking for match date : " + matchDate;
+			var dateMap = resultMap.get(matchDate);
+			if (dateMap == null) {
+				log = log + "\n" + " dateMap is null for this entry.";
+				dateMap = new Map();
+			} else {
+				log = log + "\n" + " Found a dateMap entry for this entry.";
+			}
+			
+			dateMap.set(data[i].team, data[i].points);
+			log = log + "\n" + " setting date map value for " + data[i].team + " and " + data[i].points;
+			
+			resultMap.set(matchDate,dateMap);
+			finalResult = finalResult + data[i].team;
+			
+		}
+		
+		var tempTeamMap = new Map();
+		
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].team;
+			tempTeamMap.set(teamName,1);
+		}
+		
+		var teamList = Array.from(tempTeamMap.keys());
+		
+		var tempDateMap = new Map();
+		for (i=0;i<data.length;i++) {
+			var dateValue = data[i].date;
+			tempDateMap.set(dateValue,1);
+		}
+		var dateList = Array.from(tempDateMap.keys());
+		
+		log = "";
+		var finalOutput = "";
+		for (x=0;x<teamList.length;x++) {
+			finalOutput = finalOutput + "," + teamList[x];
+		}
+		
+		finalOutput = finalOutput + "\n";
+		for (j=0;j<dateList.length;j++) {
+			var currentDate = dateList[j];
+			var currentDateMap = resultMap.get(currentDate);
+			
+			if (currentDateMap == null) {
+				log = log + "\n" + "Current Date map is null";
+			} else {
+					finalOutput = finalOutput + currentDate;
+					for (k=0;k<teamList.length;k++) {
+						var teamName = teamList[k];
+						var currentPoints = currentDateMap.get(teamName);
+						var lastPoints = 0;
+						if (currentDateMap.get(teamName) != null) {
+							lastPoints = currentDateMap.get(teamName);
+						} else {
+							if (j != 0) {
+								lastPoints = 0;
+								for (p=j-1;p>=0;p--) {
+									var previousDate = dateList[p];
+									var previousDateMap = resultMap.get(previousDate);
+									if (previousDateMap.get(teamName) != null) {
+										lastPoints = previousDateMap.get(teamName);
+										break;
+									}
+								}
+							}
+						}
+						finalOutput = finalOutput + "," + lastPoints;
+					}
+					
+					finalOutput = finalOutput + "\n";
+					
+			}
+			
+			
+		}
+		
+        //$('#result').html(JSON.stringify(data, null, 2));
+		$('#result').empty();
+		$('#result').html(finalOutput);
+      }
+    </script>
+  </body>
+</html>

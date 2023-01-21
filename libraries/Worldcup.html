@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>To Objects</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto|Source+Code+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/monokai.min.css">
+    <link rel="stylesheet" href="demo.css">
+  </head>
+
+  <body>
+
+    <div id="header">
+      <h1 id="title">$.csv.toObjects()</h1>
+      <div id="link"><a href="https://github.com/evanplaice/jquery-csv">GitHub</a></div>
+    </div>
+    <div id="container">
+      <section id="content">
+        <h2>Description</h2>
+        <p>Used to convert multi-line CSV data into an array objects containing the data as key-value (ie header:value) pairs.</p>
+        <hr>
+        <h2>Usage</h2>
+        <pre><code class="javascript">var result = $.csv.toObjects(input);</code></pre>
+        <hr />
+        <h2>Input</h2>
+        <textarea id="input" style="height: 190px;"></textarea>
+        <input id="run" type="button" value="Run" />
+        <hr />
+        <hr />
+        <h2>Result</h2>
+		<textarea id="result" style="height: 400px;"></textarea>
+      </section>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA=" crossorigin="anonymous"></script>
+    <script src="jquery-csv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+      // enable syntax highlighting
+      hljs.initHighlightingOnLoad();
+
+      $(document).ready(() => {
+      });
+
+      $('#run').bind('click', function () {
+      parse3();
+      });
+	  
+	  function parse3() {
+		const input = $('#input').val();
+		const data = $.csv.toObjects(input);
+		var resultMap = new Map();
+		var finalResult = "";
+		var finalOutput2 = "";
+		
+		var teamWinCountMap = new Map();
+		
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].Team1;
+			teamWinCountMap.set(teamName,0);
+		}
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].Team2;
+			teamWinCountMap.set(teamName,0);
+		}
+				
+		for(i=0;i<data.length;i++) {
+			var matchDate = data[i].Date;
+			var team1 = data[i].Team1;
+			var team2 = data[i].Team2;
+			
+			var winner = data[i].Loser;
+			
+			var team1WinCount = teamWinCountMap.get(team1);
+			var team2WinCount = teamWinCountMap.get(team2);
+			
+			if (winner == team1) {
+				teamWinCountMap.set(team1, team1WinCount+1);
+			} 
+			if (winner == team2){
+				teamWinCountMap.set(team2, team2WinCount+1);
+			}
+			
+			mapDateWin = new Map(teamWinCountMap);
+			
+			resultMap.set(matchDate,mapDateWin);
+			
+		}
+		
+		var tempCountryMap = new Map();
+		for (i=0;i<data.length;i++) {
+			var countryName = data[i].Team1;
+			tempCountryMap.set(countryName,1);
+		}
+		for (i=0;i<data.length;i++) {
+			var countryName = data[i].Team2;
+			tempCountryMap.set(countryName,1);
+		}
+		
+		var countryList = Array.from(tempCountryMap.keys());
+		
+		var tempDateMap = new Map();
+		for (i=0;i<data.length;i++) {
+			var dateValue = data[i].Date;
+			tempDateMap.set(dateValue,1);
+		}
+		var dateList = Array.from(tempDateMap.keys());
+		
+		//Printint first line, that is list of countries
+		var finalOutput = "";
+		for (x =0;x<countryList.length;x++) {
+			finalOutput = finalOutput + "," + countryList[x];
+		}
+		
+		finalOutput = finalOutput + "\n";
+		
+		for (j=0;j<dateList.length;j++) {
+			var currentDate = dateList[j];
+			var currentDateMap = resultMap.get(currentDate);
+			
+			if (currentDateMap == null) {
+				log = log + "\n" + "Current Date map is null";
+			} else {
+					finalOutput = finalOutput + currentDate;
+					winCountMap = resultMap.get(currentDate);
+					
+					for(k=0;k<countryList.length;k++) {
+						var countryName = countryList[k];
+						var winCount = winCountMap.get(countryName);
+						finalOutput = finalOutput + "," + winCount;
+					}
+					
+					finalOutput = finalOutput + "\n";
+			}
+		}
+		
+		$('#result').empty();
+		$('#result').html(finalOutput);
+		
+	  }
+
+      
+    </script>
+  </body>
+</html>

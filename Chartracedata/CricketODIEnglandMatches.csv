@@ -1,0 +1,774 @@
+Team1,Team2,Winner,Loser,Margin,Ground,Date,Scorecard,MatchCount,Country,England
+Australia,England,Australia,England,5 wickets,Melbourne,1971-01-05,ODI # 1,1,Australia,England
+England,Australia,England,Australia,6 wickets,Manchester,1972-08-24,ODI # 2,2,England,England
+England,Australia,Australia,England,5 wickets,Lord's,1972-08-26,ODI # 3,3,England,England
+England,Australia,England,Australia,2 wickets,Birmingham,1972-08-28,ODI # 4,4,England,England
+England,New Zealand,England,New Zealand,7 wickets,Swansea,1973-07-18,ODI # 6,6,Wales,England
+England,New Zealand,no result,England,,Manchester,1973-07-20,ODI # 7,7,England,England
+England,West Indies,England,West Indies,1 wicket,Leeds,1973-09-05,ODI # 8,8,England,England
+England,West Indies,West Indies,England,8 wickets,The Oval,1973-09-07,ODI # 9,9,England,England
+England,India,England,India,4 wickets,Leeds,1974-07-13,ODI # 12,12,England,England
+England,India,England,India,6 wickets,The Oval,1974-07-15,ODI # 13,13,England,England
+England,Pakistan,Pakistan,England,7 wickets,Nottingham,1974-08-31,ODI # 14,14,England,England
+England,Pakistan,Pakistan,England,8 wickets,Birmingham,1974-09-03,ODI # 15,15,England,England
+Australia,England,England,Australia,3 wickets,Melbourne,1975-01-01,ODI # 16,16,Australia,England
+New Zealand,England,no result,New Zealand,,Dunedin,1975-03-08,ODI # 17,17,New Zealand,England
+New Zealand,England,no result,New Zealand,,Wellington,1975-03-09,ODI # 18,18,New Zealand,England
+England,India,England,India,202 runs,Lord's,1975-06-07,ODI # 19,19,England,England
+England,New Zealand,England,New Zealand,80 runs,Nottingham,1975-06-11,ODI # 23,23,England,England
+England,East Africa,England,East Africa,196 runs,Birmingham,1975-06-14,ODI # 27,27,England,England
+England,Australia,Australia,England,4 wickets,Leeds,1975-06-18,ODI # 31,31,England,England
+England,West Indies,West Indies,England,6 wickets,Scarborough,1976-08-26,ODI # 37,37,England,England
+England,West Indies,West Indies,England,36 runs,Lord's,1976-08-28,ODI # 38,38,England,England
+England,West Indies,West Indies,England,50 runs,Birmingham,1976-08-30,ODI # 39,39,England,England
+England,Australia,England,Australia,2 wickets,Manchester,1977-06-02,ODI # 42,42,England,England
+England,Australia,England,Australia,101 runs,Birmingham,1977-06-04,ODI # 43,43,England,England
+England,Australia,Australia,England,2 wickets,The Oval,1977-06-06,ODI # 44,44,England,England
+Pakistan,England,England,Pakistan,3 wickets,Sahiwal,1977-12-23,ODI # 45,45,Pakistan,England
+Pakistan,England,England,Pakistan,6 wickets,Sialkot,1977-12-30,ODI # 46,46,Pakistan,England
+Pakistan,England,Pakistan,England,36 runs,Lahore,1978-01-13,ODI # 47,47,Pakistan,England
+England,Pakistan,England,Pakistan,132 runs,Manchester,1978-05-24,ODI # 50,50,England,England
+England,Pakistan,England,Pakistan,94 runs,The Oval,1978-05-26,ODI # 51,51,England,England
+England,New Zealand,England,New Zealand,19 runs,Scarborough,1978-07-15,ODI # 52,52,England,England
+England,New Zealand,England,New Zealand,126 runs,Manchester,1978-07-17,ODI # 53,53,England,England
+Australia,England,no result,Australia,,Sydney,1979-01-13,ODI # 57,57,Australia,England
+Australia,England,England,Australia,7 wickets,Melbourne,1979-01-24,ODI # 58,58,Australia,England
+Australia,England,Australia,England,4 wickets,Melbourne,1979-02-04,ODI # 59,59,Australia,England
+Australia,England,Australia,England,6 wickets,Melbourne,1979-02-07,ODI # 60,60,Australia,England
+England,Australia,England,Australia,6 wickets,Lord's,1979-06-09,ODI # 63,63,England,England
+England,Canada,England,Canada,8 wickets,Manchester,1979-06-13,ODI # 67,67,England,England
+England,Pakistan,England,Pakistan,14 runs,Leeds,1979-06-16,ODI # 71,71,England,England
+England,New Zealand,England,New Zealand,9 runs,Manchester,1979-06-20,ODI # 72,72,England,England
+England,West Indies,West Indies,England,92 runs,Lord's,1979-06-23,ODI # 74,74,England,England
+England,West Indies,England,West Indies,2 runs,Sydney,1979-11-28,ODI # 76,76,Australia,England
+Australia,England,England,Australia,3 wickets,Melbourne,1979-12-08,ODI # 77,77,Australia,England
+Australia,England,England,Australia,72 runs,Sydney,1979-12-11,ODI # 79,79,Australia,England
+England,West Indies,West Indies,England,9 wickets,Brisbane,1979-12-23,ODI # 81,81,Australia,England
+Australia,England,England,Australia,4 wickets,Sydney,1979-12-26,ODI # 82,82,Australia,England
+Australia,England,England,Australia,2 wickets,Sydney,1980-01-14,ODI # 83,83,Australia,England
+England,West Indies,West Indies,England,107 runs,Adelaide,1980-01-16,ODI # 84,84,Australia,England
+England,West Indies,West Indies,England,2 runs,Melbourne,1980-01-20,ODI # 86,86,Australia,England
+England,West Indies,West Indies,England,8 wickets,Sydney,1980-01-22,ODI # 87,87,Australia,England
+England,West Indies,West Indies,England,24 runs,Leeds,1980-05-28,ODI # 89,89,England,England
+England,West Indies,England,West Indies,3 wickets,Lord's,1980-05-30,ODI # 90,90,England,England
+England,Australia,England,Australia,23 runs,The Oval,1980-08-20,ODI # 91,91,England,England
+England,Australia,England,Australia,47 runs,Birmingham,1980-08-22,ODI # 92,92,England,England
+West Indies,England,West Indies,England,2 runs,Kingstown,1981-02-04,ODI # 115,115,West Indies,England
+West Indies,England,West Indies,England,6 wickets,Albion,1981-02-26,ODI # 118,118,West Indies,England
+England,Australia,England,Australia,6 wickets,Lord's,1981-06-04,ODI # 119,119,England,England
+England,Australia,Australia,England,2 runs,Birmingham,1981-06-06,ODI # 120,120,England,England
+England,Australia,Australia,England,71 runs,Leeds,1981-06-08,ODI # 121,121,England,England
+India,England,England,India,5 wickets,Ahmedabad,1981-11-25,ODI # 125,125,India,England
+India,England,India,England,6 wickets,Jalandhar,1981-12-20,ODI # 131,131,India,England
+India,England,India,England,5 wickets,Cuttack,1982-01-27,ODI # 143,143,India,England
+Sri Lanka,England,England,Sri Lanka,5 runs,Colombo (SSC),1982-02-13,ODI # 145,145,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,3 runs,Colombo (SSC),1982-02-14,ODI # 146,146,Sri Lanka,England
+England,India,England,India,9 wickets,Leeds,1982-06-02,ODI # 152,152,England,England
+England,India,England,India,114 runs,The Oval,1982-06-04,ODI # 153,153,England,England
+England,Pakistan,England,Pakistan,7 wickets,Nottingham,1982-07-17,ODI # 154,154,England,England
+England,Pakistan,England,Pakistan,73 runs,Manchester,1982-07-19,ODI # 155,155,England,England
+Australia,England,Australia,England,31 runs,Sydney,1983-01-11,ODI # 166,166,Australia,England
+England,New Zealand,New Zealand,England,2 runs,Melbourne,1983-01-13,ODI # 167,167,Australia,England
+England,New Zealand,England,New Zealand,54 runs,Brisbane,1983-01-15,ODI # 168,168,Australia,England
+Australia,England,Australia,England,7 wickets,Brisbane,1983-01-16,ODI # 169,169,Australia,England
+England,New Zealand,England,New Zealand,8 wickets,Sydney,1983-01-20,ODI # 171,171,Australia,England
+Australia,England,Australia,England,5 wickets,Melbourne,1983-01-23,ODI # 174,174,Australia,England
+Australia,England,England,Australia,98 runs,Sydney,1983-01-26,ODI # 175,175,Australia,England
+England,New Zealand,New Zealand,England,4 wickets,Adelaide,1983-01-29,ODI # 176,176,Australia,England
+Australia,England,England,Australia,14 runs,Adelaide,1983-01-30,ODI # 177,177,Australia,England
+England,New Zealand,New Zealand,England,7 wickets,Perth,1983-02-05,ODI # 179,179,Australia,England
+New Zealand,England,New Zealand,England,6 wickets,Auckland,1983-02-19,ODI # 183,183,New Zealand,England
+New Zealand,England,New Zealand,England,103 runs,Wellington,1983-02-23,ODI # 184,184,New Zealand,England
+New Zealand,England,New Zealand,England,84 runs,Christchurch,1983-02-26,ODI # 185,185,New Zealand,England
+England,New Zealand,England,New Zealand,106 runs,The Oval,1983-06-09,ODI # 197,197,England,England
+England,Sri Lanka,England,Sri Lanka,47 runs,Taunton,1983-06-11,ODI # 201,201,England,England
+England,Pakistan,England,Pakistan,8 wickets,Lord's,1983-06-13,ODI # 205,205,England,England
+England,New Zealand,New Zealand,England,2 wickets,Birmingham,1983-06-15,ODI # 209,209,England,England
+England,Pakistan,England,Pakistan,7 wickets,Manchester,1983-06-18,ODI # 213,213,England,England
+England,Sri Lanka,England,Sri Lanka,9 wickets,Leeds,1983-06-20,ODI # 217,217,England,England
+England,India,India,England,6 wickets,Manchester,1983-06-22,ODI # 221,221,England,England
+New Zealand,England,England,New Zealand,54 runs,Christchurch,1984-02-18,ODI # 249,249,New Zealand,England
+New Zealand,England,England,New Zealand,6 wickets,Wellington,1984-02-22,ODI # 250,250,New Zealand,England
+New Zealand,England,New Zealand,England,7 wickets,Auckland,1984-02-25,ODI # 251,251,New Zealand,England
+Pakistan,England,Pakistan,England,6 wickets,Lahore,1984-03-09,ODI # 254,254,Pakistan,England
+Pakistan,England,England,Pakistan,6 wickets,Karachi,1984-03-26,ODI # 256,256,Pakistan,England
+England,West Indies,West Indies,England,104 runs,Manchester,1984-05-31,ODI # 264,264,England,England
+England,West Indies,England,West Indies,3 wickets,Nottingham,1984-06-02,ODI # 265,265,England,England
+England,West Indies,West Indies,England,8 wickets,Lord's,1984-06-04,ODI # 266,266,England,England
+India,England,England,India,4 wickets,Pune,1984-12-05,ODI # 279,279,India,England
+India,England,England,India,1 run,Cuttack,1984-12-27,ODI # 281,281,India,England
+India,England,England,India,3 wickets,Bengaluru,1985-01-20,ODI # 293,293,India,England
+India,England,India,England,3 wickets,Nagpur,1985-01-23,ODI # 295,295,India,England
+India,England,England,India,7 runs,Chandigarh,1985-01-27,ODI # 298,298,India,England
+Australia,England,Australia,England,7 wickets,Melbourne,1985-02-17,ODI # 307,307,Australia,England
+England,India,India,England,86 runs,Sydney,1985-02-26,ODI # 312,312,Australia,England
+England,Pakistan,Pakistan,England,67 runs,Melbourne,1985-03-02,ODI # 314,314,Australia,England
+Australia,England,Australia,England,2 wickets,Sharjah,1985-03-24,ODI # 322,322,United Arab Emirates,England
+England,Pakistan,Pakistan,England,43 runs,Sharjah,1985-03-26,ODI # 323,323,United Arab Emirates,England
+England,Australia,Australia,England,3 wickets,Manchester,1985-05-30,ODI # 329,329,England,England
+England,Australia,Australia,England,4 wickets,Birmingham,1985-06-01,ODI # 330,330,England,England
+England,Australia,England,Australia,8 wickets,Lord's,1985-06-03,ODI # 331,331,England,England
+West Indies,England,West Indies,England,6 wickets,Kingston,1986-02-18,ODI # 364,364,West Indies,England
+West Indies,England,England,West Indies,5 wickets,Port of Spain,1986-03-04,ODI # 366,366,West Indies,England
+West Indies,England,West Indies,England,135 runs,Bridgetown,1986-03-19,ODI # 370,370,West Indies,England
+West Indies,England,West Indies,England,8 wickets,Port of Spain,1986-03-31,ODI # 376,376,West Indies,England
+England,India,India,England,9 wickets,The Oval,1986-05-24,ODI # 386,386,England,England
+England,India,England,India,5 wickets,Manchester,1986-05-26,ODI # 387,387,England,England
+England,New Zealand,New Zealand,England,47 runs,Leeds,1986-07-16,ODI # 388,388,England,England
+England,New Zealand,England,New Zealand,6 wickets,Manchester,1986-07-18,ODI # 389,389,England,England
+Australia,England,England,Australia,37 runs,Perth,1987-01-01,ODI # 409,409,Australia,England
+England,West Indies,England,West Indies,19 runs,Perth,1987-01-03,ODI # 411,411,Australia,England
+England,Pakistan,England,Pakistan,3 wickets,Perth,1987-01-05,ODI # 413,413,Australia,England
+England,Pakistan,England,Pakistan,5 wickets,Perth,1987-01-07,ODI # 414,414,Australia,England
+England,West Indies,England,West Indies,6 wickets,Brisbane,1987-01-17,ODI # 418,418,Australia,England
+Australia,England,Australia,England,11 runs,Brisbane,1987-01-18,ODI # 420,420,Australia,England
+Australia,England,England,Australia,3 wickets,Sydney,1987-01-22,ODI # 422,422,Australia,England
+England,West Indies,England,West Indies,89 runs,Adelaide,1987-01-24,ODI # 423,423,Australia,England
+Australia,England,Australia,England,33 runs,Adelaide,1987-01-26,ODI # 425,425,Australia,England
+England,West Indies,West Indies,England,6 wickets,Melbourne,1987-01-30,ODI # 428,428,Australia,England
+Australia,England,Australia,England,109 runs,Melbourne,1987-02-01,ODI # 429,429,Australia,England
+England,West Indies,England,West Indies,29 runs,Devonport,1987-02-03,ODI # 430,430,Australia,England
+Australia,England,England,Australia,6 wickets,Melbourne,1987-02-08,ODI # 432,432,Australia,England
+Australia,England,England,Australia,8 runs,Sydney,1987-02-11,ODI # 433,433,Australia,England
+England,India,India,England,3 wickets,Sharjah,1987-04-02,ODI # 442,442,United Arab Emirates,England
+England,Pakistan,England,Pakistan,5 wickets,Sharjah,1987-04-07,ODI # 445,445,United Arab Emirates,England
+Australia,England,England,Australia,11 runs,Sharjah,1987-04-09,ODI # 446,446,United Arab Emirates,England
+England,Pakistan,England,Pakistan,7 wickets,The Oval,1987-05-21,ODI # 448,448,England,England
+England,Pakistan,Pakistan,England,6 wickets,Nottingham,1987-05-23,ODI # 449,449,England,England
+England,Pakistan,England,Pakistan,1 wicket,Birmingham,1987-05-25,ODI # 450,450,England,England
+England,West Indies,England,West Indies,2 wickets,Gujranwala,1987-10-09,ODI # 452,452,Pakistan,England
+Pakistan,England,Pakistan,England,18 runs,Rawalpindi,1987-10-12,ODI # 455,455,Pakistan,England
+England,Sri Lanka,England,Sri Lanka,108 runs,Peshawar,1987-10-17,ODI # 460,460,Pakistan,England
+Pakistan,England,Pakistan,England,7 wickets,Karachi,1987-10-20,ODI # 463,463,Pakistan,England
+England,West Indies,England,West Indies,34 runs,Jaipur,1987-10-26,ODI # 468,468,India,England
+England,Sri Lanka,England,Sri Lanka,8 wickets,Pune,1987-10-30,ODI # 472,472,India,England
+India,England,England,India,35 runs,Wankhede,1987-11-05,ODI # 476,476,India,England
+Australia,England,Australia,England,7 runs,Eden Gardens,1987-11-08,ODI # 477,477,India,England
+Pakistan,England,England,Pakistan,2 wickets,Lahore,1987-11-18,ODI # 478,478,Pakistan,England
+Pakistan,England,England,Pakistan,23 runs,Karachi,1987-11-20,ODI # 479,479,Pakistan,England
+Pakistan,England,England,Pakistan,98 runs,Peshawar,1987-11-22,ODI # 480,480,Pakistan,England
+Australia,England,Australia,England,22 runs,Melbourne,1988-02-04,ODI # 503,503,Australia,England
+New Zealand,England,England,New Zealand,5 wickets,Dunedin,1988-03-09,ODI # 504,504,New Zealand,England
+New Zealand,England,England,New Zealand,6 wickets,Christchurch,1988-03-12,ODI # 505,505,New Zealand,England
+New Zealand,England,New Zealand,England,7 wickets,Napier,1988-03-16,ODI # 508,508,New Zealand,England
+New Zealand,England,New Zealand,England,4 wickets,Auckland,1988-03-19,ODI # 510,510,New Zealand,England
+England,West Indies,England,West Indies,6 wickets,Birmingham,1988-05-19,ODI # 518,518,England,England
+England,West Indies,England,West Indies,47 runs,Leeds,1988-05-21,ODI # 519,519,England,England
+England,West Indies,England,West Indies,7 wickets,Lord's,1988-05-23,ODI # 520,520,England,England
+England,Sri Lanka,England,Sri Lanka,5 wickets,The Oval,1988-09-04,ODI # 521,521,England,England
+England,Australia,England,Australia,95 runs,Manchester,1989-05-25,ODI # 566,566,England,England
+England,Australia,tied,England,,Nottingham,1989-05-27,ODI # 567,567,England,England
+England,Australia,Australia,England,6 wickets,Lord's,1989-05-29,ODI # 568,568,England,England
+England,Sri Lanka,England,Sri Lanka,5 wickets,Delhi,1989-10-15,ODI # 571,571,India,England
+Australia,England,England,Australia,7 wickets,Hyderabad (Deccan),1989-10-19,ODI # 575,575,India,England
+England,Pakistan,England,Pakistan,4 wickets,Cuttack,1989-10-22,ODI # 579,579,India,England
+India,England,India,England,6 wickets,Kanpur,1989-10-25,ODI # 583,583,India,England
+England,West Indies,West Indies,England,26 runs,Gwalior,1989-10-27,ODI # 586,586,India,England
+England,Pakistan,Pakistan,England,6 wickets,Nagpur,1989-10-30,ODI # 590,590,India,England
+West Indies,England,no result,West Indies,,Port of Spain,1990-02-14,ODI # 604,604,West Indies,England
+West Indies,England,no result,West Indies,,Port of Spain,1990-02-17,ODI # 607,607,West Indies,England
+West Indies,England,West Indies,England,3 wickets,Kingston,1990-03-03,ODI # 614,614,West Indies,England
+West Indies,England,West Indies,England,6 wickets,Georgetown,1990-03-07,ODI # 617,617,West Indies,England
+West Indies,England,West Indies,England,7 wickets,Georgetown,1990-03-15,ODI # 621,621,West Indies,England
+West Indies,England,West Indies,England,4 wickets,Bridgetown,1990-04-03,ODI # 622,622,West Indies,England
+England,New Zealand,New Zealand,England,4 wickets,Leeds,1990-05-23,ODI # 632,632,England,England
+England,New Zealand,England,New Zealand,6 wickets,The Oval,1990-05-25,ODI # 633,633,England,England
+England,India,India,England,6 wickets,Leeds,1990-07-18,ODI # 634,634,England,England
+England,India,India,England,5 wickets,Nottingham,1990-07-20,ODI # 635,635,England,England
+England,New Zealand,New Zealand,England,7 runs,Adelaide,1990-12-01,ODI # 643,643,Australia,England
+England,New Zealand,England,New Zealand,4 wickets,Perth,1990-12-07,ODI # 647,647,Australia,England
+Australia,England,Australia,England,6 wickets,Perth,1990-12-09,ODI # 649,649,Australia,England
+England,New Zealand,England,New Zealand,33 runs,Sydney,1990-12-13,ODI # 651,651,Australia,England
+England,New Zealand,New Zealand,England,8 wickets,Brisbane,1990-12-15,ODI # 652,652,Australia,England
+Australia,England,Australia,England,37 runs,Brisbane,1990-12-16,ODI # 653,653,Australia,England
+Australia,England,Australia,England,68 runs,Sydney,1991-01-01,ODI # 660,660,Australia,England
+Australia,England,Australia,England,3 runs,Melbourne,1991-01-10,ODI # 662,662,Australia,England
+New Zealand,England,England,New Zealand,14 runs,Christchurch,1991-02-09,ODI # 668,668,New Zealand,England
+New Zealand,England,New Zealand,England,9 runs,Wellington,1991-02-13,ODI # 669,669,New Zealand,England
+New Zealand,England,New Zealand,England,7 runs,Auckland,1991-02-16,ODI # 670,670,New Zealand,England
+England,West Indies,England,West Indies,1 wicket,Birmingham,1991-05-23,ODI # 676,676,England,England
+England,West Indies,England,West Indies,9 runs,Manchester,1991-05-25,ODI # 677,677,England,England
+England,West Indies,England,West Indies,7 wickets,Lord's,1991-05-27,ODI # 678,678,England,England
+New Zealand,England,England,New Zealand,7 wickets,Auckland,1992-01-11,ODI # 701,701,New Zealand,England
+New Zealand,England,England,New Zealand,3 wickets,Dunedin,1992-02-12,ODI # 712,712,New Zealand,England
+New Zealand,England,England,New Zealand,71 runs,Christchurch,1992-02-15,ODI # 713,713,New Zealand,England
+England,India,England,India,9 runs,Perth,1992-02-22,ODI # 715,715,Australia,England
+England,West Indies,England,West Indies,6 wickets,Melbourne,1992-02-27,ODI # 721,721,Australia,England
+England,Pakistan,no result,England,,Adelaide,1992-03-01,ODI # 726,726,Australia,England
+Australia,England,England,Australia,8 wickets,Sydney,1992-03-05,ODI # 731,731,Australia,England
+England,Sri Lanka,England,Sri Lanka,106 runs,Ballarat,1992-03-09,ODI # 736,736,Australia,England
+England,South Africa,England,South Africa,3 wickets,Melbourne,1992-03-12,ODI # 741,741,Australia,England
+New Zealand,England,New Zealand,England,7 wickets,Wellington,1992-03-15,ODI # 744,744,New Zealand,England
+England,Zimbabwe,Zimbabwe,England,9 runs,Albury,1992-03-18,ODI # 748,748,Australia,England
+England,South Africa,England,South Africa,19 runs,Sydney,1992-03-22,ODI # 751,751,Australia,England
+England,Pakistan,Pakistan,England,22 runs,Melbourne,1992-03-25,ODI # 752,752,Australia,England
+England,Pakistan,England,Pakistan,79 runs,Lord's,1992-05-20,ODI # 756,756,England,England
+England,Pakistan,England,Pakistan,39 runs,The Oval,1992-05-22,ODI # 757,757,England,England
+England,Pakistan,England,Pakistan,198 runs,Nottingham,1992-08-20,ODI # 759,759,England,England
+England,Pakistan,Pakistan,England,3 runs,Lord's,1992-08-22,ODI # 760,760,England,England
+England,Pakistan,England,Pakistan,6 wickets,Manchester,1992-08-24,ODI # 761,761,England,England
+India,England,England,India,4 wickets,Jaipur,1993-01-18,ODI # 794,794,India,England
+India,England,India,England,5 wickets,Chandigarh,1993-01-21,ODI # 795,795,India,England
+India,England,England,India,48 runs,Bengaluru,1993-02-26,ODI # 809,809,India,England
+India,England,England,India,6 wickets,Jamshedpur,1993-03-01,ODI # 811,811,India,England
+India,England,India,England,3 wickets,Gwalior,1993-03-04,ODI # 813,813,India,England
+India,England,India,England,4 wickets,Gwalior,1993-03-05,ODI # 814,814,India,England
+Sri Lanka,England,Sri Lanka,England,32 runs,Colombo (RPS),1993-03-10,ODI # 815,815,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,8 wickets,Moratuwa,1993-03-20,ODI # 818,818,Sri Lanka,England
+England,Australia,Australia,England,4 runs,Manchester,1993-05-19,ODI # 830,830,England,England
+England,Australia,Australia,England,6 wickets,Birmingham,1993-05-21,ODI # 831,831,England,England
+England,Australia,Australia,England,19 runs,Lord's,1993-05-23,ODI # 832,832,England,England
+West Indies,England,England,West Indies,61 runs,Bridgetown,1994-02-16,ODI # 880,880,West Indies,England
+West Indies,England,West Indies,England,3 wickets,Kingston,1994-02-26,ODI # 887,887,West Indies,England
+West Indies,England,West Indies,England,165 runs,Kingstown,1994-03-02,ODI # 888,888,West Indies,England
+West Indies,England,West Indies,England,15 runs,Port of Spain,1994-03-05,ODI # 890,890,West Indies,England
+West Indies,England,England,West Indies,5 wickets,Port of Spain,1994-03-06,ODI # 892,892,West Indies,England
+England,New Zealand,England,New Zealand,42 runs,Birmingham,1994-05-19,ODI # 913,913,England,England
+England,South Africa,England,South Africa,6 wickets,Birmingham,1994-08-25,ODI # 919,919,England,England
+England,South Africa,England,South Africa,4 wickets,Manchester,1994-08-27,ODI # 920,920,England,England
+Australia,England,Australia,England,28 runs,Sydney,1994-12-06,ODI # 955,955,Australia,England
+England,Zimbabwe,Zimbabwe,England,13 runs,Sydney,1994-12-15,ODI # 962,962,Australia,England
+England,Zimbabwe,England,Zimbabwe,26 runs,Brisbane,1995-01-07,ODI # 968,968,Australia,England
+Australia,England,England,Australia,37 runs,Melbourne,1995-01-10,ODI # 969,969,Australia,England
+England,West Indies,West Indies,England,5 wickets,Nottingham,1995-05-24,ODI # 1000,1000,England,England
+England,West Indies,England,West Indies,25 runs,The Oval,1995-05-26,ODI # 1001,1001,England,England
+England,West Indies,England,West Indies,73 runs,Lord's,1995-05-28,ODI # 1002,1002,England,England
+South Africa,England,South Africa,England,6 runs,Cape Town,1996-01-09,ODI # 1033,1033,South Africa,England
+South Africa,England,England,South Africa,5 wickets,Bloemfontein,1996-01-11,ODI # 1034,1034,South Africa,England
+South Africa,England,South Africa,England,3 wickets,Johannesburg,1996-01-13,ODI # 1036,1036,South Africa,England
+South Africa,England,South Africa,England,7 wickets,Centurion,1996-01-14,ODI # 1038,1038,South Africa,England
+South Africa,England,South Africa,England,5 wickets,Durban,1996-01-17,ODI # 1040,1040,South Africa,England
+South Africa,England,South Africa,England,14 runs,East London,1996-01-19,ODI # 1042,1042,South Africa,England
+South Africa,England,South Africa,England,64 runs,Gqeberha,1996-01-21,ODI # 1044,1044,South Africa,England
+England,New Zealand,New Zealand,England,11 runs,Ahmedabad,1996-02-14,ODI # 1048,1048,India,England
+England,U.A.E.,England,U.A.E.,8 wickets,Peshawar,1996-02-18,ODI # 1053,1053,Pakistan,England
+England,Netherlands,England,Netherlands,49 runs,Peshawar,1996-02-22,ODI # 1057,1057,Pakistan,England
+England,South Africa,South Africa,England,78 runs,Rawalpindi,1996-02-25,ODI # 1060,1060,Pakistan,England
+Pakistan,England,Pakistan,England,7 wickets,Karachi,1996-03-03,ODI # 1071,1071,Pakistan,England
+England,Sri Lanka,Sri Lanka,England,5 wickets,Faisalabad,1996-03-09,ODI # 1077,1077,Pakistan,England
+England,India,no result,England,,The Oval,1996-05-23,ODI # 1102,1102,England,England
+England,India,England,India,6 wickets,Leeds,1996-05-25,ODI # 1103,1103,England,England
+England,India,England,India,4 wickets,Manchester,1996-05-26,ODI # 1104,1104,England,England
+England,Pakistan,England,Pakistan,5 wickets,Manchester,1996-08-29,ODI # 1107,1107,England,England
+England,Pakistan,England,Pakistan,107 runs,Birmingham,1996-08-31,ODI # 1109,1109,England,England
+England,Pakistan,Pakistan,England,2 wickets,Nottingham,1996-09-01,ODI # 1111,1111,England,England
+Zimbabwe,England,Zimbabwe,England,2 wickets,Bulawayo,1996-12-15,ODI # 1153,1153,Zimbabwe,England
+Zimbabwe,England,Zimbabwe,England,7 runs,Harare,1997-01-01,ODI # 1156,1156,Zimbabwe,England
+Zimbabwe,England,Zimbabwe,England,131 runs,Harare,1997-01-03,ODI # 1158,1158,Zimbabwe,England
+New Zealand,England,England,New Zealand,4 wickets,Christchurch,1997-02-20,ODI # 1179,1179,New Zealand,England
+New Zealand,England,England,New Zealand,6 wickets,Auckland,1997-02-23,ODI # 1180,1180,New Zealand,England
+New Zealand,England,tied,New Zealand,,Napier,1997-02-26,ODI # 1181,1181,New Zealand,England
+New Zealand,England,New Zealand,England,9 runs,Auckland,1997-03-02,ODI # 1182,1182,New Zealand,England
+New Zealand,England,New Zealand,England,28 runs,Wellington,1997-03-04,ODI # 1183,1183,New Zealand,England
+England,Australia,England,Australia,6 wickets,Leeds,1997-05-22,ODI # 1210,1210,England,England
+England,Australia,England,Australia,6 wickets,The Oval,1997-05-24,ODI # 1211,1211,England,England
+England,Australia,England,Australia,6 wickets,Lord's,1997-05-25,ODI # 1213,1213,England,England
+England,India,England,India,7 runs,Sharjah,1997-12-11,ODI # 1259,1259,United Arab Emirates,England
+England,West Indies,England,West Indies,4 wickets,Sharjah,1997-12-13,ODI # 1261,1261,United Arab Emirates,England
+England,Pakistan,England,Pakistan,8 runs,Sharjah,1997-12-15,ODI # 1263,1263,United Arab Emirates,England
+England,West Indies,England,West Indies,3 wickets,Sharjah,1997-12-19,ODI # 1266,1266,United Arab Emirates,England
+West Indies,England,England,West Indies,16 runs,Bridgetown,1998-03-29,ODI # 1299,1299,West Indies,England
+West Indies,England,West Indies,England,1 wicket,Bridgetown,1998-04-01,ODI # 1301,1301,West Indies,England
+West Indies,England,West Indies,England,5 wickets,Kingstown,1998-04-04,ODI # 1304,1304,West Indies,England
+West Indies,England,West Indies,England,4 wickets,Kingstown,1998-04-05,ODI # 1307,1307,West Indies,England
+West Indies,England,West Indies,England,57 runs,Port of Spain,1998-04-08,ODI # 1310,1310,West Indies,England
+England,South Africa,South Africa,England,3 wickets,The Oval,1998-05-21,ODI # 1331,1331,England,England
+England,South Africa,South Africa,England,32 runs,Manchester,1998-05-23,ODI # 1332,1332,England,England
+England,South Africa,England,South Africa,7 wickets,Leeds,1998-05-24,ODI # 1334,1334,England,England
+England,Sri Lanka,England,Sri Lanka,36 runs,Lord's,1998-08-16,ODI # 1346,1346,England,England
+England,South Africa,South Africa,England,14 runs,Birmingham,1998-08-18,ODI # 1347,1347,England,England
+England,Sri Lanka,Sri Lanka,England,5 wickets,Lord's,1998-08-20,ODI # 1348,1348,England,England
+England,South Africa,South Africa,England,6 wickets,Dhaka,1998-10-25,ODI # 1358,1358,Bangladesh,England
+Australia,England,England,Australia,7 runs,Brisbane,1999-01-10,ODI # 1379,1379,Australia,England
+England,Sri Lanka,England,Sri Lanka,4 wickets,Brisbane,1999-01-11,ODI # 1380,1380,Australia,England
+Australia,England,Australia,England,9 wickets,Melbourne,1999-01-15,ODI # 1384,1384,Australia,England
+Australia,England,England,Australia,7 runs,Sydney,1999-01-17,ODI # 1386,1386,Australia,England
+England,Sri Lanka,England,Sri Lanka,7 wickets,Melbourne,1999-01-19,ODI # 1388,1388,Australia,England
+England,Sri Lanka,Sri Lanka,England,1 wicket,Adelaide,1999-01-23,ODI # 1391,1391,Australia,England
+Australia,England,Australia,England,16 runs,Adelaide,1999-01-26,ODI # 1394,1394,Australia,England
+England,Sri Lanka,England,Sri Lanka,128 runs,Perth,1999-01-29,ODI # 1396,1396,Australia,England
+England,Sri Lanka,Sri Lanka,England,11 runs,Sydney,1999-02-03,ODI # 1400,1400,Australia,England
+Australia,England,Australia,England,4 wickets,Sydney,1999-02-05,ODI # 1401,1401,Australia,England
+Australia,England,Australia,England,10 runs,Sydney,1999-02-10,ODI # 1405,1405,Australia,England
+Australia,England,Australia,England,162 runs,Melbourne,1999-02-13,ODI # 1406,1406,Australia,England
+England,Pakistan,Pakistan,England,90 runs,Sharjah,1999-04-07,ODI # 1429,1429,United Arab Emirates,England
+England,India,India,England,20 runs,Sharjah,1999-04-09,ODI # 1431,1431,United Arab Emirates,England
+England,India,India,England,9 runs,Sharjah,1999-04-11,ODI # 1432,1432,United Arab Emirates,England
+England,Pakistan,England,Pakistan,62 runs,Sharjah,1999-04-12,ODI # 1434,1434,United Arab Emirates,England
+England,Sri Lanka,England,Sri Lanka,8 wickets,Lord's,1999-05-14,ODI # 1443,1443,England,England
+England,Kenya,England,Kenya,9 wickets,Canterbury,1999-05-18,ODI # 1449,1449,England,England
+England,South Africa,South Africa,England,122 runs,The Oval,1999-05-22,ODI # 1455,1455,England,England
+England,Zimbabwe,England,Zimbabwe,7 wickets,Nottingham,1999-05-25,ODI # 1461,1461,England,England
+England,India,India,England,63 runs,Birmingham,1999-05-29,ODI # 1467,1467,England,England
+South Africa,England,England,South Africa,9 wickets,Bloemfontein,2000-01-23,ODI # 1546,1546,South Africa,England
+South Africa,England,South Africa,England,1 run,Cape Town,2000-01-26,ODI # 1549,1549,South Africa,England
+England,Zimbabwe,Zimbabwe,England,104 runs,Cape Town,2000-01-28,ODI # 1551,1551,South Africa,England
+England,Zimbabwe,England,Zimbabwe,8 wickets,Kimberley,2000-01-30,ODI # 1553,1553,South Africa,England
+South Africa,England,South Africa,England,2 wickets,East London,2000-02-04,ODI # 1557,1557,South Africa,England
+South Africa,England,South Africa,England,38 runs,Johannesburg,2000-02-13,ODI # 1560,1560,South Africa,England
+Zimbabwe,England,England,Zimbabwe,5 wickets,Bulawayo,2000-02-16,ODI # 1562,1562,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,1 wicket,Bulawayo,2000-02-18,ODI # 1564,1564,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,85 runs,Harare,2000-02-20,ODI # 1567,1567,Zimbabwe,England
+England,Zimbabwe,Zimbabwe,England,5 wickets,The Oval,2000-07-08,ODI # 1607,1607,England,England
+England,West Indies,no result,England,,Lord's,2000-07-09,ODI # 1609,1609,England,England
+England,Zimbabwe,England,Zimbabwe,8 wickets,Manchester,2000-07-13,ODI # 1613,1613,England,England
+England,West Indies,England,West Indies,10 wickets,Chester-le-Street,2000-07-15,ODI # 1615,1615,England,England
+England,Zimbabwe,England,Zimbabwe,52 runs,Birmingham,2000-07-18,ODI # 1617,1617,England,England
+England,West Indies,West Indies,England,3 runs,Nottingham,2000-07-20,ODI # 1618,1618,England,England
+England,Zimbabwe,England,Zimbabwe,6 wickets,Lord's,2000-07-22,ODI # 1619,1619,England,England
+Bangladesh,England,England,Bangladesh,8 wickets,Nairobi (Gym),2000-10-05,ODI # 1632,1632,Kenya,England
+England,South Africa,South Africa,England,8 wickets,Nairobi (Gym),2000-10-10,ODI # 1636,1636,Kenya,England
+Pakistan,England,England,Pakistan,5 wickets,Karachi,2000-10-24,ODI # 1645,1645,Pakistan,England
+Pakistan,England,Pakistan,England,8 wickets,Lahore,2000-10-27,ODI # 1649,1649,Pakistan,England
+Pakistan,England,Pakistan,England,6 wickets,Rawalpindi,2000-10-30,ODI # 1653,1653,Pakistan,England
+Sri Lanka,England,Sri Lanka,England,5 wickets,Dambulla,2001-03-23,ODI # 1694,1694,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,66 runs,Colombo (RPS),2001-03-25,ODI # 1695,1695,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,10 wickets,Colombo (SSC),2001-03-27,ODI # 1697,1697,Sri Lanka,England
+England,Pakistan,Pakistan,England,108 runs,Birmingham,2001-06-07,ODI # 1719,1719,England,England
+England,Australia,Australia,England,5 wickets,Bristol,2001-06-10,ODI # 1721,1721,England,England
+England,Pakistan,Pakistan,England,2 runs,Lord's,2001-06-12,ODI # 1722,1722,England,England
+England,Australia,Australia,England,125 runs,Manchester,2001-06-14,ODI # 1723,1723,England,England
+England,Pakistan,Pakistan,England,,Leeds,2001-06-17,ODI # 1724,1724,England,England
+England,Australia,Australia,England,8 wickets,The Oval,2001-06-21,ODI # 1726,1726,England,England
+Zimbabwe,England,England,Zimbabwe,5 wickets,Harare,2001-10-03,ODI # 1751,1751,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,8 wickets,Harare,2001-10-06,ODI # 1753,1753,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,4 wickets,Harare,2001-10-07,ODI # 1754,1754,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,70 runs,Bulawayo,2001-10-10,ODI # 1756,1756,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,7 wickets,Bulawayo,2001-10-13,ODI # 1759,1759,Zimbabwe,England
+India,England,India,England,22 runs,Eden Gardens,2002-01-19,ODI # 1788,1788,India,England
+India,England,England,India,16 runs,Cuttack,2002-01-22,ODI # 1792,1792,India,England
+India,England,India,England,4 wickets,Chennai,2002-01-25,ODI # 1795,1795,India,England
+India,England,India,England,8 wickets,Kanpur,2002-01-28,ODI # 1798,1798,India,England
+India,England,England,India,2 runs,Delhi,2002-01-31,ODI # 1800,1800,India,England
+India,England,England,India,5 runs,Wankhede,2002-02-03,ODI # 1803,1803,India,England
+New Zealand,England,New Zealand,England,4 wickets,Christchurch,2002-02-13,ODI # 1806,1806,New Zealand,England
+New Zealand,England,New Zealand,England,155 runs,Wellington,2002-02-16,ODI # 1809,1809,New Zealand,England
+New Zealand,England,England,New Zealand,43 runs,Napier,2002-02-20,ODI # 1811,1811,New Zealand,England
+New Zealand,England,England,New Zealand,33 runs,Auckland,2002-02-23,ODI # 1812,1812,New Zealand,England
+New Zealand,England,New Zealand,England,5 wickets,Dunedin,2002-02-26,ODI # 1813,1813,New Zealand,England
+England,Sri Lanka,England,Sri Lanka,44 runs,Nottingham,2002-06-27,ODI # 1847,1847,England,England
+England,India,India,England,6 wickets,Lord's,2002-06-29,ODI # 1848,1848,England,England
+England,Sri Lanka,England,Sri Lanka,3 wickets,Leeds,2002-07-02,ODI # 1850,1850,England,England
+England,India,no result,England,,Chester-le-Street,2002-07-04,ODI # 1851,1851,England,England
+England,Sri Lanka,Sri Lanka,England,23 runs,Manchester,2002-07-07,ODI # 1853,1853,England,England
+England,India,England,India,64 runs,The Oval,2002-07-09,ODI # 1854,1854,England,England
+England,India,India,England,2 wickets,Lord's,2002-07-13,ODI # 1856,1856,England,England
+England,Zimbabwe,England,Zimbabwe,108 runs,Colombo (RPS),2002-09-18,ODI # 1880,1880,Sri Lanka,England
+England,India,India,England,8 wickets,Colombo (RPS),2002-09-22,ODI # 1884,1884,Sri Lanka,England
+Australia,England,Australia,England,7 wickets,Sydney,2002-12-13,ODI # 1917,1917,Australia,England
+Australia,England,Australia,England,89 runs,Melbourne,2002-12-15,ODI # 1919,1919,Australia,England
+England,Sri Lanka,England,Sri Lanka,43 runs,Brisbane,2002-12-17,ODI # 1922,1922,Australia,England
+England,Sri Lanka,England,Sri Lanka,95 runs,Perth,2002-12-20,ODI # 1924,1924,Australia,England
+Australia,England,Australia,England,7 runs,Hobart,2003-01-11,ODI # 1932,1932,Australia,England
+England,Sri Lanka,Sri Lanka,England,31 runs,Sydney,2003-01-13,ODI # 1934,1934,Australia,England
+England,Sri Lanka,England,Sri Lanka,19 runs,Adelaide,2003-01-17,ODI # 1937,1937,Australia,England
+Australia,England,Australia,England,4 wickets,Adelaide,2003-01-19,ODI # 1938,1938,Australia,England
+Australia,England,Australia,England,10 wickets,Sydney,2003-01-23,ODI # 1940,1940,Australia,England
+Australia,England,Australia,England,5 runs,Melbourne,2003-01-25,ODI # 1941,1941,Australia,England
+England,Netherlands,England,Netherlands,6 wickets,East London,2003-02-16,ODI # 1953,1953,South Africa,England
+England,Namibia,England,Namibia,55 runs,Gqeberha,2003-02-19,ODI # 1959,1959,South Africa,England
+England,Pakistan,England,Pakistan,112 runs,Cape Town,2003-02-22,ODI # 1962,1962,South Africa,England
+England,India,India,England,82 runs,Durban,2003-02-26,ODI # 1969,1969,South Africa,England
+Australia,England,Australia,England,2 wickets,Gqeberha,2003-03-02,ODI # 1976,1976,South Africa,England
+England,Pakistan,Pakistan,England,2 wickets,Manchester,2003-06-17,ODI # 2025,2025,England,England
+England,Pakistan,England,Pakistan,7 wickets,The Oval,2003-06-20,ODI # 2026,2026,England,England
+England,Pakistan,England,Pakistan,4 wickets,Lord's,2003-06-22,ODI # 2027,2027,England,England
+England,Zimbabwe,Zimbabwe,England,4 wickets,Nottingham,2003-06-26,ODI # 2028,2028,England,England
+England,South Africa,England,South Africa,6 wickets,The Oval,2003-06-28,ODI # 2029,2029,England,England
+England,Zimbabwe,no result,England,,Leeds,2003-07-01,ODI # 2031,2031,England,England
+England,South Africa,South Africa,England,7 wickets,Manchester,2003-07-03,ODI # 2032,2032,England,England
+England,Zimbabwe,England,Zimbabwe,6 wickets,Bristol,2003-07-06,ODI # 2034,2034,England,England
+England,South Africa,England,South Africa,4 wickets,Birmingham,2003-07-08,ODI # 2035,2035,England,England
+England,South Africa,England,South Africa,7 wickets,Lord's,2003-07-12,ODI # 2037,2037,England,England
+Bangladesh,England,England,Bangladesh,7 wickets,Chattogram,2003-11-07,ODI # 2057,2057,Bangladesh,England
+Bangladesh,England,England,Bangladesh,7 wickets,Dhaka,2003-11-10,ODI # 2059,2059,Bangladesh,England
+Bangladesh,England,England,Bangladesh,7 wickets,Dhaka,2003-11-12,ODI # 2060,2060,Bangladesh,England
+Sri Lanka,England,Sri Lanka,England,10 wickets,Dambulla,2003-11-18,ODI # 2063,2063,Sri Lanka,England
+West Indies,England,England,West Indies,2 wickets,Georgetown,2004-04-18,ODI # 2118,2118,West Indies,England
+West Indies,England,no result,West Indies,,Port of Spain,2004-04-24,ODI # 2121,2121,West Indies,England
+West Indies,England,West Indies,England,5 wickets,Gros Islet,2004-05-01,ODI # 2125,2125,West Indies,England
+West Indies,England,West Indies,England,4 wickets,Gros Islet,2004-05-02,ODI # 2126,2126,West Indies,England
+West Indies,England,England,West Indies,5 wickets,Bridgetown,2004-05-05,ODI # 2127,2127,West Indies,England
+England,West Indies,West Indies,England,7 wickets,Nottingham,2004-06-27,ODI # 2135,2135,England,England
+England,New Zealand,New Zealand,England,7 wickets,Chester-le-Street,2004-06-29,ODI # 2136,2136,England,England
+England,West Indies,England,West Indies,7 wickets,Leeds,2004-07-01,ODI # 2137,2137,England,England
+England,New Zealand,New Zealand,England,6 wickets,Bristol,2004-07-04,ODI # 2139,2139,England,England
+England,West Indies,West Indies,England,7 wickets,Lord's,2004-07-06,ODI # 2140,2140,England,England
+England,India,England,India,7 wickets,Nottingham,2004-09-01,ODI # 2164,2164,England,England
+England,India,England,India,70 runs,The Oval,2004-09-03,ODI # 2165,2165,England,England
+England,India,India,England,23 runs,Lord's,2004-09-05,ODI # 2167,2167,England,England
+England,Zimbabwe,England,Zimbabwe,152 runs,Birmingham,2004-09-10,ODI # 2168,2168,England,England
+England,Sri Lanka,England,Sri Lanka,49 runs,Southampton,2004-09-17,ODI # 2177,2177,England,England
+England,Australia,England,Australia,6 wickets,Birmingham,2004-09-21,ODI # 2180,2180,England,England
+England,West Indies,West Indies,England,2 wickets,The Oval,2004-09-25,ODI # 2182,2182,England,England
+Zimbabwe,England,England,Zimbabwe,5 wickets,Harare,2004-11-28,ODI # 2193,2193,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,161 runs,Harare,2004-12-01,ODI # 2194,2194,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,8 wickets,Bulawayo,2004-12-04,ODI # 2195,2195,Zimbabwe,England
+Zimbabwe,England,England,Zimbabwe,74 runs,Bulawayo,2004-12-05,ODI # 2197,2197,Zimbabwe,England
+South Africa,England,England,South Africa,26 runs,Johannesburg,2005-01-30,ODI # 2216,2216,South Africa,England
+South Africa,England,tied,South Africa,,Bloemfontein,2005-02-02,ODI # 2219,2219,South Africa,England
+South Africa,England,South Africa,England,3 wickets,Gqeberha,2005-02-04,ODI # 2221,2221,South Africa,England
+South Africa,England,South Africa,England,108 runs,Cape Town,2005-02-06,ODI # 2223,2223,South Africa,England
+South Africa,England,South Africa,England,7 runs,East London,2005-02-09,ODI # 2224,2224,South Africa,England
+South Africa,England,no result,South Africa,,Durban,2005-02-11,ODI # 2225,2225,South Africa,England
+South Africa,England,South Africa,England,3 wickets,Centurion,2005-02-13,ODI # 2226,2226,South Africa,England
+England,Bangladesh,England,Bangladesh,10 wickets,The Oval,2005-06-16,ODI # 2249,2249,England,England
+England,Australia,England,Australia,3 wickets,Bristol,2005-06-19,ODI # 2251,2251,England,England
+England,Bangladesh,England,Bangladesh,168 runs,Nottingham,2005-06-21,ODI # 2252,2252,England,England
+England,Australia,Australia,England,57 runs,Chester-le-Street,2005-06-23,ODI # 2253,2253,England,England
+England,Bangladesh,England,Bangladesh,5 wickets,Leeds,2005-06-26,ODI # 2255,2255,England,England
+England,Australia,no result,England,,Birmingham,2005-06-28,ODI # 2256,2256,England,England
+England,Australia,tied,England,,Lord's,2005-07-02,ODI # 2258,2258,England,England
+England,Australia,England,Australia,9 wickets,Leeds,2005-07-07,ODI # 2259,2259,England,England
+England,Australia,Australia,England,7 wickets,Lord's,2005-07-10,ODI # 2260,2260,England,England
+England,Australia,Australia,England,8 wickets,The Oval,2005-07-12,ODI # 2261,2261,England,England
+Pakistan,England,England,Pakistan,42 runs,Lahore,2005-12-10,ODI # 2304,2304,Pakistan,England
+Pakistan,England,Pakistan,England,7 wickets,Lahore,2005-12-12,ODI # 2305,2305,Pakistan,England
+Pakistan,England,Pakistan,England,165 runs,Karachi,2005-12-15,ODI # 2306,2306,Pakistan,England
+Pakistan,England,Pakistan,England,13 runs,Rawalpindi,2005-12-19,ODI # 2307,2307,Pakistan,England
+Pakistan,England,England,Pakistan,6 runs,Rawalpindi,2005-12-21,ODI # 2308,2308,Pakistan,England
+India,England,India,England,39 runs,Delhi,2006-03-28,ODI # 2357,2357,India,England
+India,England,India,England,4 wickets,Faridabad,2006-03-31,ODI # 2358,2358,India,England
+India,England,India,England,49 runs,Margao,2006-04-03,ODI # 2359,2359,India,England
+India,England,India,England,4 wickets,Kochi,2006-04-06,ODI # 2360,2360,India,England
+India,England,England,India,5 wickets,Jamshedpur,2006-04-12,ODI # 2361,2361,India,England
+India,England,India,England,7 wickets,Indore,2006-04-15,ODI # 2362,2362,India,England
+Ireland,England,England,Ireland,38 runs,Belfast,2006-06-13,ODI # 2383,2383,Northern Ireland,England
+England,Sri Lanka,Sri Lanka,England,20 runs,Lord's,2006-06-17,ODI # 2384,2384,England,England
+England,Sri Lanka,Sri Lanka,England,46 runs,The Oval,2006-06-20,ODI # 2385,2385,England,England
+England,Sri Lanka,Sri Lanka,England,8 wickets,Chester-le-Street,2006-06-24,ODI # 2386,2386,England,England
+England,Sri Lanka,Sri Lanka,England,33 runs,Manchester,2006-06-28,ODI # 2388,2388,England,England
+England,Sri Lanka,Sri Lanka,England,8 wickets,Leeds,2006-07-01,ODI # 2389,2389,England,England
+England,Pakistan,no result,England,,Cardiff,2006-08-30,ODI # 2408,2408,Wales,England
+England,Pakistan,Pakistan,England,7 wickets,Lord's,2006-09-02,ODI # 2409,2409,England,England
+England,Pakistan,Pakistan,England,2 wickets,Southampton,2006-09-05,ODI # 2410,2410,England,England
+England,Pakistan,England,Pakistan,8 wickets,Nottingham,2006-09-08,ODI # 2411,2411,England,England
+England,Pakistan,England,Pakistan,3 wickets,Birmingham,2006-09-10,ODI # 2412,2412,England,England
+India,England,India,England,4 wickets,Jaipur,2006-10-15,ODI # 2429,2429,India,England
+Australia,England,Australia,England,6 wickets,Jaipur,2006-10-21,ODI # 2434,2434,India,England
+England,West Indies,England,West Indies,3 wickets,Ahmedabad,2006-10-28,ODI # 2439,2439,India,England
+Australia,England,Australia,England,8 wickets,Melbourne,2007-01-12,ODI # 2473,2473,Australia,England
+England,New Zealand,England,New Zealand,3 wickets,Hobart,2007-01-16,ODI # 2475,2475,Australia,England
+Australia,England,Australia,England,4 wickets,Brisbane,2007-01-19,ODI # 2478,2478,Australia,England
+England,New Zealand,New Zealand,England,90 runs,Adelaide,2007-01-23,ODI # 2482,2482,Australia,England
+Australia,England,Australia,England,9 wickets,Adelaide,2007-01-26,ODI # 2486,2486,Australia,England
+England,New Zealand,New Zealand,England,58 runs,Perth,2007-01-30,ODI # 2490,2490,Australia,England
+Australia,England,England,Australia,92 runs,Sydney,2007-02-02,ODI # 2497,2497,Australia,England
+England,New Zealand,England,New Zealand,14 runs,Brisbane,2007-02-06,ODI # 2510,2510,Australia,England
+Australia,England,England,Australia,4 wickets,Melbourne,2007-02-09,ODI # 2515,2515,Australia,England
+Australia,England,England,Australia,34 runs,Sydney,2007-02-11,ODI # 2519,2519,Australia,England
+England,New Zealand,New Zealand,England,6 wickets,Gros Islet,2007-03-16,ODI # 2536,2536,West Indies,England
+Canada,England,England,Canada,51 runs,Gros Islet,2007-03-18,ODI # 2541,2541,West Indies,England
+England,Kenya,England,Kenya,7 wickets,Gros Islet,2007-03-24,ODI # 2553,2553,West Indies,England
+England,Ireland,England,Ireland,48 runs,Providence,2007-03-30,ODI # 2558,2558,West Indies,England
+England,Sri Lanka,Sri Lanka,England,2 runs,North Sound,2007-04-04,ODI # 2563,2563,West Indies,England
+Australia,England,Australia,England,7 wickets,North Sound,2007-04-08,ODI # 2565,2565,West Indies,England
+Bangladesh,England,England,Bangladesh,4 wickets,Bridgetown,2007-04-11,ODI # 2568,2568,West Indies,England
+England,South Africa,South Africa,England,9 wickets,Bridgetown,2007-04-17,ODI # 2574,2574,West Indies,England
+West Indies,England,England,West Indies,1 wicket,Bridgetown,2007-04-21,ODI # 2578,2578,West Indies,England
+England,West Indies,England,West Indies,79 runs,Lord's,2007-07-01,ODI # 2594,2594,England,England
+England,West Indies,West Indies,England,61 runs,Birmingham,2007-07-04,ODI # 2597,2597,England,England
+England,West Indies,West Indies,England,93 runs,Nottingham,2007-07-07,ODI # 2598,2598,England,England
+England,India,England,India,104 runs,Southampton,2007-08-21,ODI # 2611,2611,England,England
+England,India,India,England,9 runs,Bristol,2007-08-24,ODI # 2613,2613,England,England
+England,India,England,India,42 runs,Birmingham,2007-08-27,ODI # 2616,2616,England,England
+England,India,England,India,3 wickets,Manchester,2007-08-30,ODI # 2617,2617,England,England
+England,India,India,England,38 runs,Leeds,2007-09-02,ODI # 2618,2618,England,England
+England,India,India,England,2 wickets,The Oval,2007-09-05,ODI # 2619,2619,England,England
+England,India,England,India,7 wickets,Lord's,2007-09-08,ODI # 2620,2620,England,England
+Sri Lanka,England,Sri Lanka,England,119 runs,Dambulla,2007-10-01,ODI # 2622,2622,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,65 runs,Dambulla,2007-10-04,ODI # 2624,2624,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,2 wickets,Dambulla,2007-10-07,ODI # 2626,2626,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,5 wickets,Colombo (RPS),2007-10-10,ODI # 2628,2628,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,107 runs,Colombo (RPS),2007-10-13,ODI # 2630,2630,Sri Lanka,England
+New Zealand,England,New Zealand,England,6 wickets,Wellington,2008-02-09,ODI # 2674,2674,New Zealand,England
+New Zealand,England,New Zealand,England,10 wickets,Hamilton,2008-02-12,ODI # 2677,2677,New Zealand,England
+New Zealand,England,England,New Zealand,6 wickets,Auckland,2008-02-15,ODI # 2678,2678,New Zealand,England
+New Zealand,England,tied,New Zealand,,Napier,2008-02-20,ODI # 2682,2682,New Zealand,England
+New Zealand,England,New Zealand,England,34 runs,Christchurch,2008-02-23,ODI # 2684,2684,New Zealand,England
+England,New Zealand,England,New Zealand,114 runs,Chester-le-Street,2008-06-15,ODI # 2708,2708,England,England
+England,New Zealand,no result,England,,Birmingham,2008-06-18,ODI # 2709,2709,England,England
+England,New Zealand,New Zealand,England,22 runs,Bristol,2008-06-21,ODI # 2710,2710,England,England
+England,New Zealand,New Zealand,England,1 wicket,The Oval,2008-06-25,ODI # 2714,2714,England,England
+England,New Zealand,New Zealand,England,51 runs,Lord's,2008-06-28,ODI # 2720,2720,England,England
+Scotland,England,no result,Scotland,,Edinburgh,2008-08-18,ODI # 2743,2743,Scotland,England
+England,South Africa,England,South Africa,20 runs,Leeds,2008-08-22,ODI # 2748,2748,England,England
+England,South Africa,England,South Africa,10 wickets,Nottingham,2008-08-26,ODI # 2754,2754,England,England
+England,South Africa,England,South Africa,126 runs,The Oval,2008-08-29,ODI # 2757,2757,England,England
+England,South Africa,England,South Africa,7 wickets,Lord's,2008-08-31,ODI # 2759,2759,England,England
+England,South Africa,no result,England,,Cardiff,2008-09-03,ODI # 2761,2761,Wales,England
+India,England,India,England,158 runs,Rajkot,2008-11-14,ODI # 2774,2774,India,England
+India,England,India,England,54 runs,Indore,2008-11-17,ODI # 2777,2777,India,England
+India,England,India,England,16 runs,Kanpur,2008-11-20,ODI # 2778,2778,India,England
+India,England,India,England,19 runs,Bengaluru,2008-11-23,ODI # 2781,2781,India,England
+India,England,India,England,6 wickets,Cuttack,2008-11-26,ODI # 2783,2783,India,England
+West Indies,England,England,West Indies,1 run,Providence,2009-03-20,ODI # 2826,2826,West Indies,England
+West Indies,England,West Indies,England,21 runs,Providence,2009-03-22,ODI # 2827,2827,West Indies,England
+West Indies,England,West Indies,England,8 wickets,Bridgetown,2009-03-27,ODI # 2828,2828,West Indies,England
+West Indies,England,England,West Indies,9 wickets,Bridgetown,2009-03-29,ODI # 2829,2829,West Indies,England
+West Indies,England,England,West Indies,26 runs,Gros Islet,2009-04-03,ODI # 2833,2833,West Indies,England
+England,West Indies,England,West Indies,6 wickets,Bristol,2009-05-24,ODI # 2850,2850,England,England
+England,West Indies,England,West Indies,58 runs,Birmingham,2009-05-26,ODI # 2851,2851,England,England
+Ireland,England,England,Ireland,3 runs,Belfast,2009-08-27,ODI # 2878,2878,Northern Ireland,England
+England,Australia,Australia,England,4 runs,The Oval,2009-09-04,ODI # 2882,2882,England,England
+England,Australia,Australia,England,39 runs,Lord's,2009-09-06,ODI # 2883,2883,England,England
+England,Australia,Australia,England,6 wickets,Southampton,2009-09-09,ODI # 2885,2885,England,England
+England,Australia,Australia,England,7 wickets,Lord's,2009-09-12,ODI # 2888,2888,England,England
+England,Australia,Australia,England,4 wickets,Nottingham,2009-09-15,ODI # 2890,2890,England,England
+England,Australia,Australia,England,111 runs,Nottingham,2009-09-17,ODI # 2891,2891,England,England
+England,Australia,England,Australia,4 wickets,Chester-le-Street,2009-09-20,ODI # 2892,2892,England,England
+England,Sri Lanka,England,Sri Lanka,6 wickets,Johannesburg,2009-09-25,ODI # 2896,2896,South Africa,England
+South Africa,England,England,South Africa,22 runs,Centurion,2009-09-27,ODI # 2900,2900,South Africa,England
+England,New Zealand,New Zealand,England,4 wickets,Johannesburg,2009-09-29,ODI # 2902,2902,South Africa,England
+Australia,England,Australia,England,9 wickets,Centurion,2009-10-02,ODI # 2905,2905,South Africa,England
+South Africa,England,England,South Africa,7 wickets,Centurion,2009-11-22,ODI # 2929,2929,South Africa,England
+South Africa,England,South Africa,England,112 runs,Cape Town,2009-11-27,ODI # 2930,2930,South Africa,England
+South Africa,England,England,South Africa,7 wickets,Gqeberha,2009-11-29,ODI # 2931,2931,South Africa,England
+Bangladesh,England,England,Bangladesh,6 wickets,Mirpur,2010-02-28,ODI # 2964,2964,Bangladesh,England
+Bangladesh,England,England,Bangladesh,2 wickets,Mirpur,2010-03-02,ODI # 2965,2965,Bangladesh,England
+Bangladesh,England,England,Bangladesh,45 runs,Chattogram,2010-03-05,ODI # 2968,2968,Bangladesh,England
+Scotland,England,England,Scotland,7 wickets,Edinburgh,2010-06-19,ODI # 2997,2997,Scotland,England
+England,Australia,England,Australia,4 wickets,Southampton,2010-06-22,ODI # 3000,3000,England,England
+England,Australia,England,Australia,4 wickets,Cardiff,2010-06-24,ODI # 3002,3002,Wales,England
+England,Australia,England,Australia,1 wicket,Manchester,2010-06-27,ODI # 3003,3003,England,England
+England,Australia,Australia,England,78 runs,The Oval,2010-06-30,ODI # 3004,3004,England,England
+England,Australia,Australia,England,42 runs,Lord's,2010-07-03,ODI # 3011,3011,England,England
+England,Bangladesh,England,Bangladesh,6 wickets,Nottingham,2010-07-08,ODI # 3018,3018,England,England
+England,Bangladesh,Bangladesh,England,5 runs,Bristol,2010-07-10,ODI # 3025,3025,England,England
+England,Bangladesh,England,Bangladesh,144 runs,Birmingham,2010-07-12,ODI # 3026,3026,England,England
+England,Pakistan,England,Pakistan,24 runs,Chester-le-Street,2010-09-10,ODI # 3043,3043,England,England
+England,Pakistan,England,Pakistan,4 wickets,Leeds,2010-09-12,ODI # 3044,3044,England,England
+England,Pakistan,Pakistan,England,23 runs,The Oval,2010-09-17,ODI # 3045,3045,England,England
+England,Pakistan,Pakistan,England,38 runs,Lord's,2010-09-20,ODI # 3046,3046,England,England
+England,Pakistan,England,Pakistan,121 runs,Southampton,2010-09-22,ODI # 3047,3047,England,England
+Australia,England,Australia,England,6 wickets,Melbourne,2011-01-16,ODI # 3081,3081,Australia,England
+Australia,England,Australia,England,46 runs,Hobart,2011-01-21,ODI # 3083,3083,Australia,England
+Australia,England,Australia,England,4 wickets,Sydney,2011-01-23,ODI # 3086,3086,Australia,England
+Australia,England,England,Australia,21 runs,Adelaide,2011-01-26,ODI # 3089,3089,Australia,England
+Australia,England,Australia,England,51 runs,Brisbane,2011-01-30,ODI # 3091,3091,Australia,England
+Australia,England,Australia,England,2 wickets,Sydney,2011-02-02,ODI # 3094,3094,Australia,England
+Australia,England,Australia,England,57 runs,Perth,2011-02-06,ODI # 3098,3098,Australia,England
+England,Netherlands,England,Netherlands,6 wickets,Nagpur,2011-02-22,ODI # 3104,3104,India,England
+India,England,tied,India,,Bengaluru,2011-02-27,ODI # 3110,3110,India,England
+England,Ireland,Ireland,England,3 wickets,Bengaluru,2011-03-02,ODI # 3114,3114,India,England
+England,South Africa,England,South Africa,6 runs,Chennai,2011-03-06,ODI # 3120,3120,India,England
+Bangladesh,England,Bangladesh,England,2 wickets,Chattogram,2011-03-11,ODI # 3127,3127,Bangladesh,England
+England,West Indies,England,West Indies,18 runs,Chennai,2011-03-17,ODI # 3135,3135,India,England
+Sri Lanka,England,Sri Lanka,England,10 wickets,Colombo (RPS),2011-03-26,ODI # 3145,3145,Sri Lanka,England
+England,Sri Lanka,England,Sri Lanka,110 runs,The Oval,2011-06-28,ODI # 3165,3165,England,England
+England,Sri Lanka,Sri Lanka,England,69 runs,Leeds,2011-07-01,ODI # 3167,3167,England,England
+England,Sri Lanka,Sri Lanka,England,6 wickets,Lord's,2011-07-03,ODI # 3168,3168,England,England
+England,Sri Lanka,England,Sri Lanka,10 wickets,Nottingham,2011-07-06,ODI # 3169,3169,England,England
+England,Sri Lanka,England,Sri Lanka,16 runs,Manchester,2011-07-09,ODI # 3170,3170,England,England
+Ireland,England,England,Ireland,11 runs,Dublin,2011-08-25,ODI # 3185,3185,Ireland,England
+England,India,no result,England,,Chester-le-Street,2011-09-03,ODI # 3186,3186,England,England
+England,India,England,India,7 wickets,Southampton,2011-09-06,ODI # 3187,3187,England,England
+England,India,England,India,3 wickets,The Oval,2011-09-09,ODI # 3189,3189,England,England
+England,India,tied,England,,Lord's,2011-09-11,ODI # 3191,3191,England,England
+England,India,England,India,6 wickets,Cardiff,2011-09-16,ODI # 3195,3195,Wales,England
+India,England,India,England,126 runs,Hyderabad (Deccan),2011-10-14,ODI # 3199,3199,India,England
+India,England,India,England,8 wickets,Delhi,2011-10-17,ODI # 3201,3201,India,England
+India,England,India,England,5 wickets,Mohali,2011-10-20,ODI # 3205,3205,India,England
+India,England,India,England,6 wickets,Wankhede,2011-10-23,ODI # 3207,3207,India,England
+India,England,India,England,95 runs,Eden Gardens,2011-10-25,ODI # 3210,3210,India,England
+England,Pakistan,England,Pakistan,130 runs,Abu Dhabi,2012-02-13,ODI # 3238,3238,United Arab Emirates,England
+England,Pakistan,England,Pakistan,20 runs,Abu Dhabi,2012-02-15,ODI # 3240,3240,United Arab Emirates,England
+England,Pakistan,England,Pakistan,9 wickets,Dubai (DSC),2012-02-18,ODI # 3243,3243,United Arab Emirates,England
+England,Pakistan,England,Pakistan,4 wickets,Dubai (DSC),2012-02-21,ODI # 3247,3247,United Arab Emirates,England
+England,West Indies,England,West Indies,114 runs,Southampton,2012-06-16,ODI # 3276,3276,England,England
+England,West Indies,England,West Indies,8 wickets,The Oval,2012-06-19,ODI # 3278,3278,England,England
+England,Australia,England,Australia,15 runs,Lord's,2012-06-29,ODI # 3280,3280,England,England
+England,Australia,England,Australia,6 wickets,The Oval,2012-07-01,ODI # 3281,3281,England,England
+England,Australia,England,Australia,8 wickets,Chester-le-Street,2012-07-07,ODI # 3284,3284,England,England
+England,Australia,England,Australia,7 wickets,Manchester,2012-07-10,ODI # 3286,3286,England,England
+England,South Africa,no result,England,,Cardiff,2012-08-24,ODI # 3296,3296,Wales,England
+England,South Africa,South Africa,England,80 runs,Southampton,2012-08-28,ODI # 3298,3298,England,England
+England,South Africa,England,South Africa,4 wickets,The Oval,2012-08-31,ODI # 3300,3300,England,England
+England,South Africa,England,South Africa,6 wickets,Lord's,2012-09-02,ODI # 3302,3302,England,England
+England,South Africa,South Africa,England,7 wickets,Nottingham,2012-09-05,ODI # 3304,3304,England,England
+India,England,England,India,9 runs,Rajkot,2013-01-11,ODI # 3318,3318,India,England
+India,England,India,England,127 runs,Kochi,2013-01-15,ODI # 3320,3320,India,England
+India,England,India,England,7 wickets,Ranchi,2013-01-19,ODI # 3322,3322,India,England
+India,England,India,England,5 wickets,Mohali,2013-01-23,ODI # 3327,3327,India,England
+India,England,England,India,7 wickets,Dharamsala,2013-01-27,ODI # 3329,3329,India,England
+New Zealand,England,New Zealand,England,3 wickets,Hamilton,2013-02-17,ODI # 3335,3335,New Zealand,England
+New Zealand,England,England,New Zealand,8 wickets,Napier,2013-02-20,ODI # 3336,3336,New Zealand,England
+New Zealand,England,England,New Zealand,5 wickets,Auckland,2013-02-23,ODI # 3338,3338,New Zealand,England
+England,New Zealand,New Zealand,England,5 wickets,Lord's,2013-05-31,ODI # 3360,3360,England,England
+England,New Zealand,New Zealand,England,86 runs,Southampton,2013-06-02,ODI # 3361,3361,England,England
+England,New Zealand,England,New Zealand,34 runs,Nottingham,2013-06-05,ODI # 3362,3362,England,England
+England,Australia,England,Australia,48 runs,Birmingham,2013-06-08,ODI # 3365,3365,England,England
+England,Sri Lanka,Sri Lanka,England,7 wickets,The Oval,2013-06-13,ODI # 3370,3370,England,England
+England,New Zealand,England,New Zealand,10 runs,Cardiff,2013-06-16,ODI # 3373,3373,Wales,England
+England,South Africa,England,South Africa,7 wickets,The Oval,2013-06-19,ODI # 3375,3375,England,England
+England,India,India,England,5 runs,Birmingham,2013-06-23,ODI # 3377,3377,England,England
+Ireland,England,England,Ireland,6 wickets,Dublin (Malahide),2013-09-03,ODI # 3409,3409,Ireland,England
+England,Australia,Australia,England,88 runs,Manchester,2013-09-08,ODI # 3412,3412,England,England
+England,Australia,no result,England,,Birmingham,2013-09-11,ODI # 3414,3414,England,England
+England,Australia,England,Australia,3 wickets,Cardiff,2013-09-14,ODI # 3415,3415,Wales,England
+England,Australia,Australia,England,49 runs,Southampton,2013-09-16,ODI # 3416,3416,England,England
+Australia,England,Australia,England,6 wickets,Melbourne,2014-01-12,ODI # 3454,3454,Australia,England
+Australia,England,Australia,England,1 wicket,Brisbane,2014-01-17,ODI # 3455,3455,Australia,England
+Australia,England,Australia,England,7 wickets,Sydney,2014-01-19,ODI # 3457,3457,Australia,England
+Australia,England,England,Australia,57 runs,Perth,2014-01-24,ODI # 3461,3461,Australia,England
+Australia,England,Australia,England,5 runs,Adelaide,2014-01-26,ODI # 3463,3463,Australia,England
+West Indies,England,West Indies,England,15 runs,North Sound,2014-02-28,ODI # 3477,3477,West Indies,England
+West Indies,England,England,West Indies,3 wickets,North Sound,2014-03-02,ODI # 3480,3480,West Indies,England
+West Indies,England,England,West Indies,25 runs,North Sound,2014-03-05,ODI # 3484,3484,West Indies,England
+Scotland,England,England,Scotland,39 runs,Aberdeen,2014-05-09,ODI # 3491,3491,Scotland,England
+England,Sri Lanka,England,Sri Lanka,81 runs,The Oval,2014-05-22,ODI # 3492,3492,England,England
+England,Sri Lanka,Sri Lanka,England,157 runs,Chester-le-Street,2014-05-25,ODI # 3493,3493,England,England
+England,Sri Lanka,England,Sri Lanka,10 wickets,Manchester,2014-05-28,ODI # 3494,3494,England,England
+England,Sri Lanka,Sri Lanka,England,7 runs,Lord's,2014-05-31,ODI # 3495,3495,England,England
+England,Sri Lanka,Sri Lanka,England,6 wickets,Birmingham,2014-06-03,ODI # 3496,3496,England,England
+England,India,India,England,133 runs,Cardiff,2014-08-27,ODI # 3517,3517,Wales,England
+England,India,India,England,6 wickets,Nottingham,2014-08-30,ODI # 3520,3520,England,England
+England,India,India,England,9 wickets,Birmingham,2014-09-02,ODI # 3523,3523,England,England
+England,India,England,India,41 runs,Leeds,2014-09-05,ODI # 3525,3525,England,England
+Sri Lanka,England,Sri Lanka,England,25 runs,Colombo (RPS),2014-11-26,ODI # 3554,3554,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,8 wickets,Colombo (RPS),2014-11-29,ODI # 3557,3557,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,5 wickets,Hambantota,2014-12-03,ODI # 3561,3561,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,6 wickets,Colombo (RPS),2014-12-07,ODI # 3563,3563,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,5 wickets,Pallekele,2014-12-10,ODI # 3565,3565,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,90 runs,Pallekele,2014-12-13,ODI # 3567,3567,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,87 runs,Colombo (RPS),2014-12-16,ODI # 3569,3569,Sri Lanka,England
+Australia,England,Australia,England,3 wickets,Sydney,2015-01-16,ODI # 3578,3578,Australia,England
+England,India,England,India,9 wickets,Brisbane,2015-01-20,ODI # 3586,3586,Australia,England
+Australia,England,Australia,England,3 wickets,Hobart,2015-01-23,ODI # 3589,3589,Australia,England
+England,India,England,India,3 wickets,Perth,2015-01-30,ODI # 3595,3595,Australia,England
+Australia,England,Australia,England,112 runs,Perth,2015-02-01,ODI # 3597,3597,Australia,England
+Australia,England,Australia,England,111 runs,Melbourne,2015-02-14,ODI # 3600,3600,Australia,England
+New Zealand,England,New Zealand,England,8 wickets,Wellington,2015-02-20,ODI # 3607,3607,New Zealand,England
+England,Scotland,England,Scotland,119 runs,Christchurch,2015-02-23,ODI # 3611,3611,New Zealand,England
+England,Sri Lanka,Sri Lanka,England,9 wickets,Wellington,2015-03-01,ODI # 3619,3619,New Zealand,England
+Bangladesh,England,Bangladesh,England,15 runs,Adelaide,2015-03-09,ODI # 3630,3630,Australia,England
+Afghanistan,England,England,Afghanistan,9 wickets,Sydney,2015-03-13,ODI # 3635,3635,Australia,England
+Ireland,England,no result,Ireland,,Dublin (Malahide),2015-05-08,ODI # 3650,3650,Ireland,England
+England,New Zealand,England,New Zealand,210 runs,Birmingham,2015-06-09,ODI # 3654,3654,England,England
+England,New Zealand,New Zealand,England,13 runs,The Oval,2015-06-12,ODI # 3655,3655,England,England
+England,New Zealand,New Zealand,England,3 wickets,Southampton,2015-06-14,ODI # 3656,3656,England,England
+England,New Zealand,England,New Zealand,7 wickets,Nottingham,2015-06-17,ODI # 3657,3657,England,England
+England,New Zealand,England,New Zealand,3 wickets,Chester-le-Street,2015-06-20,ODI # 3659,3659,England,England
+England,Australia,Australia,England,59 runs,Southampton,2015-09-03,ODI # 3680,3680,England,England
+England,Australia,Australia,England,64 runs,Lord's,2015-09-05,ODI # 3681,3681,England,England
+England,Australia,England,Australia,93 runs,Manchester,2015-09-08,ODI # 3682,3682,England,England
+England,Australia,England,Australia,3 wickets,Leeds,2015-09-11,ODI # 3683,3683,England,England
+England,Australia,Australia,England,8 wickets,Manchester,2015-09-13,ODI # 3684,3684,England,England
+England,Pakistan,Pakistan,England,6 wickets,Abu Dhabi,2015-11-11,ODI # 3707,3707,United Arab Emirates,England
+England,Pakistan,England,Pakistan,95 runs,Abu Dhabi,2015-11-13,ODI # 3708,3708,United Arab Emirates,England
+England,Pakistan,England,Pakistan,6 wickets,Sharjah,2015-11-17,ODI # 3710,3710,United Arab Emirates,England
+England,Pakistan,England,Pakistan,84 runs,Dubai (DSC),2015-11-20,ODI # 3712,3712,United Arab Emirates,England
+South Africa,England,England,South Africa,39 runs,Bloemfontein,2016-02-03,ODI # 3732,3732,South Africa,England
+South Africa,England,England,South Africa,5 wickets,Gqeberha,2016-02-06,ODI # 3734,3734,South Africa,England
+South Africa,England,South Africa,England,7 wickets,Centurion,2016-02-09,ODI # 3736,3736,South Africa,England
+South Africa,England,South Africa,England,1 wicket,Johannesburg,2016-02-12,ODI # 3737,3737,South Africa,England
+South Africa,England,South Africa,England,5 wickets,Cape Town,2016-02-14,ODI # 3738,3738,South Africa,England
+England,Sri Lanka,tied,England,,Nottingham,2016-06-21,ODI # 3751,3751,England,England
+England,Sri Lanka,England,Sri Lanka,10 wickets,Birmingham,2016-06-24,ODI # 3753,3753,England,England
+England,Sri Lanka,no result,England,,Bristol,2016-06-26,ODI # 3755,3755,England,England
+England,Sri Lanka,England,Sri Lanka,6 wickets,The Oval,2016-06-29,ODI # 3757,3757,England,England
+England,Sri Lanka,England,Sri Lanka,122 runs,Cardiff,2016-07-02,ODI # 3758,3758,Wales,England
+England,Pakistan,England,Pakistan,44 runs,Southampton,2016-08-24,ODI # 3770,3770,England,England
+England,Pakistan,England,Pakistan,4 wickets,Lord's,2016-08-27,ODI # 3771,3771,England,England
+England,Pakistan,England,Pakistan,169 runs,Nottingham,2016-08-30,ODI # 3773,3773,England,England
+England,Pakistan,England,Pakistan,4 wickets,Leeds,2016-09-01,ODI # 3775,3775,England,England
+England,Pakistan,Pakistan,England,4 wickets,Cardiff,2016-09-04,ODI # 3777,3777,Wales,England
+Bangladesh,England,England,Bangladesh,21 runs,Mirpur,2016-10-07,ODI # 3791,3791,Bangladesh,England
+Bangladesh,England,Bangladesh,England,34 runs,Mirpur,2016-10-09,ODI # 3793,3793,Bangladesh,England
+Bangladesh,England,England,Bangladesh,4 wickets,Chattogram,2016-10-12,ODI # 3794,3794,Bangladesh,England
+India,England,India,England,3 wickets,Pune,2017-01-15,ODI # 3819,3819,India,England
+India,England,India,England,15 runs,Cuttack,2017-01-19,ODI # 3821,3821,India,England
+India,England,England,India,5 runs,Eden Gardens,2017-01-22,ODI # 3824,3824,India,England
+West Indies,England,England,West Indies,45 runs,North Sound,2017-03-03,ODI # 3845,3845,West Indies,England
+West Indies,England,England,West Indies,4 wickets,North Sound,2017-03-05,ODI # 3848,3848,West Indies,England
+West Indies,England,England,West Indies,186 runs,Bridgetown,2017-03-09,ODI # 3849,3849,West Indies,England
+England,Ireland,England,Ireland,7 wickets,Bristol,2017-05-05,ODI # 3864,3864,England,England
+England,Ireland,England,Ireland,85 runs,Lord's,2017-05-07,ODI # 3865,3865,England,England
+England,South Africa,England,South Africa,72 runs,Leeds,2017-05-24,ODI # 3872,3872,England,England
+England,South Africa,England,South Africa,2 runs,Southampton,2017-05-27,ODI # 3873,3873,England,England
+England,South Africa,South Africa,England,7 wickets,Lord's,2017-05-29,ODI # 3874,3874,England,England
+England,Bangladesh,England,Bangladesh,8 wickets,The Oval,2017-06-01,ODI # 3875,3875,England,England
+England,New Zealand,England,New Zealand,87 runs,Cardiff,2017-06-06,ODI # 3880,3880,Wales,England
+England,Australia,England,Australia,40 runs,Birmingham,2017-06-10,ODI # 3885,3885,England,England
+England,Pakistan,Pakistan,England,8 wickets,Cardiff,2017-06-14,ODI # 3889,3889,Wales,England
+England,West Indies,England,West Indies,7 wickets,Manchester,2017-09-19,ODI # 3911,3911,England,England
+England,West Indies,no result,England,,Nottingham,2017-09-21,ODI # 3913,3913,England,England
+England,West Indies,England,West Indies,124 runs,Bristol,2017-09-24,ODI # 3915,3915,England,England
+England,West Indies,England,West Indies,6 runs,The Oval,2017-09-27,ODI # 3916,3916,England,England
+England,West Indies,England,West Indies,9 wickets,Southampton,2017-09-29,ODI # 3918,3918,England,England
+Australia,England,England,Australia,5 wickets,Melbourne,2018-01-14,ODI # 3951,3951,Australia,England
+Australia,England,England,Australia,4 wickets,Brisbane,2018-01-19,ODI # 3958,3958,Australia,England
+Australia,England,England,Australia,16 runs,Sydney,2018-01-21,ODI # 3960,3960,Australia,England
+Australia,England,Australia,England,3 wickets,Adelaide,2018-01-26,ODI # 3966,3966,Australia,England
+Australia,England,England,Australia,12 runs,Perth,2018-01-28,ODI # 3968,3968,Australia,England
+New Zealand,England,New Zealand,England,3 wickets,Hamilton,2018-02-25,ODI # 3980,3980,New Zealand,England
+New Zealand,England,England,New Zealand,6 wickets,Mount Maunganui,2018-02-28,ODI # 3981,3981,New Zealand,England
+New Zealand,England,England,New Zealand,4 runs,Wellington,2018-03-03,ODI # 3982,3982,New Zealand,England
+New Zealand,England,New Zealand,England,5 wickets,Dunedin,2018-03-07,ODI # 3989,3989,New Zealand,England
+New Zealand,England,England,New Zealand,7 wickets,Christchurch,2018-03-10,ODI # 3992,3992,New Zealand,England
+Scotland,England,Scotland,England,6 runs,Edinburgh,2018-06-10,ODI # 4008,4008,Scotland,England
+England,Australia,England,Australia,3 wickets,The Oval,2018-06-13,ODI # 4009,4009,England,England
+England,Australia,England,Australia,38 runs,Cardiff,2018-06-16,ODI # 4010,4010,Wales,England
+England,Australia,England,Australia,242 runs,Nottingham,2018-06-19,ODI # 4011,4011,England,England
+England,Australia,England,Australia,6 wickets,Chester-le-Street,2018-06-21,ODI # 4012,4012,England,England
+England,Australia,England,Australia,1 wicket,Manchester,2018-06-24,ODI # 4013,4013,England,England
+England,India,India,England,8 wickets,Nottingham,2018-07-12,ODI # 4014,4014,England,England
+England,India,England,India,86 runs,Lord's,2018-07-14,ODI # 4016,4016,England,England
+England,India,England,India,8 wickets,Leeds,2018-07-17,ODI # 4018,4018,England,England
+Sri Lanka,England,no result,Sri Lanka,,Dambulla,2018-10-10,ODI # 4052,4052,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,31 runs,Dambulla,2018-10-13,ODI # 4053,4053,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,7 wickets,Pallekele,2018-10-17,ODI # 4054,4054,Sri Lanka,England
+Sri Lanka,England,England,Sri Lanka,18 runs,Pallekele,2018-10-20,ODI # 4055,4055,Sri Lanka,England
+Sri Lanka,England,Sri Lanka,England,219 runs,Colombo (RPS),2018-10-23,ODI # 4058,4058,Sri Lanka,England
+West Indies,England,England,West Indies,6 wickets,Bridgetown,2019-02-20,ODI # 4096,4096,West Indies,England
+West Indies,England,West Indies,England,26 runs,Bridgetown,2019-02-22,ODI # 4097,4097,West Indies,England
+West Indies,England,no result,West Indies,,St George's,2019-02-25,ODI # 4098,4098,West Indies,England
+West Indies,England,England,West Indies,29 runs,St George's,2019-02-27,ODI # 4099,4099,West Indies,England
+West Indies,England,West Indies,England,7 wickets,Gros Islet,2019-03-02,ODI # 4103,4103,West Indies,England
+Ireland,England,England,Ireland,4 wickets,Dublin (Malahide),2019-05-03,ODI # 4127,4127,Ireland,England
+England,Pakistan,no result,England,,The Oval,2019-05-08,ODI # 4130,4130,England,England
+England,Pakistan,England,Pakistan,12 runs,Southampton,2019-05-11,ODI # 4133,4133,England,England
+England,Pakistan,England,Pakistan,6 wickets,Bristol,2019-05-14,ODI # 4135,4135,England,England
+England,Pakistan,England,Pakistan,3 wickets,Nottingham,2019-05-17,ODI # 4138,4138,England,England
+England,Pakistan,England,Pakistan,54 runs,Leeds,2019-05-19,ODI # 4140,4140,England,England
+England,South Africa,England,South Africa,104 runs,The Oval,2019-05-30,ODI # 4143,4143,England,England
+England,Pakistan,Pakistan,England,14 runs,Nottingham,2019-06-03,ODI # 4148,4148,England,England
+England,Bangladesh,England,Bangladesh,106 runs,Cardiff,2019-06-08,ODI # 4153,4153,Wales,England
+England,West Indies,England,West Indies,8 wickets,Southampton,2019-06-14,ODI # 4158,4158,England,England
+England,Afghanistan,England,Afghanistan,150 runs,Manchester,2019-06-18,ODI # 4163,4163,England,England
+England,Sri Lanka,Sri Lanka,England,20 runs,Leeds,2019-06-21,ODI # 4168,4168,England,England
+England,Australia,Australia,England,64 runs,Lord's,2019-06-25,ODI # 4173,4173,England,England
+England,India,England,India,31 runs,Birmingham,2019-06-30,ODI # 4179,4179,England,England
+England,New Zealand,England,New Zealand,119 runs,Chester-le-Street,2019-07-03,ODI # 4183,4183,England,England
+England,Australia,England,Australia,8 wickets,Birmingham,2019-07-11,ODI # 4191,4191,England,England
+England,New Zealand,tied,England,,Lord's,2019-07-14,ODI # 4192,4192,England,England
+South Africa,England,South Africa,England,7 wickets,Cape Town,2020-02-04,ODI # 4234,4234,South Africa,England
+South Africa,England,no result,South Africa,,Durban,2020-02-07,ODI # 4238,4238,South Africa,England
+South Africa,England,England,South Africa,2 wickets,Johannesburg,2020-02-09,ODI # 4242,4242,South Africa,England
+England,Ireland,England,Ireland,6 wickets,Southampton,2020-07-30,ODI # 4256,4256,England,England
+England,Ireland,England,Ireland,4 wickets,Southampton,2020-08-01,ODI # 4257,4257,England,England
+England,Ireland,Ireland,England,7 wickets,Southampton,2020-08-04,ODI # 4258,4258,England,England
+England,Australia,Australia,England,19 runs,Manchester,2020-09-11,ODI # 4259,4259,England,England
+England,Australia,England,Australia,24 runs,Manchester,2020-09-13,ODI # 4260,4260,England,England
+England,Australia,Australia,England,3 wickets,Manchester,2020-09-16,ODI # 4261,4261,England,England
+India,England,India,England,66 runs,Pune,2021-03-23,ODI # 4281,4281,India,England
+India,England,England,India,6 wickets,Pune,2021-03-26,ODI # 4283,4283,India,England
+India,England,India,England,7 runs,Pune,2021-03-28,ODI # 4284,4284,India,England
+England,Sri Lanka,England,Sri Lanka,5 wickets,Chester-le-Street,2021-06-29,ODI # 4296,4296,England,England
+England,Sri Lanka,England,Sri Lanka,8 wickets,The Oval,2021-07-01,ODI # 4297,4297,England,England
+England,Sri Lanka,no result,England,,Bristol,2021-07-04,ODI # 4298,4298,England,England
+England,Pakistan,England,Pakistan,9 wickets,Cardiff,2021-07-08,ODI # 4299,4299,Wales,England
+England,Pakistan,England,Pakistan,52 runs,Lord's,2021-07-10,ODI # 4300,4300,England,England
+England,Pakistan,England,Pakistan,3 wickets,Birmingham,2021-07-13,ODI # 4303,4303,England,England
+Netherlands,England,England,Netherlands,232 runs,Amstelveen,2022-06-17,ODI # 4413,4413,Netherlands,England
+Netherlands,England,England,Netherlands,6 wickets,Amstelveen,2022-06-19,ODI # 4414,4414,Netherlands,England
+Netherlands,England,England,Netherlands,8 wickets,Amstelveen,2022-06-22,ODI # 4417,4417,Netherlands,England
+England,India,India,England,10 wickets,The Oval,2022-07-12,ODI # 4424,4424,England,England
+England,India,England,India,100 runs,Lord's,2022-07-14,ODI # 4428,4428,England,England
+England,India,India,England,5 wickets,Manchester,2022-07-17,ODI # 4433,4433,England,England
+England,South Africa,South Africa,England,62 runs,Chester-le-Street,2022-07-19,ODI # 4434,4434,England,England
+England,South Africa,England,South Africa,118 runs,Manchester,2022-07-22,ODI # 4435,4435,England,England
+England,South Africa,no result,England,,Leeds,2022-07-24,ODI # 4437,4437,England,England
+Australia,England,Australia,England,6 wickets,Adelaide,2022-11-17,ODI # 4475,4475,Australia,England
+Australia,England,Australia,England,72 runs,Sydney,2022-11-19,ODI # 4477,4477,Australia,England
+Australia,England,Australia,England,221 runs,Melbourne,2022-11-22,ODI # 4480,4480,Australia,England

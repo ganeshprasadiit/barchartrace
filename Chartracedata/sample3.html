@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>To Objects</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto|Source+Code+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/monokai.min.css">
+    <link rel="stylesheet" href="demo.css">
+  </head>
+
+  <body>
+
+    <div id="header">
+      <h1 id="title">$.csv.toObjects()</h1>
+      <div id="link"><a href="https://github.com/evanplaice/jquery-csv">GitHub</a></div>
+    </div>
+    <div id="container">
+      <section id="content">
+        <h2>Description</h2>
+        <p>Used to convert multi-line CSV data into an array objects containing the data as key-value (ie header:value) pairs.</p>
+        <hr>
+        <h2>Usage</h2>
+        <pre><code class="javascript">var result = $.csv.toObjects(input);</code></pre>
+        <hr />
+        <h2>Input</h2>
+        <textarea id="input" style="height: 190px;">team,points,date
+Man Utd,3,2018-08-10
+Leicester,0,2018-08-10
+Wolves,1,2018-08-11
+Everton,1,2018-08-11
+Bournemouth,3,2018-08-11
+Cardiff,0,2018-08-11
+Fulham,0,2018-08-11
+Crystal Palace,3,2018-08-11
+Huddersfield,0,2018-08-11
+Chelsea,3,2018-08-11
+Watford,3,2018-08-11
+Brighton,0,2018-08-11
+Newcastle,0,2018-08-11
+Tottenham,3,2018-08-11
+Arsenal,0,2018-08-12
+Man City,3,2018-08-12
+Liverpool,3,2018-08-12
+West Ham,0,2018-08-12
+Southampton,1,2018-08-12
+Burnley,1,2018-08-12
+Chelsea,6,2018-08-18
+Arsenal,0,2018-08-18
+Everton,4,2018-08-18
+Southampton,1,2018-08-18
+Leicester,3,2018-08-18
+Wolves,1,2018-08-18
+Tottenham,6,2018-08-18
+Fulham,0,2018-08-18
+West Ham,0,2018-08-18
+Bournemouth,6,2018-08-18
+Cardiff,1,2018-08-18
+Newcastle,1,2018-08-18
+Brighton,3,2018-08-19
+Man Utd,3,2018-08-19
+Burnley,1,2018-08-19
+Watford,6,2018-08-19
+Man City,6,2018-08-19
+Huddersfield,0,2018-08-19
+Crystal Palace,3,2018-08-20
+Liverpool,6,2018-08-20
+Liverpool,9,2018-08-25
+Brighton,3,2018-08-25
+Arsenal,3,2018-08-25
+West Ham,0,2018-08-25
+Bournemouth,7,2018-08-25
+Everton,5,2018-08-25
+Huddersfield,1,2018-08-25
+Cardiff,2,2018-08-25
+Southampton,1,2018-08-25
+Leicester,6,2018-08-25
+Wolves,2,2018-08-25
+Man City,7,2018-08-25
+Fulham,3,2018-08-26
+Burnley,1,2018-08-26
+Newcastle,1,2018-08-26
+Chelsea,9,2018-08-26
+Watford,9,2018-08-26
+Crystal Palace,3,2018-08-26
+Man Utd,3,2018-08-27
+Tottenham,9,2018-08-27
+Man City,10,2018-09-01
+Newcastle,1,2018-09-01
+Brighton,4,2018-09-01
+Fulham,4,2018-09-01
+Chelsea,12,2018-09-01
+Bournemouth,7,2018-09-01
+Crystal Palace,3,2018-09-01
+Southampton,4,2018-09-01
+Everton,6,2018-09-01
+Huddersfield,2,2018-09-01
+West Ham,0,2018-09-01
+Wolves,5,2018-09-01
+Leicester,6,2018-09-01
+Liverpool,12,2018-09-01
+Burnley,1,2018-09-02
+Man Utd,6,2018-09-02
+Watford,12,2018-09-02
+Tottenham,9,2018-09-02
+Cardiff,2,2018-09-02
+Arsenal,6,2018-09-02
+Watford,12,2018-09-15
+Man Utd,9,2018-09-15
+Bournemouth,10,2018-09-15
+Leicester,6,2018-09-15
+Chelsea,15,2018-09-15
+Cardiff,2,2018-09-15
+Huddersfield,2,2018-09-15
+Crystal Palace,6,2018-09-15
+Man City,13,2018-09-15
+Fulham,4,2018-09-15
+Newcastle,1,2018-09-15
+Arsenal,9,2018-09-15
+Tottenham,9,2018-09-15
+Liverpool,15,2018-09-15
+Everton,6,2018-09-16
+West Ham,3,2018-09-16
+Wolves,8,2018-09-16
+Burnley,1,2018-09-16
+Southampton,5,2018-09-17
+Brighton,5,2018-09-17
+Brighton,5,2018-09-22
+Tottenham,12,2018-09-22
+Burnley,4,2018-09-22
+Bournemouth,10,2018-09-22
+Cardiff,2,2018-09-22
+Man City,16,2018-09-22
+Crystal Palace,7,2018-09-22
+Newcastle,2,2018-09-22
+Leicester,9,2018-09-22
+Huddersfield,2,2018-09-22
+Liverpool,18,2018-09-22
+Southampton,5,2018-09-22
+Man Utd,10,2018-09-22
+Wolves,9,2018-09-22
+Fulham,5,2018-09-22
+Watford,13,2018-09-22
+Arsenal,12,2018-09-23
+Everton,6,2018-09-23
+West Ham,4,2018-09-23
+Chelsea,16,2018-09-23
+Chelsea,17,2018-09-29
+Liverpool,19,2018-09-29
+Arsenal,15,2018-09-29
+Watford,13,2018-09-29
+Everton,9,2018-09-29
+Fulham,5,2018-09-29
+Huddersfield,2,2018-09-29
+Tottenham,15,2018-09-29
+Man City,19,2018-09-29
+Brighton,5,2018-09-29
+Newcastle,2,2018-09-29
+Leicester,12,2018-09-29
+Wolves,12,2018-09-29
+Southampton,5,2018-09-29
+West Ham,7,2018-09-29
+Man Utd,10,2018-09-29
+Cardiff,2,2018-09-30
+Burnley,7,2018-09-30
+Bournemouth,13,2018-10-01
+Crystal Palace,7,2018-10-01
+Brighton,8,2018-10-05
+West Ham,7,2018-10-05
+Man Utd,13,2018-10-06
+Newcastle,2,2018-10-06
+Burnley,8,2018-10-06
+Huddersfield,3,2018-10-06
+Crystal Palace,7,2018-10-06
+Wolves,15,2018-10-06
+Leicester,12,2018-10-06
+Everton,12,2018-10-06
+Tottenham,18,2018-10-06
+Cardiff,2,2018-10-06
+Watford,13,2018-10-06
+Bournemouth,16,2018-10-06
+Liverpool,20,2018-10-07
+Man City,20,2018-10-07
+Southampton,5,2018-10-07
+Chelsea,20,2018-10-07
+Fulham,5,2018-10-07
+Arsenal,18,2018-10-07
+Huddersfield,3,2018-10-20
+Liverpool,23,2018-10-20
+Bournemouth,17,2018-10-20
+Southampton,6,2018-10-20
+Cardiff,5,2018-10-20
+Fulham,5,2018-10-20
+Man City,23,2018-10-20
+Burnley,8,2018-10-20
+Newcastle,2,2018-10-20
+Brighton,11,2018-10-20
+West Ham,7,2018-10-20
+Tottenham,21,2018-10-20
+Wolves,15,2018-10-20
+Watford,16,2018-10-20
+Chelsea,21,2018-10-20
+Man Utd,14,2018-10-20
+Everton,15,2018-10-21
+Crystal Palace,7,2018-10-21
+Arsenal,21,2018-10-22
+Leicester,12,2018-10-22
+Leicester,13,2018-10-27
+West Ham,8,2018-10-27
+Brighton,14,2018-10-27
+Wolves,15,2018-10-27
+Fulham,5,2018-10-27
+Bournemouth,20,2018-10-27
+Liverpool,26,2018-10-27
+Cardiff,5,2018-10-27
+Southampton,7,2018-10-27
+Newcastle,3,2018-10-27
+Watford,19,2018-10-27
+Huddersfield,3,2018-10-27
+Man Utd,17,2018-10-28
+Everton,15,2018-10-28
+Burnley,8,2018-10-28
+Chelsea,24,2018-10-28
+Crystal Palace,8,2018-10-28
+Arsenal,22,2018-10-28
+Tottenham,21,2018-10-29
+Man City,26,2018-10-29
+Wolves,15,2018-11-03
+Tottenham,24,2018-11-03
+Arsenal,23,2018-11-03
+Liverpool,27,2018-11-03
+Cardiff,5,2018-11-03
+Leicester,16,2018-11-03
+Everton,18,2018-11-03
+Brighton,14,2018-11-03
+Newcastle,6,2018-11-03
+Watford,19,2018-11-03
+West Ham,11,2018-11-03
+Burnley,8,2018-11-03
+Bournemouth,20,2018-11-03
+Man Utd,20,2018-11-03
+Chelsea,27,2018-11-04
+Crystal Palace,8,2018-11-04
+Man City,29,2018-11-04
+Southampton,7,2018-11-04
+Huddersfield,6,2018-11-05
+Fulham,5,2018-11-05
+Crystal Palace,8,2018-11-10
+Tottenham,27,2018-11-10
+Huddersfield,7,2018-11-10
+West Ham,12,2018-11-10
+Leicester,17,2018-11-10
+Burnley,9,2018-11-10
+Newcastle,9,2018-11-10
+Bournemouth,20,2018-11-10
+Southampton,8,2018-11-10
+Watford,20,2018-11-10
+Cardiff,8,2018-11-10
+Brighton,14,2018-11-10
+Arsenal,24,2018-11-11
+Wolves,16,2018-11-11
+Man City,32,2018-11-11
+Man Utd,20,2018-11-11
+Chelsea,28,2018-11-11
+Everton,19,2018-11-11
+Liverpool,30,2018-11-11
+Fulham,5,2018-11-11
+Tottenham,30,2018-11-24
+Chelsea,28,2018-11-24
+Brighton,15,2018-11-24
+Leicester,18,2018-11-24
+Everton,22,2018-11-24
+Cardiff,8,2018-11-24
+Fulham,8,2018-11-24
+Southampton,8,2018-11-24
+Man Utd,21,2018-11-24
+Crystal Palace,9,2018-11-24
+Watford,20,2018-11-24
+Liverpool,33,2018-11-24
+West Ham,12,2018-11-24
+Man City,35,2018-11-24
+Wolves,16,2018-11-25
+Huddersfield,10,2018-11-25
+Bournemouth,20,2018-11-25
+Arsenal,27,2018-11-25
+Burnley,9,2018-11-26
+Newcastle,12,2018-11-26
+Cardiff,11,2018-11-30
+Wolves,16,2018-11-30
+Southampton,9,2018-12-01
+Man Utd,22,2018-12-01
+Crystal Palace,12,2018-12-01
+Burnley,9,2018-12-01
+Huddersfield,10,2018-12-01
+Brighton,18,2018-12-01
+Leicester,21,2018-12-01
+Watford,20,2018-12-01
+Man City,38,2018-12-01
+Bournemouth,20,2018-12-01
+Newcastle,12,2018-12-01
+West Ham,15,2018-12-01
+Liverpool,36,2018-12-02
+Everton,22,2018-12-02
+Arsenal,30,2018-12-02
+Tottenham,30,2018-12-02
+Chelsea,31,2018-12-02
+Fulham,8,2018-12-02
+Watford,20,2018-12-04
+Man City,41,2018-12-04
+Bournemouth,23,2018-12-04
+Huddersfield,10,2018-12-04
+Brighton,21,2018-12-04
+Crystal Palace,12,2018-12-04
+West Ham,18,2018-12-04
+Cardiff,11,2018-12-04
+Man Utd,23,2018-12-05
+Arsenal,31,2018-12-05
+Tottenham,33,2018-12-05
+Southampton,9,2018-12-05
+Burnley,9,2018-12-05
+Liverpool,39,2018-12-05
+Everton,23,2018-12-05
+Newcastle,13,2018-12-05
+Fulham,9,2018-12-05
+Leicester,22,2018-12-05
+Wolves,19,2018-12-05
+Chelsea,31,2018-12-05
+Leicester,22,2018-12-08
+Tottenham,36,2018-12-08
+Chelsea,34,2018-12-08
+Man City,41,2018-12-08
+Arsenal,34,2018-12-08
+Huddersfield,10,2018-12-08
+Burnley,12,2018-12-08
+Brighton,21,2018-12-08
+Cardiff,14,2018-12-08
+Southampton,9,2018-12-08
+Man Utd,26,2018-12-08
+Fulham,9,2018-12-08
+West Ham,21,2018-12-08
+Crystal Palace,12,2018-12-08
+Bournemouth,23,2018-12-08
+Liverpool,42,2018-12-08
+Newcastle,13,2018-12-09
+Wolves,22,2018-12-09
+Everton,24,2018-12-10
+Watford,21,2018-12-10
+Fulham,9,2018-12-15
+West Ham,24,2018-12-15
+Crystal Palace,15,2018-12-15
+Leicester,22,2018-12-15
+Huddersfield,10,2018-12-15
+Newcastle,16,2018-12-15
+Tottenham,39,2018-12-15
+Burnley,12,2018-12-15
+Watford,24,2018-12-15
+Cardiff,14,2018-12-15
+Wolves,25,2018-12-15
+Bournemouth,23,2018-12-15
+Man City,44,2018-12-15
+Everton,24,2018-12-15
+Liverpool,45,2018-12-16
+Man Utd,26,2018-12-16
+Brighton,21,2018-12-16
+Chelsea,37,2018-12-16
+Southampton,12,2018-12-16
+Arsenal,34,2018-12-16
+Wolves,25,2018-12-21
+Liverpool,48,2018-12-21
+Cardiff,14,2018-12-22
+Man Utd,29,2018-12-22
+Bournemouth,26,2018-12-22
+Brighton,21,2018-12-22
+Chelsea,37,2018-12-22
+Leicester,25,2018-12-22
+Huddersfield,10,2018-12-22
+Southampton,15,2018-12-22
+Man City,44,2018-12-22
+Crystal Palace,18,2018-12-22
+Newcastle,17,2018-12-22
+Fulham,10,2018-12-22
+West Ham,24,2018-12-22
+Watford,27,2018-12-22
+Arsenal,37,2018-12-22
+Burnley,12,2018-12-22
+Everton,24,2018-12-23
+Tottenham,42,2018-12-23
+Watford,27,2018-12-26
+Chelsea,40,2018-12-26
+Brighton,22,2018-12-26
+Arsenal,38,2018-12-26
+Burnley,12,2018-12-26
+Everton,27,2018-12-26
+Crystal Palace,19,2018-12-26
+Cardiff,15,2018-12-26
+Leicester,28,2018-12-26
+Man City,44,2018-12-26
+Liverpool,51,2018-12-26
+Newcastle,17,2018-12-26
+Man Utd,32,2018-12-26
+Huddersfield,10,2018-12-26
+Tottenham,45,2018-12-26
+Bournemouth,26,2018-12-26
+Fulham,11,2018-12-26
+Wolves,26,2018-12-26
+Southampton,15,2018-12-27
+West Ham,27,2018-12-27
+Liverpool,54,2018-12-29
+Arsenal,38,2018-12-29
+Brighton,25,2018-12-29
+Everton,27,2018-12-29
+Fulham,14,2018-12-29
+Huddersfield,10,2018-12-29
+Leicester,28,2018-12-29
+Cardiff,18,2018-12-29
+Tottenham,45,2018-12-29
+Wolves,29,2018-12-29
+Watford,28,2018-12-29
+Newcastle,18,2018-12-29
+Man Utd,35,2018-12-30
+Bournemouth,26,2018-12-30
+Burnley,15,2018-12-30
+West Ham,27,2018-12-30
+Southampton,15,2018-12-30
+Man City,47,2018-12-30
+Crystal Palace,19,2018-12-30
+Chelsea,43,2018-12-30
+Cardiff,18,2019-01-01
+Tottenham,48,2019-01-01
+Arsenal,41,2019-01-01
+Fulham,14,2019-01-01
+Everton,27,2019-01-01
+Leicester,31,2019-01-01
+Newcastle,18,2019-01-02
+Man Utd,38,2019-01-02
+Bournemouth,27,2019-01-02
+Watford,29,2019-01-02
+Chelsea,44,2019-01-02
+Southampton,16,2019-01-02
+Huddersfield,10,2019-01-02
+Burnley,18,2019-01-02
+West Ham,28,2019-01-02
+Brighton,26,2019-01-02
+Wolves,29,2019-01-02
+Crystal Palace,22,2019-01-02
+Man City,50,2019-01-03
+Liverpool,54,2019-01-03
+Chelsea,47,2019-01-12
+Newcastle,18,2019-01-12
+Brighton,26,2019-01-12
+Liverpool,57,2019-01-12
+Burnley,21,2019-01-12
+Fulham,14,2019-01-12
+Cardiff,19,2019-01-12
+Huddersfield,11,2019-01-12
+Crystal Palace,22,2019-01-12
+Watford,32,2019-01-12
+Leicester,31,2019-01-12
+Southampton,19,2019-01-12
+West Ham,31,2019-01-12
+Arsenal,41,2019-01-12
+Tottenham,48,2019-01-13
+Man Utd,41,2019-01-13
+Everton,30,2019-01-13
+Bournemouth,27,2019-01-13
+Man City,53,2019-01-14
+Wolves,29,2019-01-14
+Arsenal,44,2019-01-19
+Chelsea,47,2019-01-19
+Bournemouth,30,2019-01-19
+West Ham,31,2019-01-19
+Liverpool,60,2019-01-19
+Crystal Palace,22,2019-01-19
+Man Utd,44,2019-01-19
+Brighton,26,2019-01-19
+Newcastle,21,2019-01-19
+Cardiff,19,2019-01-19
+Southampton,22,2019-01-19
+Everton,30,2019-01-19
+Watford,33,2019-01-19
+Burnley,22,2019-01-19
+Wolves,32,2019-01-19
+Leicester,31,2019-01-19
+Fulham,14,2019-01-20
+Tottenham,51,2019-01-20
+Huddersfield,11,2019-01-20
+Man City,56,2019-01-20
+Man Utd,45,2019-01-29
+Burnley,23,2019-01-29
+Newcastle,24,2019-01-29
+Man City,56,2019-01-29
+Arsenal,47,2019-01-29
+Cardiff,19,2019-01-29
+Fulham,17,2019-01-29
+Brighton,26,2019-01-29
+Huddersfield,11,2019-01-29
+Everton,33,2019-01-29
+Wolves,35,2019-01-29
+West Ham,31,2019-01-29
+Liverpool,61,2019-01-30
+Leicester,32,2019-01-30
+Tottenham,54,2019-01-30
+Watford,33,2019-01-30
+Bournemouth,33,2019-01-30
+Chelsea,47,2019-01-30
+Southampton,23,2019-01-30
+Crystal Palace,23,2019-01-30
+Cardiff,22,2019-02-02
+Bournemouth,33,2019-02-02
+Brighton,27,2019-02-02
+Watford,34,2019-02-02
+Burnley,24,2019-02-02
+Southampton,24,2019-02-02
+Chelsea,50,2019-02-02
+Huddersfield,11,2019-02-02
+Crystal Palace,26,2019-02-02
+Fulham,17,2019-02-02
+Everton,33,2019-02-02
+Wolves,38,2019-02-02
+Tottenham,57,2019-02-02
+Newcastle,24,2019-02-02
+Man City,59,2019-02-03
+Arsenal,47,2019-02-03
+Leicester,32,2019-02-03
+Man Utd,48,2019-02-03
+West Ham,32,2019-02-04
+Liverpool,62,2019-02-04
+Everton,33,2019-02-06
+Man City,62,2019-02-06
+Brighton,27,2019-02-09
+Burnley,27,2019-02-09
+Crystal Palace,27,2019-02-09
+West Ham,33,2019-02-09
+Huddersfield,11,2019-02-09
+Arsenal,50,2019-02-09
+Liverpool,65,2019-02-09
+Bournemouth,33,2019-02-09
+Southampton,24,2019-02-09
+Cardiff,25,2019-02-09
+Watford,37,2019-02-09
+Everton,33,2019-02-09
+Fulham,17,2019-02-09
+Man Utd,51,2019-02-09
+Man City,65,2019-02-10
+Chelsea,50,2019-02-10
+Tottenham,60,2019-02-10
+Leicester,32,2019-02-10
+Wolves,39,2019-02-11
+Newcastle,25,2019-02-11
+Cardiff,25,2019-02-22
+Watford,40,2019-02-22
+West Ham,36,2019-02-22
+Fulham,17,2019-02-22
+Leicester,32,2019-02-23
+Crystal Palace,30,2019-02-23
+Bournemouth,34,2019-02-23
+Wolves,40,2019-02-23
+Newcastle,28,2019-02-23
+Huddersfield,11,2019-02-23
+Burnley,30,2019-02-23
+Tottenham,60,2019-02-23
+Arsenal,53,2019-02-24
+Southampton,24,2019-02-24
+Man Utd,52,2019-02-24
+Liverpool,66,2019-02-24
+Newcastle,31,2019-02-26
+Burnley,30,2019-02-26
+Cardiff,25,2019-02-26
+Everton,36,2019-02-26
+Huddersfield,14,2019-02-26
+Wolves,40,2019-02-26
+Leicester,35,2019-02-26
+Brighton,27,2019-02-26
+Chelsea,53,2019-02-27
+Tottenham,60,2019-02-27
+Crystal Palace,30,2019-02-27
+Man Utd,55,2019-02-27
+Liverpool,69,2019-02-27
+Watford,40,2019-02-27
+Man City,68,2019-02-27
+West Ham,36,2019-02-27
+Arsenal,56,2019-02-27
+Bournemouth,34,2019-02-27
+Southampton,27,2019-02-27
+Fulham,17,2019-02-27
+West Ham,39,2019-03-02
+Newcastle,31,2019-03-02
+Bournemouth,34,2019-03-02
+Man City,71,2019-03-02
+Brighton,30,2019-03-02
+Huddersfield,14,2019-03-02
+Burnley,30,2019-03-02
+Crystal Palace,33,2019-03-02
+Man Utd,58,2019-03-02
+Southampton,27,2019-03-02
+Wolves,43,2019-03-02
+Cardiff,25,2019-03-02
+Tottenham,61,2019-03-02
+Arsenal,57,2019-03-02
+Everton,37,2019-03-03
+Liverpool,70,2019-03-03
+Fulham,17,2019-03-03
+Chelsea,56,2019-03-03
+Watford,43,2019-03-03
+Leicester,35,2019-03-03
+Man City,74,2019-03-09
+Watford,43,2019-03-09
+Cardiff,28,2019-03-09
+West Ham,39,2019-03-09
+Huddersfield,14,2019-03-09
+Bournemouth,37,2019-03-09
+Leicester,38,2019-03-09
+Fulham,17,2019-03-09
+Newcastle,34,2019-03-09
+Everton,37,2019-03-09
+Southampton,30,2019-03-09
+Tottenham,61,2019-03-09
+Crystal Palace,33,2019-03-09
+Brighton,33,2019-03-09
+Arsenal,60,2019-03-10
+Man Utd,58,2019-03-10
+Chelsea,57,2019-03-10
+Wolves,44,2019-03-10
+Liverpool,73,2019-03-10
+Burnley,30,2019-03-10
+Bournemouth,38,2019-03-16
+Newcastle,35,2019-03-16
+Burnley,30,2019-03-16
+Leicester,41,2019-03-16
+West Ham,42,2019-03-16
+Huddersfield,14,2019-03-16
+Everton,40,2019-03-17
+Chelsea,57,2019-03-17
+Fulham,17,2019-03-17
+Liverpool,76,2019-03-17
+West Ham,42,2019-03-30
+Everton,43,2019-03-30
+Brighton,33,2019-03-30
+Southampton,33,2019-03-30
+Burnley,33,2019-03-30
+Wolves,44,2019-03-30
+Crystal Palace,36,2019-03-30
+Huddersfield,14,2019-03-30
+Leicester,44,2019-03-30
+Bournemouth,38,2019-03-30
+Man Utd,61,2019-03-30
+Watford,43,2019-03-30
+Fulham,17,2019-03-30
+Man City,77,2019-03-30
+Liverpool,79,2019-03-31
+Tottenham,61,2019-03-31
+Cardiff,28,2019-03-31
+Chelsea,60,2019-03-31
+Arsenal,63,2019-04-01
+Newcastle,35,2019-04-01
+Watford,46,2019-04-02
+Fulham,17,2019-04-02
+Wolves,47,2019-04-02
+Man Utd,61,2019-04-02
+Chelsea,63,2019-04-03
+Brighton,33,2019-04-03
+Man City,80,2019-04-03
+Cardiff,28,2019-04-03
+Tottenham,64,2019-04-03
+Crystal Palace,36,2019-04-03
+Southampton,33,2019-04-05
+Liverpool,82,2019-04-05
+Bournemouth,38,2019-04-06
+Burnley,36,2019-04-06
+Huddersfield,14,2019-04-06
+Leicester,47,2019-04-06
+Newcastle,35,2019-04-06
+Crystal Palace,39,2019-04-06
+Everton,46,2019-04-07
+Arsenal,63,2019-04-07
+Chelsea,66,2019-04-08
+West Ham,42,2019-04-08
+Leicester,47,2019-04-12
+Newcastle,38,2019-04-12
+Man Utd,64,2019-04-13
+West Ham,42,2019-04-13
+Brighton,33,2019-04-13
+Bournemouth,41,2019-04-13
+Burnley,39,2019-04-13
+Cardiff,28,2019-04-13
+Fulham,20,2019-04-13
+Everton,46,2019-04-13
+Southampton,36,2019-04-13
+Wolves,47,2019-04-13
+Tottenham,67,2019-04-13
+Huddersfield,14,2019-04-13
+Liverpool,85,2019-04-14
+Chelsea,66,2019-04-14
+Crystal Palace,39,2019-04-14
+Man City,83,2019-04-14
+Watford,46,2019-04-15
+Arsenal,66,2019-04-15
+Brighton,33,2019-04-16
+Cardiff,31,2019-04-16
+Newcastle,41,2019-04-20
+Southampton,36,2019-04-20
+Bournemouth,41,2019-04-20
+Fulham,23,2019-04-20
+Huddersfield,14,2019-04-20
+Watford,49,2019-04-20
+West Ham,43,2019-04-20
+Leicester,48,2019-04-20
+Wolves,48,2019-04-20
+Brighton,34,2019-04-20
+Man City,86,2019-04-20
+Tottenham,67,2019-04-20
+Arsenal,66,2019-04-21
+Crystal Palace,42,2019-04-21
+Cardiff,31,2019-04-21
+Liverpool,88,2019-04-21
+Everton,49,2019-04-21
+Man Utd,64,2019-04-21
+Chelsea,67,2019-04-22
+Burnley,40,2019-04-22
+Tottenham,70,2019-04-23
+Brighton,34,2019-04-23
+Watford,50,2019-04-23
+Southampton,37,2019-04-23
+Man Utd,64,2019-04-24
+Man City,89,2019-04-24
+Wolves,51,2019-04-24
+Arsenal,66,2019-04-24
+Liverpool,91,2019-04-26
+Huddersfield,14,2019-04-26
+Brighton,35,2019-04-27
+Newcastle,42,2019-04-27
+Crystal Palace,43,2019-04-27
+Everton,50,2019-04-27
+Fulham,26,2019-04-27
+Cardiff,31,2019-04-27
+Southampton,38,2019-04-27
+Bournemouth,42,2019-04-27
+Watford,50,2019-04-27
+Wolves,54,2019-04-27
+Tottenham,70,2019-04-27
+West Ham,46,2019-04-27
+Man Utd,65,2019-04-28
+Chelsea,68,2019-04-28
+Burnley,40,2019-04-28
+Man City,92,2019-04-28
+Leicester,51,2019-04-28
+Arsenal,66,2019-04-28
+Everton,53,2019-05-03
+Burnley,40,2019-05-03
+Newcastle,42,2019-05-04
+Liverpool,94,2019-05-04
+Cardiff,31,2019-05-04
+Crystal Palace,46,2019-05-04
+West Ham,49,2019-05-04
+Southampton,38,2019-05-04
+Wolves,57,2019-05-04
+Fulham,26,2019-05-04
+Bournemouth,45,2019-05-04
+Tottenham,70,2019-05-04
+Arsenal,67,2019-05-05
+Brighton,36,2019-05-05
+Chelsea,71,2019-05-05
+Watford,50,2019-05-05
+Huddersfield,15,2019-05-05
+Man Utd,66,2019-05-05
+Man City,95,2019-05-06
+Leicester,51,2019-05-06
+Brighton,36,2019-05-12
+Man City,98,2019-05-12
+Burnley,40,2019-05-12
+Arsenal,70,2019-05-12
+Crystal Palace,49,2019-05-12
+Bournemouth,45,2019-05-12
+Fulham,26,2019-05-12
+Newcastle,45,2019-05-12
+Leicester,52,2019-05-12
+Chelsea,72,2019-05-12
+Liverpool,97,2019-05-12
+Wolves,57,2019-05-12
+Man Utd,66,2019-05-12
+Cardiff,34,2019-05-12
+Southampton,39,2019-05-12
+Huddersfield,16,2019-05-12
+Tottenham,71,2019-05-12
+Everton,54,2019-05-12
+Watford,50,2019-05-12
+West Ham,52,2019-05-12
+</textarea>
+        <input id="run" type="button" value="Run" />
+        <hr />
+        <h2>Result</h2>
+        <textarea id="result" style="height: 1400px;"></textarea>
+      </section>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA=" crossorigin="anonymous"></script>
+    <script src="jquery-csv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+      // enable syntax highlighting
+      hljs.initHighlightingOnLoad();
+
+      $(document).ready(() => {
+        parse();
+      });
+
+      $('#run').bind('click', function () {
+        parse();
+      });
+	  
+	  function parse2() {
+		const input = $('#input').val();
+        const data = $.csv.toObjects(input);
+        $('#result').empty();
+		var resultMap = new Map();
+		var finalData = "";
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].team;
+			if (resultMap.get(teamName) != null) {
+				var currentPoints = resultMap.get(teamName);
+				resultMap.set(teamName, parseInt(currentPoints) + parseInt(data[i].points));
+				finalData = finalData + "\n" + data[i].team + "," + (parseInt(currentPoints) + parseInt(data[i].points)) + "," + data[i].date;
+			} else {
+				resultMap.set(teamName,data[i].points);
+				finalData = finalData + "\n" + data[i].team + "," + data[i].points + "," + data[i].date;
+			}
+		}
+		
+		$('#result').html(finalData);
+		
+		
+	  }
+
+      function parse() {
+        const input = $('#input').val();
+        const data = $.csv.toObjects(input);
+        $('#result').empty();
+		var finalResult = "";
+		var resultMap = new Map();
+		var log = "";
+		for (i=0;i<data.length;i++) {
+			var matchDate = data[i].date;
+			log = log + "\n" + " Checking for match date : " + matchDate;
+			var dateMap = resultMap.get(matchDate);
+			if (dateMap == null) {
+				log = log + "\n" + " dateMap is null for this entry.";
+				dateMap = new Map();
+			} else {
+				log = log + "\n" + " Found a dateMap entry for this entry.";
+			}
+			
+			dateMap.set(data[i].team, data[i].points);
+			log = log + "\n" + " setting date map value for " + data[i].team + " and " + data[i].points;
+			
+			resultMap.set(matchDate,dateMap);
+			finalResult = finalResult + data[i].team;
+			
+		}
+		
+		var tempTeamMap = new Map();
+		
+		for (i=0;i<data.length;i++) {
+			var teamName = data[i].team;
+			tempTeamMap.set(teamName,1);
+		}
+		
+		var teamList = Array.from(tempTeamMap.keys());
+		
+		var tempDateMap = new Map();
+		for (i=0;i<data.length;i++) {
+			var dateValue = data[i].date;
+			tempDateMap.set(dateValue,1);
+		}
+		var dateList = Array.from(tempDateMap.keys());
+		
+		log = "";
+		var finalOutput = "";
+		for (x=0;x<teamList.length;x++) {
+			finalOutput = finalOutput + "," + teamList[x];
+		}
+		
+		finalOutput = finalOutput + "\n";
+		for (j=0;j<dateList.length;j++) {
+			var currentDate = dateList[j];
+			var currentDateMap = resultMap.get(currentDate);
+			
+			if (currentDateMap == null) {
+				log = log + "\n" + "Current Date map is null";
+			} else {
+					finalOutput = finalOutput + currentDate;
+					for (k=0;k<teamList.length;k++) {
+						var teamName = teamList[k];
+						var currentPoints = currentDateMap.get(teamName);
+						var lastPoints = 0;
+						if (currentDateMap.get(teamName) != null) {
+							lastPoints = currentDateMap.get(teamName);
+						} else {
+							if (j != 0) {
+								lastPoints = 0;
+								for (p=j-1;p>=0;p--) {
+									var previousDate = dateList[p];
+									var previousDateMap = resultMap.get(previousDate);
+									if (previousDateMap.get(teamName) != null) {
+										lastPoints = previousDateMap.get(teamName);
+										break;
+									}
+								}
+							}
+						}
+						finalOutput = finalOutput + "," + lastPoints;
+					}
+					
+					finalOutput = finalOutput + "\n";
+					
+			}
+			
+			
+		}
+		
+        //$('#result').html(JSON.stringify(data, null, 2));
+		$('#result').html(finalOutput);
+      }
+    </script>
+  </body>
+</html>

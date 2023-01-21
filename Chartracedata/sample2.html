@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>To Objects</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato|Roboto|Source+Code+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/monokai.min.css">
+    <link rel="stylesheet" href="demo.css">
+  </head>
+
+  <body>
+
+    <div id="header">
+      <h1 id="title">$.csv.toObjects()</h1>
+      <div id="link"><a href="https://github.com/evanplaice/jquery-csv">GitHub</a></div>
+    </div>
+    <div id="container">
+      <section id="content">
+        <h2>Description</h2>
+        <p>Used to convert multi-line CSV data into an array objects containing the data as key-value (ie header:value) pairs.</p>
+        <hr>
+        <h2>Usage</h2>
+        <pre><code class="javascript">var result = $.csv.toObjects(input);</code></pre>
+        <hr />
+        <h2>Input</h2>
+        <textarea id="input" style="height: 190px;">week_title,team,points
+8/9/2019,Liverpool,3
+8/9/2019,Norwich City,0
+8/10/2019,Tottenham Hotspur,3
+8/10/2019,Aston Villa,0
+8/10/2019,Brighton and Hove Albion,3
+8/10/2019,Watford,0
+8/10/2019,Crystal Palace,1
+8/10/2019,Everton,1
+8/10/2019,Burnley,3
+8/10/2019,Southampton,0
+8/10/2019,Bournemouth,1
+8/10/2019,Sheffield United,1
+8/10/2019,Manchester City,3
+8/10/2019,West Ham United,0
+8/11/2019,Manchester United,3
+8/11/2019,Chelsea,0
+8/11/2019,Arsenal,3
+8/11/2019,Newcastle United,0
+8/11/2019,Leicester City,1
+8/11/2019,Wolverhampton Wanderers,1
+8/17/2019,Manchester City,4
+8/17/2019,Tottenham Hotspur,4
+8/17/2019,Liverpool,6
+8/17/2019,Southampton,0
+8/17/2019,Norwich City,3
+8/17/2019,Newcastle United,0
+8/17/2019,Everton,4
+8/17/2019,Watford,0
+8/17/2019,Brighton and Hove Albion,4
+8/17/2019,West Ham United,1
+8/17/2019,Bournemouth,4
+8/17/2019,Aston Villa,0
+8/17/2019,Arsenal,6
+8/17/2019,Burnley,3
+8/18/2019,Chelsea,1
+8/18/2019,Leicester City,2
+8/18/2019,Sheffield United,4
+8/18/2019,Crystal Palace,1
+8/19/2019,Wolverhampton Wanderers,2
+8/19/2019,Manchester United,4
+8/23/2019,Aston Villa,3
+8/23/2019,Everton,4
+8/24/2019,Liverpool,9
+8/24/2019,Arsenal,6
+8/24/2019,West Ham United,4
+8/24/2019,Watford,0
+8/24/2019,Leicester City,5
+8/24/2019,Sheffield United,4
+8/24/2019,Crystal Palace,4
+8/24/2019,Manchester United,4
+8/24/2019,Southampton,3
+8/24/2019,Brighton and Hove Albion,4
+8/24/2019,Chelsea,4
+8/24/2019,Norwich City,3
+8/25/2019,Wolverhampton Wanderers,3
+8/25/2019,Burnley,4
+8/25/2019,Newcastle United,3
+8/25/2019,Tottenham Hotspur,4
+8/25/2019,Manchester City,7
+8/25/2019,Bournemouth,4
+8/31/2019,Liverpool,12
+8/31/2019,Burnley,4
+8/31/2019,West Ham United,7
+8/31/2019,Norwich City,3
+8/31/2019,Newcastle United,4
+8/31/2019,Watford,1
+8/31/2019,Manchester City,10
+8/31/2019,Brighton and Hove Albion,4
+8/31/2019,Leicester City,8
+8/31/2019,Bournemouth,4
+8/31/2019,Crystal Palace,7
+8/31/2019,Aston Villa,3
+8/31/2019,Chelsea,5
+8/31/2019,Sheffield United,5
+8/31/2019,Southampton,4
+8/31/2019,Manchester United,5
+9/1/2019,Arsenal,7
+9/1/2019,Tottenham Hotspur,5
+9/1/2019,Everton,7
+9/1/2019,Wolverhampton Wanderers,3
+9/14/2019,Norwich City,6
+9/14/2019,Manchester City,10
+9/14/2019,Chelsea,8
+9/14/2019,Wolverhampton Wanderers,3
+9/14/2019,Tottenham Hotspur,8
+9/14/2019,Crystal Palace,7
+9/14/2019,Southampton,7
+9/14/2019,Sheffield United,5
+9/14/2019,Manchester United,8
+9/14/2019,Leicester City,8
+9/14/2019,Brighton and Hove Albion,5
+9/14/2019,Burnley,5
+9/14/2019,Liverpool,15
+9/14/2019,Newcastle United,4
+9/15/2019,Watford,2
+9/15/2019,Arsenal,8
+9/15/2019,Bournemouth,7
+9/15/2019,Everton,7
+9/16/2019,Aston Villa,4
+9/16/2019,West Ham United,8
+9/20/2019,Bournemouth,10
+9/20/2019,Southampton,7
+9/21/2019,Newcastle United,5
+9/21/2019,Brighton and Hove Albion,6
+9/21/2019,Manchester City,13
+9/21/2019,Watford,2
+9/21/2019,Sheffield United,8
+9/21/2019,Everton,7
+9/21/2019,Burnley,8
+9/21/2019,Norwich City,6
+9/21/2019,Leicester City,11
+9/21/2019,Tottenham Hotspur,8
+9/22/2019,Liverpool,18
+9/22/2019,Chelsea,8
+9/22/2019,Arsenal,11
+9/22/2019,Aston Villa,4
+9/22/2019,West Ham United,11
+9/22/2019,Manchester United,8
+9/22/2019,Crystal Palace,8
+9/22/2019,Wolverhampton Wanderers,4
+9/28/2019,Manchester City,16
+9/28/2019,Everton,7
+9/28/2019,Wolverhampton Wanderers,7
+9/28/2019,Watford,2
+9/28/2019,Tottenham Hotspur,11
+9/28/2019,Southampton,7
+9/28/2019,Crystal Palace,11
+9/28/2019,Norwich City,6
+9/28/2019,Chelsea,11
+9/28/2019,Brighton and Hove Albion,6
+9/28/2019,Bournemouth,11
+9/28/2019,West Ham United,12
+9/28/2019,Aston Villa,5
+9/28/2019,Burnley,9
+9/28/2019,Liverpool,21
+9/28/2019,Sheffield United,8
+9/29/2019,Leicester City,14
+9/29/2019,Newcastle United,5
+9/30/2019,Manchester United,9
+9/30/2019,Arsenal,12
+10/5/2019,Crystal Palace,14
+10/5/2019,West Ham United,12
+10/5/2019,Watford,3
+10/5/2019,Sheffield United,9
+10/5/2019,Aston Villa,8
+10/5/2019,Norwich City,6
+10/5/2019,Liverpool,24
+10/5/2019,Leicester City,14
+10/5/2019,Burnley,12
+10/5/2019,Everton,7
+10/5/2019,Brighton and Hove Albion,9
+10/5/2019,Tottenham Hotspur,11
+10/6/2019,Newcastle United,8
+10/6/2019,Manchester United,9
+10/6/2019,Chelsea,14
+10/6/2019,Southampton,7
+10/6/2019,Wolverhampton Wanderers,10
+10/6/2019,Manchester City,16
+10/6/2019,Arsenal,15
+10/6/2019,Bournemouth,11
+10/19/2019,Manchester City,19
+10/19/2019,Crystal Palace,14
+10/19/2019,Wolverhampton Wanderers,11
+10/19/2019,Southampton,8
+10/19/2019,Tottenham Hotspur,12
+10/19/2019,Watford,4
+10/19/2019,Leicester City,17
+10/19/2019,Burnley,12
+10/19/2019,Chelsea,17
+10/19/2019,Newcastle United,8
+10/19/2019,Bournemouth,12
+10/19/2019,Norwich City,7
+10/19/2019,Aston Villa,11
+10/19/2019,Brighton and Hove Albion,9
+10/19/2019,Everton,10
+10/19/2019,West Ham United,12
+10/20/2019,Manchester United,10
+10/20/2019,Liverpool,25
+10/21/2019,Sheffield United,12
+10/21/2019,Arsenal,15
+10/25/2019,Leicester City,20
+10/25/2019,Southampton,8
+10/26/2019,Chelsea,20
+10/26/2019,Burnley,12
+10/26/2019,West Ham United,13
+10/26/2019,Sheffield United,13
+10/26/2019,Watford,5
+10/26/2019,Bournemouth,13
+10/26/2019,Brighton and Hove Albion,12
+10/26/2019,Everton,10
+10/26/2019,Manchester City,22
+10/26/2019,Aston Villa,11
+10/27/2019,Manchester United,13
+10/27/2019,Norwich City,7
+10/27/2019,Liverpool,28
+10/27/2019,Tottenham Hotspur,12
+10/27/2019,Arsenal,16
+10/27/2019,Crystal Palace,15
+10/27/2019,Newcastle United,9
+10/27/2019,Wolverhampton Wanderers,12
+11/2/2019,Chelsea,23
+11/2/2019,Watford,5
+11/2/2019,Newcastle United,12
+11/2/2019,West Ham United,13
+11/2/2019,Sheffield United,16
+11/2/2019,Burnley,12
+11/2/2019,Manchester City,25
+11/2/2019,Southampton,8
+11/2/2019,Brighton and Hove Albion,15
+11/2/2019,Norwich City,7
+11/2/2019,Liverpool,31
+11/2/2019,Aston Villa,11
+11/2/2019,Arsenal,17
+11/2/2019,Wolverhampton Wanderers,13
+11/2/2019,Bournemouth,16
+11/2/2019,Manchester United,13
+11/3/2019,Everton,11
+11/3/2019,Tottenham Hotspur,13
+11/3/2019,Leicester City,23
+11/3/2019,Crystal Palace,15
+11/8/2019,Watford,8
+11/8/2019,Norwich City,7
+11/9/2019,Leicester City,26
+11/9/2019,Arsenal,17
+11/9/2019,Tottenham Hotspur,14
+11/9/2019,Sheffield United,17
+11/9/2019,Everton,14
+11/9/2019,Southampton,8
+11/9/2019,Newcastle United,15
+11/9/2019,Bournemouth,16
+11/9/2019,Burnley,15
+11/9/2019,West Ham United,13
+11/9/2019,Chelsea,26
+11/9/2019,Crystal Palace,15
+11/10/2019,Liverpool,34
+11/10/2019,Manchester City,25
+11/10/2019,Wolverhampton Wanderers,16
+11/10/2019,Aston Villa,11
+11/10/2019,Manchester United,16
+11/10/2019,Brighton and Hove Albion,15
+11/23/2019,Manchester City,28
+11/23/2019,Chelsea,26
+11/23/2019,Burnley,18
+11/23/2019,Watford,8
+11/23/2019,Norwich City,10
+11/23/2019,Everton,14
+11/23/2019,Liverpool,37
+11/23/2019,Crystal Palace,15
+11/23/2019,Leicester City,29
+11/23/2019,Brighton and Hove Albion,15
+11/23/2019,Wolverhampton Wanderers,19
+11/23/2019,Bournemouth,16
+11/23/2019,Arsenal,18
+11/23/2019,Southampton,9
+11/23/2019,Tottenham Hotspur,17
+11/23/2019,West Ham United,13
+11/24/2019,Sheffield United,18
+11/24/2019,Manchester United,17
+11/25/2019,Aston Villa,14
+11/25/2019,Newcastle United,15
+11/30/2019,Southampton,12
+11/30/2019,Watford,8
+11/30/2019,Tottenham Hotspur,20
+11/30/2019,Bournemouth,16
+11/30/2019,Liverpool,40
+11/30/2019,Brighton and Hove Albion,15
+11/30/2019,West Ham United,16
+11/30/2019,Chelsea,26
+11/30/2019,Crystal Palace,18
+11/30/2019,Burnley,18
+11/30/2019,Newcastle United,16
+11/30/2019,Manchester City,29
+12/1/2019,Manchester United,18
+12/1/2019,Aston Villa,15
+12/1/2019,Leicester City,32
+12/1/2019,Everton,14
+12/1/2019,Wolverhampton Wanderers,20
+12/1/2019,Sheffield United,19
+12/1/2019,Norwich City,11
+12/1/2019,Arsenal,19
+12/3/2019,Manchester City,32
+12/3/2019,Burnley,18
+12/3/2019,Crystal Palace,21
+12/3/2019,Bournemouth,16
+12/4/2019,Liverpool,43
+12/4/2019,Everton,14
+12/4/2019,Wolverhampton Wanderers,23
+12/4/2019,West Ham United,16
+12/4/2019,Southampton,15
+12/4/2019,Norwich City,11
+12/4/2019,Manchester United,21
+12/4/2019,Tottenham Hotspur,20
+12/4/2019,Leicester City,35
+12/4/2019,Watford,8
+12/4/2019,Chelsea,29
+12/4/2019,Aston Villa,15
+12/5/2019,Brighton and Hove Albion,18
+12/5/2019,Arsenal,19
+12/5/2019,Newcastle United,19
+12/5/2019,Sheffield United,19
+12/7/2019,Manchester United,24
+12/7/2019,Manchester City,32
+12/7/2019,Watford,9
+12/7/2019,Crystal Palace,22
+12/7/2019,Tottenham Hotspur,23
+12/7/2019,Burnley,18
+12/7/2019,Liverpool,46
+12/7/2019,Bournemouth,16
+12/7/2019,Everton,17
+12/7/2019,Chelsea,29
+12/8/2019,Brighton and Hove Albion,19
+12/8/2019,Wolverhampton Wanderers,24
+12/8/2019,Sheffield United,22
+12/8/2019,Norwich City,11
+12/8/2019,Newcastle United,22
+12/8/2019,Southampton,15
+12/8/2019,Leicester City,38
+12/8/2019,Aston Villa,15
+12/9/2019,Arsenal,22
+12/9/2019,West Ham United,16
+12/14/2019,West Ham United,19
+12/14/2019,Southampton,15
+12/14/2019,Sheffield United,25
+12/14/2019,Aston Villa,15
+12/14/2019,Leicester City,39
+12/14/2019,Norwich City,12
+12/14/2019,Bournemouth,19
+12/14/2019,Chelsea,29
+12/14/2019,Burnley,21
+12/14/2019,Newcastle United,22
+12/14/2019,Liverpool,49
+12/14/2019,Watford,9
+12/15/2019,Manchester City,35
+12/15/2019,Arsenal,22
+12/15/2019,Tottenham Hotspur,26
+12/15/2019,Wolverhampton Wanderers,24
+12/15/2019,Manchester United,25
+12/15/2019,Everton,18
+12/16/2019,Crystal Palace,23
+12/16/2019,Brighton and Hove Albion,20
+12/21/2019,Manchester City,38
+12/21/2019,Leicester City,39
+12/21/2019,Wolverhampton Wanderers,27
+12/21/2019,Norwich City,12
+12/21/2019,Newcastle United,25
+12/21/2019,Crystal Palace,23
+12/21/2019,Sheffield United,28
+12/21/2019,Brighton and Hove Albion,20
+12/21/2019,Burnley,24
+12/21/2019,Bournemouth,19
+12/21/2019,Southampton,18
+12/21/2019,Aston Villa,15
+12/21/2019,Everton,19
+12/21/2019,Arsenal,23
+12/22/2019,Chelsea,32
+12/22/2019,Tottenham Hotspur,26
+12/22/2019,Watford,12
+12/22/2019,Manchester United,25
+12/26/2019,Liverpool,52
+12/26/2019,Leicester City,39
+12/26/2019,Manchester United,28
+12/26/2019,Newcastle United,25
+12/26/2019,Sheffield United,29
+12/26/2019,Watford,13
+12/26/2019,Everton,22
+12/26/2019,Burnley,24
+12/26/2019,Crystal Palace,26
+12/26/2019,West Ham United,19
+12/26/2019,Southampton,21
+12/26/2019,Chelsea,32
+12/26/2019,Bournemouth,20
+12/26/2019,Arsenal,24
+12/26/2019,Aston Villa,18
+12/26/2019,Norwich City,12
+12/26/2019,Tottenham Hotspur,29
+12/26/2019,Brighton and Hove Albion,20
+12/27/2019,Wolverhampton Wanderers,30
+12/27/2019,Manchester City,38
+12/28/2019,Manchester United,31
+12/28/2019,Burnley,24
+12/28/2019,Leicester City,42
+12/28/2019,West Ham United,19
+12/28/2019,Norwich City,13
+12/28/2019,Tottenham Hotspur,30
+12/28/2019,Watford,16
+12/28/2019,Aston Villa,18
+12/28/2019,Southampton,22
+12/28/2019,Crystal Palace,27
+12/28/2019,Everton,25
+12/28/2019,Newcastle United,25
+12/28/2019,Brighton and Hove Albion,23
+12/28/2019,Bournemouth,20
+12/29/2019,Manchester City,41
+12/29/2019,Sheffield United,29
+12/29/2019,Liverpool,55
+12/29/2019,Wolverhampton Wanderers,30
+12/29/2019,Chelsea,35
+12/29/2019,Arsenal,24
+1/1/2020,Arsenal,27
+1/1/2020,Manchester United,31
+1/1/2020,West Ham United,22
+1/1/2020,Bournemouth,20
+1/1/2020,Norwich City,14
+1/1/2020,Crystal Palace,28
+1/1/2020,Manchester City,44
+1/1/2020,Everton,25
+1/1/2020,Watford,19
+1/1/2020,Wolverhampton Wanderers,30
+1/1/2020,Southampton,25
+1/1/2020,Tottenham Hotspur,30
+1/1/2020,Leicester City,45
+1/1/2020,Newcastle United,25
+1/1/2020,Aston Villa,21
+1/1/2020,Burnley,24
+1/1/2020,Brighton and Hove Albion,24
+1/1/2020,Chelsea,36
+1/2/2020,Liverpool,58
+1/2/2020,Sheffield United,29
+1/10/2020,Sheffield United,32
+1/10/2020,West Ham United,22
+1/11/2020,Liverpool,61
+1/11/2020,Tottenham Hotspur,30
+1/11/2020,Wolverhampton Wanderers,31
+1/11/2020,Newcastle United,26
+1/11/2020,Manchester United,34
+1/11/2020,Norwich City,14
+1/11/2020,Southampton,28
+1/11/2020,Leicester City,45
+1/11/2020,Everton,28
+1/11/2020,Brighton and Hove Albion,24
+1/11/2020,Chelsea,39
+1/11/2020,Burnley,24
+1/11/2020,Crystal Palace,29
+1/11/2020,Arsenal,28
+1/12/2020,Manchester City,47
+1/12/2020,Aston Villa,21
+1/12/2020,Watford,22
+1/12/2020,Bournemouth,20
+1/18/2020,Newcastle United,29
+1/18/2020,Chelsea,39
+1/18/2020,West Ham United,23
+1/18/2020,Everton,29
+1/18/2020,Wolverhampton Wanderers,34
+1/18/2020,Southampton,28
+1/18/2020,Norwich City,17
+1/18/2020,Bournemouth,20
+1/18/2020,Manchester City,48
+1/18/2020,Crystal Palace,30
+1/18/2020,Brighton and Hove Albion,25
+1/18/2020,Aston Villa,22
+1/18/2020,Arsenal,29
+1/18/2020,Sheffield United,33
+1/18/2020,Watford,23
+1/18/2020,Tottenham Hotspur,31
+1/19/2020,Liverpool,64
+1/19/2020,Manchester United,34
+1/19/2020,Burnley,27
+1/19/2020,Leicester City,45
+1/21/2020,Chelsea,40
+1/21/2020,Arsenal,30
+1/21/2020,Manchester City,51
+1/21/2020,Sheffield United,33
+1/21/2020,Everton,30
+1/21/2020,Newcastle United,30
+1/21/2020,Southampton,31
+1/21/2020,Crystal Palace,30
+1/21/2020,Bournemouth,23
+1/21/2020,Brighton and Hove Albion,25
+1/21/2020,Aston Villa,25
+1/21/2020,Watford,23
+1/22/2020,Burnley,30
+1/22/2020,Manchester United,34
+1/22/2020,Tottenham Hotspur,34
+1/22/2020,Norwich City,17
+1/22/2020,Leicester City,48
+1/22/2020,West Ham United,23
+1/23/2020,Liverpool,67
+1/23/2020,Wolverhampton Wanderers,34
+1/29/2020,Liverpool,70
+1/29/2020,West Ham United,23
+2/1/2020,Manchester United,35
+2/1/2020,Wolverhampton Wanderers,35
+2/1/2020,West Ham United,24
+2/1/2020,Brighton and Hove Albion,26
+2/1/2020,Everton,33
+2/1/2020,Watford,23
+2/1/2020,Newcastle United,31
+2/1/2020,Norwich City,18
+2/1/2020,Liverpool,73
+2/1/2020,Southampton,31
+2/1/2020,Sheffield United,36
+2/1/2020,Crystal Palace,30
+2/1/2020,Bournemouth,26
+2/1/2020,Aston Villa,25
+2/1/2020,Leicester City,49
+2/1/2020,Chelsea,41
+2/2/2020,Tottenham Hotspur,37
+2/2/2020,Manchester City,51
+2/2/2020,Burnley,31
+2/2/2020,Arsenal,31
+2/8/2020,Brighton and Hove Albion,27
+2/8/2020,Watford,24
+2/8/2020,Everton,36
+2/8/2020,Crystal Palace,30
+2/9/2020,Sheffield United,39
+2/9/2020,Bournemouth,26
+2/14/2020,Wolverhampton Wanderers,36
+2/14/2020,Leicester City,50
+2/15/2020,Liverpool,76
+2/15/2020,Norwich City,18
+2/15/2020,Burnley,34
+2/15/2020,Southampton,31
+2/16/2020,Arsenal,34
+2/16/2020,Newcastle United,31
+2/16/2020,Tottenham Hotspur,40
+2/16/2020,Aston Villa,25
+2/17/2020,Manchester United,38
+2/17/2020,Chelsea,41
+2/19/2020,Manchester City,54
+2/19/2020,West Ham United,24
+2/22/2020,Manchester City,57
+2/22/2020,Leicester City,50
+2/22/2020,Southampton,34
+2/22/2020,Aston Villa,25
+2/22/2020,Sheffield United,40
+2/22/2020,Brighton and Hove Albion,28
+2/22/2020,Crystal Palace,33
+2/22/2020,Newcastle United,31
+2/22/2020,Burnley,37
+2/22/2020,Bournemouth,26
+2/22/2020,Chelsea,44
+2/22/2020,Tottenham Hotspur,40
+2/23/2020,Arsenal,37
+2/23/2020,Everton,36
+2/23/2020,Wolverhampton Wanderers,39
+2/23/2020,Norwich City,18
+2/23/2020,Manchester United,41
+2/23/2020,Watford,24
+2/24/2020,Liverpool,79
+2/24/2020,West Ham United,24
+2/28/2020,Norwich City,21
+2/28/2020,Leicester City,50
+2/29/2020,Watford,27
+2/29/2020,Liverpool,79
+2/29/2020,West Ham United,27
+2/29/2020,Southampton,34
+2/29/2020,Newcastle United,32
+2/29/2020,Burnley,38
+2/29/2020,Bournemouth,27
+2/29/2020,Chelsea,45
+2/29/2020,Crystal Palace,36
+2/29/2020,Brighton and Hove Albion,28
+3/1/2020,Wolverhampton Wanderers,42
+3/1/2020,Tottenham Hotspur,40
+3/1/2020,Everton,37
+3/1/2020,Manchester United,42
+3/7/2020,Burnley,39
+3/7/2020,Tottenham Hotspur,41
+3/7/2020,Wolverhampton Wanderers,43
+3/7/2020,Brighton and Hove Albion,29
+3/7/2020,Newcastle United,35
+3/7/2020,Southampton,34
+3/7/2020,Sheffield United,43
+3/7/2020,Norwich City,21
+3/7/2020,Crystal Palace,39
+3/7/2020,Watford,27
+3/7/2020,Arsenal,40
+3/7/2020,West Ham United,27
+3/7/2020,Liverpool,82
+3/7/2020,Bournemouth,27
+3/8/2020,Manchester United,45
+3/8/2020,Manchester City,57
+3/8/2020,Chelsea,48
+3/8/2020,Everton,37
+3/9/2020,Leicester City,53
+3/9/2020,Aston Villa,25
+6/17/2020,Manchester City,60
+6/17/2020,Arsenal,40
+6/17/2020,Aston Villa,26
+6/17/2020,Sheffield United,44
+6/19/2020,Tottenham Hotspur,42
+6/19/2020,Manchester United,46
+6/19/2020,Southampton,37
+6/19/2020,Norwich City,21
+6/20/2020,Crystal Palace,42
+6/20/2020,Bournemouth,27
+6/20/2020,Wolverhampton Wanderers,46
+6/20/2020,West Ham United,27
+6/20/2020,Brighton and Hove Albion,32
+6/20/2020,Arsenal,40
+6/20/2020,Watford,28
+6/20/2020,Leicester City,54
+6/21/2020,Everton,38
+6/21/2020,Liverpool,83
+6/21/2020,Chelsea,51
+6/21/2020,Aston Villa,26
+6/21/2020,Newcastle United,38
+6/21/2020,Sheffield United,44
+6/22/2020,Manchester City,63
+6/22/2020,Burnley,39
+6/23/2020,Tottenham Hotspur,45
+6/23/2020,West Ham United,27
+6/23/2020,Leicester City,55
+6/23/2020,Brighton and Hove Albion,33
+6/24/2020,Liverpool,86
+6/24/2020,Crystal Palace,42
+6/24/2020,Wolverhampton Wanderers,49
+6/24/2020,Bournemouth,27
+6/24/2020,Everton,41
+6/24/2020,Norwich City,21
+6/24/2020,Newcastle United,39
+6/24/2020,Aston Villa,27
+6/24/2020,Manchester United,49
+6/24/2020,Sheffield United,44
+6/25/2020,Chelsea,54
+6/25/2020,Manchester City,63
+6/25/2020,Arsenal,43
+6/25/2020,Southampton,37
+6/25/2020,Burnley,42
+6/25/2020,Watford,28
+6/27/2020,Wolverhampton Wanderers,52
+6/27/2020,Aston Villa,27
+6/28/2020,Southampton,40
+6/28/2020,Watford,28
+6/29/2020,Burnley,45
+6/29/2020,Crystal Palace,42
+6/30/2020,Manchester United,52
+6/30/2020,Brighton and Hove Albion,33
+7/1/2020,West Ham United,30
+7/1/2020,Chelsea,54
+7/1/2020,Everton,44
+7/1/2020,Leicester City,55
+7/1/2020,Newcastle United,42
+7/1/2020,Bournemouth,27
+7/1/2020,Arsenal,46
+7/1/2020,Norwich City,21
+7/2/2020,Manchester City,66
+7/2/2020,Liverpool,86
+7/2/2020,Sheffield United,47
+7/2/2020,Tottenham Hotspur,45
+7/4/2020,Chelsea,57
+7/4/2020,Watford,28
+7/4/2020,Arsenal,49
+7/4/2020,Wolverhampton Wanderers,52
+7/4/2020,Manchester United,55
+7/4/2020,Bournemouth,27
+7/4/2020,Leicester City,58
+7/4/2020,Crystal Palace,42
+7/4/2020,Brighton and Hove Albion,36
+7/4/2020,Norwich City,21
+7/5/2020,Southampton,43
+7/5/2020,Manchester City,66
+7/5/2020,Liverpool,89
+7/5/2020,Aston Villa,27
+7/5/2020,Newcastle United,43
+7/5/2020,West Ham United,31
+7/5/2020,Burnley,46
+7/5/2020,Sheffield United,48
+7/6/2020,Tottenham Hotspur,48
+7/6/2020,Everton,44
+7/7/2020,Arsenal,50
+7/7/2020,Leicester City,59
+7/7/2020,Watford,31
+7/7/2020,Norwich City,21
+7/7/2020,Chelsea,60
+7/7/2020,Crystal Palace,42
+7/8/2020,Liverpool,92
+7/8/2020,Brighton and Hove Albion,36
+7/8/2020,Burnley,49
+7/8/2020,West Ham United,31
+7/8/2020,Sheffield United,51
+7/8/2020,Wolverhampton Wanderers,52
+7/8/2020,Manchester City,69
+7/8/2020,Newcastle United,43
+7/9/2020,Manchester United,58
+7/9/2020,Aston Villa,27
+7/9/2020,Everton,45
+7/9/2020,Southampton,44
+7/9/2020,Bournemouth,28
+7/9/2020,Tottenham Hotspur,49
+7/11/2020,Manchester City,72
+7/11/2020,Brighton and Hove Albion,36
+7/11/2020,Sheffield United,54
+7/11/2020,Chelsea,60
+7/11/2020,Liverpool,93
+7/11/2020,Burnley,50
+7/11/2020,Watford,34
+7/11/2020,Newcastle United,43
+7/11/2020,West Ham United,34
+7/11/2020,Norwich City,21
+7/12/2020,Bournemouth,31
+7/12/2020,Leicester City,59
+7/12/2020,Tottenham Hotspur,52
+7/12/2020,Arsenal,50
+7/12/2020,Aston Villa,30
+7/12/2020,Crystal Palace,42
+7/12/2020,Wolverhampton Wanderers,55
+7/12/2020,Everton,45
+7/13/2020,Manchester United,59
+7/13/2020,Southampton,45
+7/14/2020,Chelsea,63
+7/14/2020,Norwich City,21
+7/15/2020,Arsenal,53
+7/15/2020,Liverpool,93
+7/15/2020,Tottenham Hotspur,55
+7/15/2020,Newcastle United,43
+7/15/2020,Manchester City,75
+7/15/2020,Bournemouth,31
+7/15/2020,Burnley,51
+7/15/2020,Wolverhampton Wanderers,56
+7/16/2020,Southampton,46
+7/16/2020,Brighton and Hove Albion,37
+7/16/2020,Manchester United,62
+7/16/2020,Crystal Palace,42
+7/16/2020,Leicester City,62
+7/16/2020,Sheffield United,54
+7/16/2020,Everton,46
+7/16/2020,Aston Villa,31
+7/17/2020,West Ham United,37
+7/17/2020,Watford,34
+7/18/2020,Burnley,54
+7/18/2020,Norwich City,21
+7/19/2020,Tottenham Hotspur,58
+7/19/2020,Leicester City,62
+7/19/2020,Southampton,49
+7/19/2020,Bournemouth,31
+7/20/2020,Wolverhampton Wanderers,59
+7/20/2020,Crystal Palace,42
+7/20/2020,Everton,49
+7/20/2020,Sheffield United,54
+7/20/2020,Brighton and Hove Albion,38
+7/20/2020,Newcastle United,44
+7/21/2020,Aston Villa,34
+7/21/2020,Arsenal,53
+7/21/2020,Manchester City,78
+7/21/2020,Watford,34
+7/22/2020,Liverpool,96
+7/22/2020,Chelsea,63
+7/22/2020,Manchester United,63
+7/22/2020,West Ham United,38
+7/26/2020,West Ham United,39
+7/26/2020,Aston Villa,35
+7/26/2020,Southampton,52
+7/26/2020,Sheffield United,54
+7/26/2020,Liverpool,99
+7/26/2020,Newcastle United,44
+7/26/2020,Manchester City,81
+7/26/2020,Norwich City,21
+7/26/2020,Manchester United,66
+7/26/2020,Leicester City,62
+7/26/2020,Bournemouth,34
+7/26/2020,Everton,49
+7/26/2020,Crystal Palace,43
+7/26/2020,Tottenham Hotspur,59
+7/26/2020,Chelsea,66
+7/26/2020,Wolverhampton Wanderers,59
+7/26/2020,Brighton and Hove Albion,41
+7/26/2020,Burnley,54
+7/26/2020,Arsenal,56
+7/26/2020,Watford,34
+</textarea>
+        <input id="run" type="button" value="Run" />
+        <hr />
+        <h2>Result</h2>
+        <textarea id="result" style="height: 1400px;"></textarea>
+      </section>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA=" crossorigin="anonymous"></script>
+    <script src="jquery-csv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+      // enable syntax highlighting
+      hljs.initHighlightingOnLoad();
+
+      $(document).ready(() => {
+        parse();
+      });
+
+      $('#run').bind('click', function () {
+        parse();
+      });
+
+      function parse() {
+        const input = $('#input').val();
+        const data = $.csv.toObjects(input);
+        $('#result').empty();
+		var finalResult = "";
+		var resultMap = new Map();
+		var log = "";
+		for (i=0;i<data.length;i++) {
+			var matchDate = data[i].week_title;
+			log = log + "\n" + " Checking for match date : " + matchDate;
+			var dateMap = resultMap.get(matchDate);
+			if (dateMap == null) {
+				log = log + "\n" + " dateMap is null for this entry.";
+				dateMap = new Map();
+			} else {
+				log = log + "\n" + " Found a dateMap entry for this entry.";
+			}
+			
+			dateMap.set(data[i].team, data[i].points);
+			log = log + "\n" + " setting date map value for " + data[i].team + " and " + data[i].points;
+			
+			resultMap.set(matchDate,dateMap);
+			finalResult = finalResult + data[i].week_title;
+			
+		}
+		
+		var teamList = ["Arsenal","Aston Villa","Bournemouth","Brighton and Hove Albion","Burnley","Chelsea","Crystal Palace","Everton","Leicester City","Liverpool","Manchester City","Manchester United","Newcastle United","Norwich City","Sheffield United","Southampton","Tottenham Hotspur","Watford","West Ham United","Wolverhampton Wanderers"];
+		
+		var dateList = ["8/9/2019","8/10/2019","8/11/2019","8/17/2019","8/18/2019","8/19/2019","8/23/2019","8/24/2019","8/25/2019","8/31/2019","9/1/2019","9/14/2019","9/15/2019","9/16/2019","9/20/2019","9/21/2019","9/22/2019","9/28/2019","9/29/2019","9/30/2019","10/5/2019","10/6/2019","10/19/2019","10/20/2019","10/21/2019","10/25/2019","10/26/2019","10/27/2019","11/2/2019","11/3/2019","11/8/2019","11/9/2019","11/10/2019","11/23/2019","11/24/2019","11/25/2019","11/30/2019","12/1/2019","12/3/2019","12/4/2019","12/5/2019","12/7/2019","12/8/2019","12/9/2019","12/14/2019","12/15/2019","12/16/2019","12/21/2019","12/22/2019","12/26/2019","12/27/2019","12/28/2019","12/29/2019","1/1/2020","1/2/2020","1/10/2020","1/11/2020","1/12/2020","1/18/2020","1/19/2020","1/21/2020","1/22/2020","1/23/2020","1/29/2020","2/1/2020","2/2/2020","2/8/2020","2/9/2020","2/14/2020","2/15/2020","2/16/2020","2/17/2020","2/19/2020","2/22/2020","2/23/2020","2/24/2020","2/28/2020","2/29/2020","3/1/2020","3/7/2020","3/8/2020","3/9/2020","6/17/2020","6/19/2020","6/20/2020","6/21/2020","6/22/2020","6/23/2020","6/24/2020","6/25/2020","6/27/2020","6/28/2020","6/29/2020","6/30/2020","7/1/2020","7/2/2020","7/4/2020","7/5/2020","7/6/2020","7/7/2020","7/8/2020","7/9/2020","7/11/2020","7/12/2020","7/13/2020","7/14/2020","7/15/2020","7/16/2020","7/17/2020","7/18/2020","7/19/2020","7/20/2020","7/21/2020","7/22/2020","7/26/2020"];
+		
+		log = "";
+		var finalOutput = "";
+		for (x=0;x<teamList.length;x++) {
+			finalOutput = finalOutput + "," + teamList[x];
+		}
+		
+		finalOutput = finalOutput + "\n";
+		for (j=0;j<dateList.length;j++) {
+			var currentDate = dateList[j];
+			var currentDateMap = resultMap.get(currentDate);
+			
+			let text = currentDate;
+			let month = text.substr(0, text.indexOf("/"));
+			if (month.length == 1) {
+				month = "0" + month;
+			}
+			let year = text.substr(text.lastIndexOf("/")+1,text.length);
+			text = text.substr(0,text.length-5);
+			let day = text.substr(text.indexOf("/")+1,text.length);
+			if (day.length == 1) {
+				day = "0" + day;
+			}
+			
+			if (currentDateMap == null) {
+				log = log + "\n" + "Current Date map is null";
+			} else {
+					finalOutput = finalOutput + year + "-" + month + "-" + day;
+					for (k=0;k<teamList.length;k++) {
+						var teamName = teamList[k];
+						var currentPoints = currentDateMap.get(teamName);
+						var lastPoints = 0;
+						if (currentDateMap.get(teamName) != null) {
+							lastPoints = currentDateMap.get(teamName);
+						} else {
+							if (j != 0) {
+								lastPoints = 0;
+								for (p=j-1;p>=0;p--) {
+									var previousDate = dateList[p];
+									var previousDateMap = resultMap.get(previousDate);
+									if (previousDateMap.get(teamName) != null) {
+										lastPoints = previousDateMap.get(teamName);
+										break;
+									}
+								}
+							}
+						}
+						finalOutput = finalOutput + "," + lastPoints;
+					}
+					
+					finalOutput = finalOutput + "\n";
+					
+			}
+			
+			
+		}
+		
+        //$('#result').html(JSON.stringify(data, null, 2));
+		$('#result').html(finalOutput);
+      }
+    </script>
+  </body>
+</html>
